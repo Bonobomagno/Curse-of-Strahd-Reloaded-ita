@@ -1,167 +1,167 @@
-Throughout the adventure, the players will have the opportunity to obtain one or more *amber shards*—fragments of the amber sarcophagi that imprison the vestiges of the Amber Temple.
+Nel corso dell'avventura, i giocatori avranno l'opportunità di ottenere una o più *schegge d'ambra*—frammenti dei sarcofagi d'ambra che imprigionano le vestigia del Tempio d'Ambra.
 
-Though they don't carry the full essence of the vestiges, each amber shard bears a psychic link to the sarcophagus from which it came. Through that link, a vestige can whisper to the shard's holder, offering promises of power in exchange for descent into corruption.
+Sebbene non contengano l'essenza completa delle vestigia, ogni scheggia d'ambra conserva un legame psichico con il sarcofago da cui proviene. Attraverso tale legame, una vestigia può sussurrare al possessore della scheggia, offrendo promesse di potere in cambio della discesa nella corruzione.
 
-> [!info]+ **Finding Amber Shards**
-> The players have an opportunity to obtain an amber shard:
-> * during [[Character Creation]]
-> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
-> * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
-> * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
-> * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
-> * within the [[Arc R - Trials of the Mountain#The Cave of Daggers|Cave of Daggers]] (see [[#Yog the Invincible]])
-> * from the **nothic** Meda in [[Arc S - A Sword of Sunlight]] (see [[#Khirad, the Star of Secrets]])
-> 
-> You should not, however, add additional shards for the players to obtain.
+> [!info]+ **Trovare le Schegge d'Ambra**
+> I giocatori hanno l'opportunità di ottenere una scheggia d'ambra:
+> * durante la [[Character Creation]]
+> * dopo aver sconfitto Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (vedi [[#Seriach, il Sussurratore dei Segugi Infernali]])
+> * dopo aver saccheggiato il tesoro di Castel Ravenloft in [[Arc P - Ravenloft Heist]] (vedi [[#Grande Taar Haak, il Distruttore dalle Cinque Teste]])
+> * seguendo Scorilo se perde la gara di vanterie in [[Arc R - Trials of the Mountain]] (vedi [[#Zrin-Hala, la Tempesta Ululante]])
+> * dopo aver sconfitto i bodak in [[Arc R - Trials of the Mountain]] (vedi [[#Sykane, il Divoratore di Anime]])
+> * nella [[Arc R - Trials of the Mountain#The Cave of Daggers|Caverna dei Pugnali]] (vedi [[#Yog l'Invincibile]])
+> * dal **nothic** Meda in [[Arc S - A Sword of Sunlight]] (vedi [[#Khirad, la Stella dei Segreti]])
+>
+> Non dovreste, tuttavia, aggiungere ulteriori schegge da far ottenere ai giocatori.
 
-> [!info]+ **The Magic of the Shards**
-> A player who scrutinizes an amber shard with a *detect magic* spell discerns tinges of abjuration magic. A player who attempts to identify a shard with an *identify* spell learns that it was once a part of a larger framework meant to contain or imprison some entity or creature, and that it still retains some arcane link to the original container.
+> [!info]+ **La Magia delle Schegge**
+> Un giocatore che esamina una scheggia d'ambra con un incantesimo di *individuazione del magico* percepisce sfumature di magia di abiurazione. Un giocatore che tenta di identificare una scheggia con un incantesimo di *identificare* apprende che faceva parte di una struttura più ampia destinata a contenere o imprigionare qualche entità o creatura, e che conserva ancora un qualche legame arcano con il contenitore originale.
 
-> [!info]+ **Why Amber?**
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls that amber has a unique magical property: it is a magical “insulator," and cannot be damaged or crossed by any kind of energy, be it magical or divine. On a result of 20 or more, the player further recalls that magical energies can pass through amber only very slowly, on a timescale of years to decades.
+> [!info]+ **Perché l'Ambra?**
+> Un giocatore che supera una prova di Intelligenza (Arcano) con CD 15 ricorda che l'ambra possiede una proprietà magica unica: è un "isolante" magico e non può essere danneggiata o attraversata da alcun tipo di energia, sia essa magica o divina. Con un risultato di 20 o superiore, il giocatore ricorda inoltre che le energie magiche possono attraversare l'ambra solo molto lentamente, su una scala temporale che va da anni a decenni.
 
-# Stage One
-In this stage, the player is a mere possessor of the amber shard, likely unaware of the true power it offers. 
+# Stadio Primo
+In questo stadio, il giocatore è un semplice possessore della scheggia d'ambra, probabilmente ignaro del vero potere che essa offre.
 
-The first time that the player is reduced to 0 hit points and knocked unconscious while possessing the shard, a dark silhouette appears to them in a vision and offers to help them escape the specter of death and return to the fight. The silhouette names no price, and remains silent unless the player accepts their offer. 
+La prima volta che il giocatore viene ridotto a 0 punti ferita e perde conoscenza mentre possiede la scheggia, una sagoma oscura gli appare in una visione e si offre di aiutarlo a sfuggire allo spettro della morte e tornare a combattere. La sagoma non chiede alcun prezzo e rimane in silenzio a meno che il giocatore non accetti la sua offerta.
 
-If the player accepts, they regain all of their hit points. The player then proceeds to Stage Two of the shard's corruption. If they decline, the vestige does not appear to them again unless the player falls unconscious in a particularly dire situation.
-# Stage Two
-In this stage, the player is aware of the shard's unnatural power, but unable to contact the vestige for further aid.
+Se il giocatore accetta, recupera tutti i suoi punti ferita. Il giocatore passa quindi al Secondo Stadio della corruzione della scheggia. Se rifiuta, la vestigia non gli appare nuovamente a meno che il giocatore non perda conoscenza in una situazione particolarmente disperata.
+# Stadio Secondo
+In questo stadio, il giocatore è consapevole del potere innaturale della scheggia, ma incapace di contattare la vestigia per ottenere ulteriore aiuto.
 
-The first time that the player is reduced to half of their maximum hit points or fewer while in combat, the silhouette's voice speaks to them in their mind. The vestige offers to grant the player the power to strike down their foes. If the player declines the voice's offer, the vestige does not contact them again unless the player is reduce to half of their maximum hit points or fewer while in combat with an enemy that they particularly loathe.
+La prima volta che il giocatore viene ridotto alla metà o meno dei suoi punti ferita massimi durante un combattimento, la voce della sagoma gli parla nella mente. La vestigia si offre di concedere al giocatore il potere di abbattere i suoi nemici. Se il giocatore rifiuta l'offerta della voce, la vestigia non lo contatta nuovamente a meno che il giocatore non venga ridotto alla metà o meno dei suoi punti ferita massimi durante un combattimento contro un nemico che detesta particolarmente.
 
-If the player accepts, they gain a number of temporary hit points equal to twice their proficiency bonus at the start of each of their turns for 1 minute. During that time, the player can also cast a particular spell once as a bonus action without expending a spell slot and without components, as given in the **Amber Corruption** section below. (The spell's attack bonus is +7, and its spell save DC is 15.) 
+Se il giocatore accetta, ottiene un numero di punti ferita temporanei pari al doppio del suo bonus di competenza all'inizio di ciascuno dei suoi turni per 1 minuto. Durante quel lasso di tempo, il giocatore può inoltre lanciare un particolare incantesimo una volta come azione bonus senza consumare uno slot incantesimo e senza componenti, come indicato nella sezione **Corruzione d'Ambra** qui sotto. (Il bonus di attacco dell'incantesimo è +7 e la CD del tiro salvezza dell'incantesimo è 15.)
 
-Upon granting these boons, the vestige's voice invites the player to commune with its shard if they wish to obtain the power they seek. The player then proceeds to Stage Three of the shard's corruption.
-# Stage Three
-In this stage, the player has tasted of the shard's eldritch power and wishes to pursue it further.
+Dopo aver concesso queste benedizioni, la voce della vestigia invita il giocatore a entrare in comunione con la sua scheggia se desidera ottenere il potere che cerca. Il giocatore passa quindi al Terzo Stadio della corruzione della scheggia.
+# Stadio Terzo
+In questo stadio, il giocatore ha assaggiato il potere arcano della scheggia e desidera perseguirlo ulteriormente.
 
-The player can successfully commune with the vestige by meditating for 1 minute while focusing their thoughts on the shard. The vestige's voice then speaks to them in their mind, offering them a permanent boon as a gift, and as a taste of the full power that they can obtain should they travel to the vestige's home in the Amber Temple. 
+Il giocatore può entrare in comunione con la vestigia meditando per 1 minuto concentrando i propri pensieri sulla scheggia. La voce della vestigia gli parla allora nella mente, offrendogli una benedizione permanente come dono e come assaggio del pieno potere che potrà ottenere se viaggerà fino alla dimora della vestigia nel Tempio d'Ambra.
 
-If the player accepts, they gain the following effects:
+Se il giocatore accetta, ottiene i seguenti effetti:
 
-* They gain a particular boon, as given in the **Amber Corruption** section below. 
-* They can continue to cast that vestige's spell once per day. Each time they do, they gain a number of levels of exhaustion equal to the number of times they've cast the spell. This number resets only if the player spends three full days without casting the vestige's spell. (For example, if a player casts Fekre's *stinking cloud* spell two days in a row, they receive one level of exhaustion on the first day and two levels of exhaustion on the second day. If the player waits three days before casting the spell again, they will receive only one level of exhaustion for doing so; otherwise, they will receive three additional levels of exhaustion.)
-* They suffer a particular condition, as given in the same section below. The condition is incurable without the aid of a *greater restoration* spell or similar magic. (A player can also receive St. Markovia's healing in [[Arc Q - A Shining Beacon]].) If the condition is cured, the player also loses all of the vestige's gifts, including its spell and boon.
+* Ottiene una particolare benedizione, come indicato nella sezione **Corruzione d'Ambra** qui sotto.
+* Può continuare a lanciare l'incantesimo di quella vestigia una volta al giorno. Ogni volta che lo fa, ottiene un numero di livelli di indebolimento pari al numero di volte in cui ha lanciato l'incantesimo. Questo numero si azzera solo se il giocatore trascorre tre giorni interi senza lanciare l'incantesimo della vestigia. (Ad esempio, se un giocatore lancia l'incantesimo *nube maleodorante* di Fekre per due giorni consecutivi, riceve un livello di indebolimento il primo giorno e due livelli di indebolimento il secondo giorno. Se il giocatore attende tre giorni prima di lanciare nuovamente l'incantesimo, riceverà un solo livello di indebolimento; altrimenti, riceverà tre livelli aggiuntivi di indebolimento.)
+* Subisce una particolare condizione, come indicato nella medesima sezione qui sotto. La condizione è incurabile senza l'ausilio di un incantesimo di *rimozione della maledizione superiore* o magia simile. (Un giocatore può anche ricevere la guarigione di Santa Markovia in [[Arc Q - A Shining Beacon]].) Se la condizione viene curata, il giocatore perde anche tutti i doni della vestigia, inclusi il suo incantesimo e la sua benedizione.
 
-If the player asks the vestige about the condition, the vestige informs them that the condition is a byproduct of the imperfect connection forged by the shards. It invites that player to the Amber Temple to receive the vestige's full gift and complete their transformation.
+Se il giocatore interroga la vestigia riguardo alla condizione, questa lo informa che la condizione è un effetto collaterale della connessione imperfetta forgiata dalle schegge. Invita quindi il giocatore al Tempio d'Ambra per ricevere il dono completo della vestigia e completare la propria trasformazione.
 
-If the player declines the voice's offer, they can commune with the vestige again at any subsequent time by repeating the same process.
-# Amber Corruption
-## Fekre, Queen of Poxes
-***Spell.*** _Stinking Cloud._
+Se il giocatore rifiuta l'offerta della voce, potrà entrare in comunione con la vestigia in qualsiasi momento successivo ripetendo lo stesso processo.
+# Corruzione d'Ambra
+## Fekre, Regina delle Pestilenze
+***Incantesimo.*** _Nube Maleodorante._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be poisoned. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+***Benedizione.*** Quando metti a segno un colpo critico, puoi costringere il bersaglio a superare un tiro salvezza su Costituzione o rimanere avvelenato. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, ponendo fine all'effetto in caso di successo.
 
-***Condition.*** Your body is covered in boils and pustules. Other creatures have disadvantage on Wisdom (Medicine) checks made to stabilize you.
-## Zrin-Hala, the Howling Storm
-*Shard Location: Soldav*
+***Condizione.*** Il tuo corpo è ricoperto di bubboni e pustole. Le altre creature hanno svantaggio alle prove di Saggezza (Medicina) effettuate per stabilizzarti.
+## Zrin-Hala, la Tempesta Ululante
+*Posizione della Scheggia: Soldav*
 
-***Spell.*** _Lightning Bolt._
+***Incantesimo.*** _Fulmine._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be paralyzed until the start of your next turn.
+***Benedizione.*** Quando metti a segno un colpo critico, puoi costringere il bersaglio a superare un tiro salvezza su Costituzione o rimanere paralizzato fino all'inizio del tuo prossimo turno.
 
-***Condition.*** One side of your face sags and loses all feeling. You have disadvantage on Charisma (Persuasion) checks.
-## Sykane, the Soul Hungerer
-*Shard Location: Tsolenka Pass*
+***Condizione.*** Un lato del tuo viso si affloscia e perde ogni sensibilità. Hai svantaggio alle prove di Carisma (Persuasione).
+## Sykane, il Divoratore di Anime
+*Posizione della Scheggia: Passo di Tsolenka*
 
-***Spell.*** _Spirit Guardians (Necrotic)._
+***Incantesimo.*** _Guardiani Spirituali (Necrotici)._
 
-***Boon.*** You make death saving throws with advantage, and have advantage made on Wisdom (Medicine) checks made to stabilize other creatures.
+***Benedizione.*** Effettui i tiri salvezza contro la morte con vantaggio e hai vantaggio alle prove di Saggezza (Medicina) effettuate per stabilizzare altre creature.
 
-***Condition.*** Your eyes glow a sickly yellow. You have disadvantage on Charisma (Deception) checks.
-## Savnok, the Inscrutable
-***Spell.*** _Greater Invisibility._
+***Condizione.*** I tuoi occhi emanano un bagliore giallo malsano. Hai svantaggio alle prove di Carisma (Inganno).
+## Savnok, l'Imperscrutabile
+***Incantesimo.*** _Invisibilità Superiore._
 
-***Boon.*** You have advantage on Charisma (Deception) checks.
+***Benedizione.*** Hai vantaggio alle prove di Carisma (Inganno).
 
-***Condition.*** Your eyes melt away, leaving empty sockets that can still see. You have disadvantage on Wisdom (Perception) checks.
-## Tarakamedes, the Grave Wyrm
-***Spell.*** _Fly._
+***Condizione.*** I tuoi occhi si dissolvono, lasciando orbite vuote che possono tuttavia ancora vedere. Hai svantaggio alle prove di Saggezza (Percezione).
+## Tarakamedes, il Wyrm della Tomba
+***Incantesimo.*** _Volare._
 
-***Boon.*** While aloft, you gain a flying speed equal to your walking speed. However, you can't use this speed to gain altitude, and you descend 1 foot for every 10 feet of horizontal distance covered.
+***Benedizione.*** Mentre sei in volo, ottieni una velocità di volo pari alla tua velocità di movimento. Tuttavia, non puoi usare questa velocità per guadagnare quota, e scendi di 30 cm per ogni 3 metri di distanza orizzontale percorsa.
 
-***Condition.*** Malformed skeletal wings sprout from your back. You must eat bones or grave dirt to survive. At dawn, if you have not eaten at least 1 pound of bones or grave dirt in the past 24 hours, you gain 1 level of exhaustion.
-## Shami-Amourae, the Lady of Delights
-***Spell.*** _Suggestion._
+***Condizione.*** Ali scheletriche malformate spuntano dalla tua schiena. Devi nutrirti di ossa o terra di cimitero per sopravvivere. All'alba, se non hai mangiato almeno mezzo chilo di ossa o terra di cimitero nelle ultime 24 ore, ottieni 1 livello di indebolimento.
+## Shami-Amourae, la Signora dei Piaceri
+***Incantesimo.*** _Suggestione._
 
-***Boon.*** You have advantage on Charisma (Persuasion) checks.
+***Benedizione.*** Hai vantaggio alle prove di Carisma (Persuasione).
 
-***Condition.*** You gain an extra finger on each hand. You have disadvantage on Constitution saving throws against poison, spells, and magical effects.
-## Drizlash, the Nine-Eyed Spider
-***Spell.*** _Web._
+***Condizione.*** Ottieni un dito in più su ciascuna mano. Hai svantaggio ai tiri salvezza su Costituzione contro veleno, incantesimi ed effetti magici.
+## Drizlash, il Ragno dai Nove Occhi
+***Incantesimo.*** _Ragnatela._
 
-***Boon.*** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+***Benedizione.*** Puoi scalare superfici difficili, incluso camminare a testa in giù sui soffitti, senza necessità di effettuare una prova di caratteristica.
 
-***Condition.*** You grow an extra eye somewhere on your body, which is blind and never open. You have disadvantage on Wisdom (Insight) checks.
-## Dahlver-Nar, He of the Many Teeth
-***Spell.*** _Polymorph._
+***Condizione.*** Un occhio aggiuntivo cresce in qualche punto del tuo corpo; è cieco e non si apre mai. Hai svantaggio alle prove di Saggezza (Intuizione).
+## Dahlver-Nar, Colui dai Molti Denti
+***Incantesimo.*** _Metamorfosi._
 
-***Boon.*** When you would be reduced to 0 hit points, you can use your reaction to drop to 1 hit point instead and gain 1 level of exhaustion.
+***Benedizione.*** Quando stai per essere ridotto a 0 punti ferita, puoi usare la tua reazione per rimanere invece a 1 punto ferita e ottenere 1 livello di indebolimento.
 
-***Condition.*** You lose all of your teeth. You have disadvantage on Charisma (Persuasion) checks.
-## Zantras, the Kingmaker
-***Spell.*** _Charm Monster._
+***Condizione.*** Perdi tutti i denti. Hai svantaggio alle prove di Carisma (Persuasione).
+## Zantras, il Creatore di Re
+***Incantesimo.*** _Charme sui Mostri._
 
-***Boon.*** You have advantage on Charisma (Persuasion) checks.
+***Benedizione.*** Hai vantaggio alle prove di Carisma (Persuasione).
 
-***Condition.*** Your skin turns red and your teeth become filed points. You have disadvantage on Wisdom saving throws.
-## Delban, the Star of Ice and Hate
-***Spell.*** _Hunger of Hadar._
+***Condizione.*** La tua pelle diventa rossa e i tuoi denti si affilano a punta. Hai svantaggio ai tiri salvezza su Saggezza.
+## Delban, la Stella di Ghiaccio e Odio
+***Incantesimo.*** _Fame di Hadar._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a strength saving throw or be restrained by ice until the end of its next turn.
+***Benedizione.*** Quando metti a segno un colpo critico, puoi costringere il bersaglio a superare un tiro salvezza su Forza o rimanere intralciato dal ghiaccio fino alla fine del suo prossimo turno.
 
-***Condition.*** Your skin turns ice-blue and brittle. You have disadvantage on Strength checks.
-## Khirad, the Star of Secrets
-*Shard Location: The Amber Temple*
+***Condizione.*** La tua pelle diventa blu ghiaccio e fragile. Hai svantaggio alle prove di Forza.
+## Khirad, la Stella dei Segreti
+*Posizione della Scheggia: Il Tempio d'Ambra*
 
-***Spell.*** _Phantasmal Killer._
+***Incantesimo.*** _Assassino Fantasma._
 
-***Boon.*** You have advantage on Intelligence checks.
+***Benedizione.*** Hai vantaggio alle prove di Intelligenza.
 
-***Condition.*** Your voice becomes a low whisper, and your mouth is frozen in a perpetual smile. You are incapable of shouting or speaking loudly.
-## Yrrga, the Eye of Shadows
-***Spell.*** _Blindness/Deafness._
+***Condizione.*** La tua voce si riduce a un basso sussurro e la tua bocca è bloccata in un sorriso perenne. Sei incapace di gridare o parlare ad alta voce.
+## Yrrga, l'Occhio delle Ombre
+***Incantesimo.*** _Cecità/Sordità._
 
-***Boon.*** When you make a critical hit, you can force the target to succeed on a constitution saving throw or be blinded. The target can repeat this saving throw at the end of each of its turns, ending the effect on a success.
+***Benedizione.*** Quando metti a segno un colpo critico, puoi costringere il bersaglio a superare un tiro salvezza su Costituzione o rimanere accecato. Il bersaglio può ripetere questo tiro salvezza alla fine di ciascuno dei suoi turni, ponendo fine all'effetto in caso di successo.
 
-***Condition.*** Your eyes become starry voids. You have disadvantage on Wisdom (Perception) checks.
-## Great Taar Haak, the Five-Headed Destroyer
-*Shard Location: Castle Ravenloft*
+***Condizione.*** I tuoi occhi divengono vuoti stellati. Hai svantaggio alle prove di Saggezza (Percezione).
+## Grande Taar Haak, il Distruttore dalle Cinque Teste
+*Posizione della Scheggia: Castel Ravenloft*
 
-***Spell.*** _Earth Tremor (at 5th level)._
+***Incantesimo.*** _Tremito della Terra (al 5° livello)._
 
-***Boon.*** You have advantage on Strength checks.
+***Benedizione.*** Hai vantaggio alle prove di Forza.
 
-***Condition.*** Your head becomes lumpy and misshapen. You have disadvantage on Intelligence checks.
-## Yog the Invincible
-*Shard Location: Tsolenka Pass*
+***Condizione.*** La tua testa diventa bitorzoluta e deforme. Hai svantaggio alle prove di Intelligenza.
+## Yog l'Invincibile
+*Posizione della Scheggia: Passo di Tsolenka*
 
-***Spell.*** _Stoneskin._
+***Incantesimo.*** _Pelle di Pietra._
 
-***Boon.*** Your hit point maximum increases by an amount equal to your proficiency bonus.
+***Benedizione.*** Il tuo massimo di punti ferita aumenta di un ammontare pari al tuo bonus di competenza.
 
-***Condition.*** Oily black fur covers your face and body. You have disadvantage on checks made to escape a grapple.
-## Norganas, the Finger of Oblivion
-*Shard Location: Death House*
+***Condizione.*** Un pelo nero e oleoso ricopre il tuo viso e il tuo corpo. Hai svantaggio alle prove effettuate per liberarti da una lotta.
+## Norganas, il Dito dell'Oblio
+*Posizione della Scheggia: Casa della Morte*
 
-***Spell.*** _Bestow Curse (at 5th level)._
+***Incantesimo.*** _Scagliare Maledizione (al 5° livello)._
 
-***Boon.*** When a creature you can see within 30 feet of you is reduced to 0 hit points, you can use your reaction to gain temporary hit points equal to your proficiency bonus.
+***Benedizione.*** Quando una creatura che puoi vedere entro 9 metri da te viene ridotta a 0 punti ferita, puoi usare la tua reazione per ottenere punti ferita temporanei pari al tuo bonus di competenza.
 
-***Condition.*** Your blood turns pitch black and viscid, like tar. If you would regain hit dice after finishing a long rest, you regain one less hit die.
-## Vaund the Evasive
-***Spell.*** _Blur._
+***Condizione.*** Il tuo sangue diventa nero come la pece e vischioso, simile al catrame. Se devi recuperare dadi vita dopo aver completato un riposo lungo, ne recuperi uno in meno.
+## Vaund l'Elusivo
+***Incantesimo.*** _Sfocatura._
 
-***Boon.*** You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells.
+***Benedizione.*** Hai vantaggio ai tiri salvezza su Destrezza contro effetti che puoi vedere, come trappole e incantesimi.
 
-***Condition.*** You become twitchy and nervous. You have disadvantage on Charisma (Deception) checks.
-## Seriach, the Hell Hound Whisperer
-*Shard Location: Izek Strazni*
+***Condizione.*** Diventi nervoso e agitato. Hai svantaggio alle prove di Carisma (Inganno).
+## Seriach, il Sussurratore dei Segugi Infernali
+*Posizione della Scheggia: Izek Strazni*
 
-***Spell.*** _Scorching Ray._
+***Incantesimo.*** _Raggio Rovente._
 
-***Boon.*** You gain resistance to fire damage.
+***Benedizione.*** Ottieni resistenza ai danni da fuoco.
 
-***Condition.*** The skin of your left arm  turns crimson red and gains barbed spines, elongated fingers, and long nails. You have disadvantage on Wisdom saving throws.
+***Condizione.*** La pelle del tuo braccio sinistro diventa rosso cremisi e si ricopre di spine uncinate, dita allungate e unghie lunghe. Hai svantaggio ai tiri salvezza su Saggezza.

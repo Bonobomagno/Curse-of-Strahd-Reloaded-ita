@@ -1,27 +1,27 @@
 
-### Animated Major Object
+### Oggetto Animato Maggiore
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Animated Major Object</h2>
-<em>Large construct, unaligned</em>
+<h2>Oggetto Animato Maggiore</h2>
+<em>Costrutto Grande, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 15
+<strong>Classe Armatura</strong> 15
 <br>
-<strong>Hit Points</strong> 20
+<strong>Punti Ferita</strong> 20
 <br>
-<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<strong>Velocità</strong> 0 ft., volare 30 ft. (fluttuare)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -36,39 +36,39 @@
   </tbody>
 </table>
 <hr>
-<strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +4
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) bludgeoning damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet (Varushka’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>
+<strong>Immunità ai Danni</strong> veleno, psichico<br>
+<strong>Sensi</strong> vista cieca 30 ft., Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +4
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oggetto effettua due attacchi con <strong><em>schianto</em></strong>.
+<p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 al tiro per colpire, un bersaglio, portata 5 ft. <em>Colpito:</em> 15 (2d10 + 4) danni contundenti e il bersaglio deve superare un tiro salvezza su Forza con CD 16 o essere spinto fino a 10 piedi (a scelta di Varushka). Se il bersaglio entra in contatto con una superficie dura o un oggetto pesante, subisce 1d6 danni contundenti per ogni 5 piedi non percorsi ed è afferrato dall'oggetto (CD di fuga 16).</p>
 </div>
 
-### Animated Minor Object
+### Oggetto Animato Minore
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Animated Minor Object</h2>
-<em>Small or medium construct, unaligned</em>
+<h2>Oggetto Animato Minore</h2>
+<em>Costrutto Piccolo o Medio, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 15
+<strong>Classe Armatura</strong> 15
 <br>
-<strong>Hit Points</strong> 10
+<strong>Punti Ferita</strong> 10
 <br>
-<strong>Speed</strong> 0 ft., fly 30 ft. (hover)
+<strong>Velocità</strong> 0 ft., volare 30 ft. (fluttuare)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -83,96 +83,96 @@
   </tbody>
 </table>
 <hr>
-<strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Senses</strong> blindsight 30 ft., passive Perception 6<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +4
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, one target, reach 5 ft. <em>Hit:</em> 8 (1d10 + 3) bludgeoning damage and the target must succeed on a DC 14 Strength saving throw or fall prone.</p>
+<strong>Immunità ai Danni</strong> veleno, psichico<br>
+<strong>Sensi</strong> vista cieca 30 ft., Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +4
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oggetto effettua due attacchi con <strong><em>schianto</em></strong>.
+<p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, un bersaglio, portata 5 ft. <em>Colpito:</em> 8 (1d10 + 3) danni contundenti e il bersaglio deve superare un tiro salvezza su Forza con CD 14 o cadere prono.</p>
 </div>
 
-### Castle Gargoyle
+### Gargoyle del Castello
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
 <h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
+<em>Elementale Medio, Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
+<strong>Punti Ferita</strong> 37 (5d8 + 15)
 <br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
+<strong>Velocità</strong> 15 ft., volare 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">8 (-1)</td>
-      <td data-label="CON">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
+      <td data-label="DES">8 (-1)</td>
+      <td data-label="COS">16 (+3)</td>
       <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">7 (-2)</td>
+      <td data-label="SAG">11 (+0)</td>
+      <td data-label="CAR">7 (-2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Resistenze ai Danni</strong> perforante e tagliente da attacchi non magici che non siano in adamantio<br>
+<strong>Vulnerabilità ai Danni</strong> tuono<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> sfinimento, pietrificato, avvelenato<br>
+<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br>
+<strong>Linguaggi</strong> Terran<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +2<br>
 <hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong> If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
+<p><strong><em>Falsa Apparenza.</em></strong> Finché il gargoyle rimane immobile, è indistinguibile da una statua inanimata.</p>
+<p><strong><em>Mutamento Caldo.</em></strong> Se il gargoyle subisce danni da fuoco, diventa incandescente fino alla fine del suo turno successivo. Mentre è incandescente, i suoi <strong><em>artigli</em></strong> infliggono 1d4 danni da fuoco aggiuntivi quando colpiscono. Mentre è incandescente, il gargoyle acquisisce vulnerabilità ai danni da freddo e smette immediatamente di risplendere se subisce danni da freddo.</p>
+<p><strong><em>Mutamento Freddo.</em></strong> Se il gargoyle subisce danni da freddo, si ricopre di brina fino alla fine del suo turno successivo. Mentre è ghiacciato, i suoi <strong><em>artigli</em></strong> infliggono 1d4 danni da freddo aggiuntivi quando colpiscono. Mentre è ghiacciato, il gargoyle acquisisce vulnerabilità ai danni da fuoco e il ghiaccio svanisce se subisce danni da fuoco.</p>
+<p><strong><em>Corpo di Pietra.</em></strong> Se il gargoyle subisce danni da freddo mentre è incandescente, danni da fuoco mentre è ghiacciato, danni contundenti da un colpo critico, o danni dall'incantesimo <em>shatter</em> o magia simile, le ali del gargoyle si spezzano, facendogli perdere la velocità di volo.</p>
+<p><strong><em>Lottatore.</em></strong> Il gargoyle ha vantaggio ai tiri per colpire effettuati contro una creatura che ha afferrato.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il gargoyle effettua due attacchi: uno con il morso e uno con gli artigli.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti. Invece di infliggere danni, il gargoyle può afferrare il bersaglio (CD di fuga 13).</p>
 </div>
 
-### Druid Assailant
+### Druido Assaltatore
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
-    <em>Medium human, neutral evil</em>
+    <h2>Druido Assaltatore</h2>
+    <em>Umanoide Medio (umano), neutrale malvagio</em>
     <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
+    <strong>Classe Armatura</strong> 11 (16 con <em>corteccia</em>)
     <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
+    <strong>Punti Ferita</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 30 ft.
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -187,50 +187,50 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Abilità</strong> Medicina +4, Natura +3, Percezione +4<br>
+    <strong>Sensi</strong> Percezione passiva 14<br>
+    <strong>Linguaggi</strong> Druidico e Comune<br>
+    <strong>Grado di Sfida</strong> 2<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
+    <p><strong><em>Incantesimi.</em></strong> Il druido è un incantatore di 4° livello. La sua caratteristica da incantatore è Saggezza (CD del tiro salvezza degli incantesimi 12, +4 al tiro per colpire con attacchi degli incantesimi). Ha preparato i seguenti incantesimi da druido:</p>
     <ul>
-        <li>Cantrips (at will): produce flame, shillelagh, thorn whip</li>
-        <li>1st level (4 slots): faerie fire, longstrider, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, darkvision</li>
+        <li>Trucchetti (a volontà): produce flame, shillelagh, thorn whip</li>
+        <li>1° livello (4 slot): faerie fire, longstrider, speak with animals, thunderwave</li>
+        <li>2° livello (3 slot): barkskin, darkvision</li>
     </ul>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The druid makes two attacks with its <em>quarterstaff.</em></p>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit (+4 to hit with <em>shillelagh</em>), reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with <em>shillelagh</em>.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Il druido effettua due attacchi con il suo <em>bastone ferrato.</em></p>
+    <p><strong><em>Bastone Ferrato.</em></strong> <em>Attacco con Arma da Mischia:</em> +2 al tiro per colpire (+4 al tiro per colpire con <em>shillelagh</em>), portata 5 ft., un bersaglio. <em>Colpito:</em> 3 (1d6) danni contundenti, 4 (1d8) danni contundenti se impugnato a due mani, o 6 (1d8 + 2) danni contundenti con <em>shillelagh</em>.</p>
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Velocità della Vipera.</em></strong> Il druido lancia un incantesimo che conosce con tempo di lancio di 1 azione. (Il druido non può lanciare un altro incantesimo durante lo stesso turno, tranne un trucchetto con tempo di lancio di 1 azione.)</p>
+    <h3>Reazioni</h3>
+    <p><strong><em>Dono del Gulthias.</em></strong> In risposta all'essere attaccato da una creatura che può vedere, il druido lancia <em>barkskin</em>, a condizione che abbia uno slot incantesimo di 2° livello disponibile. (L'incantesimo non richiede concentrazione quando lanciato in questo modo.)</p>
 </div>
 
-### Druid Naturalist
+### Druido Naturalista
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Druid Naturalist</h2>
-    <em>Medium human, neutral evil</em>
+    <h2>Druido Naturalista</h2>
+    <em>Umanoide Medio (umano), neutrale malvagio</em>
     <hr>
-    <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
+    <strong>Classe Armatura</strong> 11 (16 con <em>corteccia</em>)
     <br>
-    <strong>Hit Points</strong> 55 (10d8 + 10)
+    <strong>Punti Ferita</strong> 55 (10d8 + 10)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 30 ft.
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -245,49 +245,49 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Medicine +4, Nature +3, Perception +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Druidic and Common<br>
-    <strong>Challenge</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Abilità</strong> Medicina +4, Natura +3, Percezione +4<br>
+    <strong>Sensi</strong> Percezione passiva 14<br>
+    <strong>Linguaggi</strong> Druidico e Comune<br>
+    <strong>Grado di Sfida</strong> 2<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>Spellcasting.</em></strong> The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:</p>
+    <p><strong><em>Incantesimi.</em></strong> Il druido è un incantatore di 4° livello. La sua caratteristica da incantatore è Saggezza (CD del tiro salvezza degli incantesimi 12, +4 al tiro per colpire con attacchi degli incantesimi). Ha preparato i seguenti incantesimi da druido:</p>
     <ul>
-        <li>Cantrips (at will): gust, infestation, produce flame</li>
-        <li>1st level (4 slots): entangle, fog cloud, speak with animals, thunderwave</li>
-        <li>2nd level (3 slots): barkskin, moonbeam</li>
+        <li>Trucchetti (a volontà): gust, infestation, produce flame</li>
+        <li>1° livello (4 slot): entangle, fog cloud, speak with animals, thunderwave</li>
+        <li>2° livello (3 slot): barkskin, moonbeam</li>
     </ul>
-    <h3>Actions</h3>
-    <p><strong><em>Quarterstaff.</em></strong> <em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if wielded with two hands.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Speed of the Adder.</em></strong> The druid casts a spell it knows with a casting time of 1 action. (The druid can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action.)</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Bastone Ferrato.</em></strong> <em>Attacco con Arma da Mischia:</em> +2 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 3 (1d6) danni contundenti, o 4 (1d8) danni contundenti se impugnato a due mani.</p>
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Velocità della Vipera.</em></strong> Il druido lancia un incantesimo che conosce con tempo di lancio di 1 azione. (Il druido non può lanciare un altro incantesimo durante lo stesso turno, tranne un trucchetto con tempo di lancio di 1 azione.)</p>
+    <h3>Reazioni</h3>
+    <p><strong><em>Dono del Gulthias.</em></strong> In risposta all'essere attaccato da una creatura che può vedere, il druido lancia <em>barkskin</em>, a condizione che abbia uno slot incantesimo di 2° livello disponibile. (L'incantesimo non richiede concentrazione quando lanciato in questo modo.)</p>
 </div>
 
-### Elder Twig Blight
+### Flagello di Ramoscelli Anziano
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Elder Twig Blight</h2>
-    <em>Medium Plant, Neutral Evil</em>
+    <h2>Flagello di Ramoscelli Anziano</h2>
+    <em>Vegetale Medio, Neutrale Malvagio</em>
     <hr>
-    <strong>Armor Class</strong> 14
+    <strong>Classe Armatura</strong> 14
     <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
+    <strong>Punti Ferita</strong> 66 (12d8 + 12)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 30 ft.
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -302,19 +302,19 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Abilità</strong> Furtività +3<br>
+    <strong>Vulnerabilità ai Danni</strong> fuoco<br>
+    <strong>Immunità alle Condizioni</strong> accecato, assordato<br>
+    <strong>Sensi</strong> vista cieca 60 ft. (cieco oltre questo raggio), Percezione passiva 9<br>
+    <strong>Linguaggi</strong> comprende il Comune e il Druidico ma non può parlare<br>
+    <strong>Grado di Sfida</strong> 1<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>False Appearance.</em></strong> While the blight remains motionless, it is indistinguishable from a dead sapling.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> The twig blight makes one attack with its <em>claws</em> and up to one attack with its <em>roots</em>.</p>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage and the target is grappled (escape DC 9).</p>
-    <p><strong><em>Root.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one creature that is grappled by the blight, incapacitated, or restrained. <em>Hit:</em> 4 (1d4 + 2) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the blight regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
+    <p><strong><em>Falsa Apparenza.</em></strong> Finché il flagello rimane immobile, è indistinguibile da un alberello morto.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Il flagello di ramoscelli effettua un attacco con i suoi <em>artigli</em> e fino a un attacco con le sue <em>radici</em>.</p>
+    <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 5 (1d6 + 2) danni perforanti e il bersaglio è afferrato (CD di fuga 9).</p>
+    <p><strong><em>Radice.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., una creatura afferrata dal flagello, inabile o trattenuta. <em>Colpito:</em> 4 (1d4 + 2) danni perforanti più 5 (2d4) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e il flagello recupera punti ferita pari a tale ammontare. La riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0.</p>
 </div>
 
 ### Gargoyle
@@ -323,80 +323,80 @@
 
 <div class="statblock">
 <h2>Gargoyle</h2>
-<em>Medium Elemental, Chaotic Evil</em>
+<em>Elementale Medio, Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 37 (5d8 + 15)
+<strong>Punti Ferita</strong> 37 (5d8 + 15)
 <br>
-<strong>Speed</strong> 15 ft., fly 30 ft.
+<strong>Velocità</strong> 15 ft., volare 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">8 (-1)</td>
-      <td data-label="CON">16 (+3)</td>
+      <td data-label="FOR">16 (+3)</td>
+      <td data-label="DES">8 (-1)</td>
+      <td data-label="COS">16 (+3)</td>
       <td data-label="INT">6 (-2)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">7 (-2)</td>
+      <td data-label="SAG">11 (+0)</td>
+      <td data-label="CAR">7 (-2)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Damage Resistances</strong> piercing and slashing from nonmagical attacks that aren't adamantine<br>
-<strong>Damage Vulnerabilities</strong> thunder<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> exhaustion, petrified, poisoned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 10<br>
-<strong>Languages</strong> Terran<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Resistenze ai Danni</strong> perforante e tagliente da attacchi non magici che non siano in adamantio<br>
+<strong>Vulnerabilità ai Danni</strong> tuono<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> sfinimento, pietrificato, avvelenato<br>
+<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br>
+<strong>Linguaggi</strong> Terran<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +2<br>
 <hr>
-<p><strong><em>False Appearance.</em></strong> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.</p>
-<p><strong><em>Hot Shift.</em></strong> If the gargoyle takes fire damage, it glows with heat until the end of its next turn. While glowing, its <strong><em>claws</em></strong> deal an additional 1d4 fire damage on a hit. While glowing, the gargoyle gains vulnerability to cold damage and immediately stops glowing if dealt cold damage.</p>
-<p><strong><em>Cold Shift.</em></strong>If the gargoyle takes cold damage, it ices with frost until the end of its next turn. While iced, its <strong><em>claws</em></strong> deal an additional 1d4 cold damage on a hit. While iced, the gargoyle gains vulnerability to fire damage and its ice vanishes if dealt fire damage.</p>
-<p><strong><em>Stone Body.</em></strong> If the gargoyle takes cold damage while glowing, fire damage while iced, bludgeoning damage from a critical hit, or damage from the <em>shatter</em> spell or similar magic, the gargoyle's wings snap off, causing it to lose its fly speed.</p>
-<p><strong><em>Grappler.</em></strong> The gargoyle has advantage on attack rolls made against a creature it has grappled.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gargoyle makes two attacks: one with its bite and one with its claws.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage. Instead of dealing damage, the gargoyle can grapple the target (escape DC 13).</p>
+<p><strong><em>Falsa Apparenza.</em></strong> Finché il gargoyle rimane immobile, è indistinguibile da una statua inanimata.</p>
+<p><strong><em>Mutamento Caldo.</em></strong> Se il gargoyle subisce danni da fuoco, diventa incandescente fino alla fine del suo turno successivo. Mentre è incandescente, i suoi <strong><em>artigli</em></strong> infliggono 1d4 danni da fuoco aggiuntivi quando colpiscono. Mentre è incandescente, il gargoyle acquisisce vulnerabilità ai danni da freddo e smette immediatamente di risplendere se subisce danni da freddo.</p>
+<p><strong><em>Mutamento Freddo.</em></strong>Se il gargoyle subisce danni da freddo, si ricopre di brina fino alla fine del suo turno successivo. Mentre è ghiacciato, i suoi <strong><em>artigli</em></strong> infliggono 1d4 danni da freddo aggiuntivi quando colpiscono. Mentre è ghiacciato, il gargoyle acquisisce vulnerabilità ai danni da fuoco e il ghiaccio svanisce se subisce danni da fuoco.</p>
+<p><strong><em>Corpo di Pietra.</em></strong> Se il gargoyle subisce danni da freddo mentre è incandescente, danni da fuoco mentre è ghiacciato, danni contundenti da un colpo critico, o danni dall'incantesimo <em>shatter</em> o magia simile, le ali del gargoyle si spezzano, facendogli perdere la velocità di volo.</p>
+<p><strong><em>Lottatore.</em></strong> Il gargoyle ha vantaggio ai tiri per colpire effettuati contro una creatura che ha afferrato.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il gargoyle effettua due attacchi: uno con il morso e uno con gli artigli.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti. Invece di infliggere danni, il gargoyle può afferrare il bersaglio (CD di fuga 13).</p>
 </div>
 
-### Plague of Rats
+### Piaga di Ratti
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Plague of Rats</h2>
-<em>Large swarm of Tiny beasts, chaotic evil</em>
+<h2>Piaga di Ratti</h2>
+<em>Sciame Grande di bestie Minuscole, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 10
+<strong>Classe Armatura</strong> 10
 <br>
-<strong>Hit Points</strong> 49 (14d8 - 14)
+<strong>Punti Ferita</strong> 49 (14d8 - 14)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -411,42 +411,42 @@
   </tbody>
 </table>
 <hr>
-<strong>Damage Resistances</strong> Bludgeoning, Piercing, Slashing<br>
-<strong>Condition Immunities</strong> Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned<br>
-<strong>Senses</strong> Darkvision 30 ft., passive Perception 10<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 2<br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Resistenze ai Danni</strong> Contundente, Perforante, Tagliente<br>
+<strong>Immunità alle Condizioni</strong> Affascinato, Spaventato, Afferrato, Paralizzato, Pietrificato, Prono, Trattenuto, Stordito<br>
+<strong>Sensi</strong> Scurovisione 30 ft., Percezione passiva 10<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 2<br>
+<strong>Bonus di Competenza</strong> +2<br>
 <hr>
-<p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>
-<p><strong><em>Keen Smell.</em></strong> The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>
-<p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the <span class="citation">Player’s Handbook</span>.)</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The swarm makes two attacks.</p>
-<p><strong><em>Bites.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 0 ft., each creature in the swarm's space. <em>Hit:</em> 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.</p>
+<p><strong><em>Sciame.</em></strong> Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura abbastanza grande per un ratto Minuscolo. Lo sciame non può recuperare punti ferita né ottenere punti ferita temporanei.</p>
+<p><strong><em>Olfatto Acuto.</em></strong> Lo sciame ha vantaggio alle prove di Saggezza (Percezione) basate sull'olfatto.</p>
+<p><strong><em>Marea di Parassiti.</em></strong> Un nemico che inizia il proprio turno nello spazio dello sciame deve superare un tiro salvezza su Forza con CD 13 o essere afferrato (CD di fuga 13). Mentre è afferrato in questo modo, una creatura è prona, accecata e trattenuta, e non può respirare. (Una creatura che non può respirare in questo modo può trattenere il respiro come descritto nel <span class="citation">Manuale del Giocatore</span>.)</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Lo sciame effettua due attacchi.</p>
+<p><strong><em>Morsi.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 0 ft., ogni creatura nello spazio dello sciame. <em>Colpito:</em> 14 (4d6) danni perforanti, o 7 (2d6) danni perforanti se lo sciame ha metà o meno dei suoi punti ferita.</p>
 </div>
 
-### Rootspike Triad
+### Triade Radicespinosa
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Rootspike Triad</h2>
-<em>Large trio of Medium creatures, neutral evil</em>
+<h2>Triade Radicespinosa</h2>
+<em>Trio Grande di creature Medie, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 16 (natural armor)<br>
-<strong>Hit Points</strong> 120 (16d10 + 32)<br>
-<strong>Speed</strong> 30 ft.<br>
+<strong>Classe Armatura</strong> 16 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 120 (16d10 + 32)<br>
+<strong>Velocità</strong> 30 ft.<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -461,47 +461,47 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +8, Cha +4<br>
-<strong>Skills</strong> Perception +8, Nature +4<br>
-<strong>Senses</strong> blindsight 300 ft. (blind beyond this radius), passive Perception 13<br>
-<strong>Languages</strong> understands Common but can't speak, telepathic within 60 ft.<br>
-<strong>Challenge</strong> 5<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Sag +8, Car +4<br>
+<strong>Abilità</strong> Percezione +8, Natura +4<br>
+<strong>Sensi</strong> vista cieca 300 ft. (cieco oltre questo raggio), Percezione passiva 13<br>
+<strong>Linguaggi</strong> comprende il Comune ma non può parlare, telepatia entro 60 ft.<br>
+<strong>Grado di Sfida</strong> 5<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The triad casts <em>thorn whip</em> or <em>produce flame</em> twice.</p>
-<p><strong><em>Thorn Whip.</em></strong> The triad casts <em>thorn whip</em> (+8 to hit), dealing 10 (3d6) piercing damage on a hit.</p>
-<p><strong><em>Produce Flame.</em></strong> The triad casts <em>produce flame</em> (+8 to hit), dealing 13 (3d8) fire damage on a hit.</p>
-<p><strong><em>Thunderwave.</em></strong> The triad casts <em>thunderwave</em> (DC 16) in a 20-foot cube. A creature that fails its saving throw takes 18 (4d8) thunder damage instead.</p>
-<p><strong><em>Blight (3/day).</em></strong> The triad casts <em>blight</em> (DC 16).</p>
-<p><strong><em>Wall of Fire (1/day, requires concentration).</em></strong> The triad casts <em>wall of fire</em> (DC 16).</p>
-<p><strong><em>Wrath of Nature (1/day, requires concentration).</em></strong> The triad casts <em>wrath of nature</em> (DC 16).</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> La triade lancia <em>thorn whip</em> o <em>produce flame</em> due volte.</p>
+<p><strong><em>Thorn Whip.</em></strong> La triade lancia <em>thorn whip</em> (+8 al tiro per colpire), infliggendo 10 (3d6) danni perforanti in caso di colpo.</p>
+<p><strong><em>Produce Flame.</em></strong> La triade lancia <em>produce flame</em> (+8 al tiro per colpire), infliggendo 13 (3d8) danni da fuoco in caso di colpo.</p>
+<p><strong><em>Thunderwave.</em></strong> La triade lancia <em>thunderwave</em> (CD 16) in un cubo di 20 piedi. Una creatura che fallisce il tiro salvezza subisce 18 (4d8) danni da tuono.</p>
+<p><strong><em>Blight (3/giorno).</em></strong> La triade lancia <em>blight</em> (CD 16).</p>
+<p><strong><em>Wall of Fire (1/giorno, richiede concentrazione).</em></strong> La triade lancia <em>wall of fire</em> (CD 16).</p>
+<p><strong><em>Wrath of Nature (1/giorno, richiede concentrazione).</em></strong> La triade lancia <em>wrath of nature</em> (CD 16).</p>
 <hr>
 </div>
 
-### Swarm of Twig Blights
+### Sciame di Flagelli di Ramoscelli
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Swarm of Twig Blights</h2>
-    <em>Large Plant, Neutral Evil</em>
+    <h2>Sciame di Flagelli di Ramoscelli</h2>
+    <em>Vegetale Grande, Neutrale Malvagio</em>
     <hr>
-    <strong>Armor Class</strong> 13
+    <strong>Classe Armatura</strong> 13
     <br>
-    <strong>Hit Points</strong> 66 (12d8 + 12)
+    <strong>Punti Ferita</strong> 66 (12d8 + 12)
     <br>
-    <strong>Speed</strong> 20 ft.
+    <strong>Velocità</strong> 20 ft.
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -516,99 +516,99 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Stealth +3<br>
-    <strong>Damage Vulnerabilities</strong> fire<br>
-    <strong>Condition Immunities</strong> blinded, deafened<br>
-    <strong>Senses</strong> blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
-    <strong>Languages</strong> understands Common and Druidic but can't speak<br>
-    <strong>Challenge</strong> 1<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Abilità</strong> Furtività +3<br>
+    <strong>Vulnerabilità ai Danni</strong> fuoco<br>
+    <strong>Immunità alle Condizioni</strong> accecato, assordato<br>
+    <strong>Sensi</strong> vista cieca 60 ft. (cieco oltre questo raggio), Percezione passiva 9<br>
+    <strong>Linguaggi</strong> comprende il Comune e il Druidico ma non può parlare<br>
+    <strong>Grado di Sfida</strong> 1<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>False Appearance.</em></strong> While the swarm remains motionless, it is indistinguishable from a patch of dead shrubs.</p>
-    <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small plant. The swarm can't regain hit points or gain temporary hit points.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., up to two targets in the swarm's space. <em>Hit:</em> 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</p>
+    <p><strong><em>Falsa Apparenza.</em></strong> Finché lo sciame rimane immobile, è indistinguibile da un gruppo di arbusti morti.</p>
+    <p><strong><em>Sciame.</em></strong> Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura abbastanza grande per un vegetale Piccolo. Lo sciame non può recuperare punti ferita né ottenere punti ferita temporanei.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +3 al tiro per colpire, portata 5 ft., fino a due bersagli nello spazio dello sciame. <em>Colpito:</em> 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi punti ferita.</p>
 </div>
 
-### Werewolf
+### Lupo Mannaro
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
+<h2>Lupo Mannaro</h2>
+<em>Umanoide Medio (Umano, Mutaforma), Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<strong>Classe Armatura</strong> 11 in forma umanoide, 12 (armatura naturale) in forma di lupo o ibrida
 <br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
+<strong>Punti Ferita</strong> 84 (13d8 + 26)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Velocità</strong> 30 ft. (40 ft. in forma di lupo)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
+      <td data-label="FOR">16 (+3)</td>
+      <td data-label="DES">13 (+1)</td>
+      <td data-label="COS">14 (+2)</td>
       <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
+      <td data-label="SAG">11 (+0)</td>
+      <td data-label="CAR">10 (+0)</td>
     </tr>
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Tiri Salvezza</strong> For +5<br>
+<strong>Abilità</strong> Percezione +4, Furtività +3<br>
+<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 14<br>
+<strong>Linguaggi</strong> Comune (non può parlare in forma di lupo)<br>
+<strong>Grado di Sfida</strong> 3, o 2 senza la sua rigenerazione<br>
+<strong>Bonus di Competenza.</strong> +2<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Il lupo mannaro ha vantaggio alle prove di Saggezza (Percezione) basate sull'udito o sull'olfatto.</p>
+<p><strong><em>Tattiche di Branco.</em></strong> Il lupo mannaro ha vantaggio al tiro per colpire contro una creatura se almeno uno degli alleati del lupo mannaro si trova entro 5 piedi dalla creatura e l'alleato non è inabile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Il lupo mannaro recupera 10 punti ferita all'inizio del suo turno. Se il lupo mannaro subisce danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata, questo tratto non funziona all'inizio del turno successivo del lupo mannaro. Il lupo mannaro muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il lupo mannaro effettua due attacchi: due con la sua lancia (forma umanoide) o uno con il morso e uno con gli artigli (forma di lupo o ibrida).</p>
+<p><strong><em>Morso (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti. Invece di infliggere danni, il lupo mannaro può afferrare il bersaglio (CD di fuga 11). Inoltre, se il bersaglio è un umanoide, deve superare un tiro salvezza su Costituzione con CD 13 o essere maledetto con la licantropia del lupo mannaro.</p>
+<p><strong><em>Artigli (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., una creatura. Colpito: 8 (2d4 + 3) danni taglienti. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 13 o cadere prono.</p>
+<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +5 al tiro per colpire, portata 5 ft. o gittata 20/60 ft., una creatura. Colpito: 6 (1d6 + 3) danni perforanti, o 7 (1d8 + 3) danni perforanti se usata a due mani per effettuare un attacco in mischia.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Mutaforma.</em></strong> Il lupo mannaro si trasforma in un ibrido lupo-umanoide o in un lupo, oppure torna alla sua vera forma, che è umanoide. Le sue statistiche, a eccezione della CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento indossato o trasportato si fonde con la nuova forma. Ritorna alla sua vera forma se muore.</p>
 </div>
 
-### Werewolf Brawler
+### Lupo Mannaro Lottatore
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Werewolf Brawler</h2>
-<em>Medium Humanoid, Chaotic Evil</em>
+<h2>Lupo Mannaro Lottatore</h2>
+<em>Umanoide Medio, Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 in humanoid form, 15 (natural armor) in wolf or hybrid form
+<strong>Classe Armatura</strong> 14 in forma umanoide, 15 (armatura naturale) in forma di lupo o ibrida
 <br>
-<strong>Hit Points</strong> 142 (20d8 + 60)
+<strong>Punti Ferita</strong> 142 (20d8 + 60)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Velocità</strong> 30 ft. (40 ft. in forma di lupo)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -623,52 +623,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +6, Con +6<br>
-<strong>Skills</strong> Athletics +6, Intimidation +4, Perception +6, Stealth +4<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 16<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 7, or 6 without its regeneration<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> For +6, Cos +6<br>
+<strong>Abilità</strong> Atletica +6, Intimidire +4, Percezione +6, Furtività +4<br>
+<strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 16<br>
+<strong>Linguaggi</strong> Comune (non può parlare in forma di lupo)<br>
+<strong>Grado di Sfida</strong> 7, o 6 senza la sua rigenerazione<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Brute.</em></strong> A melee weapon deals one extra die of its damage when the werewolf hits with it (included in the attack).</p>
-<p><strong><em>Unarmored Defense.</em></strong> While the werewolf is wearing no armor, its AC includes its Constitution modifier.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks with its spear (humanoid form) or one attack with its bite and two attacks with its claws (wolf or hybrid form). It can replace one claws attack with a lob.</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) piercing damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone. Additionally, if the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) slashing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be grappled.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<p><strong><em>Lob.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Strength saving throw. On a failure, the creature is thrown 10 feet and falls prone. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
-<p><strong><em>Crushing Grip.</em></strong> The werewolf forces a creature it's grappling to succeed on a DC 14 Constitution saving throw. The creature takes 10 (3d6) bludgeoning damage on a failure, and half as much damage on a success. A creature that fails the saving throw by 5 or more is also dazed until the end of its next turn. (The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.)
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Il lupo mannaro ha vantaggio alle prove di Saggezza (Percezione) basate sull'udito o sull'olfatto.</p>
+<p><strong><em>Tattiche di Branco.</em></strong> Il lupo mannaro ha vantaggio al tiro per colpire contro una creatura se almeno uno degli alleati del lupo mannaro si trova entro 5 piedi dalla creatura e l'alleato non è inabile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Il lupo mannaro recupera 10 punti ferita all'inizio del suo turno. Se il lupo mannaro subisce danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata, questo tratto non funziona all'inizio del turno successivo del lupo mannaro. Il lupo mannaro muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Bruto.</em></strong> Un'arma da mischia infligge un dado di danno aggiuntivo quando il lupo mannaro colpisce con essa (incluso nell'attacco).</p>
+<p><strong><em>Difesa Senza Armatura.</em></strong> Mentre il lupo mannaro non indossa armatura, la sua CA include il suo modificatore di Costituzione.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il lupo mannaro effettua due attacchi con la sua lancia (forma umanoide) o un attacco con il morso e due attacchi con gli artigli (forma di lupo o ibrida). Può sostituire un attacco con artigli con un lancio.</p>
+<p><strong><em>Morso (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 14 (2d10 + 3) danni perforanti, e il bersaglio deve superare un tiro salvezza su Forza con CD 14 o cadere prono. Inoltre, se il bersaglio è un umanoide, deve superare un tiro salvezza su Costituzione con CD 14 o essere maledetto con la licantropia del lupo mannaro.</p>
+<p><strong><em>Artigli (Solo in Forma di Lupo o Ibrida).</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., una creatura. Colpito: 12 (2d8 + 3) danni taglienti. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 14 o essere afferrato.</p>
+<p><strong><em>Lancia (Solo in Forma Umanoide).</em></strong> Attacco con Arma da Mischia o a Distanza: +6 al tiro per colpire, portata 5 ft. o gittata 20/60 ft., una creatura. Colpito: 10 (2d6 + 3) danni perforanti, o 12 (2d8 + 3) danni perforanti se usata a due mani per effettuare un attacco in mischia.</p>
+<p><strong><em>Lancio.</em></strong> Il lupo mannaro costringe una creatura che ha afferrato a superare un tiro salvezza su Forza con CD 14. In caso di fallimento, la creatura viene lanciata a 10 piedi e cade prona. Se il bersaglio non può percorrere l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 5 piedi non percorsi.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Mutaforma.</em></strong> Il lupo mannaro si trasforma in un ibrido lupo-umanoide o in un lupo, oppure torna alla sua vera forma, che è umanoide. Le sue statistiche, a eccezione della CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento indossato o trasportato si fonde con la nuova forma. Ritorna alla sua vera forma se muore.</p>
+<p><strong><em>Presa Stritolante.</em></strong> Il lupo mannaro costringe una creatura che ha afferrato a superare un tiro salvezza su Costituzione con CD 14. La creatura subisce 10 (3d6) danni contundenti in caso di fallimento, e la metà in caso di successo. Una creatura che fallisce il tiro salvezza di 5 o più è anche frastornata fino alla fine del suo turno successivo. (La creatura può muoversi o compiere un'azione nel suo turno, non entrambe. Non può inoltre compiere un'azione bonus o una reazione.)
 </div>
 
-### Wight Commander
+### Comandante Wight
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-<h2>Wight Commander</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Comandante Wight</h2>
+<em>Non morto Medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 142 (19d8 + 57)
+<strong>Punti Ferita</strong> 142 (19d8 + 57)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 30 ft.
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -683,115 +683,115 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +6, Cha +5<br>
-<strong>Skills</strong> Athletics +7, Perception +4, Stealth +5<br>
-<strong>Damage Resistances</strong> Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered<br>
-<strong>Damage Immunities</strong> Poison<br>
-<strong>Condition Immunities</strong> Exhaustion, Poisoned<br>
-<strong>Senses</strong> Darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> The languages it knew in life<br>
-<strong>Challenge</strong> 10, or 6 if the players have magical or silvered weapons<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> Cos +6, Car +5<br>
+<strong>Abilità</strong> Atletica +7, Percezione +4, Furtività +5<br>
+<strong>Resistenze ai Danni</strong> Necrotico; Contundente, Perforante e Tagliente da attacchi non magici che non siano argentati<br>
+<strong>Immunità ai Danni</strong> Veleno<br>
+<strong>Immunità alle Condizioni</strong> Sfinimento, Avvelenato<br>
+<strong>Sensi</strong> Scurovisione 60 ft., Percezione passiva 14<br>
+<strong>Linguaggi</strong> I linguaggi che conosceva in vita<br>
+<strong>Grado di Sfida</strong> 10, o 6 se i giocatori possiedono armi magiche o argentate<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</p>
-<p><strong><em>Chill of the Grave.</em></strong> Any non-undead creature that starts its turn within 5 feet of the wight commander must make a DC 14 Constitution saving throw. On a failed save, the creature takes 7 (2d6) cold damage.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The wight commander makes two attacks.</p>
-<p><strong><em>Life Drain.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one creature. <em>Hit:</em> 10 (2d6 + 3) necrotic damage and the target is grappled (escape DC 15). The wight commander and all non-hostile undead within 10 feet of it regain hit points equal to half the necrotic damage dealt. In addition, the target must succeed on a DC 14 Constitution saving throw or have its hit point maximum be reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. </p>
-<p><strong><em>Longsword.</em></strong> <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands.</p>
-<p><strong><em>Longbow.</em></strong> <em>Ranged Weapon Attack:</em> +5 to hit, range 150/600 ft., one target. <em>Hit:</em> 11 (2d8 + 2) piercing damage.</p>
+<p><strong><em>Sensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, il wight ha svantaggio ai tiri per colpire, così come alle prove di Saggezza (Percezione) basate sulla vista.</p>
+<p><strong><em>Gelo della Tomba.</em></strong> Qualsiasi creatura non morta vivente che inizia il proprio turno entro 5 piedi dal comandante wight deve effettuare un tiro salvezza su Costituzione con CD 14. In caso di fallimento, la creatura subisce 7 (2d6) danni da freddo.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Il comandante wight effettua due attacchi.</p>
+<p><strong><em>Risucchio Vitale.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 10 (2d6 + 3) danni necrotici e il bersaglio è afferrato (CD di fuga 15). Il comandante wight e tutti i non morti non ostili entro 10 piedi da esso recuperano punti ferita pari alla metà dei danni necrotici inflitti. Inoltre, il bersaglio deve superare un tiro salvezza su Costituzione con CD 14 o il suo massimo di punti ferita viene ridotto di un ammontare pari ai danni subiti. Questa riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0. </p>
+<p><strong><em>Spada Lunga.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti, o 15 (2d10 + 4) danni taglienti se usata a due mani.</p>
+<p><strong><em>Arco Lungo.</em></strong> <em>Attacco con Arma a Distanza:</em> +5 al tiro per colpire, gittata 150/600 ft., un bersaglio. <em>Colpito:</em> 11 (2d8 + 2) danni perforanti.</p>
 </div>
 
-### Zombie
+### Zombi
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-  <h2>Zombie</h2>
-  <em>Medium Undead, Neutral Evil</em>
+  <h2>Zombi</h2>
+  <em>Non Morto Medio, Neutrale Malvagio</em>
   <hr>
-  <strong>Armor Class</strong> 8  
+  <strong>Classe Armatura</strong> 8
   <br>
-  <strong>Hit Points</strong> 22 (3d8 + 9)  
+  <strong>Punti Ferita</strong> 22 (3d8 + 9)
   <br>
-  <strong>Speed</strong> 20 ft.  
+  <strong>Velocità</strong> 20 ft.
   <hr>
   <table class="ability-table">
     <thead>
       <tr>
-        <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+        <th>FOR</th><th>DES</th><th>COS</th><th>INT</th><th>SAG</th><th>CAR</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td data-label="STR">13 (+1)</td>
-        <td data-label="DEX">6 (–2)</td>
-        <td data-label="CON">16 (+3)</td>
+        <td data-label="FOR">13 (+1)</td>
+        <td data-label="DES">6 (–2)</td>
+        <td data-label="COS">16 (+3)</td>
         <td data-label="INT">3 (–4)</td>
-        <td data-label="WIS">6 (–2)</td>
-        <td data-label="CHA">5 (–3)</td>
+        <td data-label="SAG">6 (–2)</td>
+        <td data-label="CAR">5 (–3)</td>
       </tr>
     </tbody>
   </table>
   <hr>
-  <strong>Saving Throws</strong> Wis +0  <br>
-  <strong>Damage Immunities</strong> Poison  <br>
-  <strong>Condition Immunities</strong> Poisoned  <br>
-  <strong>Senses</strong> darkvision 60 ft., passive Perception 8  <br>
-  <strong>Languages</strong> understands the languages it knew in life but can’t speak  <br>
-  <strong>Challenge</strong> 1/4
+  <strong>Tiri Salvezza</strong> Sag +0  <br>
+  <strong>Immunità ai Danni</strong> Veleno  <br>
+  <strong>Immunità alle Condizioni</strong> Avvelenato  <br>
+  <strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 8  <br>
+  <strong>Linguaggi</strong> comprende i linguaggi che conosceva in vita ma non può parlare  <br>
+  <strong>Grado di Sfida</strong> 1/4
   <hr>
-  <p><strong><em>Undead Fortitude.</em></strong> If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining.</p>
-  <h3>Actions</h3>
-  <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 5 ft., one target. <em>Hit:</em> 4 (1d6 + 1) bludgeoning damage.</p>
+  <p><strong><em>Resilienza dei Non Morti.</em></strong> Se i danni riducono lo zombi a 0 punti ferita, lo zombi scende invece a 1 punto ferita. Lo zombi non può usare questa capacità se i danni sono radiosi o provengono da un colpo critico, se i danni subiti sono 15 o più, o se aveva solo 1 punto ferita rimanente.</p>
+  <h3>Azioni</h3>
+  <p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +3 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 4 (1d6 + 1) danni contundenti.</p>
 </div>
 
 
-### Zombie Plague Spreader
+### Zombi Diffusore di Epidemia
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-  <h2>Zombie, Plague Spreader</h2>
-  <em>Medium Undead</em>
+  <h2>Zombi, Diffusore di Epidemia</h2>
+  <em>Non Morto Medio</em>
   <hr>
-  <strong>Armor Class</strong> 10 
+  <strong>Classe Armatura</strong> 10
   <br>
-  <strong>Hit Points</strong> 78 (12d8 + 24)
+  <strong>Punti Ferita</strong> 78 (12d8 + 24)
   <br>
-  <strong>Speed</strong> 30 ft.  
+  <strong>Velocità</strong> 30 ft.
   <hr>
   <table class="ability-table">
     <thead>
       <tr>
-        <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+        <th>FOR</th><th>DES</th><th>COS</th><th>INT</th><th>SAG</th><th>CAR</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td data-label="STR">16 (+3)</td>
-        <td data-label="DEX">10 (+0)</td>
-        <td data-label="CON">15 (+2)</td>
+        <td data-label="FOR">16 (+3)</td>
+        <td data-label="DES">10 (+0)</td>
+        <td data-label="COS">15 (+2)</td>
         <td data-label="INT">3 (–4)</td>
-        <td data-label="WIS">5 (–3)</td>
-        <td data-label="CHA">5 (–3)</td>
+        <td data-label="SAG">5 (–3)</td>
+        <td data-label="CAR">5 (–3)</td>
       </tr>
     </tbody>
   </table>
   <hr>
-  <strong>Damage Resistances</strong> Necrotic<br>
-  <strong>Damage Immunities</strong> Poison  <br>
-  <strong>Condition Immunities</strong> Charmed, Exhaustion, Poisoned  <br>
-  <strong>Senses</strong> Darkvision 60 ft., passive Perception 7  <br>
-  <strong>Languages</strong> understands the languages it knew in life but can’t speak  <br>
-  <strong>Challenge</strong> 4<br>
-  <strong>Proficiency Bonus</strong> +2  
+  <strong>Resistenze ai Danni</strong> Necrotico<br>
+  <strong>Immunità ai Danni</strong> Veleno  <br>
+  <strong>Immunità alle Condizioni</strong> Affascinato, Sfinimento, Avvelenato  <br>
+  <strong>Sensi</strong> Scurovisione 60 ft., Percezione passiva 7  <br>
+  <strong>Linguaggi</strong> comprende i linguaggi che conosceva in vita ma non può parlare  <br>
+  <strong>Grado di Sfida</strong> 4<br>
+  <strong>Bonus di Competenza</strong> +2
   <hr>
-  <p><strong><em>Undead Fortitude.</em></strong> If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.</p>
-  <p><strong><em>Unusual Nature.</em></strong> The zombie doesn’t require air, food, drink, or sleep.</p>
-  <p><strong><em>Viral Aura.</em></strong> Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can’t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader’s Viral Aura for 24 hours.</p>
-  <h3>Actions</h3>
-  <p><strong><em>Multiattack.</em></strong> The plague spreader makes two Slam attacks.</p>
-  <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage.</p>
-  <p><strong><em>Virulent Miasma (1/Day).</em></strong> The plague spreader releases toxic gas in a 30‑foot‑radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much on a successful one. A Humanoid reduced to 0 hit points by this damage dies and rises as a zombie (see its stat block in the Monster Manual) 1 minute later. The zombie acts immediately after the plague spreader in the initiative count.</p>
+  <p><strong><em>Resilienza dei Non Morti.</em></strong> Se i danni riducono lo zombi a 0 punti ferita, deve effettuare un tiro salvezza su Costituzione con CD pari a 5 + i danni subiti, a meno che i danni non siano radiosi o provengano da un colpo critico. In caso di successo, lo zombi scende invece a 1 punto ferita.</p>
+  <p><strong><em>Natura Insolita.</em></strong> Lo zombi non necessita di aria, cibo, acqua o sonno.</p>
+  <p><strong><em>Aura Virale.</em></strong> Qualsiasi creatura che inizia il proprio turno entro 10 piedi dal diffusore di epidemia deve effettuare un tiro salvezza su Costituzione con CD 12. In caso di fallimento, la creatura è avvelenata e non può recuperare punti ferita fino alla fine del suo turno successivo. In caso di successo, la creatura è immune all'Aura Virale di questo diffusore di epidemia per 24 ore.</p>
+  <h3>Azioni</h3>
+  <p><strong><em>Multiattacco.</em></strong> Il diffusore di epidemia effettua due attacchi con Schianto.</p>
+  <p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni contundenti più 9 (2d8) danni necrotici.</p>
+  <p><strong><em>Miasma Virulento (1/Giorno).</em></strong> Il diffusore di epidemia rilascia gas tossico in una sfera con raggio di 30 piedi centrata su di sé. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 12, subendo 14 (4d6) danni da veleno in caso di fallimento, o la metà in caso di successo. Un Umanoide ridotto a 0 punti ferita da questi danni muore e si rialza come zombi (vedi il suo blocco statistiche nel Manuale dei Mostri) dopo 1 minuto. Lo zombi agisce immediatamente dopo il diffusore di epidemia nell'ordine di iniziativa.</p>
 </div>
