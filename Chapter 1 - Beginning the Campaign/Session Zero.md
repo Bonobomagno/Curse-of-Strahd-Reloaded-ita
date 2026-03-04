@@ -1,49 +1,49 @@
-# Setting Expectations
- Before beginning the campaign, you should establish the following expectations with your players:
+# Stabilire le Aspettative
+ Prima di dare inizio alla campagna, è opportuno stabilire le seguenti aspettative con i giocatori:
 
-* ***Tone***. This will be a heroic fantasy adventure in a dark fantasy/gothic horror setting. Your character should be a hero, or have the potential to swiftly become a hero when faced with a life-or-death situation. Be prepared to cooperate and collaborate with the other players in order to succeed.
-* ***Theme***. While this campaign will not explore or focus upon your character's personal backstory, you should allow the campaign's characters and setting to inspire your  character to confront their own regrets, traumas, flaws, and fears.
-* ***Engagement***. This campaign takes place in a setting with a deep history, including complex relationships between several dozen non-player characters. You should expect to take notes and take a sincere interest in the lore of this world.
-* ***Tactics & Difficulty***. This campaign has been balanced to present a challenging, but fair gameplay experience. However, to succeed, you will often need to recruit additional allies while avoiding alienating potential enemies. Consider the consequences of your actions carefully, and avoid taking actions without careful consideration.
-* ***Roleplay***. This campaign is primarily driven by the stories of its non-player characters, and their relationships to the party. Be prepared to form meaningful relationships with the characters you encounter, and allow yourself to emotionally invest in those characters' success.
-* ***Rewards***. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks, with experience points awarded for narrative milestones you achieve as you proceed through the campaign.
-* ***Narrative***. The campaign begins with a linear structure, but soon evolves into a more expansive sandbox. Be prepared to balance and prioritize multiple quests, including many with clear deadlines.
-# Triggers & Accommodations
-Our aim is to create a memorable and enjoyable gothic horror experience for everyone involved. To that end, it's essential to address any potentially uncomfortable or controversial topics before beginning your *Curse of Strahd* adventure. During Session Zero, we encourage open and honest communication with your players about their personal boundaries and any elements of the campaign that may require modification or removal.
+* ***Tono***. Si tratterà di un'avventura di fantasy eroico ambientata in un contesto di dark fantasy e horror gotico. Il vostro personaggio dovrebbe essere un eroe, o avere il potenziale per diventarlo rapidamente qualora si trovi ad affrontare una situazione di vita o di morte. Siate pronti a cooperare e collaborare con gli altri giocatori per raggiungere il successo.
+* ***Tema***. Sebbene questa campagna non esplorerà né si concentrerà sulla storia personale del vostro personaggio, dovreste permettere ai personaggi e all'ambientazione della campagna di ispirare il vostro personaggio a confrontarsi con i propri rimpianti, traumi, difetti e paure.
+* ***Coinvolgimento***. Questa campagna si svolge in un'ambientazione dalla storia profonda, che comprende relazioni complesse tra diverse decine di personaggi non giocanti. Dovreste aspettarvi di prendere appunti e nutrire un sincero interesse per la tradizione di questo mondo.
+* ***Tattica e Difficoltà***. Questa campagna è stata bilanciata per offrire un'esperienza di gioco impegnativa ma equa. Tuttavia, per avere successo, sarà spesso necessario reclutare alleati aggiuntivi evitando al contempo di inimicarsi potenziali avversari. Considerate con attenzione le conseguenze delle vostre azioni ed evitate di agire senza un'attenta riflessione.
+* ***Interpretazione***. Questa campagna è guidata principalmente dalle storie dei suoi personaggi non giocanti e dalle loro relazioni con il gruppo. Siate pronti a costruire relazioni significative con i personaggi che incontrerete e permettetevi di investire emotivamente nel loro successo.
+* ***Ricompense***. Tesori, oggetti magici e altre ricompense materiali saranno assai più rari rispetto a una campagna fantasy ordinaria. La maggior parte delle ricompense assumerà invece la forma di alleanze, informazioni e nuovi agganci narrativi, con punti esperienza assegnati per traguardi narrativi raggiunti nel corso della campagna.
+* ***Narrativa***. La campagna inizia con una struttura lineare, ma si evolve presto in un sandbox più ampio ed espansivo. Siate pronti a bilanciare e dare priorità a molteplici missioni, molte delle quali con scadenze ben definite.
+# Argomenti Sensibili e Accorgimenti
+Il nostro intento è creare un'esperienza di horror gotico memorabile e piacevole per tutti i partecipanti. A tal fine, è essenziale affrontare eventuali temi potenzialmente scomodi o controversi prima di dare inizio alla vostra avventura di *Curse of Strahd*. Durante la Sessione Zero, incoraggiamo una comunicazione aperta e onesta con i giocatori riguardo ai loro limiti personali e a qualsiasi elemento della campagna che possa richiedere modifiche o rimozione.
 
-A list of potentially uncomfortable topics you might want to discuss with your players before beginning the campaign includes:
+Un elenco di argomenti potenzialmente delicati che potreste voler discutere con i giocatori prima di iniziare la campagna comprende:
 
-* Child abuse and death (e.g., the Durst children)
-* Torture and mutilation (e.g., Kasimir's severed ears)
-* Mind control (e.g., Strahd's ***charm*** ability)
-* (Implied) incest (e.g., the Belviews)
-* Stalking and (symbolic) sexual assault (e.g., Strahd's obsession with Ireena)
-* Suicide (e.g., Tatyana's death)
-* Drug addiction (e.g., the dream pastries)
-* Body horror (e.g., the vestiges' dark gifts)
-* Racism (e.g., Barovian views of the Vistani)
-# Campaign Contract
-To ensure all players are on the same page when beginning the campaign, consider having each player review and/or sign the following "campaign contract" during Session Zero:
+* Abuso e morte di minori (ad esempio, i figli Durst)
+* Tortura e mutilazione (ad esempio, le orecchie mozzate di Kasimir)
+* Controllo mentale (ad esempio, la capacità di *affascinare* di Strahd)
+* Incesto (implicito) (ad esempio, i Belview)
+* Stalking e violenza sessuale (simbolica) (ad esempio, l'ossessione di Strahd per Ireena)
+* Suicidio (ad esempio, la morte di Tatyana)
+* Dipendenza da sostanze (ad esempio, i pasticcini dei sogni)
+* Body horror (ad esempio, i doni oscuri delle vestigia)
+* Razzismo (ad esempio, l'atteggiamento dei baroviani verso i Vistani)
+# Contratto della Campagna
+Per assicurarsi che tutti i giocatori siano allineati all'inizio della campagna, considerate la possibilità di far leggere e/o firmare a ciascun giocatore il seguente "Contratto della Campagna" durante la Sessione Zero:
 
 <div class="description">
-<p>I, <strong>&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</strong>, understand and agree to the following expectations:</p> 
-<ul> 
-<li>I will make and play a character who is—while potentially flawed—either (a) actively heroic; or (b) a sociable, cooperative character who inevitably and actively begins growing towards heroism within the first five sessions.</li>
-<li>I will allow my character to feel true, powerless fear when faced with an overwhelming threat, and allow that fear to impact my character's actions, growth, and development.</li>
-<li>I will make every reasonable effort to build meaningful short- and long-term relationships with NPCs, and allow myself to become emotionally invested in their lives and goals.</li> 
-<li>This campaign requires alliances and cooperation with NPCs and other players, rather than paranoia or antisocial behavior.</li> 
-<li>The DM will not try to trick me, and will give me a fair chance to avoid bad situations through clear foreshadowing. However, NPCs will withhold nonessential lore and character information unless specifically requested.</li>
-<li>This campaign will largely focus on social encounters, investigations, and exploration, and combat may occur as infrequently as once every two or three sessions.</li> 
-<li>Treasure, magic items, and expensive spell components will be rare and infrequently obtained, with most rewards taking the form of relationships and alliances with friendly NPCs.</li>
-<li>This campaign will take place in a "fish-out-of-water" setting, and elements from my character's backstory will not directly appear or be referenced in the campaign.</li>
-<li>It is my sole responsibility to collaborate with the DM and other players to provide my character with an internal emotional character arc if desired.</li> 
-<li>Some powerful enemies will be impossible to defeat through combat, and that we will need to either gain levels, allies, or resources in order to do so.</li>
-<li>Creature alignments and morality will not always be determined by their species or type. Some monsters can be neutral, or even friendly, while some humanoids can be monstrously irredeemable.</li>
-<li>The DM has balanced any expected combat encounters to make a TPK unlikely unless we make poor decisions; should a TPK occur, the party may have an opportunity to "fail forward" and continue the campaign, albeit with severe consequences.</li> 
-<li>This campaign has altered the statistics for many official D&D 5e monsters, and has introduced additional mechanics or altered statistics for other enemies to create a balanced, high-tension combat experience that may differ from the <em>Monster Manual</em> and other official supplements.</li>
-<li>I will not seek out any information, artwork, videos, or other media relevant to Curse of Strahd, or any characters, locations, or lore within the campaign.</li> 
+<p>Io, <strong>&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</strong>, comprendo e accetto le seguenti aspettative:</p>
+<ul>
+<li>Creerò e giocherò un personaggio che, pur potendo avere dei difetti, sia (a) attivamente eroico; oppure (b) un personaggio socievole e collaborativo che inevitabilmente e attivamente inizi a crescere verso l'eroismo entro le prime cinque sessioni.</li>
+<li>Permetterò al mio personaggio di provare autentica, impotente paura di fronte a una minaccia soverchiante, e consentirò a tale paura di influenzare le azioni, la crescita e lo sviluppo del mio personaggio.</li>
+<li>Farò ogni ragionevole sforzo per costruire relazioni significative a breve e lungo termine con i PNG, e mi permetterò di investire emotivamente nelle loro vite e nei loro obiettivi.</li>
+<li>Questa campagna richiede alleanze e cooperazione con i PNG e con gli altri giocatori, anziché paranoia o comportamenti antisociali.</li>
+<li>Il DM non cercherà di ingannarmi e mi darà un'equa possibilità di evitare situazioni sfavorevoli attraverso chiari presagi. Tuttavia, i PNG tratterranno informazioni non essenziali sulla tradizione del mondo e sui personaggi, a meno che non vengano specificamente interrogati.</li>
+<li>Questa campagna si concentrerà in gran parte su incontri sociali, indagini ed esplorazione, e i combattimenti potranno verificarsi con una frequenza ridotta, anche solo una volta ogni due o tre sessioni.</li>
+<li>Tesori, oggetti magici e componenti per incantesimi costosi saranno rari e ottenuti di rado; la maggior parte delle ricompense assumerà la forma di relazioni e alleanze con PNG amichevoli.</li>
+<li>Questa campagna si svolgerà in un'ambientazione del tipo "pesce fuor d'acqua", e gli elementi della storia personale del mio personaggio non compariranno direttamente né saranno menzionati nel corso della campagna.</li>
+<li>È mia esclusiva responsabilità collaborare con il DM e gli altri giocatori per fornire al mio personaggio un arco narrativo emotivo interiore, qualora lo desideri.</li>
+<li>Alcuni nemici potenti saranno impossibili da sconfiggere in combattimento, e sarà necessario acquisire livelli, alleati o risorse per poterlo fare.</li>
+<li>L'allineamento e la moralità delle creature non saranno sempre determinati dalla loro specie o tipo. Alcuni mostri possono essere neutrali, o persino amichevoli, mentre alcuni umanoidi possono essere mostruosamente irredimibili.</li>
+<li>Il DM ha bilanciato gli scontri previsti in modo che un TPK sia improbabile, a meno che non vengano prese decisioni avventate; qualora un TPK si verifichi, il gruppo potrebbe avere l'opportunità di "fallire in avanti" e proseguire la campagna, seppure con gravi conseguenze.</li>
+<li>Questa campagna ha modificato le statistiche di molti mostri ufficiali di D&D 5e e ha introdotto meccaniche aggiuntive o statistiche alterate per altri nemici, al fine di creare un'esperienza di combattimento bilanciata e ad alta tensione che potrebbe differire dal <em>Manuale dei Mostri</em> e da altri supplementi ufficiali.</li>
+<li>Non cercherò alcuna informazione, illustrazione, video o altro materiale riguardante Curse of Strahd, né alcun personaggio, luogo o elemento della tradizione del mondo all'interno della campagna.</li>
 </ul>
 </div>
 
-> [!warning]+ **Breaking the Fourth Wall**
-> Sometimes, a player will act in a way that seems to break the [[#Campaign Contract]]. (For example, a frustrated, trigger-happy, or mistrustful player might plot to attack and kill an NPC that can be allied or befriended.) When this happens, don't hesitate to pause the game, remind the player of the relevant provision of the campaign contract, and ensure everyone is on the same page before resuming play.
+> [!warning]+ **Rompere la Quarta Parete**
+> Talvolta, un giocatore agirà in un modo che sembra violare il [[#Contratto della Campagna]]. (Ad esempio, un giocatore frustrato, impulsivo o diffidente potrebbe tramare per attaccare e uccidere un PNG che potrebbe essere alleato o con cui si potrebbe stringere amicizia.) Quando ciò accade, non esitate a mettere in pausa il gioco, ricordare al giocatore la clausola pertinente del Contratto della Campagna e assicurarvi che tutti siano allineati prima di riprendere a giocare.

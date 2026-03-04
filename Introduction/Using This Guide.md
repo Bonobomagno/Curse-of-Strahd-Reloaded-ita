@@ -1,59 +1,59 @@
-# Official Material
-Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campaign. You'll only need to reference the original *Curse of Strahd* module when this guide tells you to do so, though you should feel free to read the original module to familiarize yourself with the bones of the campaign first.
+# Materiale Ufficiale
+Considerate *La Maledizione di Strahd: Reloaded* la vostra guida completa per condurre questa campagna. Avrete bisogno di consultare il modulo originale de *La Maledizione di Strahd* soltanto quando questa guida vi indicherà di farlo, sebbene siate liberi di leggere il modulo originale per familiarizzare con la struttura portante della campagna.
 
-> [!warning]+ **A Brand-New Barovia**
-> *Curse of Strahd: Reloaded* is meant to be a complete substitute to the original *Curse of Strahd*, incorporating the original material only by reference. 
-> 
-> For example, if this guide says: "This area is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>", or "The players pass through <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>", this means that you should use all of the material provided in that section of the original book, **except where it's contradicted or overwritten by material in this guide.** 
-> 
-> If this guide doesn't reference a particular element in the original adventure—such as a random encounter or a piece of lore—**assume it doesn't exist.**
+> [!warning]+ **Una Barovia del Tutto Nuova**
+> *La Maledizione di Strahd: Reloaded* è concepita come un sostituto completo de *La Maledizione di Strahd* originale, e incorpora il materiale originale soltanto per riferimento.
+>
+> Ad esempio, se questa guida afferma: "Quest'area è sostanzialmente come descritta in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>", oppure "I giocatori attraversano <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>", ciò significa che dovrete utilizzare tutto il materiale fornito in quella sezione del libro originale, **salvo laddove sia contraddetto o sostituito dal materiale presente in questa guida.**
+>
+> Se questa guida non fa riferimento a un particolare elemento dell'avventura originale — come un incontro casuale o un dettaglio di ambientazione — **date per scontato che non esista.**
 
-> [!warning]+ **2014 Rules**
-> 
-> This guide has not been updated for the Dungeons & Dragons 2024 rules update. Readers are advised to use the 2024 rules, including the revised Player's Handbook, Monster Manual, and Dungeon Master's Guide, at their own risk.
+> [!warning]+ **Regole del 2014**
+>
+> Questa guida non è stata aggiornata per la revisione delle regole di Dungeons & Dragons del 2024. Si consiglia ai lettori di utilizzare le regole del 2024, inclusi il *Manuale del Giocatore*, il *Manuale dei Mostri* e la *Guida del Dungeon Master* revisionati, a proprio rischio e pericolo.
 
-> [!info]+ **Don't Panic**
-> Unlike most modules, you don't need to read this guide in full before running the adventure. In fact, you don't need to read the original module at all, except when this guide references it.
-> 
-> Instead, this guide has been written to ensure that every scene is **self-contained**. That means every scene contains all of the information you'll need to run it, and doesn't need to be cross-referenced with any future scenes.
-> 
-> You'll be able to grant these scenes greater depth and intent, of course, if you read ahead in the guide and original module. **If you're just preparing to start the campaign and have limited time**, though, you only need to read [[Character Creation]], [[Session Zero]], and [[Arc A - Escape From Death House]] before you begin. 
-> 
-> If you have the time, you can—and probably should—also read [[History of Barovia]], [[Lore of Barovia]], and [[Strahd von Zarovich]] before beginning the campaign in earnest, just to provide context. However, you don't need to finish reading those until after the players have completed [[Arc A - Escape From Death House]].
+> [!info]+ **Niente Panico**
+> A differenza della maggior parte dei moduli, non è necessario leggere questa guida per intero prima di condurre l'avventura. In realtà, non avete nemmeno bisogno di leggere il modulo originale, se non quando questa guida vi fa espressamente riferimento.
+>
+> Questa guida è stata scritta in modo che ogni scena sia **autonoma**. Ciò significa che ogni scena contiene tutte le informazioni necessarie per condurla, senza bisogno di consultare scene successive.
+>
+> Potrete naturalmente conferire a queste scene maggiore profondità e intenzionalità leggendo in anticipo sia la guida sia il modulo originale. **Se vi state preparando ad avviare la campagna e disponete di tempo limitato**, tuttavia, vi basterà leggere [[Character Creation]], [[Session Zero]] e [[Arc A - Escape From Death House]] prima di cominciare.
+>
+> Se ne avete il tempo, potete — e probabilmente dovreste — leggere anche [[History of Barovia]], [[Lore of Barovia]] e [[Strahd von Zarovich]] prima di dare inizio alla campagna vera e propria, così da avere il contesto necessario. Non è però indispensabile completare la lettura di queste sezioni prima che i giocatori abbiano portato a termine [[Arc A - Escape From Death House]].
 
-As you read through this guide, make sure you have access to the following resources:
+Man mano che procedete nella lettura di questa guida, assicuratevi di avere accesso alle seguenti risorse:
 
-* the *Player's Handbook*,
-* the *Dungeon Master's Guide*
-* the *Monster Manual*,
-* *Xanathar's Guide to Everything*, and
-* *Van Richten's Guide to Ravenloft*.
+* il *Manuale del Giocatore*,
+* la *Guida del Dungeon Master*,
+* il *Manuale dei Mostri*,
+* la *Guida Omnicomprensiva di Xanathar*, e
+* la *Guida di Van Richten a Ravenloft*.
 
-When we reference one of these sourcebooks, you'll find the necessary citation in parentheses, formatted like this: <span class="citation"><em>Van Richten's Guide to Ravenloft</em>, p. 66</span>. If you lack the required sourcebook, you can make a homebrewed statblock or find a suitable replacement.
+Quando faremo riferimento a uno di questi manuali, troverete la citazione necessaria tra parentesi, formattata in questo modo: <span class="citation"><em>Guida di Van Richten a Ravenloft</em>, p. 66</span>. Se non disponete del manuale richiesto, potete creare un blocco di statistiche personalizzato o trovare un sostituto adeguato.
 
-> [!warning] **Brewer Beware**
-> The original *Curse of Strahd: Reloaded* was a highly modular guide, containing a number of distinct ideas, concepts, and challenges that could easily be extracted, applied, and recombined alongside a number of additional reworks or homebrew elements. However, this revision aims to take a more cohesive path, weaving together characters, narratives, and themes to forge a more evocative, dramatic, and memorable adventure.
-> 
-> As such, be cautious when removing, adding to, or changing aspects of this guide, as a seemingly innocuous detail may instead prove to be a load-bearing support. When in doubt, read the **Design Notes** for the relevant section and review the **Adventure Summary** below to confirm the context and purpose of the detail in question.
-> 
-> This danger is especially present when combining *Reloaded* with additional third-party *Curse of Strahd* guides or supplements, many of which have been designed for campaigns with different tones, narratives, or themes. Remember that each comprehensive guide to *Curse of Strahd*—including this one—has been written as a complete, integrated experience, and that weaving different threads together may instead cause the entire tapestry to fall apart.
-# Sidebars
-As you read this guide, you'll encounter several types of collapsible sidebars that present additional information to help you run the guide:
+> [!warning] **Cautela nelle Modifiche**
+> La versione originale de *La Maledizione di Strahd: Reloaded* era una guida altamente modulare, contenente una serie di idee, concetti e sfide distinti che potevano essere facilmente estratti, applicati e ricombinati insieme ad altre rielaborazioni o elementi personalizzati. Questa revisione, tuttavia, si propone di seguire un percorso più coeso, intrecciando personaggi, narrazioni e temi per forgiare un'avventura più evocativa, drammatica e memorabile.
+>
+> Pertanto, procedete con cautela nel rimuovere, aggiungere o modificare aspetti di questa guida, poiché un dettaglio apparentemente innocuo potrebbe in realtà rivelarsi un pilastro portante. In caso di dubbio, leggete le **Note di Design** della sezione pertinente e consultate il **Sommario dell'Avventura** qui sotto per verificare il contesto e lo scopo del dettaglio in questione.
+>
+> Questo rischio è particolarmente presente quando si combina *Reloaded* con ulteriori guide o supplementi di terze parti per *La Maledizione di Strahd*, molti dei quali sono stati concepiti per campagne con toni, narrazioni o temi differenti. Ricordate che ogni guida esaustiva a *La Maledizione di Strahd* — compresa questa — è stata scritta come un'esperienza completa e integrata, e che intrecciare fili diversi potrebbe far sì che l'intero arazzo si sfaldi.
+# Riquadri
+Nel corso della lettura di questa guida, incontrerete diversi tipi di riquadri espandibili che presentano informazioni aggiuntive per aiutarvi nella conduzione:
 
-> [!info] **Info Sidebars**
-> An **info** sidebar provides additional information about the rules you'll need to run a particular scene or area.
+> [!info] **Riquadri Informativi**
+> Un **riquadro informativo** fornisce informazioni aggiuntive sulle regole necessarie per condurre una particolare scena o area.
 
-> [!warning] **Warning Sidebars**
-> A **warning** sidebar calls your attention to important information to help keep you avoid common pitfalls and mistakes.
+> [!warning] **Riquadri di Avvertimento**
+> Un **riquadro di avvertimento** richiama la vostra attenzione su informazioni importanti per aiutarvi a evitare insidie e errori comuni.
 
-> [!lore] **Lore Sidebars**
-> A **lore** sidebar provides or reminds you of additional information about the context of a scene, chapter, or arc.
+> [!lore] **Riquadri di Ambientazione**
+> Un **riquadro di ambientazione** fornisce o richiama informazioni aggiuntive sul contesto di una scena, un capitolo o un arco narrativo.
 
-> [!abstract] **Narrative Sidebars**
-> A **narrative** sidebar provides you with additional information about an optional path the players might take through a scene or area.
+> [!abstract] **Riquadri Narrativi**
+> Un **riquadro narrativo** fornisce informazioni aggiuntive su un percorso opzionale che i giocatori potrebbero intraprendere attraverso una scena o un'area.
 
-> [!tip] **Profile Sidebars**
-> A **Profile** sidebar provides additional information about roleplaying and understanding a particular NPC.
+> [!tip] **Riquadri del Profilo**
+> Un **riquadro del profilo** fornisce informazioni aggiuntive sull'interpretazione e la comprensione di un particolare PNG.
 
-> [!item] **Item Sidebars**
-> An **Item** sidebar provides the statistics for a new or modified item.
+> [!item] **Riquadri dell'Oggetto**
+> Un **riquadro dell'oggetto** fornisce le statistiche di un oggetto nuovo o modificato.

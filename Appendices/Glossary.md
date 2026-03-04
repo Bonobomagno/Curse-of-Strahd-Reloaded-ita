@@ -1,8 +1,8 @@
-# Conditions
-***Bloodied.*** The creature has half of its maximum hit points remaining (rounded up) or fewer.
+# Condizioni
+***Sanguinante.*** La creatura ha la metà dei suoi punti ferita massimi (arrotondata per eccesso) o meno.
 
-***Dazed.*** The creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.
+***Frastornato.*** La creatura può muoversi o compiere un'azione nel suo turno, non entrambe. Non può inoltre compiere un'azione bonus né una reazione.
 
-***Hindered.*** The creature is slowed, can use one less reaction per round, and can't use its multiattack. A creature can be hindered multiple times. Each additional time a creature is hindered, it loses an additional reaction (minimum zero). Other effects of being hindered don't stack.
+***Impedito.*** La creatura è rallentata, può usare una reazione in meno per round e non può usare il suo multiattacco. Una creatura può essere impedita più volte. Ogni volta aggiuntiva in cui una creatura è impedita, perde una reazione aggiuntiva (minimo zero). Gli altri effetti dell'essere impedito non si cumulano.
 
-***Slowed.*** The creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.
+***Rallentato.*** La creatura deve spendere 1 piede di movimento aggiuntivo per ogni piede che percorre usando la propria velocità, i tiri per colpire contro di essa hanno vantaggio, e la creatura ha svantaggio ai tiri salvezza su Destrezza.
