@@ -1,6 +1,6 @@
 site_name: "Curse of Strahd: Reloaded (ITA)"
 site_description: Guida completa per Dungeon Master alla campagna Curse of Strahd
-docs_dir: .
+docs_dir: docs
 site_dir: site
 
 theme:
@@ -47,12 +47,6 @@ markdown_extensions:
 
 extra_css:
   - publish.css
-
-exclude_docs: |
-  .obsidian/
-  .git/
-  _other/
-  site/
 
 nav:
   - Home: "Introduction/A DM's Guide to Curse of Strahd.md"
