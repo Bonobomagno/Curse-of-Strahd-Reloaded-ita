@@ -10,20 +10,20 @@ La mattina seguente, Ismark chiede ai giocatori di aiutare a portare le spoglie 
 
 > [!design]+ **Nota di Design: Arrivo a Barovia**
 > L’arrivo dei giocatori nel villaggio di Barovia è stato sostanzialmente rielaborato per creare un forte incidente scatenante per la campagna, assicurando che abbiano una ragione immediata e concreta per cercare la lettura dei Tarokka di Madam Eva, un’opportunità di stringere relazioni con gli abitanti del villaggio di Barovia e motivazioni personali nel vedere Strahd sconfitto.
-# B1. Old Svalich Road
-<span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
+# B1. Vecchia Strada di Svalich
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area A.</em></span>
 
-The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is two miles long and takes forty minutes.
+Il viaggio dalla [[Arc A - Escape From Death House#A3. Outside Death House|torre]] ai [[#B2. Cancelli di Barovia]] è lungo due miglia e richiede quaranta minuti.
 
-This scene unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>.
-# B2. Gates of Barovia
-<span class="citation"><em>This scene takes place in Chapter 2: Area B.</em></span>
+Questa scena si svolge come descritto in <span class="citation">Old Svalich Road (p. 33)</span>.
+# B2. Cancelli di Barovia
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area B.</em></span>
 
-This scene unfolds as described in <span class="citation">Gates of Barovia (p. 34)</span>.
+Questa scena si svolge come descritto in <span class="citation">Gates of Barovia (p. 34)</span>.
 
-The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter mile long and takes five minutes.
-# B3. Svalich Woods
-<span class="citation"><em>This scene takes place in Chapter 2: Area C.</em></span>
+Il viaggio dai Cancelli di Barovia ai [[#B3. Boschi di Svalich]] è lungo un quarto di miglio e richiede cinque minuti.
+# B3. Boschi di Svalich
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area C.</em></span>
 
 This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
@@ -824,113 +824,113 @@ Se i giocatori accettano, il giocatore con il punteggio passivo di Saggezza (Per
 I giocatori hanno un round per uccidere il ratto mentre si precipita verso un grosso buco nel muro della cucina. Se non ci riescono, Ireena lo trafigge con il suo stocco prima che possa fuggire, riconoscendolo come una delle spie di Strahd.
 
 ***Consegnare la Bara.*** Dopo aver chiesto i primi due favori, Ismark chiede ai giocatori di aiutare lui e Ireena a trasportare la bara di Kolyan alla chiesa. Se accettano, i due fratelli accompagnano i giocatori alla chiesa.
-## B5i. The Barovian Church
-<span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
+## B5i. La Chiesa di Barovia
+<span class="citation"><em>Questa scena si svolge nel Capitolo 3: Area E5.</em></span>
 
-When the players arrive at the church with the burgomaster’s body, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] is disturbed by the damage wrought to its walls and roof. As he knocks on the front door and calls for Father Donavich, if Parriwimple is still alive, read the following:
+Quando i giocatori arrivano alla chiesa con il corpo del borgomastro, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] è turbato dai danni inflitti ai muri e al tetto. Mentre bussa alla porta principale e chiama Padre Donavich, se Parriwimple è ancora vivo, leggete quanto segue:
 
 <div class="description">
-<p>As Ismark's knock echoes through the cold air, a voice rings out from the darkened street: "He won't come out."</p>
-<p>A hulking silhouette steps forward from the mist—Parriwimple.</p>
+<p>Mentre il bussare di Ismark echeggia nell'aria gelida, una voce risuona dalla strada oscurata: "Non uscirà."</p>
+<p>Una sagoma massiccia avanza dalla nebbia — Parriwimple.</p>
 </div>
 
-If Bildrath died in the siege, add:
+Se Bildrath è morto durante l'assedio, aggiungete:
 
 <div class="description">
-<p>Parriwimple's clothes are still disheveled and bloodstained, and his cheeks are blotchy and red.</p>
+<p>I vestiti di Parriwimple sono ancora in disordine e macchiati di sangue, e le sue guance sono arrossate e chiazzate.</p>
 </div>
 
-Parriwimple, who is out for a walk ("It helps me think," he mumbles, if asked), can share the following information if asked:
+Parriwimple, che è uscito per una passeggiata ("Mi aiuta a pensare," borbotta, se gli viene chiesto), può condividere le seguenti informazioni se interrogato:
 
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
-* Ever since the siege started, however, Donavich shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him two days ago, Donavich looked like he hadn’t slept or bathed in almost a week.
-* Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
+* Padre Donavich era un uomo gentile e amichevole, sempre pronto a offrire una parola di saggezza o una calda torta di mele selvatiche ai visitatori.
+* Da quando è iniziato l’assedio, tuttavia, Donavich si è rinchiuso nella chiesa e ha respinto i visitatori più spesso che no. Quando Parriwimple lo ha visto per l’ultima volta due giorni fa, Donavich sembrava non aver dormito né fatto il bagno da quasi una settimana.
+* Padre Donavich non porta più il suo simbolo sacro (un sole di bronzo) dalla ribellione, cosa che Parriwimple trova strana. (Parriwimple adorava vedere la luce riflessa sulla sua superficie, e amava sentire il figlio di Donavich, Doru, raccontare storie di come il sole un tempo splendeva su Barovia.)
+* Parriwimple sente la mancanza di Doru, che è partito per guidare la ribellione contro Strahd tre mesi fa insieme allo straniero, Alanik. (Parriwimple sente anche la mancanza della scimmietta di Alanik, con cui adorava giocare.) Nonostante suo zio gli abbia detto che Doru è morto al Castello Ravenloft, Parriwimple spera che sia sopravvissuto in qualche modo.
 
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
-### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+Parriwimple non accompagnerà i giocatori all’interno della chiesa, ma augura loro buona fortuna e li invita a fargli visita al Mercantile di Bildrath prima di andarsene.
+### All’Interno della Chiesa
+Quest’area è in gran parte come descritta in <span class="citation">Church (p. 45)</span>. Tuttavia, modificate il testo descrittivo di <span class="citation">E5a. Hall (p. 45)</span> per rimuovere l’urlo di Doru:
 
 <div class="description">
-<p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
-<p>You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer.</p>
+<p>Le porte si aprono rivelando un corridoio largo tre metri e lungo sei che conduce a una cappella illuminata. Il corridoio è buio e puzza di muffa. Quattro porte, due per lato, conducono alle stanze adiacenti.</p>
+<p>Potete vedere che la cappella è cosparsa di detriti, e udite una voce sommessa al suo interno che recita una preghiera.</p>
 </div>
 
-Doru does not cry out to his father when the players enter the chapel. Instead, when the players first approach the chapel, Donavich’s prayers halt. Add the following line to the chapel’s description in place of Doru’s cry:
+Doru non grida verso suo padre quando i giocatori entrano nella cappella. Invece, quando i giocatori si avvicinano per la prima volta alla cappella, le preghiere di Donavich si interrompono. Aggiungete la seguente riga alla descrizione della cappella al posto del grido di Doru:
 
 <div class="description">
-<p>The sound of mumbled prayer stops, and a hoarse, tired voice rings through the chamber from the figure kneeling behind the altar. “I cannot offer the blessing you seek. Go, and leave this accursed place in peace."</p>
+<p>Il suono della preghiera mormorata si interrompe, e una voce rauca e stanca risuona nella camera dalla figura inginocchiata dietro l'altare. “Non posso offrirvi la benedizione che cercate. Andatevene, e lasciate in pace questo luogo maledetto.”</p>
 </div>
 
-> [!lore]+ **A Recent History of the Church**
+> [!lore]+ **Una Storia Recente della Chiesa**
 >
-> Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
+> Padre Donavich non era un sostenitore della marcia di Doru sul Castello Ravenloft. Uomo mite e pacato, Donavich temeva che Doru avrebbe trovato solo la morte oltre le mura della fortezza. Per tenere al sicuro suo figlio, tuttavia, e come pegno del suo amore, Donavich diede a Doru il suo simbolo sacro, insieme alla sua benedizione.
 >
-> Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia six nights ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
+> Il simbolo sacro di Donavich, tuttavia, fece ben poco per proteggere suo figlio. Quando Strahd iniziò il suo assedio al villaggio di Barovia sei notti fa, le sue forze non morte non erano sole: Strahd inviò anche Doru, ora un **vampire spawn** appena trasformato, a terrorizzare la chiesa e tormentare suo padre. Donavich riuscì a malapena ad attirare e intrappolare Doru nella cripta, dove rimane imprigionato tuttora.
 >
-> Since Doru returned, Father Donavich has been unable to cast any spells and no longer feels the Morninglord’s presence when he prays. When Strahd sent Doru back to Barovia, he allowed Doru to continue wearing his father’s holy symbol as a cruel joke. As a result, Donavich wrongly believes that Doru’s undead nature has corrupted his symbol—and, therefore, his relationship with the Morninglord—and so prevented him from reaching the Morninglord’s divine grace.
+> Da quando Doru è tornato, Padre Donavich non è più in grado di lanciare incantesimi e non percepisce più la presenza del Signore del Mattino quando prega. Quando Strahd rimandò Doru a Barovia, gli permise di continuare a indossare il simbolo sacro di suo padre come un crudele scherzo. Di conseguenza, Donavich crede erroneamente che la natura non morta di Doru abbia corrotto il suo simbolo — e, pertanto, il suo rapporto con il Signore del Mattino — impedendogli così di raggiungere la grazia divina del Signore del Mattino.
 >
-> In fact, however, it is Father Donavich’s own loss of faith that hinders him—a crisis that blinds him to an even starker truth. Donavich believes that his son, Doru, is dead, and that the **vampire spawn** trapped in the undercroft is a foul and profane beast that wears Doru’s skin. He is mistaken: though his body is now undead, Doru’s soul is very much alive.
+> In realtà, tuttavia, è la perdita di fede dello stesso Padre Donavich a ostacolarlo — una crisi che lo acceca di fronte a una verità ancora più cruda. Donavich crede che suo figlio, Doru, sia morto, e che il **vampire spawn** intrappolato nella cripta sia una bestia immonda e profana che indossa la pelle di Doru. Si sbaglia: sebbene il suo corpo sia ora non morto, l’anima di Doru è viva e vegeta.
 >
-> Though he cannot ignore Strahd’s direct commands, and though his thirst for blood weighs heavily on his thoughts and actions, Doru continues to fight bitterly against his own vampiric nature. Though he doesn’t always succeed, it was this resistance that allowed his father to entrap him in the undercroft at all. When hope rises in him, Doru calls out to his father to release him, pleading for salvation and forgiveness. Donavich, however, has so far refused to respond.
+> Sebbene non possa ignorare gli ordini diretti di Strahd, e sebbene la sua sete di sangue pesi enormemente sui suoi pensieri e sulle sue azioni, Doru continua a lottare amaramente contro la propria natura vampirica. Anche se non riesce sempre, è stata proprio questa resistenza a permettere a suo padre di intrappolarlo nella cripta. Quando la speranza cresce in lui, Doru invoca suo padre perché lo liberi, implorando salvezza e perdono. Donavich, tuttavia, si è finora rifiutato di rispondere.
 >
-> Doru continues to wear his father’s holy symbol, both to reassure himself that they will one day reconcile and to steel his will when the vampire’s urges rise too strongly within. His ability to resist the call of blood has slowly grown since his imprisonment—but so too has his exhaustion, exacerbated by slow starvation. Now, Doru’s sanity balances on a knife’s edge, and a simple push could mean salvation—or damnation.
+> Doru continua a indossare il simbolo sacro di suo padre, sia per rassicurarsi che un giorno si riconcilieranno, sia per temprare la propria volontà quando gli impulsi del vampiro crescono troppo in lui. La sua capacità di resistere al richiamo del sangue è lentamente cresciuta dalla sua prigionia — ma altrettanto ha fatto la sua spossatezza, aggravata dalla lenta inedia. Ora, la sanità di Doru è in bilico sul filo di un rasoio, e una semplice spinta potrebbe significare la salvezza — o la dannazione.
 
-> [!profile]+ **Profile: Father Donavich**
+> [!profile]+ **Profilo: Padre Donavich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Donavich dovrebbe ispirare compassione per il suo dolore e le sue paure, pietà per la sua separazione dal Signore del Mattino, affetto per la sua gentilezza e ospitalità, e disagio per la sua zelante condanna della natura non morta di Doru.
 >
-> ***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
+> ***Emozioni.*** Nel suo stato attuale, Donavich prova più spesso dolore, senso di colpa, spossatezza, compassione e ossessione. Se riconciliato con Doru, prova più spesso speranza, sollievo, gratitudine, confusione, paura e vergogna.
 >
-> ***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
+> ***Motivazioni.*** Padre Donavich vuole liberare suo figlio dalle grinfie di Strahd — a qualsiasi costo.
 >
-> ***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Denethor (The Lord of the Rings).
+> ***Ispirazioni.*** Quando interpretate Padre Donavich, ispiratevi a Eddard Stark (Game of Thrones), Walter White (Breaking Bad) e Denethor (Il Signore degli Anelli).
 >
-> **Character Information**
-> ***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Agli occhi del mondo, Padre Donavich è un padre addolorato ma zelante. Per coloro di cui si fida, Donavich è un uomo distrutto alla deriva nel mondo, perso e confuso senza guida né scopo.
 >
-> ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
+> ***Morale.*** In combattimento, Padre Donavich normalmente lotterebbe per difendere la sua gente e la sua chiesa. Nel suo stato attuale, tuttavia, si arrenderebbe immediatamente, troppo consumato dal senso di colpa persino per difendere la propria vita.
 >
-> ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+> ***Relazioni.*** Padre Donavich è il padre di Doru e il sacerdote della chiesa di Barovia.
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
+Se viene a sapere che Ismark e Ireena sono con i giocatori, Donavich si mostra più caloroso verso di loro e si scusa per lo stato di degrado della cappella.
 
-As the conversation unfolds, the following exchanges might occur:
+Man mano che la conversazione si sviluppa, potrebbero verificarsi i seguenti scambi:
 
-* If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
-* If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
+* Se Ismark, Ireena o un giocatore chiede della sepoltura del borgomastro defunto, Padre Donavich li informa che sarebbe lieto di sovrintendere a una sepoltura, ma che non può celebrare i riti sacri che santificherebbero le spoglie di Kolyan. (Donavich è addolorato nell’apprendere della morte di Kolyan, e porge le sue condoglianze per la sua dipartita.)
+* Se Ismark, Ireena o un giocatore nota i danni arrecati alla chiesa, Padre Donavich li informa che sono stati causati da un **vampire spawn** che ha attaccato durante l’assedio — il guscio non morto di suo figlio, Doru. (Sia Ismark che Ireena sono sconvolti e inorriditi nell’apprendere del destino di Doru, avendo creduto che fosse morto al Castello Ravenloft.)
+* Se Ismark, Ireena o un giocatore lo informa che Gertruda (la promessa sposa di Doru) è scomparsa, Padre Donavich la piange e mormora una preghiera sommessa affinché il Signore del Mattino custodisca e protegga la sua anima.
 
-If the players inquire further, Donavich can share the following information:
+Se i giocatori indagano ulteriormente, Donavich può condividere le seguenti informazioni:
 
-* When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
-* Six days ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
-* Ever since Doru returned, Donavich hasn’t been able to cast spells or feel the Morninglord’s presence. He believes that this is because Doru still has his holy symbol, and that Strahd’s foul influence has corrupted Donavich’s connection to the gods.
-* Donavich believes that his son is dead, and that the creature that wears his skin is a mockery that must be destroyed.
+* Quando Doru partì per il Castello Ravenloft, Padre Donavich gli diede il suo simbolo sacro del Signore del Mattino — un sole di bronzo su un cordone di cuoio — per tenerlo al sicuro di fronte alle tenebre. Quando Doru non fece ritorno, tuttavia, Donavich temette il peggio.
+* Sei giorni fa, all’inizio dell’assedio, Doru tornò alla chiesa a mezzanotte, ormai trasformato in un **vampire spawn**. Donavich riuscì ad attirare Doru nella cripta e a intrappolarlo lì.
+* Da quando Doru è tornato, Donavich non è più in grado di lanciare incantesimi né di percepire la presenza del Signore del Mattino. Crede che ciò sia dovuto al fatto che Doru possiede ancora il suo simbolo sacro, e che l’influsso immondo di Strahd abbia corrotto la connessione di Donavich con gli dei.
+* Donavich crede che suo figlio sia morto, e che la creatura che ne indossa la pelle sia una parodia che deve essere distrutta.
 
-Donavich knows that he can’t defeat Doru and can’t bear to see his son’s face again. If the players are willing, however, Donavich asks them to descend to the undercroft, destroy Doru’s body, and retrieve his holy symbol. In exchange, Donavich offers to complete the proper burial rites and to tell the players of a place where they can find safety from the Devil Strahd.
+Donavich sa di non poter sconfiggere Doru e non sopporta l’idea di rivedere il volto di suo figlio. Se i giocatori sono disposti, tuttavia, Donavich chiede loro di scendere nella cripta, distruggere il corpo di Doru e recuperare il suo simbolo sacro. In cambio, Donavich si offre di completare i riti funebri appropriati e di rivelare ai giocatori un luogo dove possono trovare rifugio dal Diavolo Strahd.
 
-If the players agree, Donavich produces the key to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
-### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
+Se i giocatori accettano, Donavich produce la chiave del lucchetto in <span class="citation">E5d. Trapdoor (p. 45)</span> e permette loro di entrare. (Ismark rimane al piano di sopra con Ireena, riluttante a esporla a un vampiro — persino Doru — ma promette ai giocatori che si unirà a loro qualora Doru si rivelasse troppo pericoloso. Una prova di Saggezza (Intuizione) con CD 12 rivela che appare anche troppo inorridito dal destino di Doru per affrontarlo direttamente.)
+### Discesa nella Cripta
+La cripta è in gran parte come descritta in <span class="citation">E5g. Undercroft (p. 47)</span>. Tuttavia, modificate l'ultima frase della descrizione come segue:
 
 <div class="description">
-<p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
+<p>La luce delle candele dalla cappella soprastante filtra attraverso le fessure, ma non c'è traccia di alcuna creatura nell'oscurità.</p>
 </div>
 
-Doru, a **vampire spawn**, has used his ***spider climb*** feature to cling to the ceiling at the sound of the players’ approach. A player with a passive Wisdom (Perception) score of 16 or higher automatically spots him in the darkened upper corner on the far side of the room. Otherwise, read the following after one round has passed.
+Doru, un **vampire spawn**, ha usato la sua capacità ***spider climb*** per aggrapparsi al soffitto al suono dell’avvicinamento dei giocatori. Un giocatore con un punteggio passivo di Saggezza (Percezione) di 16 o superiore lo individua automaticamente nell’angolo superiore oscurato sul lato opposto della stanza. Altrimenti, leggete quanto segue dopo che è trascorso un round.
 
 <div class="description">
-<p>A young man’s voice, strained and tired, echoes from the darkness above. “You’ve come to kill me, haven’t you?"</p>
+<p>La voce di un giovane uomo, tesa e stanca, echeggia dall’oscurità in alto. “Siete venuti a uccidermi, vero?”</p>
 </div>
 
-Doru prefers to speak with the players from the safety of darkness, but won’t refuse if the players command him to reveal himself. If he does, read the following:
+Doru preferisce parlare con i giocatori dalla sicurezza dell’oscurità, ma non rifiuterà se i giocatori gli ordineranno di mostrarsi. Se lo fa, leggete quanto segue:
 
 <div class="description">
-<p>From the darkness of the cross beams above, a figure unfurls itself like a moth from its cocoon, moving like a spider as it lowers itself slowly to the ground. As it comes into the faint light, the shadow resolves into the form of a young man, his youthful features strikingly reminiscent of Father Donavich.</p>
-<p>His skin is ghostly pale, with dirt and grime streaked across his face. His clothes are ripped and worn, and his hair is an unkempt mess of tangles and knots. His eyes are red and bloodshot, his gaze darting from face to face. A leather cord hangs around his neck, holding a bloodstained bronze sunburst that rests against his chest. He swallows and licks his lips—and a pair of pointed fangs pokes through.</p>
-<p>"If you want to kill me, I won't stop you," he says, his voice cracking. "But I just have one request first."</p>
+<p>Dall'oscurità delle travi a croce in alto, una figura si dispiega come una falena dal suo bozzolo, muovendosi come un ragno mentre si cala lentamente a terra. Quando entra nella debole luce, l'ombra si risolve nella forma di un giovane uomo, i cui tratti giovanili ricordano in modo sorprendente Padre Donavich.</p>
+<p>La sua pelle è di un pallore spettrale, con sporcizia e sudiciume che gli striściano il volto. I suoi vestiti sono strappati e logori, e i suoi capelli sono un groviglio disordinato di nodi. I suoi occhi sono rossi e iniettati di sangue, lo sguardo che guizza da un volto all'altro. Un cordone di cuoio gli pende dal collo, reggendo un sole di bronzo macchiato di sangue che poggia sul suo petto. Deglutisce e si lecca le labbra — e un paio di zanne appuntite spunta fuori.</p>
+<p>"Se volete uccidermi, non vi fermerò," dice, con la voce rotta. "Ma ho solo una richiesta prima."</p>
 </div>
 <br>
 
@@ -938,214 +938,214 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 <span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 
-> [!profile]+ **Profile: Doru**
+> [!profile]+ **Profilo: Doru**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
+> **Informazioni di Interpretazione**
+> ***Risonanza.*** Doru dovrebbe ispirare compassione per le sue lotte contro la propria natura vampirica, lieve disagio per i suoi modi occasionalmente inumani, e affetto per la sua chiara dedizione al padre e a Gertruda.
 >
-> ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
+> ***Emozioni.*** Doru prova più spesso dolore, senso di colpa, vergogna, disperazione, rassegnazione e speranza.
 >
-> ***Motivations.*** Doru wants to reconcile with his father and ensure Gertruda's safety.
+> ***Motivazioni.*** Doru vuole riconciliarsi con suo padre e assicurare la sicurezza di Gertruda.
 >
-> ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
+> ***Ispirazioni.*** Quando interpretate Doru, ispiratevi a Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad) e Steve Harrington (Stranger Things).
 >
-> **Character Information**
-> ***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
+> **Informazioni sul Personaggio**
+> ***Persona.*** Agli occhi del mondo, Doru è un mostruoso e assetato di sangue vampire spawn. Per coloro di cui si fida, Doru è un uomo distrutto e colpevole, disperatamente desideroso di non ferire coloro che ama.
 >
-> ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
+> ***Morale.*** In combattimento, Doru cercherebbe di fuggire per evitare di ferire chiunque — ma se suo padre o Gertruda fossero in pericolo, lotterebbe ferocemente per proteggerli.
 >
-> ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+> ***Relazioni.*** Doru è il figlio di Padre Donavich, l'ex amico di Escher e il promesso sposo di Gertruda.
 
-> [!info]+ **Doru Will Remember That**
+> [!info]+ **Doru Se Ne Ricorderà**
 >
-> When the players’ conversation with Doru begins, secretly place a six-sided die on the table, with its top face showing a one. Each time the players antagonize or discourage Doru, increase the number on the die by one. Each time the players are encouraging or kind, decrease the number on the die by one. (The number can’t go below zero or above six.)
+> Quando inizia la conversazione dei giocatori con Doru, posizionate segretamente un dado a sei facce sul tavolo, con la faccia superiore che mostra un uno. Ogni volta che i giocatori provocano o scoraggiano Doru, aumentate il numero sul dado di uno. Ogni volta che i giocatori sono incoraggianti o gentili, diminuite il numero sul dado di uno. (Il numero non può scendere sotto zero né superare sei.)
 >
-> If the players agree to perform Doru’s experiment, roll a second six-sided die when the experiment begins. If the result on the second die is equal to or greater than the number on the first, Doru resists his vampiric addiction and the test ends successfully. If the result on the second die is less than the number on the first, however, Doru succumbs to his bloodlust and attacks the source of the blood.
+> Se i giocatori accettano di eseguire l’esperimento di Doru, tirate un secondo dado a sei facce quando l’esperimento ha inizio. Se il risultato del secondo dado è uguale o superiore al numero del primo, Doru resiste alla sua dipendenza vampirica e la prova si conclude con successo. Se il risultato del secondo dado è inferiore al numero del primo, tuttavia, Doru soccombe alla sua sete di sangue e attacca la fonte del sangue.
 >
-> For example, if the players antagonize Doru twice and offer no kindness or encouragement, the first die should show a three. If the second die rolls a one or a two, Doru attacks.
+> Per esempio, se i giocatori provocano Doru due volte e non offrono gentilezza né incoraggiamento, il primo dado dovrebbe mostrare un tre. Se il secondo dado ottiene un uno o un due, Doru attacca.
 
-Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
+La richiesta di Doru è semplice: per dimostrare a se stesso di poter controllare i suoi impulsi vampirici, vuole che i giocatori lo espongano all’odore di sangue fresco. Se riesce a trattenersi dall’attaccare per un minuto intero, vuole che i giocatori dicano a Padre Donavich che suo figlio è ancora vivo. Se non ci riesce, vuole che i giocatori lo uccidano. In entrambi i casi, non impedirà ai giocatori di prendere il simbolo sacro una volta completato l’esperimento.
 
-> [!abstract] **The Players Attack**
-> Doru doesn't fight to defend himself if attacked. Instead, he curls into a ball at the end of the room and pleads for the players to give him a chance—just one chance—to prove himself. If the players decline, Doru whimpers for his father to save him as he dies, though his pleas go unheard and unheeded.
+> [!abstract] **I Giocatori Attaccano**
+> Doru non combatte per difendersi se attaccato. Invece, si raggomitola in fondo alla stanza e supplica i giocatori di dargli una possibilità — una sola possibilità — di dimostrare il suo valore. Se i giocatori rifiutano, Doru piagnucola invocando suo padre perché lo salvi mentre muore, ma le sue suppliche restano inascoltate e ignorate.
 
-Doru can also share the following information with the players if asked:
+Doru può anche condividere le seguenti informazioni con i giocatori se interrogato:
 
-* As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
-* Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
-* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
-* With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
-* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
-* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Six nights ago, Strahd commanded Doru to return to the church and his father. 
-* Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
-* Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
+* Da bambino, Doru era rapito dalle storie del sole e della luce e della speranza che un tempo portava alla valle. Crescendo, imparò l’arte della spada da Ismark e studiò il libro *Van Richten’s Guide to Vampires* per imparare a distruggere i non morti. Sognava di distruggere un giorno il Diavolo del Castello Ravenloft e portare la libertà al suo popolo.
+* Sedici settimane fa, uno studioso straniero che si faceva chiamare Alanik Ray arrivò a Barovia e affittò una stanza nella dimora del borgomastro. Quando un enorme lupo crudele non morto attaccò un gruppo di bambini che si erano allontanati troppo dal villaggio, tuttavia, solo Doru vide "Alanik" respingerlo con abilità esperta — e quando il lupo fece cadere il cappello dalla testa di "Alanik," il suo aspetto cambiò magicamente, rivelandolo come il leggendario cacciatore di vampiri Dr. Rudolph van Richten.
+* Doru lo affrontò e insistette perché Van Richten guidasse il villaggio in rivolta contro il Castello Ravenloft. Sebbene Van Richten fosse riluttante all’inizio, alla fine accettò — a condizione che Doru gli permettesse di mantenere il suo travestimento. Due giorni dopo, Doru, aiutato da un uomo di nome Escher — il bardo del villaggio e il più vecchio amico di Doru — aveva radunato più di due dozzine di combattenti per marciare sulla fortezza.
+* Con l’aiuto di Van Richten, la folla abbatté tutte le guardie non morte che cercarono di sbarrargli la strada. Tuttavia, quando finalmente aprirono la cripta di Strahd, Escher era scomparso — e la bara di Strahd era vuota. (Se interrogato, Doru nega con forza che Escher li abbia traditi.)
+* Poco dopo, Strahd emerse dalle ombre e attaccò la folla con forza spietata. La maggior parte dei compagni di Doru fu uccisa. Doru stesso fu trasformato in un vampire spawn, e in seguito apprese che anche Escher aveva subito la stessa sorte. Doru non sa cosa sia successo a Van Richten, ma fu costretto a confessare l’identità del vecchio quando Strahd lo interrogò successivamente.
+* Doru trascorse quasi tre mesi al Castello Ravenloft, durante i quali Strahd lo costrinse ripetutamente a bere il sangue dei suoi ex compagni. Sei notti fa, Strahd ordinò a Doru di tornare alla chiesa e da suo padre.
+* Doru non può disobbedire agli ordini diretti di Strahd, e ne percepisce la presenza in ogni momento. La sua sete di sangue vampirica è una distrazione costante, ed è difficile controllare i suoi impulsi e istinti predatori. Quando tornò per la prima volta alla chiesa, fu quasi grato che suo padre lo avesse rinchiuso nella cripta, dove non poteva fare del male a nessuno.
+* Doru non sa se la sua anima o il suo corpo possano essere salvati, ma ha conservato il simbolo sacro di suo padre per ricordargli la sua fede e la sua famiglia, e per temprare la sua volontà contro le dipendenze della sua nuova forma. Senza di esso, sospetta che avrebbe perso il controllo giorni o persino settimane fa. (Doru non sa perché Strahd gli abbia permesso di tenerlo, ma sospetta che Strahd lo considerasse una forma di ironica beffa.)
 
-If the players ask about his argument with "Alanik," Doru admits, shamefacedly, that he forced Van Richten to accompany his rebels to the castle, threatening to march on Castle Ravenloft with or without Van Richten's help. (An enraged Van Richten ripped out the preface of Doru's copy of *Van Richten's Guide to Vampires*—which Doru bought from a Vistani caravan ten years prior—in order to make a point. "He warned me that faith and books meant nothing in the face of true evil," Doru murmurs. "I should have listened." Doru isn't sure what happened to the rest of the book.)
+Se i giocatori chiedono della sua discussione con "Alanik," Doru ammette, con vergogna, di aver costretto Van Richten ad accompagnare i suoi ribelli al castello, minacciando di marciare sul Castello Ravenloft con o senza l’aiuto di Van Richten. (Un Van Richten infuriato strappò la prefazione dalla copia di Doru di *Van Richten’s Guide to Vampires* — che Doru aveva comprato da una carovana Vistani dieci anni prima — per far capire il concetto. "Mi avvertì che la fede e i libri non significavano nulla di fronte al vero male," mormora Doru. "Avrei dovuto ascoltarlo." Doru non è sicuro di cosa sia successo al resto del libro.)
 
-As the conversation continues, Doru might ask the players:
+Man mano che la conversazione prosegue, Doru potrebbe chiedere ai giocatori:
 
-* whether Escher has been seen in the village, and
-* whether Doru’s betrothed, Gertruda, survived the siege.
+* se Escher è stato visto nel villaggio, e
+* se la promessa sposa di Doru, Gertruda, è sopravvissuta all’assedio.
 
-If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
-### Doru's Trial
-If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
+Se gli viene detto che Gertruda ha lasciato il villaggio da sola diretta a Vallaki — probabilmente in un tentativo avventato di salvare lo stesso Doru — Doru diventa visibilmente turbato, ma spera ad alta voce che abbia compiuto il viaggio in sicurezza. Chiede ai giocatori di tenerla d’occhio e di aiutarla a tornare a casa qualora la trovassero. Doru sente di aver meritato il suo destino, ma crede che Gertruda, una donna buona e compassionevole, meriti molto di meglio.
+### La Prova di Doru
+Se i giocatori accettano di esaudire la richiesta di Doru esponendolo al sangue fresco, egli chiede loro di rimanere in silenzio mentre resiste — e di abbatterlo se soccombe. Quando la prova ha inizio, leggete quanto segue:
 
 <div class="description">
-<p>Doru’s muscles tense and he squeezes his eyes shut. A few moments later, his nostrils flare, and a thin line of saliva begins to run down his lips. He whimpers, his clawed fingers flexing and twitching.</p>
-<p>"When the shadows come," he whispers, “I will not yield. Darkness is the destroyer, and temptation its weapon. I will face the night and its horrors and await the horizon. For in the light of the Morninglord's love, only light can remain."</p>
-<p>Doru's voice shakes, his emaciated body trembling. One fist is clenched at his side, the other squeezing the bloodstained sunburst that lies across his neck.</p>
-<p>"In the light of the Morninglord's love," he repeats, gasping for breath. "In the light of the Morninglord's love. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —"</p>
+<p>I muscoli di Doru si tendono e strizza gli occhi. Pochi istanti dopo, le sue narici si dilatano, e un sottile filo di saliva comincia a scorrere lungo le labbra. Geme, le sue dita artigliate che si flettono e si contraggono.</p>
+<p>”Quando le ombre verranno,” sussurra, “non cederò. L’oscurità è la distruttrice, e la tentazione è la sua arma. Affronterò la notte e i suoi orrori e attenderò l’orizzonte. Poiché nella luce dell’amore del Signore del Mattino, solo la luce può rimanere.”</p>
+<p>La voce di Doru trema, il suo corpo emaciato che sussulta. Un pugno è serrato al suo fianco, l’altro stringe il sole macchiato di sangue che giace sul suo collo.</p>
+<p>”Nella luce dell’amore del Signore del Mattino,” ripete, ansimando. “Nella luce dell’amore del Signore del Mattino. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —“</p>
 </div>
 
-If Doru succumbs to the bloodlust (see **Doru Will Remember That** above), he pauses, then attacks. Roll initiative.
+Se Doru soccombe alla sete di sangue (vedi **Doru Se Ne Ricorderà** sopra), si ferma, poi attacca. Tirate l'iniziativa.
 
-Otherwise, if Doru successfully resists the bloodlust, read:
+Altrimenti, se Doru resiste con successo alla sete di sangue, leggete:
 
 <div class="description">
-<p>After what seems like an eternity, Doru's body finally relaxes. His tense muscles seem to uncoil, his breath grows steadier, and the look of strain fades from his face. His eyes remain closed a moment longer, then flutter open—and the fangs in his mouth slowly retract, leaving only an ordinary pair of canines behind.</p>
-<p>"I have not yielded," he whispers hoarsely. "Not yet."</p>
+<p>Dopo quello che sembra un'eternità, il corpo di Doru finalmente si rilassa. I suoi muscoli tesi sembrano sciogliersi, il suo respiro si fa più regolare, e l'espressione di sforzo svanisce dal suo volto. I suoi occhi rimangono chiusi un istante ancora, poi si spalancano — e le zanne nella sua bocca si ritraggono lentamente, lasciando solo un paio di canini ordinari.</p>
+<p>"Non ho ceduto," sussurra con voce rauca. "Non ancora."</p>
 </div>
 
-Doru thanks the players and relinquishes the holy symbol without protest. If the players mention it, he is surprised to hear that his fangs have retracted, but recognizes the significance with humility and disbelief. (Doru has, after all, read *Van Richten's Guide to Vampires* many times.)
+Doru ringrazia i giocatori e cede il simbolo sacro senza protestare. Se i giocatori lo menzionano, è sorpreso di sentire che le sue zanne si sono ritratte, ma ne riconosce il significato con umiltà e incredulità. (Doru ha, dopotutto, letto *Van Richten's Guide to Vampires* molte volte.)
 
-Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel off the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
+Doru avverte i giocatori che Strahd probabilmente si interesserà attivamente ai nuovi arrivati nelle sue terre, e che dovrebbero quindi fare attenzione. Come pegno della sua gratitudine, fornisce ai giocatori la posizione di un deposito di armi nascosto che Van Richten teneva in caso di emergenza. Per raggiungerlo, i giocatori devono attraversare il Ponte sul Fiume Ivlis e allontanarsi dalla Vecchia Strada di Svalich trecento passi verso sud nel bosco, fino a raggiungere un'antica quercia. Troveranno il deposito nascosto in una cavità fra le radici dell'albero.
 
-If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
+Se i giocatori sembrano interessati a saperne di più sui vampiri, Doru può condividere le informazioni contenute in **Born from Death** e **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, così come i dettagli generali delle capacità **shapechanger***, **regeneration*** e **vampire weaknesses*** del blocco statistiche del **vampire**. Doru nota, tuttavia, che il Diavolo è diverso da qualsiasi altro vampiro. "Possiede poteri al di là della comprensione di qualsiasi vampiro ordinario. È... insondabile." Rabbrividisce, gli occhi che si serrano in un doloroso ricordo. (Doru non può condividere dettagli specifici sulle capacità di Strahd, solo che sembrava massacrare gli amici di Doru "in pochi istanti.")
 
-Before the players depart, Doru asks them once more to tell Father Donavich that his son is still alive. If asked to accompany them upstairs, he declines to do so. "I have sinned with my hubris, and this is my penance," he says softly. "I will leave this prison only when my father allows."
-### The Burial
-If the players return to Father Donavich with his holy symbol in hand, he accepts it with gratitude.
+Prima che i giocatori se ne vadano, Doru chiede loro ancora una volta di dire a Padre Donavich che suo figlio è ancora vivo. Se gli viene chiesto di accompagnarli al piano di sopra, rifiuta. "Ho peccato con la mia superbia, e questa è la mia penitenza," dice sommessamente. "Lascerò questa prigione solo quando mio padre me lo permetterà."
+### La Sepoltura
+Se i giocatori tornano da Padre Donavich con il suo simbolo sacro in mano, egli lo accetta con gratitudine.
 
-If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
+Se i giocatori dicono a Padre Donavich di aver ucciso Doru per ottenere il simbolo, leggete:
 
 <div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
-<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
-<p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
+<p>Gli occhi di Donavich si riempiono di lacrime mentre stringe il simbolo tra le mani, tenendolo così forte che le nocche cominciano a sbiancare. Un singhiozzo strozzato gli sfugge mentre cade in ginocchio, cullando il sole come un neonato.</p>
+<p>"Il mio ragazzo — il mio caro, prezioso ragazzo," mormora, la voce appena sopra un sussurro. "Che il Signore del Mattino mi perdoni per ciò che ho fatto — e per ciò che non sono riuscito a fare."</p>
+<p>Deglutisce e il suo volto si indurisce, la sua espressione che diventa dura come la pietra. "Andava fatto. Per il suo bene — e per il nostro."</p>
 </div>
 
-Otherwise, if the players spared Doru and relay his final message, read:
+Altrimenti, se i giocatori hanno risparmiato Doru e riferiscono il suo ultimo messaggio, leggete:
 
 <div class="description">
-<p>Donavich stumbles back as if he's been struck, his face pale and his eyes wide with shock. For a moment, he simply stands there, silent—and then the silence is broken by a pained noise, a cross between a gasp and a sob, as he clutches the symbol to his chest. </p>
-<p>His eyes glisten as he runs a trembling hand through his hair, a myriad of emotions playing across his face in quick succession: disbelief, rage, grief, shame, and—finally—hope. He sags against a nearby pew, his body shaking with exertion. </p>
-<p>"My boy," he chokes out. "He's—he's still my boy?" </p>
+<p>Donavich barcolla all'indietro come se fosse stato colpito, il volto pallido e gli occhi spalancati per lo shock. Per un momento, resta semplicemente lì, in silenzio — e poi il silenzio è spezzato da un suono di dolore, a metà tra un respiro affannoso e un singhiozzo, mentre stringe il simbolo al petto.</p>
+<p>I suoi occhi luccicano mentre passa una mano tremante tra i capelli, una miriade di emozioni che si susseguono rapide sul suo volto: incredulità, rabbia, dolore, vergogna, e — infine — speranza. Si accascia contro un banco vicino, il corpo scosso dallo sforzo.</p>
+<p>"Il mio ragazzo," riesce a dire con voce strozzata. "È — è ancora il mio ragazzo?"</p>
 </div>
 
-Once he’s received his holy symbol, Father Donavich gladly agrees to conduct Kolyan’s burial.
+Una volta ricevuto il suo simbolo sacro, Padre Donavich accetta volentieri di celebrare la sepoltura di Kolyan.
 
-The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</span>. At night, it is watched by two **swarms of bats**—spies of Strahd’s—who hang to the eaves of the church and the nearby mausoleums, watching the players.
+Il cimitero è come descritto in <span class="citation">E6. Cemetery (p. 48)</span>. Di notte, è sorvegliato da due **sciami di pipistrelli** — spie di Strahd — appesi alle grondaie della chiesa e dei mausolei vicini, che osservano i giocatori.
 
-Upon entering the cemetery, Donavich retrieves four shovels from a shed abutting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
+Entrando nel cimitero, Donavich recupera quattro pale da un capanno addossato alla chiesa e le condivide con i giocatori. Quando la fossa è completamente scavata e l’alba è iniziata, Donavich offre preghiere al Signore del Mattino, chiedendo la liberazione di Kolyan nel seguente ritornello:
 
 <div class="description" style="text-align: center;">
-<p>O Morninglord</p>
-<p>Lord of blessed light and patron of new beginnings</p>
-<p>We commend into thy mercy and thy radiance Master Kolyan Indirovich</p>
-<p>Now departed hence from us and gone evermore into your glory.</p>
-<p>We beseech thee to grant unto him thy mercy and everlasting peace</p>
-<p>As thou deliver'st him from this everlasting darkness into infinite light</p>
-<p>From pestilence into growth</p>
-<p>From shadow into day</p>
-<p>And from death into new life.</p>
-<p>Grant him entrance into Your land of light and joy</p>
-<p>In the fellowship of thy saints</p>
-<p>And the brilliance of thy presence</p>
-<p>By Your will and grace.</p>
+<p>O Signore del Mattino</p>
+<p>Signore della luce benedetta e patrono dei nuovi inizi</p>
+<p>Raccomandiamo alla Tua misericordia e al Tuo splendore il Maestro Kolyan Indirovich</p>
+<p>Ora dipartito da noi e andato per sempre nella Tua gloria.</p>
+<p>Ti supplichiamo di concedergli la Tua misericordia e la pace eterna</p>
+<p>Come Tu lo liberi da queste tenebre sempiterne nella luce infinita</p>
+<p>Dalla pestilenza alla crescita</p>
+<p>Dall'ombra al giorno</p>
+<p>E dalla morte a nuova vita.</p>
+<p>Concedigli l'ingresso nella Tua terra di luce e gioia</p>
+<p>Nella comunione dei Tuoi santi</p>
+<p>E nello splendore della Tua presenza</p>
+<p>Per Tua volontà e grazia.</p>
 </div>
 
-At the conclusion of Donavich’s prayer, Ismark and Ireena offer the following words in memory of their father:
+Alla conclusione della preghiera di Donavich, Ismark e Ireena offrono le seguenti parole in memoria del loro padre:
 
 <div class="description">
-<p>Ismark wipes his eyes. "Kolyan Indirovich bore all the qualities of a great burgomaster: he was kind, compassionate, and just. But above all else, he was our father—the man who taught us to choose courage over fear, hope over despair, and laughter over sorrow. Even though he has left us, his lessons and memory never will. May he find rest in the Morninglord's embrace, and may his legacy be never forgotten."</p>
-<p>Ireena stares at the grave for a few moments, her fingers twisting anxiously into knots. Finally, she says, quietly, "When you found me, I was a stranger—a child, lost in the woods. You and Mother took me in, cared for me, and loved me as your own. When I asked you why, you only ever said: Because I needed it." She falters, choking on the words, then says: "I can never hope to repay what you gave me. But, just as you did, I will never stop trying to help those who need it."</p>
+<p>Ismark si asciuga gli occhi. "Kolyan Indirovich possedeva tutte le qualità di un grande borgomastro: era gentile, compassionevole e giusto. Ma soprattutto, era nostro padre — l'uomo che ci ha insegnato a scegliere il coraggio sulla paura, la speranza sulla disperazione, e la gioia sul dolore. Anche se ci ha lasciati, i suoi insegnamenti e il suo ricordo non lo faranno mai. Possa trovare riposo nell'abbraccio del Signore del Mattino, e possa la sua eredità non essere mai dimenticata."</p>
+<p>Ireena fissa la tomba per qualche istante, le dita che si torcono ansiosamente in nodi. Infine, dice, sommessamente, "Quando mi trovasti, ero un'estranea — una bambina, persa nei boschi. Tu e la Mamma mi accoglieste, vi prendeste cura di me, e mi amaste come se fossi vostra. Quando ti chiesi perché, rispondesti soltanto: Perché ne avevi bisogno." Esita, soffocata dalle parole, poi dice: "Non potrò mai sperare di ripagare ciò che mi avete dato. Ma, proprio come facesti tu, non smetterò mai di cercare di aiutare chi ne ha bisogno."</p>
 </div>
 
-Any players who wish to may offer words, prayers, or tributes of their own. 
+Tutti i giocatori che lo desiderano possono offrire parole, preghiere o tributi propri.
 
-If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground. 
+Se ha recuperato il suo simbolo sacro, Donavich lancia dapprima *gentle repose* per santificare le spoglie di Kolyan. Donavich quindi indica ai giocatori di calare la bara nella fossa.
 
-With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
+Con la sepoltura conclusa, i pipistrelli di Strahd si alzano in volo, svanendo nella nebbia che circonda la base del Castello Ravenloft.
 
-Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
+Donavich considera la presenza dei pipistrelli un cattivo presagio. In un momento di sorprendente lucidità, avverte i giocatori e Ismark di una superstizione Baroviana secondo cui le giovani donne con i capelli rossi spesso trovano la sfortuna al loro fianco, e chiede se Ireena intenda restare a Barovia ora che il Diavolo si è risvegliato. Se gli viene detto che Ireena e i giocatori intendono partire, Donavich suggerisce l’Abbazia di St. Markovia a Krezk come eventuale destinazione. Nota che un tempo era un bastione del bene, e potrebbe ancora offrire una qualche protezione.
 
-> [!lore] **Who Knows of the Abbey?**
-> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
-### Return to the Mansion
-When the players return to the burgomaster’s manor following the burial, Ismark packs them three days' worth of rations in cloth sacks for the journey to come. As he does, Ireena tells the players that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
+> [!lore] **Chi Conosce l’Abbazia?**
+> Tutti i Baroviani sanno che l’Abbazia di St. Markovia si trova nel villaggio di Krezk. La maggior parte delle persone al di fuori di Krezk non è certa se sia ancora operativa, sebbene circolino voci che Strahd l’abbia distrutta molto tempo fa, lasciando nient’altro che fantasmi a infestare le sue sale. Alcuni Vallakiani, incluso Padre Lucian Petrovich della Chiesa di St. Andral, sanno che l’Abbazia fu riaperta più di cento anni fa, ma nessuno al di fuori di Krezk sa che l’attuale abate dell’Abbazia è lo stesso uomo che ne riaprì le porte oltre un secolo fa.
+### Ritorno alla Dimora
+Quando i giocatori tornano alla dimora del borgomastro dopo la sepoltura, Ismark prepara loro tre giorni di razioni in sacchi di tela per il viaggio a venire. Mentre lo fa, Ireena dice ai giocatori che sarà pronta a partire a mezzogiorno. Fino ad allora, i giocatori sono liberi di esplorare il villaggio, fare acquisti al Mercantile di Bildrath, o passare il tempo in altro modo.
 
-As Ismark packs the rations, he can share the following information:
+Mentre Ismark prepara le razioni, può condividere le seguenti informazioni:
 
-* The journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given Madam Eva's reputation.)
-## B5j. Lugdana's Knoll
-Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
+* Il viaggio per Vallaki richiede più di un giorno se i giocatori intendono visitare prima il Tser Pool, e che Ireena e i giocatori dovranno probabilmente trascorrere una notte in viaggio. Raccomanda di farlo al Tser Pool stesso.
+* Il Tser Pool dista poco meno di due ore di cammino da Barovia. (Sebbene si vocifera che alcuni Vistani siano in combutta con Strahd, il Tser Pool è noto come un luogo sicuro dove i viaggiatori possono trascorrere la notte, specialmente data la reputazione di Madam Eva.)
+## B5j. La Collina di Lugdana
+Circa un'ora prima di mezzogiorno, [[Non-Player Characters#Ireena Kolyana|Ireena]] esce silenziosamente dalla dimora, dirigendosi verso la Collina di Lugdana, una piccola e tranquilla altura a nord di Barovia. (La collina prende il nome dalla paladina Lugdana, che, secondo la leggenda, incontrò per la prima volta il Borgomastro Ismark Antonovich il Grande su quella collina.)
 
-Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for Gertruda—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
+Poco prima di mezzogiorno, se i giocatori non l'hanno tenuta d'occhio, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] — che sta attualmente raccogliendo il rapporto di una coppia di **esploratori** Baroviani riguardo alla loro infruttuosa ricerca di Gertruda — nota l'assenza di Ireena con lieve preoccupazione e chiede ai giocatori di trovarla e riportarla a casa.
 
-Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
+Poiché Strahd e i suoi servitori hanno visitato solo di notte, Ismark non è particolarmente allarmato dall'assenza di Ireena, ma vuole comunque vederla riportata a casa il più rapidamente possibile. Ismark consiglia ai giocatori di controllare prima la Collina di Lugdana — uno dei luoghi preferiti di Ireena nei dintorni del villaggio — e fornisce brevi indicazioni per raggiungerla.
 
-If the players visit the knoll, read:
+Se i giocatori visitano la collina, leggete:
 
 <div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
+<p>Mentre attraversate il mare di erbe alte a nord del villaggio, una dolce collina si erge dinanzi a voi, delimitata sul lato opposto dalle grinfie dell'oscuro Bosco di Svalich. Piante dai fiori bianchi e piumosi e dal profumo dolce e terroso sembrano danzare tra l'erba in cima alla collina, le loro foglie che frusciamo in un vento sussurrante.</p>
+<p>Un albero solitario si erge in cima alla collina, i suoi rami nodosi protesi verso il cielo come braccia tese. Sotto la sua ombra è inginocchiata una figura femminile, lo sguardo fisso a terra.</p>
 </div>
 
-The figure is Ireena, who has donned her chestplate and rapier and now wears a red scarf around her neck. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
+La figura è Ireena, che ha indossato la sua corazza e lo stocco e ora porta una sciarpa rossa attorno al collo. Mentre i giocatori si avvicinano, possono vedere che sta usando una cazzuola per scavare un buco nella terra tra le radici dell'albero. Ireena, concentrata sul suo lavoro, non nota i giocatori finché non la chiamano o entrano altrimenti nel suo campo visivo.
 
-Ireena greets the players with warmth, though with some embarrassment for having driven them to come search for her. She shares freely that she is digging for a small wooden chest that she and her mother, Korina Targolova, buried here before her mother's death fourteen years ago—a coffer whose contents she hopes to take as a keepsake when she departs for Vallaki, given that she doesn't know when, if ever, she'll be able to return home.
+Ireena accoglie i giocatori con calore, sebbene con un certo imbarazzo per averli spinti a venire a cercarla. Condivide liberamente che sta scavando alla ricerca di una piccola cassetta di legno che lei e sua madre, Korina Targolova, seppellirono qui prima della morte della madre quattordici anni fa — un cofanetto il cui contenuto spera di portare come ricordo quando partirà per Vallaki, dato che non sa quando, se mai, potrà tornare a casa.
 
-If allowed to finish unearthing the chest, Ireena opens it, revealing its contents. The chest contains a silver bracelet set with gemstones, a pressed aster flower, a wooden charm in the shape of the yarrow flower on a leather cord, and a handkerchief with floral patterns.
+Se le viene permesso di finire di dissotterrare la cassetta, Ireena la apre, rivelandone il contenuto. La cassetta contiene un braccialetto d'argento incastonato di gemme, un fiore di astro pressato, un ciondolo di legno a forma di fiore di achillea su un cordone di cuoio, e un fazzoletto con motivi floreali.
 
-The flower (which Ireena found and her mother pressed), charm (which Ireena's mother wore as an apprentice to the town's healer), and handkerchief (which Ireena's mother helped her to sew) are all mementos of Ireena's childhood with her mother. The bracelet is an item that Ireena was found carrying when Kolyan found her in the Svalich Wood, which Korina kept as a memento of their "miracle child" after she learned that she could bear no more children.
+Il fiore (che Ireena trovò e sua madre pressò), il ciondolo (che la madre di Ireena portava quando era apprendista del guaritore del paese), e il fazzoletto (che la madre di Ireena la aiutò a cucire) sono tutti ricordi dell'infanzia di Ireena con sua madre. Il braccialetto è un oggetto che Ireena portava con sé quando Kolyan la trovò nel Bosco di Svalich, che Korina conservò come ricordo della loro "bambina miracolosa" dopo aver appreso che non poteva più avere figli.
 
-The bracelet holds no sentimental value for Ireena, and she doesn't remember why she was carrying it when Kolyan first found her, or where she obtained it. She offers it to the players as a gift for their agreement to escort her to Vallaki, as compensation for their trouble.
+Il braccialetto non ha valore sentimentale per Ireena, e non ricorda perché lo portasse con sé quando Kolyan la trovò per la prima volta, né dove lo avesse ottenuto. Lo offre ai giocatori come dono per aver accettato di scortarla a Vallaki, come compenso per il loro disturbo.
 
-The silver bracelet, which is tarnished and clearly hundreds of years old, is worth 100 gp and bears an intricate pattern of the moon and stars along the exterior, with a moonstone gem embedded at the center of the moon and five lapis-lazuli serving as the stars. On the inside of the bracelet, in tiny, elegant script, the following message is engraved in Common: "Tatyana: May you find your path, and may you find light even in the darkest places—Mother & Father."
+Il braccialetto d'argento, che è ossidato e chiaramente vecchio di centinaia di anni, vale 100 mo e reca un intricato motivo di luna e stelle lungo l'esterno, con una gemma di pietra di luna incastonata al centro della luna e cinque lapislazzuli che fungono da stelle. All'interno del braccialetto, in caratteri minuscoli ed eleganti, è inciso il seguente messaggio in Comune: "Tatyana: Possa tu trovare la tua strada, e possa tu trovare la luce anche nei luoghi più oscuri — Madre e Padre."
 
-Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
+Ireena non sa chi sia Tatyana. (All'insaputa di Ireena, il braccialetto era un regalo dei genitori di Tatyana Federovna per il diciottesimo compleanno di Tatyana. Fu perso nel Bosco di Svalich quando Tatyana si gettò nel vuoto dalla terrazza del Castello Ravenloft.)
 
-After sharing the items in the chest, Ireena removes her scarf, revealing the bite marks on her neck. As she traces her fingers along them, she grimaces. "I don't know why he hasn't killed me or turned me," she says, gritting her teeth as her hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
+Dopo aver condiviso gli oggetti nella cassetta, Ireena rimuove la sciarpa, rivelando i segni dei morsi sul collo. Mentre ne traccia il contorno con le dita, fa una smorfia. "Non so perché non mi abbia uccisa o trasformata," dice, stringendo i denti mentre le mani si serrano a pugno. "Non so se questo sia una sorta di gioco malato che sta facendo, o se semplicemente gli piace vedere la gente soffrire."
 
-The anger leaves her as she adds, her voice tightening, "They say women with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (She is grateful for any reassurances the players might offer.)
+La rabbia la lascia mentre aggiunge, con la voce che si fa tesa, "Dicono che le donne con i capelli rossi portino sfortuna. Mi dispiace — non ho mai voluto portarne a voi." (È grata per qualsiasi rassicurazione i giocatori possano offrire.)
 
-Ireena gladly returns to the mansion with the players, or returns on her own shortly after noon if the players failed to find her. She then retrieves a packed traveling bag from her room.
+Ireena torna volentieri alla dimora con i giocatori, o torna da sola poco dopo mezzogiorno se i giocatori non sono riusciti a trovarla. Recupera quindi una borsa da viaggio già preparata dalla sua stanza.
 
-When the players are ready to leave, Ireena bids Ismark a heartfelt farewell and sets off on the road.
+Quando i giocatori sono pronti a partire, Ireena saluta Ismark con un addio sentito e si mette in cammino.
 
-**_Milestone_**. Defending the village and burying the Burgomaster completes a story milestone. If the players depart Barovia with Ireena accompanying them, award each player 400 XP. If Doru successfully passed his test of will, award each player an additional 100 XP.
+**_Traguardo_**. Difendere il villaggio e seppellire il borgomastro completa un traguardo della storia. Se i giocatori partono da Barovia con Ireena che li accompagna, assegnate a ogni giocatore 400 XP. Se Doru ha superato con successo la sua prova di volontà, assegnate a ogni giocatore ulteriori 100 XP.
 
-> [!info]+ **Ireena Joins the Party**
+> [!info]+ **Ireena Si Unisce al Gruppo**
 >
-> Ireena has the statistics of an **expert sidekick (Tasha's Cauldron of Everything, p. 142)**, using the base stat block of a **noble**, and carries a light crossbow (+3 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage). She also has the <span class="citation">Healer (Player's Handbook, p. 167)</span> feat, and begins with two *healer's kits*.
+> Ireena ha le statistiche di un **compagno esperto (Tasha's Cauldron of Everything, p. 142)**, usando il blocco statistiche base di un **noble**, e porta una balestra leggera (+3 al tiro per colpire, gittata 80/320 ft., un bersaglio. _Colpito:_ 5 (1d8 + 1) danni perforanti). Possiede inoltre il talento <span class="citation">Healer (Player's Handbook, p. 167)</span>, e inizia con due *healer's kits*.
 >
-> Ireena's starting level is the same as the average level of the party at the time she first joins them. She begins with additional proficiencies in History, Investigation, Medicine, Perception, and Stealth, and proficiency in Dexterity saving throws. When she first joins the party at 3rd level, she has 25 (5d8) hit points.
+> Il livello iniziale di Ireena è lo stesso del livello medio del gruppo al momento in cui si unisce per la prima volta. Inizia con competenze aggiuntive in Storia, Indagare, Medicina, Percezione e Furtività, e con competenza nei tiri salvezza di Destrezza. Quando si unisce al gruppo al 3° livello, ha 25 (5d8) punti ferita.
 >
 > Ireena also gains a level whenever the party does, whether or not she accompanied them, ending the adventure at 10th level. (See <span class="citation">Tasha’s Cauldron of Everything, p. 142</span> for more information about how to run and level sidekicks.)
 >
-> By default, Ireena chooses the following sidekick options as she gains levels:
+> Per impostazione predefinita, Ireena sceglie le seguenti opzioni da compagno man mano che sale di livello:
 >
-> - **3rd Level.** Ireena gains expertise in the Insight and Medicine skills.
-> - **4th Level.** Ireena’s Dexterity score increases by 2 to 14.
-> - **8th Level.** Ireena’s Dexterity score increases by 2 to 16.
-> - **10th Level.** Ireena’s Dexterity score increases by 2 to 18.
+> - **3° Livello.** Ireena ottiene competenza superiore nelle abilità Intuizione e Medicina.
+> - **4° Livello.** Il punteggio di Destrezza di Ireena aumenta di 2 a 14.
+> - **8° Livello.** Il punteggio di Destrezza di Ireena aumenta di 2 a 16.
+> - **10° Livello.** Il punteggio di Destrezza di Ireena aumenta di 2 a 18.
 >
-> None of Strahd's servants or monsters—regardless of their intelligence, and least of all Strahd himself—ever attack Ireena.
-## B5k. Mad Mary’s Townhouse
-<span class="citation"><em>This scene takes place in Chapter 3: Area E3.</em></span>
+> Nessuno dei servitori o dei mostri di Strahd—indipendentemente dalla loro intelligenza, e men che meno Strahd stesso—attacca mai Ireena.
+## B5k. La Casa di Mary la Pazza
+<span class="citation"><em>Questa scena si svolge nel Capitolo 3: Area E3.</em></span>
 
-There should be no reason for the players to visit <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in this revision. However, if they do, the following changes have been made:
+Non dovrebbe esserci motivo per i giocatori di visitare <span class="citation">Mad Mary’s Townhouse (p. 44)</span> in questa revisione. Tuttavia, se lo fanno, sono state apportate le seguenti modifiche:
 
-Mad Mary did not hide Gertruda in this house for her entire life. Instead, Gertruda lived a fairly ordinary life—albeit one with a fairly overbearing widowed mother. (Ireena and Gertruda initially bonded as young girls over the loss of their parents—Ireena's mother and Gertruda's father.) When he was alive, Gertruda’s father was a merchant who raised Gertruda on stories of great lords and ladies, using their family’s meager funds to purchase her occasional books from Vistani caravans regarding diplomacy and military history.
+Mary la Pazza non ha nascosto Gertruda in questa casa per tutta la vita. Invece, Gertruda ha vissuto una vita abbastanza ordinaria — seppur con una madre vedova piuttosto opprimente. (Ireena e Gertruda strinsero amicizia da bambine per la perdita dei rispettivi genitori — la madre di Ireena e il padre di Gertruda.) Quando era vivo, il padre di Gertruda era un mercante che crebbe Gertruda con storie di grandi signori e dame, usando i magri fondi della famiglia per acquistarle occasionalmente libri dalle carovane Vistani riguardanti la diplomazia e la storia militare.
 
-The first floor of this old, dirty dwelling comprises a one-room divided living space. To the north lies a small kitchen, its countertops dirty and covered with dust. There is a broken glass on the floor and a rotted meal for two set on a table covered with a dirty blue tablecloth. (Mary poured herself a glass of wine to steady her nerves after realizing Gertruda's disappearance, and dropped it on the floor in anguish.)
+Il piano terra di questa vecchia e sudicia abitazione comprende uno spazio abitativo a stanza unica divisa. A nord si trova una piccola cucina, i cui ripiani sono sporchi e coperti di polvere. C’è un bicchiere rotto sul pavimento e un pasto marcio per due apparecchiato su un tavolo coperto da una tovaglia blu sporca. (Mary si versò un bicchiere di vino per calmare i nervi dopo aver scoperto la scomparsa di Gertruda, e lo lasciò cadere sul pavimento per l’angoscia.)
 
-A small sitting area to the south contains a fireplace, two comfortable armchairs, and a dirty rug. Stairs lead up from here to the second floor.
+Una piccola zona salotto a sud contiene un camino, due comode poltrone e un tappeto sporco. Le scale portano da qui al secondo piano.
 
-The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.) 
+Il corridoio del secondo piano contiene tre porte di legno. Una conduce a un bagno con un vaso da notte non svuotato e una bacinella di acqua sporca. Un’altra conduce alla camera da letto di Mary, che contiene una scrivania e un letto. (Se trovata qui, Mary è seduta sul letto, che singhiozza sommessamente.)
 
-The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
+La terza porta, che è leggermente socchiusa, conduce alla camera da letto di Gertruda; un vassoio con un bollitore e una tazza rotti si è frantumato sul pavimento davanti ad essa. (Mary stava portando il tè a Gertruda quando scoprì la figlia scomparsa, e lo lasciò cadere per l’orrore.)
 
-Gertruda's room holds a clumsily handwoven dress and a shelf holding a dozen well-read, dog-eared books, as well as a hairbrush, a rug, and an open window.
+La stanza di Gertruda contiene un vestito tessuto a mano in modo maldestro e una mensola con una dozzina di libri ben letti e con le orecchie, oltre a una spazzola, un tappeto e una finestra aperta.
