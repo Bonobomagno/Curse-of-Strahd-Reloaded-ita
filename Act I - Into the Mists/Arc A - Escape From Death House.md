@@ -570,11 +570,11 @@ Questa stanza è in gran parte come descritta in **Children’s Room** (p. 215-1
 >
 > ***Relazioni.*** Thorn è il fratello minore di Rose Durst, fratellastro di Walter Durst, e il figlio più giovane di Elisabeth e Gustav Durst.
 
-In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
+In vita, Rose era una maga in erba che scoprì un piccolo libro di incantesimi nella biblioteca del padre, e si prese grande cura nel copiare i trucchetti _mending_, _light_ e _shocking grasp_ nel suo diario.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
-As the ghost children speak with the players, Thorn levitates one of his toys into the air, which falls and breaks. Rose swiftly uses her _mending_ spell to repair it. If her use of magic is remarked upon, she shyly shares her diary’s location, which can be found hidden in the cobweb-covered pillowcase on her bed.
+Mentre i bambini fantasma parlano con i giocatori, Thorn fa levitare uno dei suoi giocattoli in aria, che cade e si rompe. Rose usa prontamente il suo incantesimo _mending_ per ripararlo. Se qualcuno fa notare il suo uso della magia, lei condivide timidamente la posizione del suo diario, che si trova nascosto nella federa coperta di ragnatele sul suo letto.
 
-In addition to her cantrips, Rose’s aged and faded diary also contains entries regarding her studies, her friends, her younger brother, her nursemaid (“Miss Klara”), and arguments between her mother and father. (Rose doesn't know anything about the content of those fights.)
+Oltre ai suoi trucchetti, il diario invecchiato e sbiadito di Rose contiene anche annotazioni riguardanti i suoi studi, i suoi amici, il suo fratellino, la sua bambinaia (“Miss Klara”) e i litigi tra sua madre e suo padre. (Rose non sa nulla del contenuto di quei litigi.)
 
 Rose knows the way down to the basement, but “isn’t supposed to go down there.” If the party convinces her to show them the way, she points them toward the dollhouse, revealing the secret entry. In exchange, she asks the players to take her and Thorn's bones with them when they escape, burying them in the garden outside. 
 
@@ -896,35 +896,35 @@ Questa stanza è in gran parte come descritta in <span class="citation">Cult Lea
 Questa stanza è in gran parte come descritta in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
-<p>The room is suffused with a familiar stench of death—but far stronger, mixing with a noxious scent that fills your lungs with every breath.</p>
+<p>Questa stanza contiene un grande letto con struttura in legno, il materasso di piume marcito da anni di inutilizzo. Un vecchio armadio di legno intagliato con volti demoniaci si erge contro la parete a sinistra, e un baule di legno sbiadito giace silenziosamente ai piedi del letto.</p>
+<p>La stanza è pervasa da un familiare fetore di morte—ma assai più forte, mescolato con un odore nauseante che vi riempie i polmoni a ogni respiro.</p>
 </div>
 
-The wardrobe contains several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
+L’armadio contiene diverse vecchie vesti, un paio di candelabri di ferro e una cassa aperta contenente trenta torce e un sacco di pelle con quindici candele all’interno. Un aroma di putrefazione emana anche da un paio di organi marci—un fegato mezzo mangiato e un intestino rosicchiato—nascosti sotto gli orli delle vesti.
 
-Folded inside the foot locker, on top of its other contents, is a **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> made of the recognizable flayed skin of Gustav Durst. When the foot locker is opened, the **boneless** springs out to attack the nearest creature.
+Ripiegato all’interno del baule, sopra il resto del contenuto, si trova un **boneless** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 228)</span> fatto della riconoscibile pelle scuoiata di Gustav Durst. Quando il baule viene aperto, il **boneless** balza fuori per attaccare la creatura più vicina.
 
-> [!combat]- **Combat - Boneless**
-> **Combat Level**: Mild
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 15%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - Boneless**
+> **Livello di Combattimento**: Lieve
+> **Livello Personaggio Previsto**: 2
+> **Consumo PF Previsto:** 15%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
 > | Boneless | 1 | 1 | 1 | 1 |
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
-> 
-> | Number of Players | Modification |
+>
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l’incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 |  <ul><li>Reduce the boneless’ hit points to 16.</li><li>Reduce its slam ***attack*** and its ***crushing embrace*** action to 3 (1d4+1) damage each.</li></ul> |
-> | 4 | <ul><li>Reduce the boneless’ hit points to 21.</li><li>Reduce its ***slam*** attack and its ***crushing embrace*** action to 4 (1d4+2) damage each.</li></ul> |
-> | 6 | <ul><li>Increase the boneless’ hit points to 31.</li><li>Increase its ***slam*** attack and its ***crushing embrace*** action to 6 (1d6+3) damage each.</li></ul> |
+> | 3 |  <ul><li>Riducete i punti ferita del boneless a 16.</li><li>Riducete il suo attacco ***slam*** e la sua azione ***crushing embrace*** a 3 (1d4+1) danni ciascuno.</li></ul> |
+> | 4 | <ul><li>Riducete i punti ferita del boneless a 21.</li><li>Riducete il suo attacco ***slam*** e la sua azione ***crushing embrace*** a 4 (1d4+2) danni ciascuno.</li></ul> |
+> | 6 | <ul><li>Aumentate i punti ferita del boneless a 31.</li><li>Aumentate il suo attacco ***slam*** e la sua azione ***crushing embrace*** a 6 (1d6+3) danni ciascuno.</li></ul> |
 
-No **ghasts** attack if a player removes any items from the foot locker, and there are no hidden cavities behind the walls.
+Nessun **ghast** attacca se un giocatore rimuove oggetti dal baule, e non ci sono cavità nascoste dietro le pareti.
 ## A2g. The Dungeon
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
