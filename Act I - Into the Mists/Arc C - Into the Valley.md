@@ -1,382 +1,382 @@
-*An adventure for five 3rd-level characters.*
+*Un’avventura per cinque personaggi di 3° livello.*
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+In questo arco, i giocatori partono dal villaggio di Barovia diretti al Tser Pool e alla città di Vallaki. Mentre attraversano i boschi, possono incontrare una coppia di **esploratori** Baroviani alla ricerca di una famiglia scomparsa, distrarre o combattere un’orda di **zombi**, e recuperare un deposito di armi lasciato dal Dr. Rudolph van Richten.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
+Al loro arrivo all’Incrocio del Fiume Ivlis, i giocatori incontrano Strahd von Zarovich per la prima volta, accompagnato da Escher, uno dei suoi consorti vampirici. Dopo una conversazione tesa, i giocatori possono dirigersi a nord verso il Tser Pool.
 
-On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
+Lungo la strada per il Tser Pool, i giocatori incontrano un corvo — la **wereraven** travestita Muriel Vinshaw — in fuga da un mostruoso **strix**, uno spaventapasseri dei cieli creato dalla strega delle paludi Baba Lysaga. Se i giocatori difendono Muriel dall’assalto dello strix, ella si unisce a loro per il resto del viaggio verso Vallaki, senza tuttavia rivelare la sua vera identità.
 
-Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them. 
+Poco dopo, i giocatori arrivano finalmente all’accampamento Vistani al Tser Pool. Lì, ricevono una lettura magica dei Tarokka da Madam Eva, che predice la posizione di tre artefatti che li assisteranno nella lotta contro Strahd, nonché un alleato destinato ad aiutarli.
 
-While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
+Durante la permanenza al Tser Pool, i giocatori ascoltano racconti Vistani sulla storia di Strahd e sul *Holy Symbol of Ravenkind*, e possono anche incontrare Arturi Radanavich, un Vistano errante che afferma di aver conosciuto Rudolph van Richten. Quando i giocatori partono, ricevono anche una missione da Madam Eva per acquistare un giocattolo a Vallaki da consegnare alla sua pronipote, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+Se i giocatori hanno il compito di scortare Ireena alla Chiesa di St. Andral a Vallaki, o se hanno le proprie ragioni per farlo, tornano quindi sulla Vecchia Strada di Svalich passando per l’Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso le montagne. Lungo il cammino, incontrano uno strano cavaliere scheletrico, un paio di tombe fresche, un revenant vigile, la **night hag** Morgantha nel suo travestimento da venditrice ambulante, due stormi di **corvi** amichevoli, e un **lupo mannaro** accompagnato dal suo branco di **lupi** famelici.
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
+Al loro arrivo a Vallaki, i giocatori possono trovare alloggio alla Locanda dell’Acqua Blu. Lì, possono incontrare una serie di personaggi pittoreschi, tra cui il direttore di circo Rictavio e i figli di Lady Fiona Wachter. Quando arriva il mattino, i giocatori possono anche avere un incontro fatale con il Barone Vargas Vallakovich e il suo brutale esecutore, Izek Strazni...
 
-> [!warning]+ **The Road From Tser Pool**
+> [!warning]+ **La Strada dal Tser Pool**
 >
-> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
+> La mappa del modulo di Barovia raffigura una linea tratteggiata che sembra collegare l’Accampamento del Tser Pool alle Cascate di Tser. Nonostante l’apparenza, <span class="citation">Tser Falls (p. 37)</span> chiarisce che questa non è una scorciatoia. Invece, questa linea tratteggiata è un sentiero che conduce alla base delle Cascate di Tser, trecento metri sotto il ponte sovrastante. In nessun punto si riconnette effettivamente alla strada principale.
 >
-> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
+> Per viaggiare dall’Accampamento del Tser Pool a Vallaki, i giocatori dovranno invece viaggiare verso sud, tornando verso l’Incrocio del Fiume Ivlis, per poi prendere la Vecchia Strada di Svalich verso ovest.
 
-> [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
-# C1. The Svalich Woods
-The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
-## C1a. The Barovian Scouts
-As the players travel, read:
+> [!info]+ **Nessun Incontro Casuale**
+> Questa guida incorpora il materiale del modulo originale *Curse of Strahd* solo per riferimento. Pertanto, ogni volta che i giocatori viaggiano, dovreste ignorare la sezione <span class="citation">Random Encounters (p. 28)</span> eccetto dove un particolare incontro è referenziato e incorporato direttamente.
+# C1. I Boschi di Svalich
+Il viaggio dal villaggio di Barovia all’Incrocio del Fiume Ivlis è lungo tre miglia e richiede un’ora.
+## C1a. Gli Esploratori Baroviani
+Mentre i giocatori viaggiano, leggete:
 
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
+<div class=”description”><p>Vi mettete in marcia dal silenzioso villaggio di Barovia, la nebbia che striscia intorno ai vostri piedi mentre imboccate la Vecchia Strada di Svalich. Un mare di erbe alte, verde pallido, si estende davanti a voi su entrambi i lati della strada, fino al bordo del Fiume Ivlis. Il cielo sopra è di un grigio spento, le nuvole gravide della promessa di pioggia.</p>
+<p>Non passa molto prima che possiate scorgere in lontananza il vecchio ponte di pietra ad arco che attraversa il limpido fiume azzurro più avanti. Attraversandolo, vi ritrovate su una strada fangosa che si snoda tra gli alberi. L’aria è densa del profumo di terra umida e foglie in decomposizione, e gli alberi si stringono vicini, proiettando ombre profonde che scavano solchi scuri attraverso la strada.</p></div>
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+Se qualche giocatore ha un punteggio passivo di Saggezza (Percezione) di 16 o superiore, sente un fruscio e vede una sagoma accovacciata nel sottobosco nebbioso. Altrimenti, i giocatori sentono semplicemente una voce chiamare, attutita e diffusa nella nebbia: “Chi va là? Identificatevi.”
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+La voce appartiene a una brusca **esploratrice** Baroviana di nome Kereza, accompagnata da un secondo **esploratore** maschio dalla voce gentile di nome Korga, che i giocatori hanno precedentemente incontrato in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Dopo aver confermato che i giocatori non stanno trasportando Ireena contro la sua volontà, gli esploratori avvertono i giocatori che le spie di Strahd sono numerose in tutti i Boschi di Svalich, inclusi lupi, pipistrelli e — a volte — gli alberi stessi. (Se interrogati sugli alberi, gli esploratori possono descrivere di aver visto rampicanti, alberelli e grovigli di rovi animati che vagano per i boschi con intento ostile.)
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è con i giocatori, può aiutarli a rassicurare gli esploratori, che la riconoscono e la salutano con rispetto discreto. Gli esploratori sono sorpresi di vedere Ireena avventurarsi fuori dal villaggio, ma concordano che Vallaki è probabilmente un luogo più sicuro di Barovia — ammesso, naturalmente, che riesca ad arrivarci sana e salva. (Ireena insiste ostinatamente, tuttavia, che il suo è un viaggio diplomatico e umanitario, e che i giocatori sono la sua scorta e le sue guardie del corpo.)
 
-The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
+Gli esploratori stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli — una ragazza e due ragazzi — scomparsi durante l’attacco degli zombi al villaggio e non più visti da allora. Dopo aver chiesto se i giocatori hanno avvistato i ricercati durante il viaggio, gli esploratori li avvertono di non allontanarsi dalla strada, notando che creature morte e oscure si annidano sotto le cime degli alberi. Kereza e Korga si congedano quindi rispettosamente.
 
-Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
-## C1b. Van Richten’s Cache
-As the players continue down the road, read:
+Poco dopo che i giocatori riprendono il cammino lungo la Vecchia Strada di Svalich, comincia a cadere una pioggerella leggera, sollevando una nebbia sottile che si insinua nel sottobosco.
+## C1b. Il Deposito di Van Richten
+Mentre i giocatori proseguono lungo la strada, leggete:
 
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
+<div class=”description”><p>Viaggiate più in profondità nei boschi, la strada fangosa che vi guida sempre più lontano dalla civiltà. Quando la strada curva, il fiume vi sfiora nuovamente. Qui, il fiume è più largo, le sue acque scure e calme. Potete vedere il riflesso degli alberi e della nebbia sulla sua superficie. Il suono dell’acqua quieta e gorgogliante è accompagnato solo dal fruscio delle foglie e dalla pioggerella leggera. Nessun canto d’uccello spezza il silenzio che grava sui boschi.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+Mentre attraversano questa sezione della Vecchia Strada di Svalich, i giocatori sono seguiti da una delle spie di Strahd: un **lupo**. (Vedete <span class=”citation”>Strahd’s Spies, pg. 29</span> per maggiori informazioni.)
 
-If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
+Se i giocatori hanno ricevuto la posizione del deposito di armi nascosto di Van Richten da Doru nella chiesa di Barovia, possono entrare nei boschi a sud per trovarlo. Se lo fanno, leggete:
 
-<div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. </p>
+<div class=”description”>
+<p>Lasciate la strada e vi addentrate nei boschi, superando il limitare degli alberi mentre i vostri piedi affondano nel fango e nel terreno limaccioso. Volute di nebbia si arrotolano sulla terra intorno a voi, alberi nodosi che protendono le braccia in alto mentre una luce grigia filtra attraverso la volta arborea. Camminate per trecento passi, avanzando silenziosamente attraverso il pacciame e la nebbia fino a raggiungere una radura, dove il bosco si apre per fare spazio a un’alta e antica quercia il cui tronco nero e nodoso si erge ben al di sopra dei suoi simili.</p>
+<p>Presto vi rendete conto, tuttavia, di non essere soli. Cinque figure barcollano o stanno in piedi senza meta nella radura, i loro vestiti infangati e strappati e la loro carne che inizia appena a diventare pallida e grigia.</p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
+Le cinque figure sono **zombi**. Corrispondono anche alle descrizioni della famiglia Lansten fornite dagli esploratori — due genitori, una ragazzina e due ragazzini.
 
-The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
+I giocatori possono tentare di attirare gli zombi lontano dalla radura; data la bassa intelligenza degli zombi, farlo dovrebbe essere ragionevolmente facile. In alternativa, i giocatori possono tentare di tendere un’imboscata e attaccare gli zombi per distruggerli completamente.
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** ***undead fortitude*** feature to read as follows:
+> [!info]+ **Robustezza dei Non Morti**
+> Rivisitate il tratto ***undead fortitude*** di ogni **zombie** come segue:
 >
-> * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
+> * ***Undead Fortitude (1/giorno).*** Se il danno riduce lo zombie a 0 punti ferita, lo zombie scende invece a 1 punto ferita. Lo zombie non può usare questa capacità se il danno è radioso o da un colpo critico, se il danno subito è 15 o più, o se aveva solo 1 punto ferita rimanente.
 
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
-# C2. River Ivlis Crossroads
-<span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
+Se i giocatori raggiungono la quercia, possono trovare il deposito di armi di Van Richten dove Doru aveva indicato: in una cavità nascosta fra le radici dell’albero. Il deposito è una piccola cassa di legno non chiusa a chiave contenente 20 quadrelli d’argento per balestra, una balestra leggera, due *healer’s kit*, due fiale di *holy water* e una *potion of healing*.
+# C2. Incrocio del Fiume Ivlis
+<span class=”citation”><em>Questa scena si svolge nel Capitolo 2: Area F.</em></span>
 
-As the players approach this area, the drizzling rain stops. Read:
+Mentre i giocatori si avvicinano a quest’area, la pioggerella cessa. Leggete:
 
-<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
+<div class=”description”><p>Presto, il fiume curva nuovamente fuori dalla vista e i boschi oscuri circondano la strada ancora una volta. Infine, però, gli alberi si ritirano, rivelando un’alta parete rocciosa alla base di un pendio montano nebbioso. L’aria qui è fredda e umida, e morbide volute di nebbia turbinano alla base della scogliera.</p></div>
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
+I giocatori sono arrivati all’Incrocio del Fiume Ivlis, che è in gran parte come descritto in <span class=”citation”>River Ivlis Crossroads (p. 35)</span>. Non effettuate un tiro per incontri casuali quando i giocatori arrivano.
 
-This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
-## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+Questa scena inizia in modo simile a <span class=”citation”>River Ivlis Crossroads (p. 35)</span>. Tuttavia, la prima volta che i giocatori si muovono per partire verso il Tser Pool, invece di vedere **The Hanged One**, possono sentire il suono di una carrozza o di un carro trainato da cavalli che si avvicina attraverso la nebbia. Quasi non appena il suono compare, la carrozza nera di Strahd, come descritta in <span class=”citation”>Black Carriage (p. 37)</span> e <span class=”citation”>Carriage House (p. 54)</span>, appare alla vista.
+## C2a. L’Arrivo di Strahd
+I giocatori possono vedere un cocchiere seduto a cassetta: il **vampire spawn** Escher, come descritto in <span class=”citation”>K49. Lounge (p. 70)</span>. Se presente, Ireena sussulta alla sua vista, sussurrando che lo credeva morto.
 
-> [!abstract]+ **What If The Players Flee?**
+> [!abstract]+ **E Se i Giocatori Fuggono?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> I giocatori dovrebbero avere poco tempo per tentare di nascondersi prima che la carrozza di Strahd appaia alla vista. Tuttavia, se i giocatori tentano di fuggire dalla carrozza nei boschi, i **lupi crudeli** di Strahd — uno per ogni giocatore più Ireena — emergono dalla nebbia dietro di loro e ringhiano, ostruendo la fuga dei giocatori.
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+La carrozza si ferma quindi. Leggete quanto segue, modificando il testo se necessario qualora Ireena non sia presente, e facendo una breve pausa dopo ogni paragrafo per concedere ai giocatori una breve opportunità di agire o reagire:
 
-<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
-<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
+<div class=”description”><p>Il cocchiere lascia le redini, scende dalla cassetta e si muove per aprire la portiera laterale della carrozza, inchinandosi profondamente. Passa un istante — e poi un uomo esce dalla carrozza.</p>
+<p>È alto, scarno, e vestito con eleganza degna di un uomo di rango aristocratico, persino regale. Un mantello nero è tirato con cura sulle sue spalle, legato al collo da una spilla rosso sangue. Una spada lunga riposa nel fodero al suo fianco, l’elsa lucida che brilla sotto la luce fioca. La sua tunica scarlatta è lavorata con disegni intricati, e i suoi capelli sono tirati indietro in un’attaccatura a punta vedova affilata e impeccabile.</p><p>I suoi occhi sono scuri, e mentre si muove per aggiustarsi il rubino al collo, vedete che le sue unghie formano lunghi ed eleganti artigli. È solo allora che vi rendete conto che la sua pelle è pallida — innaturalmente pallida — e che i suoi occhi brillano di una fame profonda e intelligente.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è con il gruppo, aggiungete:
 
-<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
-<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
+<div class=”description”><p>Ireena barcolla all’indietro, come se schiaffeggiata. Distoglie gli occhi dallo sguardo dell’uomo, tutto il suo corpo che si irrigidisce. “Non guardatelo negli occhi,” riesce a dire con voce strozzata.</p>
+<p>Lo sguardo dell’uomo si posa brevemente su Ireena, e sorride — sebbene nessun calore raggiunga i suoi occhi. “Lady Kolyana,” dice. “Che piacevole sorpresa.” Poi rivolge lo sguardo a voi.</p></div>
 
-Whether Ireena is with the party or not, add:
+Che Ireena sia con il gruppo o meno, aggiungete:
 
-<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
+<div class=”description”><p>”Buongiorno,” dice. “Sono il Conte Strahd von Zarovich — ed è un piacere incontrare finalmente i nuovi arrivati nel mio dominio. I miei amici mi hanno detto tante cose su di voi.” I suoi occhi indugiano su ciascuno di voi a turno, osservandovi come un taglio di carne pesato al mercato, un ninnolo intrigante ma inanimato — una preda avvistata da un predatore tra i cespugli.</p></div>
 
-> [!lore]+ **Strahd’s Foretelling**
+> [!lore]+ **La Profezia di Strahd**
 >
-> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
+> Al momento in cui incontra i giocatori, Strahd sta tornando da una visita alla tenda di Madam Eva all’Accampamento del Tser Pool. Trovando il potere del Fanum della Foresta difficile da controllare a causa dell’interferenza di Baba Zelenna durante il suo sonno, ha cercato il consiglio di Madam Eva nei suoi preparativi per la Grande Congiunzione. Ha ricevuto la seguente profezia:
 >
-> - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
-> - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
-> - "The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?"
-> - "The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token."
-> - "But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."
-> - "The threads of fate yet spin. The Seven of Swords, the Hooded One, is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
-> - "But the One of Stars, the Transmuter, is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
+> - “Il Signore Oscuro — il padrone delle ombre, la bestia nel labirinto che strappa le sue catene.”
+> - “Il Sei di Stelle, l’Evocatore — il potere che bramate, una forza indomata dalle mani dei mortali, cruda e selvaggia di furia ardente.”
+> - “L’Artefatto — il pegno che cercate, la chiave del potere. Il cuore della divinità attende, ma dove?”
+> - “L’Innocente. Vedo una fanciulla dai capelli corvini e dagli occhi crepuscolari. È una via verso il pegno.”
+> - “Ma ve n’è un’altra — lo Spezzato. Il sentiero del sacrificio apre un’altra porta. Il muro che sussurra attende il vostro tributo.”
+> - “I fili del destino filano ancora. Il Sette di Spade, l’Incappucciato, è il prossimo. Stranieri camminano per la terra — la loro presenza un enigma, le loro intenzioni un labirinto. Dimorano nel crepuscolo, il loro ruolo ancora incerto.”
+> - “Ma l’Uno di Stelle, il Trasmutatore, è l’ultimo. Il cambiamento giunge sulle ali dei nuovi arrivati, il crepuscolo di un’era è su di noi. Come un’era finisce, un’altra nasce.”
 >
-> Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
+> Gran parte della profezia di Strahd è stata origliata da Muriel Vinshaw, una **wereraven** che stava spiando, finché Strahd non ha percepito la sua presenza e l’ha scacciata. Sia Muriel che Strahd ignoravano che Madam Eva sapesse della presenza di Muriel da sempre. Come avatar nascosto della Cercatrice, Eva ha un legame speciale con i wereraven di Barovia, e ha deliberatamente continuato la sua profezia per permettere a Muriel di ascoltarla.
 >
-> Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
+> Muriel ha udito le prime cinque carte che Madam Eva ha letto, ma non conosce le ultime due. Maggiori informazioni su Muriel e la sua fuga dai servitori di Strahd si trovano in [[#C3. Lo Strix]] più avanti.
 
->[!profile]+ **How to Enjoy Roleplaying Strahd**
->Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
+>[!profile]+ **Come Apprezzare l’Interpretazione di Strahd**
+>Strahd può essere un villain impegnativo e ansiogeno da interpretare. Per godervi l’esperienza, piuttosto che temerla, considerate i seguenti consigli:
 >
->* **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the *Sunsword*) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
->* **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
->* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
+>* **Godetevi l’Invincibilità.** Strahd è l’unico PNG dell’intera campagna che (finché non ottengono la *Sunsword*) i vostri giocatori non possono ferire in alcun modo significativo. I loro attacchi più potenti fanno poco più che solleticarlo. I loro insulti più crudeli lo divertono e basta. Entrate nelle scene legate a Strahd senza timore delle azioni dei giocatori.
+>* **Abbracciate l’Imprevedibilità.** In ogni scena prima di [[Arc R - Trials of the Mountain]], Strahd non ha un obiettivo particolare, e non sarà deluso se gli eventi si svolgono diversamente da come si aspettava. Liberate qualsiasi obbligo sentiate di far concludere la scena in un modo particolare.
+>* **Esplorate l’Oscurità.** Strahd offre un’opportunità priva di rischi per esplorare e assaporare emozioni più oscure, come l’arroganza (giustificata), la crudeltà (sommessa) e il disprezzo (sottile). Assaporate quelle emozioni e l’impatto che hanno sui vostri giocatori.
 
-> [!abstract]+ **The Players Misbehave**
+> [!abstract]+ **I Giocatori Si Comportano Male**
 >
->  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
->  
->  The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player. 
->  
->  The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
->  
->  The third time that a player disrespects Strahd, he frowns. Read the following:
->  
+>  Se un giocatore si comporta in modo scortese verso Strahd, questi sospira e risponde: “La mancanza di rispetto è sconveniente, specialmente al cospetto del Signore della terra in cui non siete che ospiti. Ma siete stranieri, e ignoranti, e confusi. Vi darò un avvertimento, questa volta. Ma temo che la mia misericordia non durerà per sempre.”
+>
+>  La prima volta che un giocatore manca di rispetto a Strahd dopo aver ricevuto il suo avvertimento, egli sorride, alza un singolo dito e dice: “Uno.” I lupi crudeli di Strahd, se non sono già emersi, avanzano dalle ombre e fissano lo sguardo sul giocatore maleducato.
+>
+>  La seconda volta che un giocatore manca di rispetto a Strahd, egli scuote la testa, alza due dita e dice: “Due.” I lupi crudeli di Strahd si avvicinano al giocatore maleducato e cominciano a sbavare.
+>
+>  La terza volta che un giocatore manca di rispetto a Strahd, egli aggrotta la fronte. Leggete quanto segue:
+>
 >  <hr>
->  
-> "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
-> 
-> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck." 
-> 
-> He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
-> 
-> <hr>
-> 
-> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end. 
-> 
-> If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
-
-> [!abstract]+ **Running Away**
-> If, at any point during the encounter, the players move to flee, read:
-> 
-> <hr>
-> 
-> From behind Strahd, you hear a chorus of low, feral growls. Multiple pairs of eyes glint from the underbrush—each one the height of a man's shoulder.
-> 
-> Slowly, from the shadows, slinks a pack of massive wolves, each one as tall as a horse and twice as muscled, measuring nine feet in length from head to haunches. Their fur is a thick, mottled grey, and saliva drips from their yellowed, sharpened teeth.
-> 
-> They take up positions behind and around Strahd, flanking him like a noble's honor guard.
-> 
-> "You must forgive my pets," Strahd says. "They can be . . . **overenthusiastic** at the sight of new friends."
-> 
-> <hr>
-> 
-> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
-> 
-> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
-
-> [!abstract]+ **Challenging Strahd**
-> If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
-> 
-> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
-> 
-> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
-> 
-> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
-> 
-> The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
-> 
-> If the player asks to be freed from Strahd's ***telekinetic grasp***, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
-> 
-> If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
-## C2b. The Conversation Begins
-If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
-
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
-
-(He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")
-
-As the conversation progresses, Strahd notes that he's heard "such wonderful things" of the players' exploits at "a certain old house at the edge of my domain." Strahd then makes brief reference to the players' actions in Death House, sardonically lauding their "fierce and fiery valor."
-
-If the players ask about the nature of Death House, or its purpose in bringing them to Barovia, Strahd smiles coldly and says only, "The souls of the damned are tragically twisted things. Do not linger upon their madness."
-
-If the players ask about Strahd's driver, Strahd introduces him as Escher, "my coachman and cupbearer." Escher does not respond to the players’ questions or statements and simply stands demurely at Strahd’s side.
-
-> [!abstract]+ **Requesting Freedom**
-> If the players ask whether Strahd has intentionally trapped them in Barovia, he truthfully denies doing so. If asked to release them, however, he declines to do so. "Why should I release you," he says, with a wry smile, "when it amuses me to do otherwise?"
-## C2c. Strahd's Questions
-During the conversation, at moments when it seems natural to do so, [[Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
-
-* "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
-* "I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
-* "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?" (Strahd's question is referring to Dr. Rudolph van Richten.)
-
-If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
-
-* "Immediately prior to your entry to my lands, you caused great damage to a group of my servants—the occupants of a particular house on the borders of my domain. I had relied upon those servants to bring me specimens of interest, but your activities have left them indefinitely indisposed. Why should I not punish you for your crimes against them?"
-
-Strahd frames each of these questions as a hypothetical. In asking them, his tone is inquisitive, curious, and at least somewhat amused. If the players despair at the prospect of answering these questions at all, Strahd notes, "I am not an unreasonable man. If there is some reason or rationale that I might have missed, then by all means do enlighten me."
-## C2d. Strahd's Concessions
-As the players attempt to answer his questions, [[Strahd von Zarovich#The Gentleman|Strahd]] delights in playing Devil's advocate, pushing back against their responses and probing at the holes in their reasoning. Ultimately, though, if the players' points are at least reasonably well-argued, Strahd is willing to accept them. (It should be fairly clear to the players, however, that he is merely humoring them by accepting their responses.)
-
-The players can push Strahd to make the following concessions:
-
-* He agrees to overlook Ismark's transgressions, so long as Ismark does not defy him or act counter to his will again.
-* He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
-* He agrees to refrain from judgment against the players unless they take action directly against his person.
-* He agrees to forgive the players their transgressions against the cult of Death House.
-
-The players might successfully exact these concessions using a variety of arguments, including (but not limited to) the following:
-
-* The players have promised Ismark that they will escort Ireena to Vallaki and they must be allowed to fulfill their word.
-* The players have taken no hostile action against Strahd and should be granted a presumption of innocence.
-* The players' actions in Death House were conducted in self-defense, and therefore should be excused. 
-
-If the players appear to doubt Strahd's fidelity to his concessions, [he promises](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/), "Fear not, dear children. I am no liar. We both know deception is for the weak."
-
-When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
-
-As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
-## C2e. Departing the Crossroads
-As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
-# C3. The Strix
-Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
-
-> [!info]+ **Dying NPCs**
 >
-> As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Muriel Vinshaw and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
+> “Sembrate essere sotto l’errata convinzione di essere speciali,” dice Strahd. “Non lo siete. Siete estranei nelle mie terre, senza un’oncia di rispetto o di buon senso. Mi diverte, di tanto in tanto, prendere le misure di coloro che entrano nella valle da oltre le Nebbie.”
+>
+> I suoi occhi si restringono. “Ma avete preso le vostre misure, e le ho trovate carenti. Non siete coraggiosi. Non siete astuti. Invitate la morte, e non sono mai stato uno che nega ai propri sudditi un tale desiderio, per quanto sciocco. Quest’ultima possibilità vi concedo, di salvarvi la vita — poiché non ne vedo alcun valore al di sopra di quello della più infima creatura che striscia nel fango.”
+>
+> Alza un terzo dito. “La prossima volta che parlate, i miei animali vi uccideranno. Chiunque vi difenda condividerà la stessa sorte.”
+>
+> <hr>
+>
+> Se il giocatore viola l’ultimatum di Strahd, mettete in pausa il gioco e rivolgete al giocatore un discorso fuori dal personaggio. Notate che Strahd ha promesso conseguenze chiare, e che le azioni del giocatore invocheranno quelle conseguenze. Chiarite che il personaggio del giocatore morirà; che il giocatore non avrà possibilità di impedirlo; che qualsiasi personaggio che tenti di proteggere quel giocatore morirà anch’esso; che qualsiasi personaggio che muore non sarà resuscitato; e che se l’intero gruppo muore, la campagna terminerà immediatamente.
+>
+> Se il giocatore conferma la sua decisione, riprendete il gioco. I lupi crudeli di Strahd attaccano quindi quel giocatore. Se qualcuno o tutti gli altri giocatori non interferiscono, Strahd continua la sua conversazione con loro, indisturbato.
 
-The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
+> [!abstract]+ **Fuggire**
+> Se, in qualsiasi momento durante l’incontro, i giocatori tentano di fuggire, leggete:
+>
+> <hr>
+>
+> Da dietro Strahd, udite un coro di ringhi bassi e ferali. Molteplici paia di occhi brillano dal sottobosco — ognuno all’altezza delle spalle di un uomo.
+>
+> Lentamente, dalle ombre, si insinua un branco di lupi massicci, ciascuno alto come un cavallo e due volte più muscoloso, che misura quasi tre metri di lunghezza dalla testa alla groppa. Il loro pelo è folto e grigio chiazzato, e la saliva gocciola dai loro denti ingialliti e affilati.
+>
+> Prendono posizione dietro e intorno a Strahd, affiancandolo come la guardia d’onore di un nobile.
+>
+> “Dovete perdonare i miei animali,” dice Strahd. “Possono essere... **troppo entusiasti** alla vista di nuovi amici.”
+>
+> <hr>
+>
+> I lupi sono **lupi crudeli**, come descritto in <span class=”citation”>Dire Wolves (p. 30)</span>. (Il numero di lupi crudeli nel branco è pari al numero di giocatori nel gruppo più Ireena.)
+>
+> Se i giocatori sembrano aver bisogno di ulteriore persuasione, i lupi crudeli avanzano, ringhiando con il pelo ritto. Se i giocatori procedono a fuggire, i lupi attaccano.
 
-The **greater strix** uses the statistics of a **manticore**, but is a Medium construct and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+> [!abstract]+ **Sfidare Strahd**
+> Se, in qualsiasi momento durante l’incontro, un giocatore sfida Strahd o insiste che deve essere sconfitto, Strahd sorride, ammette di “non essere mai stato uno che rifiuta una sfida,” e invita il giocatore a sconfiggerlo — proprio qui, proprio ora — se può. Promette di non fare alcuno sforzo per fermarli per i primi trenta secondi del loro assalto.
+>
+> Se il giocatore rifiuta, Strahd lo liquida come un codardo, notando con disappunto: “Peccato. Speravo in qualcosa di meglio.” Se il giocatore accetta, Strahd gli permette di attaccarlo per cinque round completi. Durante questo tempo, ogni attacco che il giocatore effettua contro Strahd colpisce automaticamente, e Strahd fallisce automaticamente tutti i tiri salvezza di Forza e Destrezza.
+>
+> Quando i cinque round sono trascorsi, Strahd dice: “Determinazione impressionante — se in definitiva futile.” Aggiunge: “Ora, vediamo come ve la cavate quando il vero gioco ha inizio.”
+>
+> Assumendo la sua forma [[Strahd von Zarovich#The Mage|Mago]], Strahd lancia ***telekinetic grasp*** ogni round per sospendere il giocatore in aria sopra di lui, e lancia ***blindness/deafness*** come reazione ogni volta che il giocatore effettua un attacco in mischia contro di lui. La prima volta che il giocatore fallisce il tiro salvezza contro ***telekinetic grasp***, dice: “Liberatevi se potete.” Poi aggiunge, con tono più basso: “Ma qualora vi trovaste in difficoltà, una semplice supplica di misericordia vi libererà dalla vostra situazione.”
+>
+> La prima volta che il giocatore supera il tiro salvezza contro ***telekinetic grasp***, Strahd applaude la sua tenacia, poi chiede se sceglierà di continuare a combattere. (Se lo fa, continua a combattere usando il suo blocco statistiche completo da Mago.)
+>
+> Se il giocatore chiede di essere liberato dalla ***telekinetic grasp*** di Strahd, questi lo fa senza indugio. “La saggezza risiede nel riconoscere i propri limiti,” nota. “Ricordate questo momento — poiché la prossima volta, potrei non essere altrettanto generoso.”
+>
+> Se il giocatore viene reso privo di sensi dalla ***telekinetic grasp*** di Strahd, questi si accovaccia accanto a lui, sussurrando: “Avete combattuto con valore, ma persino il più grande guerriero non può resistere all’inevitabile. Riposate ora, confortati dalla consapevolezza di avermi intrattenuto.” Si rivolge quindi al resto del gruppo e li invita a prendersi cura del loro compagno ferito.
+## C2b. La Conversazione Ha Inizio
+Se non viene deviato, [[Strahd von Zarovich#The Gentleman|Strahd]] saluta individualmente ciascuno dei personaggi giocanti — per nome, se le sue spie hanno avuto la possibilità di apprenderli e riferirglieli. Nel farlo, fa un commento personale riguardo alla specie, classe (se evidente dal loro equipaggiamento o abbigliamento) e/o personalità (se riferita dalle sue spie) di ciascun personaggio. Se possibile, inquadra ogni commento nella forma di un complimento, un’osservazione empatica, o (con parsimonia) una minaccia estremamente velata.
+
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è presente, Strahd chiede quindi se “Lady Kolyana” li ha adeguatamente introdotti al suo dominio, e si scusa per qualsiasi “racconto popolare” i suoi sudditi possano aver condiviso su di lui.
+
+(Non nega, tuttavia, il suo attacco al villaggio di Barovia, notando solo che la gente del villaggio lo ha sfidato in un atto di estremo tradimento. “Sono certo che converrete che la mia risposta è stata misurata,” dice. “Dopotutto, nessun signore potrebbe tollerare un insediamento che fomenta tale sedizione. La buona gente di Barovia aveva bisogno di una lezione. La loro disciplina è stata una gentilezza che pochi altri avrebbero concesso.”)
+
+Man mano che la conversazione prosegue, Strahd nota di aver sentito “cose così meravigliose” sulle imprese dei giocatori in “una certa vecchia casa ai confini del mio dominio.” Strahd fa quindi un breve riferimento alle azioni dei giocatori nella Death House, lodando sardonicamente il loro “fiero e ardente valore.”
+
+Se i giocatori chiedono della natura della Death House, o del suo scopo nel condurli a Barovia, Strahd sorride freddamente e dice solo: “Le anime dei dannati sono cose tragicamente contorte. Non indugiato sulla loro follia.”
+
+Se i giocatori chiedono del cocchiere di Strahd, Strahd lo presenta come Escher, “il mio cocchiere e coppiere.” Escher non risponde alle domande o dichiarazioni dei giocatori e resta semplicemente in piedi con fare dimesso al fianco di Strahd.
+
+> [!abstract]+ **Richiedere la Libertà**
+> Se i giocatori chiedono se Strahd li ha intenzionalmente intrappolati a Barovia, egli nega veridicamente di averlo fatto. Se gli viene chiesto di liberarli, tuttavia, rifiuta di farlo. “Perché dovrei liberarvi,” dice, con un sorriso malizioso, “quando mi diverte fare il contrario?”
+## C2c. Le Domande di Strahd
+Durante la conversazione, nei momenti in cui sembra naturale farlo, [[Strahd von Zarovich#The Gentleman|Strahd]] pone ai giocatori le seguenti domande (senza un ordine particolare):
+
+* “Ismark Kolyanovich mi ha sfidato ostacolando la giustizia che ho impartito al suo villaggio. Perché non dovrei, come suo signore, punirlo per la sua slealtà?”
+* “Ho reclamato Ireena Kolyana, e l’ho marchiata come mia. Perché non dovrei portarla con me al Castello Ravenloft in questo istante?”
+* “Siete intrusi nelle mie terre, e l’ultimo straniero che è entrato a Barovia ha fomentato sedizione e tradimento. Perché non dovrei eliminarvi ora, per impedirvi di fare lo stesso?” (La domanda di Strahd si riferisce al Dr. Rudolph van Richten.)
+
+Se i giocatori hanno sepolto le ossa di Walter e hanno fatto riposare gli spiriti della Death House, Strahd pone una domanda aggiuntiva:
+
+* “Immediatamente prima del vostro ingresso nelle mie terre, avete causato grandi danni a un gruppo di miei servitori — gli occupanti di una certa casa ai confini del mio dominio. Contavo su quei servitori per portarmi esemplari di interesse, ma le vostre attività li hanno lasciati indisposti a tempo indeterminato. Perché non dovrei punirvi per i vostri crimini contro di loro?”
+
+Strahd inquadra ciascuna di queste domande come un’ipotetica. Nel porle, il suo tono è inquisitivo, curioso, e almeno in parte divertito. Se i giocatori disperano alla prospettiva di rispondere a queste domande, Strahd nota: “Non sono un uomo irragionevole. Se c’è qualche ragione o razionale che potrei aver trascurato, allora vi prego, illuminatemi.”
+## C2d. Le Concessioni di Strahd
+Mentre i giocatori tentano di rispondere alle sue domande, [[Strahd von Zarovich#The Gentleman|Strahd]] si diletta a fare l’avvocato del diavolo, controbattendo alle loro risposte e sondando le falle nel loro ragionamento. Alla fine, tuttavia, se le argomentazioni dei giocatori sono almeno ragionevolmente ben costruite, Strahd è disposto ad accettarle. (Dovrebbe essere abbastanza chiaro per i giocatori, tuttavia, che sta semplicemente assecondandoli nell’accettare le loro risposte.)
+
+I giocatori possono spingere Strahd a fare le seguenti concessioni:
+
+* Accetta di ignorare le trasgressioni di Ismark, a condizione che Ismark non lo sfidi né agisca contro la sua volontà di nuovo.
+* Accetta di permettere a Ireena di lasciare l’Incrocio del Fiume Ivlis in sicurezza. (Strahd non concederà un periodo di grazia più lungo di quello.)
+* Accetta di astenersi dal giudicare i giocatori a meno che non agiscano direttamente contro la sua persona.
+* Accetta di perdonare ai giocatori le loro trasgressioni contro il culto della Death House.
+
+I giocatori potrebbero ottenere con successo queste concessioni utilizzando una varietà di argomentazioni, tra cui (ma non limitate a) le seguenti:
+
+* I giocatori hanno promesso a Ismark che scorteranno Ireena a Vallaki e devono poter mantenere la loro parola.
+* I giocatori non hanno intrapreso alcuna azione ostile contro Strahd e dovrebbe essere loro concessa la presunzione di innocenza.
+* Le azioni dei giocatori nella Death House sono state condotte per legittima difesa, e pertanto dovrebbero essere scusate.
+
+Se i giocatori sembrano dubitare della fedeltà di Strahd alle sue concessioni, [egli promette](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/): “Non temete, cari figlioli. Non sono un bugiardo. Entrambi sappiamo che l’inganno è per i deboli.”
+
+Quando i giocatori hanno risposto a tutte le domande di Strahd con sua soddisfazione, egli augura loro un buon viaggio e rientra nella carrozza nera.
+
+Mentre lo fa, i **lupi crudeli** di Strahd — incluso uno per ogni giocatore più Ireena — emergono dai boschi, se non lo hanno già fatto, e si muovono per affiancare la carrozza. Strahd nota che lui e i suoi “amici” rivedranno i giocatori — forse molto presto. La carrozza e i lupi partono quindi per il Castello Ravenloft.
+## C2e. Lasciare l’Incrocio
+Mentre i giocatori si muovono per lasciare l’Incrocio del Fiume Ivlis dopo che Strahd se n’è andato, incontrano <span class=”citation”>The Hanged One (p. 35)</span>. Il personaggio appeso alla forca dovrebbe essere quello che è stato il più scortese con Strahd o il meno collaborativo con le sue domande.
+# C3. Lo Strix
+A metà strada lungo il sentiero dall’Incrocio del Fiume Ivlis all’Accampamento del Tser Pool, i giocatori sentono il suono di un uccello in difficoltà che gracchia dall’alto. Un corvo con le punte delle ali blu — riconoscibilmente lo stesso corvo che li ha incontrati nel villaggio di Barovia — si schianta quindi sulla strada ai piedi dei giocatori, visibilmente ferito. Si tratta, ancora una volta, della **wereraven** Muriel, travestita e con 1 punto ferita. Le ali e il torso sono stati penetrati da diverse dozzine di spine d’argento, lasciandola incapace di volare, rigenerarsi o trasformarsi finché non vengono rimosse.
+
+> [!info]+ **PNG Morenti**
+>
+> Come indicato in Mostri e Morte (<span class=”citation”>Player’s Handbook, p. 198</span>), i personaggi non giocanti alleati — come Muriel Vinshaw e qualsiasi altro PNG che combatte al fianco dei giocatori — dovrebbero cadere privi di sensi quando ridotti a 0 punti ferita. Quando ciò accade, seguono le stesse regole per i tiri salvezza contro la morte dei personaggi giocanti, descritte ulteriormente in Tiri Salvezza contro la Morte (<span class=”citation”>Player’s Handbook, p. 197</span>).
+
+L’arrivo del corvo è seguito poco dopo da un terribile stridio stridulo e dall’arrivo di uno **strix maggiore**: un grande “uccello” artificiale costruito con legno, pelli di animali, tela di juta e centinaia di piume nere di corvo.
+
+Lo **strix maggiore** usa le statistiche di una **manticora**, ma è un costrutto Medio e ha vulnerabilità ai danni da fuoco. Invece di vere punte caudali, l’attacco **_tail spikes_** dello strix maggiore rilascia una raffica di dozzine di minuscole spine d’argento dalle ali.
 
 ![[Greater Strix.png]]
-<span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class=”credit”>”Greater Strix” by Caleb Cleveland. Support him on <a href=”https://patreon.com/calebisdrawing/”>Patreon!</a></span>
 
-The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
+Lo strix maggiore è accompagnato da due **sciami di strix minori** (ciascuno usando le statistiche di uno **sciame di corvi**, ma con vulnerabilità ai danni da fuoco). Ogni strix minore è un “corvo” artificiale leggermente più grande di un corvo, costruito con tela di juta, paglia, ramoscelli e affilati denti di pietra.
 
-> [!combat]- **Combat - The Strix**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 3
-> **Allies:** Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 34%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - Lo Strix**
+> **Livello di Combattimento**: Impegnativo
+> **Livello Personaggi Previsto**: 3
+> **Alleati:** Ireena Kolyana (GS 1)
+> **Consumo PF Previsto:** 34%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Greater Strix | 1 | 1 | 1 | 1 |
-> | Swarm of Lesser Strix | 1 | 1 | 2 | 3 |
+> | Strix Maggiore | 1 | 1 | 1 | 1 |
+> | Sciame di Strix Minori | 1 | 1 | 2 | 3 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l’incontro nei seguenti modi:
 >
-> | Number of Players | Modification |
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer. |
-> | 4 | Reduce the number of swarms of lesser strix to one. |
-> | 6 | Increase the number of swarms of lesser strix to three. |
+> | 3 | Riducete i punti ferita dello strix maggiore a 46. Riducete i suoi attacchi ***tail spike*** e ***bite*** a 5 (1d6+2) danni perforanti e il suo attacco ***claw*** a 4 (1d4+2) danni taglienti. Riducete il numero di sciami di strix minori a uno e riducete i punti ferita dello sciame a 16 e il suo attacco ***bite*** a 5 (2d4) danni perforanti o 2 (1d4) danni perforanti se ha metà o meno dei suoi punti ferita rimanenti. |
+> | 4 | Riducete il numero di sciami di strix minori a uno. |
+> | 6 | Aumentate il numero di sciami di strix minori a tre. |
 
-These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
+Queste abominazioni sono state costruite dalla strega Baba Lysaga per dare la caccia ai wereraven. Questi particolari strix — un dono di Baba Lysaga a Strahd al suo risveglio — hanno ricevuto l’ordine di dare la caccia e uccidere Muriel, che è stata avvistata mentre origliava la lettura dei Tarokka che Strahd ha ricevuto da Madam Eva quella mattina stessa. Continua a inseguire Muriel, attaccando i giocatori invece se tentano di ferirlo o di proteggere altrimenti Muriel dal suo assalto. Combatte fino alla morte.
 
-> [!warning]+ **Don't Hurt Ireena**
-> Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
+> [!warning]+ **Non Ferite Ireena**
+> I servitori di Strahd e coloro che gli sono fedeli, inclusi gli strix, non attaccano Ireena.
 
-If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
+Se salvata, Muriel rimane con i giocatori finché non riesce a discernere le loro intenzioni. Un giocatore può rimuovere le spine d’argento dal suo corpo e dalle ali con una prova di Saggezza (Medicina) con CD 15, riducendola a 0 punti ferita e facendola cadere priva di sensi in caso di fallimento. Una volta rimosse le spine, tuttavia, la rigenerazione di Muriel ritorna immediatamente, guarendo le sue ferite in pochi secondi.
 
-<div class="statblock"> 
-<h2>Muriel Vinshaw</h2> 
-<em>Medium humanoid (human, shapechanger), chaotic good</em> 
-<hr> 
-<strong>Armor Class</strong> 14 (leather armor) 
-<br> 
-<strong>Hit Points</strong> 63 (14d8) 
-<br> 
-<strong>Speed</strong> 30 ft., fly 50 ft. in raven and hybrid forms 
-<hr> 
-<table class="ability-table"> 
-  <thead> 
-    <tr> 
-<th>STR</th> 
-<th>DEX</th> 
-<th>CON</th> 
-<th>INT</th> 
-<th>WIS</th> 
-<th>CHA</th> 
-</tr> 
-</thead> 
-<tbody> 
-<tr> 
-<td>10 (+0)</td> 
-<td>16 (+3)</td> 
-<td>11 (+0)</td> 
-<td>13 (+1)</td> 
-<td>15 (+2)</td> 
-<td>14 (+2)</td> 
-</tr> 
-</tbody> 
-</table> 
-<hr> 
-<strong>Skills</strong> Insight +4, Perception +6
-<br> 
-<strong>Senses</strong> passive Perception 16
-<br> 
-<strong>Languages</strong> Common (can't speak in raven form)
-<br> 
-<strong>Challenge</strong> 2 (450 XP)
-<br> 
-<strong>Proficiency Bonus</strong> +2
-<br> 
-<hr> 
-<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn.</p> 
-<p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
-<p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
-<h3>Actions</h3> 
-<p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
-<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p> 
-<p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
-<h3>Bonus Actions</h3> 
-<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
-<h3>Reactions</h3> 
-<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+<div class=”statblock”>
+<h2>Muriel Vinshaw</h2>
+<em>Umanoide Medio (umano, mutaforma), caotico buono</em>
+<hr>
+<strong>Classe Armatura</strong> 14 (armatura di cuoio)
+<br>
+<strong>Punti Ferita</strong> 63 (14d8)
+<br>
+<strong>Velocità</strong> 9 m, volare 15 m in forma corvo e ibrida
+<hr>
+<table class=”ability-table”>
+  <thead>
+    <tr>
+<th>FOR</th>
+<th>DES</th>
+<th>COS</th>
+<th>INT</th>
+<th>SAG</th>
+<th>CAR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10 (+0)</td>
+<td>16 (+3)</td>
+<td>11 (+0)</td>
+<td>13 (+1)</td>
+<td>15 (+2)</td>
+<td>14 (+2)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Abilità</strong> Intuizione +4, Percezione +6
+<br>
+<strong>Sensi</strong> Percezione passiva 16
+<br>
+<strong>Lingue</strong> Comune (non può parlare in forma corvo)
+<br>
+<strong>Grado di Sfida</strong> 2 (450 PE)
+<br>
+<strong>Bonus di Competenza</strong> +2
+<br>
+<hr>
+<p><strong><em>Rigenerazione.</em></strong> Muriel recupera 10 punti ferita all’inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un’arma argentata dal suo ultimo turno.</p>
+<p><strong><em>Mimica.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) con CD 10 riuscita.</p>
+<p><strong><em>Picchiata.</em></strong> Se Muriel vola per almeno 6 metri in linea retta verso un bersaglio discendendo di almeno 1,5 metri verso il suolo, e poi colpisce quel bersaglio con un attacco con la spada corta nello stesso turno, il bersaglio subisce 7 (2d6) danni perforanti aggiuntivi. Se il bersaglio è una creatura, deve superare un tiro salvezza di Forza con CD 12 o essere atterrato.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Muriel effettua due attacchi con le armi, uno dei quali può essere con la sua balestra a mano.</p>
+<p><strong><em>Spada Corta.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma da Mischia</em>: +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+<p><strong><em>Balestra a Mano.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma a Distanza</em>: +5 al tiro per colpire, gittata 9/36 m, un bersaglio. <em>Colpito:</em> 5 (1d6 + 3) danni perforanti.</p>
+<p><strong><em>Becco.</em></strong> (Solo Forma Corvo o Ibrida) <em>Attacco con Arma da Mischia</em>: +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza di Costituzione con CD 10 o essere maledetto con la licantropia da wereraven.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Mutaforma.</em></strong> Muriel si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 1,5 m da Muriel con un attacco, ella può usare la sua reazione per subire il danno al suo posto.</p>
 </div>
 
-If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
+Se scopre che i giocatori intendono viaggiare a Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di affidarsi alla sicurezza del numero finché non potrà riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Blu. In nessuna circostanza Muriel rivela volontariamente la sua vera natura ai giocatori in questo momento.
 
-> [!info]+ **Muriel Incognito**
-> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
-> 
-> While accompanying the group, Muriel may use her ***mimicry*** feature to produce any of the following sounds to prompt or react to the players:
-> 
-> * **Whistle.** To signal secrecy or caution.
-> * **Snoring.** To signal boredom.
-> * **Laughter.** To signal amusement.
-> * **Jingling.**  To indicate someone's arrival.
-> * **Clicking (like a key turning).** To applaud a solution to a problem.
-> * **Trumpet.** To celebrate a victory or achievement.
+> [!info]+ **Muriel in Incognito**
+> Mentre viaggia con i giocatori, Muriel cerca di mantenere un basso profilo mentre si ingrazia il gruppo. Mentre è in forma corvo, i giocatori possono comunicare con lei solo usando l’incantesimo *speak with animals*, sebbene neghi ogni conoscenza di Strahd o delle origini dello strix e finga di essere un corvo ordinario e sempliciotto, interessato solo al cibo e a evitare i predatori. Se le viene chiesto il nome, si presenta entusiasticamente come “Blu,” e diventa sempre più ostinata se interrogata.
+>
+> Mentre accompagna il gruppo, Muriel può usare il suo tratto ***mimica*** per produrre uno qualsiasi dei seguenti suoni per stimolare o reagire ai giocatori:
+>
+> * **Fischio.** Per segnalare segretezza o cautela.
+> * **Russare.** Per segnalare noia.
+> * **Risata.** Per segnalare divertimento.
+> * **Tintinnio.** Per indicare l’arrivo di qualcuno.
+> * **Clic (come una chiave che gira).** Per applaudire la soluzione di un problema.
+> * **Tromba.** Per celebrare una vittoria o un risultato.
 
 # C4. Tser Pool
-<span class="citation"><em>This scene takes place in Chapter 2: Area G.</em></span>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area G.</em></span>
 
-The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
+Il viaggio dall’Incrocio del Fiume Ivlis all’Accampamento del Tser Pool è lungo un miglio e mezzo e richiede trenta minuti.
 
-## C4a. Arrival at Tser Pool
-This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
+## C4a. Arrivo al Tser Pool
+Quest’area è in gran parte come descritta in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. Tuttavia, nessuno dei Vistani al campo è ubriaco, e solo una — una donna Vistana di nome Eliza — funge da spia per Strahd.
 
-As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell *major image* prepared rather than *vampiric touch*.
+Quando i giocatori entrano nel campo, sono accolti da Stanimir, un vecchio Vistano che li informa che la leader del loro accampamento, Madam Eva, li sta aspettando e indica loro la tenda di Eva. Stanimir, un vecchio gioviale e colorito con una scintilla negli occhi, è in gran parte come descritto in <span class="citation">Mysterious Visitors (p. 19)</span>. Tuttavia, ha preparato l’incantesimo *major image* invece di *vampiric touch*.
 
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
+Stanimir è lieto di rispondere a qualsiasi domanda i giocatori possano avere sui Vistani o su Barovia, come descritto in <span class="citation">Vistani Lore (p. 27)</span>. Le uniche eccezioni sono le informazioni sui Baroviani senz’anima, che non esistono, e il Vecchio Mulino, che Stanimir non menziona. Inoltre, Stanimir e gli altri Vistani non sanno che un congrega di **night hag** si è recentemente insediata nel vecchio mulino, che conoscono solo come il Vecchio Mulino Durst. I Vistani inoltre non menzionano le maledizioni Vistane, che sono mere superstizioni, e descrivono l’interesse di Strahd per Tatyana come "vero desiderio," piuttosto che "vero amore."
 
-However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
+Tuttavia, Stanimir non discuterà degli affari di Strahd al Tser Pool. Invece, condivide la sua convinzione che Strahd non tornerà presto, e rassicura i giocatori che qualsiasi cosa discussa al loro incontro con Madam Eva non raggiungerà le orecchie del vampiro.
 
-If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
-## C4b. Madam Eva's Tent
-This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
+Se i giocatori chiedono se Strahd ha ottenuto una profezia da Madam Eva, Stanimir dice loro che Madam Eva condivide i suoi doni liberamente con tutti — ma che il futuro di ogni persona è diverso, e spesso difficile da discernere.
+## C4b. La Tenda di Madam Eva
+Questa scena si svolge in gran parte come descritto in <span class="citation">Madam Eva’s Tent (p. 37)</span>. Dopo aver salutato i giocatori, [[Non-Player Characters#Madam Eva|Madam Eva]] chiama ciascun personaggio per nome, attribuendo loro uno o più epiteti simbolici legati alla loro storia, ai loro obiettivi e/o alle loro capacità.
 
-> [!profile]+ **Profile: Madam Eva**
+> [!profile]+ **Profilo: Madam Eva**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Madam Eva should inspire discomfort with her intimate knowledge of the players’ pasts, gratitude for her dedication to the players’ journey, and reassurance with her confident predictions.
+> **Informazioni per l’Interpretazione**
+> ***Risonanza.*** Madam Eva dovrebbe ispirare disagio con la sua conoscenza intima del passato dei giocatori, gratitudine per la sua dedizione al viaggio dei giocatori e rassicurazione con le sue previsioni sicure.
 >
-> ***Emotions.*** Madam Eva's most frequent emotions are amusement, solemnity, concern, and contemplation.
+> ***Emozioni.*** Le emozioni più frequenti di Madam Eva sono divertimento, solennità, preoccupazione e contemplazione.
 >
-> ***Motivations.*** Madam Eva wants to see the land of Barovia healed and freed from Strahd's corruption.
+> ***Motivazioni.*** Madam Eva desidera vedere la terra di Barovia guarita e liberata dalla corruzione di Strahd.
 >
-> ***Inspirations.*** When playing Madam Eva, channel The Ancient One (Doctor Strange) and the Fates (Hercules).
+> ***Ispirazioni.*** Quando si interpreta Madam Eva, ispirarsi all’Antico (Doctor Strange) e alle Parche (Hercules).
 >
-> **Character Information**
+> **Informazioni sul Personaggio**
 >
-> ***Persona.*** To the world, Madam Eva appears as a wise, yet maddened crone who speaks in prophecies and riddles. To those she trusts, she appears as a kind, yet frustratingly opaque and stubborn old woman.
+> ***Personalità.*** Agli occhi del mondo, Madam Eva appare come una vecchia saggia ma folle che parla per profezie e indovinelli. A coloro di cui si fida, appare come una donna anziana gentile, ma frustrante nella sua opacità e testardaggine.
 >
-> ***Morale.*** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her Vistani aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
+> ***Morale.*** In un combattimento, Madam Eva insisterà con calma affinché il suo avversario cessi i propri attacchi, quindi — qualora i suoi aiutanti Vistani si rivelino incapaci di fermare l’aggressore — lo indebolirà con l’incantesimo *harm* prima di esigere la resa.
 >
-> ***Relationships.*** Madam Eva alone knows that she is an avatar of the Seeker.
+> ***Relazioni.*** Solo Madam Eva sa di essere un avatar della Cercatrice.
 
 She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
 
