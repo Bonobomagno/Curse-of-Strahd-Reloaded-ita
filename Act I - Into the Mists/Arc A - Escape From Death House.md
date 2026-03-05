@@ -1,29 +1,29 @@
-*An adventure for five 2nd-level characters.*
+*Un’avventura per cinque personaggi di 2° livello.*
 
-> [!warning]+ **A Second-Level Adventure**
-> Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
+> [!warning]+ **Un’Avventura di Secondo Livello**
+> Ricordate che, a differenza dell’avventura originale *Curse of Strahd*, i giocatori in questa guida iniziano al 2° livello, anziché al 1° livello.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+I giocatori iniziano nella città di Daggerford la sera prima di Highharvesttide, una festa e celebrazione annuale del raccolto. Le locande locali sono tutte al completo per la notte, e i giocatori — vagabondi con poche monete e ancor meno compagnia — trovano rifugio nella stalla del Nightmare’s Bridle, una taverna fatiscente ai margini della città.
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
+Quando le reliquie che portano con sé percepiscono la presenza della Death House, tuttavia, i giocatori vengono condotti attraverso le strade piovose di Daggerford e oltre la soglia in attesa della casa.
 
-Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
+Una volta all’interno, i giocatori restano intrappolati e scoprono che un mostro li darà la caccia non appena si risveglierà. Hanno sei ore per trovarlo per primi e placarlo con un sacrificio adeguato — oppure ucciderlo. Mentre esplorano la casa, apprendono la sua sordida storia, nonché la vera identità della bestia che si annida nelle profondità.
 
-If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of Barovia.
+Se i giocatori uccidono il mostro, la casa inizia a crollare, costringendoli a fuggire o a perire tra le macerie. Quando emergono, scoprono che l’ambiente circostante è mutato, trasportandoli nella terra oscura di Barovia.
 
-> [!lore]+ **The History of Death House**
-> See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
+> [!lore]+ **La Storia della Death House**
+> Consultate [[History of Barovia#Strahd’s First Followers|I Primi Seguaci di Strahd]] per un resoconto completo della macabra storia della Death House.
 
-> [!info]+ **Arc A Foundry Module**
-> Want a fully-prepped Foundry module for ***Arc A: Escape From Death House***? Download the manifest for the official Reloaded module by Eidolon Publishing [here](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
+> [!info]+ **Modulo Foundry dell’Arco A**
+> Volete un modulo Foundry completamente preparato per ***Arco A: Fuga dalla Death House***? Scaricate il manifest del modulo ufficiale Reloaded di Eidolon Publishing [qui](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
 # A1. Daggerford
 
-> [!warning]+ **Keep Your Workload Low**
-> *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
-> 
-> If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
-## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+> [!warning]+ **Mantenete il Carico di Lavoro Basso**
+> *Curse of Strahd: Reloaded* è stato intenzionalmente scritto per ridurre al minimo il tempo trascorso lontano dal tavolo, con l’obiettivo di fungere da campagna "a preparazione zero" nella massima misura possibile. Per rendere ciò possibile, questa guida è stata progettata per indirizzare i giocatori verso percorsi specifici e curati attraverso l’avventura, pur fornendo gradi intenzionali di libertà che, seppur significativi, non cambieranno sostanzialmente l’esito finale della campagna.
+>
+> Se desiderate ridurre al minimo il vostro carico di lavoro, fate del vostro meglio per evitare di apportare modifiche o aggiunte a questa guida. Farlo potrebbe alterare il modo in cui i giocatori interagiscono e si approcciano alla narrativa e al gameplay, disturbando pilastri portanti che potrebbero essere difficili da notare senza rileggere la guida completa più volte. (Ad esempio, aumentare le distanze tra gli insediamenti baroviani rende impossibile completare molteplici missioni negli Atti II e III senza una revisione completa dell’intera linea temporale della campagna.) Qualsiasi modifica — come cambiamenti a scadenze, distanze, blocchi statistiche, motivazioni dei personaggi o eventi — viene effettuata a rischio e pericolo del Dungeon Master, e potrebbe portare a TPK, divergenze incontrollabili o trame insoddisfacenti.
+## A1a. Il Nightmare’s Bridle
+Se uno o più dei vostri giocatori stanno utilizzando l’aggancio [[Running the Adventure#Adventure Hooks|Reliquie Baroviane]], leggete il seguente testo. Altrimenti, procedete a [[#A2. Death House]] qui sotto.
 
 <div class="description">
 <p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
@@ -197,13 +197,13 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
-This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Den of Wolves (p. 212)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
+<p>Mentre socchiudete la porta di questa stanza, cogliete un lampo di qualcosa di ferino oltre la soglia: un occhio ambrato che brilla nell'oscurità e un muso bestiale arricciato in un ringhio.</p>
 </div>
 
-If the players proceed, read:
+Se i giocatori procedono, leggete:
 
 <div class="description">
 <p>The door cracks open, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone.</p>
@@ -499,14 +499,14 @@ If the players ask the spirit for aid in reaching the basement or finding the �
 ### Attic Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 16.</em></span>
 
-This room is largely as described in <span class="citation">Attic Hall (p. 215)</span>. When the players enter this room, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Attic Hall (p. 215)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>This bare hall is choked with dust and cobwebs. Several doors lead from this attic corridor, including a door held shut with a padlock.</p>
-<p>A low creak cuts through the air as one of the unlocked doors slowly creaks open.</p>
+<p>Questo corridoio spoglio è soffocato dalla polvere e dalle ragnatele. Diverse porte si aprono su questo corridoio della soffitta, tra cui una chiusa con un lucchetto.</p>
+<p>Un basso scricchiolio taglia l'aria mentre una delle porte non chiuse a chiave si apre lentamente cigolando.</p>
 </div>
 
-The door leads to the [[#Spare Bedroom]].
+La porta conduce alla [[#Spare Bedroom]].
 ### Spare Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
 
@@ -799,46 +799,46 @@ When a player first enters one of the 5-foot squares at the entrance of the corr
 > |-|-|-|-|-|
 > | Ghoul | 1 | 2 | 3 | 4 |
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
-> 
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
 > | 3 |  |
-> | 4 | Only let one ghoul attack at a time |
-> | 6 | Only let one ghoul attack at a time |
+> | 4 | Lasciate che solo un ghoul attacchi alla volta |
+> | 6 | Lasciate che solo un ghoul attacchi alla volta |
 
-As the ghouls attack, they mindlessly repeat any or all of the following phrases:
+Mentre i ghoul attaccano, ripetono senza sosta una o tutte le seguenti frasi:
 
-* “Beautiful. We’re so beautiful.”
-* “We are perfect. We are immortal.”
-* “Help us live forever.”
+* “Belli. Siamo così belli.”
+* “Siamo perfetti. Siamo immortali.”
+* “Aiutateci a vivere per sempre.”
 
-If the players continue down the corridor, read:
+Se i giocatori proseguono lungo il corridoio, leggete:
 
 <div class="description">
-<p>The trail ends at the center of a quiet intersection. The incessant chanting you've heard since first entering the dungeon is noticeably louder down the northern branch of the intersection.</p>
+<p>La pista termina al centro di un tranquillo incrocio. Il canto incessante che avete udito sin dal primo ingresso nel sotterraneo è notevolmente più forte lungo il ramo settentrionale dell'incrocio.</p>
 </div>
 
-### Stairs Down
-<span class="citation"><em>This scene takes place in Appendix B: Area 30.</em></span>
+### Scale Discendenti
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 30.</em></span>
 
-This room is largely as described in <span class="citation">Stairs Down (p. 218)</span>. When the players approach this area, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Stairs Down (p. 218)</span>. Quando i giocatori si avvicinano a quest'area, leggete:
 
 <div class="description">
-<p>A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.</p>
+<p>Una serie oscura di gradini di pietra scalpellata discende nelle tenebre. È chiaro che l'origine del canto sommesso che avete udito si trova più in basso.</p>
 </div>
 
-### Darklord’s Shrine
-<span class="citation"><em>This scene takes place in Appendix B: Area 31.</em></span>
+### Santuario del Signore Oscuro
+<span class="citation"><em>Questa scena si svolge nell’Appendice B: Area 31.</em></span>
 
-This room is largely as described in <span class="citation">Darklord’s Shrine (p. 218)</span>. In addition, when the players enter this room, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Darklord’s Shrine (p. 218)</span>. Inoltre, quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>This room is festooned with moldy skeletons that hang from rusty shackles against the walls, their mouths hanging open in silent screams. </p>
-<p>A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands beside him. The statue's right hand holds a smoky-gray crystal orb, and its painted gaze stares down toward you, a cold and cruel glint to its eye.</p>
-<p>Five ashen shadows are burned into the walls, with soot marks stretching across the floor toward the statue.</p>
-<p>The room has exits to the west and north. Chanting can be heard coming from the north.</p>
+<p>Questa stanza è adornata di scheletri ammuffiti che pendono da catene arrugginite lungo le pareti, le bocche spalancate in urla silenziose.</p>
+<p>Un’ampia alcova nella parete meridionale contiene una statua di legno dipinto scolpita a somiglianza di un uomo scarno e dal volto pallido, avvolto in un ampio mantello nero, la mano sinistra pallida posata sulla testa di un lupo al suo fianco. La mano destra della statua regge un globo di cristallo grigio fumoso, e il suo sguardo dipinto vi fissa dall’alto, con un bagliore freddo e crudele nell’occhio.</p>
+<p>Cinque ombre cinerea sono impresse nelle pareti, con segni di fuliggine che si estendono sul pavimento verso la statua.</p>
+<p>La stanza ha uscite a ovest e a nord. Si ode un canto provenire da nord.</p>
 </div>
 
 A player that approaches the orb can hear many voices whispering the following phrases:
@@ -1019,7 +1019,7 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 
 
 <div class="statblock">
-<h2>The Flesh Mound</h2>
+<h2>Il Cumulo di Carne</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
