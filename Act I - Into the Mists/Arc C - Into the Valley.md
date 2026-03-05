@@ -378,259 +378,260 @@ Questa scena si svolge in gran parte come descritto in <span class="citation">Ma
 >
 > ***Relazioni.*** Solo Madam Eva sa di essere un avatar della Cercatrice.
 
-She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
+Ringrazia i giocatori per aver fatto il viaggio fino al Tser Pool. Se le viene chiesto della visita di Strahd, dice solo che il futuro di ogni persona spetta solo a loro conoscerlo, e che, sebbene il suo dovere la vincoli a cercare i sussurri del Fato per chiunque invochi il suo nome, è tenuta a non rivelare ciò che vede a nessun altro.
 
-If Muriel is with the players in raven form, Madam Eva regards her with an emotion nearly resembling fondness and asks to inspect her. She strokes Muriel’s wings and notes that she once had a beloved pet raven named Turul long ago.  
+Se Muriel è con i giocatori in forma di corvo, Madam Eva la osserva con un’emozione che quasi somiglia all’affetto e chiede di esaminarla. Le accarezza le ali e nota che un tempo aveva un amato corvo domestico di nome Turul, molto tempo fa.
 
-“I have only seen him once these past ten years, however,” Eva adds, somewhat mournfully. “Doubtless, he has gone wild without me.” (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
+“L’ho visto solo una volta in questi ultimi dieci anni, tuttavia,” aggiunge Eva, con un tono un po’ malinconico. “Senza dubbio, è tornato allo stato selvatico senza di me.” (Madam Eva si riferisce al **Roc of Mount Ghakis**, che la serviva quando deteneva il mantello della Cercatrice delle Tre Signore.)
 
-If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
+Se i giocatori chiedono a Eva del [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|cadavere di Dalvan Olensky]], lei condivide solo che era un Baroviano di nome Dalvan Olensky che venne alla sua tenda in seguito all’assedio di Strahd al villaggio di Barovia, e che insistette per ascoltare — e poi sfidare — il suo destino, una scelta dalle conseguenze tragiche. (Come per Strahd, Eva non può rivelare la natura o il contenuto della profezia di Dalvan.)
 
-If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
+Se i giocatori chiedono a Madam Eva di leggere il loro futuro, o richiedono la sua guida su come sconfiggere Strahd, il suo volto si oscura e dice: “Vi trovate sul precipizio di una scogliera di cui non potete ancora vedere il fondo. Capite cosa mi state chiedendo?”
 
-Regardless of the players' response, Madam Eva replies, shaking her head: "I will not do this thing for you—not yet. If you wish to pursue this path, however, come to the River Ivlis crossroads at midnight tonight. I shall await you there, by the gallows. Come alone—and do not allow yourselves to be followed." Madam Eva refuses to elaborate, and dismisses the players from her tent if they attempt to protest.
+Indipendentemente dalla risposta dei giocatori, Madam Eva replica, scuotendo la testa: “Non farò questa cosa per voi — non ancora. Se desiderate percorrere questa strada, tuttavia, venite all’incrocio del Fiume Ivlis a mezzanotte stanotte. Vi attenderò là, presso la forca. Venite soli — e non fatevi seguire.” Madam Eva rifiuta di elaborare oltre, e congeda i giocatori dalla sua tenda se tentano di protestare.
 
-As the players prepare to leave, Madam Eva pauses and closes her eyes, though they flash wide open again soon after. Read:
+Mentre i giocatori si preparano a partire, Madam Eva si ferma e chiude gli occhi, anche se li spalanca di nuovo poco dopo. Leggete:
 
-<div class="description"><p>Madam Eva’s voice is a low hiss as she speaks, her silhouette dancing in the flickering candlelight. "A shadow is approaching my tent: a lone servant of Darkness. They seek knowledge of your future—secrets that I am sworn never to reveal to any but their keepers. </p>
-<p>“Do not look, child, nor rush to greet them; if they learn of your true aspirations, all may be lost. Do not reveal, even, that you know of their true nature, for their master will know that I have told you, and his wrath will descend upon us all. </p></div>
+<div class=”description”><p>La voce di Madam Eva è un sibilo sommesso mentre parla, la sua sagoma che danza nella luce tremolante delle candele. “Un’ombra si sta avvicinando alla mia tenda: un servitore solitario dell’Oscurità. Cercano conoscenza del vostro futuro — segreti che ho giurato di non rivelare mai a nessuno se non ai loro custodi.</p>
+<p>”Non guardate, figlio mio, né affrettatevi a salutarli; se dovessero scoprire le vostre vere aspirazioni, tutto potrebbe essere perduto. Non rivelate nemmeno che conoscete la loro vera natura, poiché il loro padrone saprà che ve l’ho detto, e la sua ira si abbatterà su tutti noi.</p></div>
 
-## C4c. Vistani Hospitality
-Upon exiting Madam Eva’s tent, the players find two other Vistani waiting outside of the tent: a woman named Eliza and a man named Arturi Radanavich. Stanimir joins the group a few moments later.
+## C4c. Ospitalità Vistana
+Uscendo dalla tenda di Madam Eva, i giocatori trovano altri due Vistani in attesa fuori dalla tenda: una donna di nome Eliza e un uomo di nome Arturi Radanavich. Stanimir si unisce al gruppo pochi istanti dopo.
 
-Unless the players intervene, the conversation unfolds as follows:
+A meno che i giocatori non intervengano, la conversazione si svolge come segue:
 
-* Eliza greets the players immediately, giving them a warm welcome to the Tser Pool Encampment. 
-* As Stanimir approaches, Eliza clicks her tongue and scolds him for his lack of hospitality, noting that the players seem to have traveled a long way. 
-* Stanimir amusedly reminds Eliza that fate waits for no one, but nonetheless invites the players to rest their weary feet at the camp’s central fire, offering wine, food, and song should the players join.
-* If the players accept and move to accompany Stanimir, Arturi hesitates, then asks if the players would mind if he accompanied them. He notes that he has heard that they have just arrived from Barovia, and he is curious to hear news from the village. (He adds, somewhat awkwardly, that it has been some time since he had last shared a Vistani fire, and apologizes for imposing upon them and the others.)
+* Eliza saluta immediatamente i giocatori, dando loro un caloroso benvenuto all’Accampamento del Tser Pool.
+* Quando Stanimir si avvicina, Eliza schiocca la lingua e lo rimprovera per la sua mancanza di ospitalità, facendo notare che i giocatori sembrano aver viaggiato a lungo.
+* Stanimir ricorda divertito a Eliza che il destino non aspetta nessuno, ma invita comunque i giocatori a riposare i loro piedi stanchi presso il fuoco centrale del campo, offrendo vino, cibo e canzoni se i giocatori si uniscono.
+* Se i giocatori accettano e si muovono per accompagnare Stanimir, Arturi esita, poi chiede ai giocatori se gli dispiacerebbe che li accompagnasse. Nota di aver sentito che sono appena arrivati da Barovia, ed è curioso di avere notizie dal villaggio. (Aggiunge, un po’ goffamente, che è passato del tempo dall’ultima volta che ha condiviso un fuoco Vistano, e si scusa per l’imposizione nei confronti loro e degli altri.)
 
-> [!profile]+ **Arturi and Eliza**
+> [!profile]+ **Arturi ed Eliza**
 >
-> **Arturi Radanavich**, a cursed Vistana, arrived at the Tser Pool encampment two weeks after Strahd's reawakening. (See **The Curse of Arturi Radanavich** below for more information about Arturi's presence in Barovia and his connection to Dr. Rudolph van Richten.) Arturi is a quiet, soft-spoken man in his late thirties with a distant, almost absent-minded countenance and a near-painful sincerity.
+> **Arturi Radanavich**, un Vistano maledetto, è arrivato all’accampamento del Tser Pool due settimane dopo il risveglio di Strahd. (Vedere **La Maledizione di Arturi Radanavich** qui sotto per maggiori informazioni sulla presenza di Arturi a Barovia e la sua connessione con il Dr. Rudolph van Richten.) Arturi è un uomo tranquillo e pacato sulla trentina avanzata, con un aspetto distante, quasi distratto, e una sincerità quasi dolorosa.
 >
-> Meanwhile, **Eliza**, one of Strahd’s spies, has heard that outsiders have entered the pool from beyond the Mists, and hopes to glean information about their goals, capabilities, and weaknesses. (Eliza had hoped to eavesdrop on the players’ Tarokka reading as well, but was foiled by Madam Eva’s foresight.)
+> Nel frattempo, **Eliza**, una delle spie di Strahd, ha sentito che degli estranei sono entrati nella zona dalla dimensione oltre le Nebbie, e spera di raccogliere informazioni sui loro obiettivi, capacità e debolezze. (Eliza sperava anche di origliare la lettura dei Tarokka dei giocatori, ma è stata sventata dalla previdenza di Madam Eva.)
 >
-> In sharp contrast to Arturi, Eliza is a cheery, excitable woman in her early thirties, always glad to insert herself into a conversation with a brash or witty comment.
-
-> [!lore]+ **The Curse of Arturi Radanavich**
->
-> ***Dark Beginnings.*** Twenty years ago, when Arturi Radanavich was only seventeen, several members of his extended family amongst the Radanavich caravan invited him on a “hunting trip.” Awkward, lonesome, and desperate for connection, Arturi accepted their invitation gratefully.
->
-> It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu, however, had died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
->
-> Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or Aunt Irene’s smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, Erasmus, spirited him away to a darkened mire, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists—to Barovia.
->
-> It wasn’t long after Erasmus was sold that Van Richten tracked the Vistani caravan down, ambushing the d’Avenirs—a Vistani husband and wife who then traveled with the Radanaviches and had aided Madame Radanavich in her vengeance—and demanding to know where his son had been taken. Arturi later learned that Van Richten had spared the d’Avenirs’ lives—a mercy that would not last forever.
->
-> Three years later, Van Richten returned, grim-faced and surrounded by a swarm of ravenous undead. His son Erasmus had died—transformed into a vampire spawn and killed by Van Richten’s own hand. Torn by fury and grief, Van Richten released the undead horde upon the Radanavich caravan, howling, “Undead take you as you have taken my son!”
->
-> Arturi alone survived, hiding himself away in his grandmother’s magical trunk. When he finally emerged, hours later, he found the encampment shattered, his family slaughtered—and Van Richten nowhere to be found.
->
-> ***Arturi's Curse.*** Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, clinging to him like a burial shroud. “Undead take you,” Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast,” a word that can also be more directly translated as “living dead.” No village gave Arturi sanctuary; no town’s walls would protect him.
->
-> For eighteen years Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, shortly after Strahd's reawakening, he returned to Barovia, where he sought the counsel of the Vistana seer Madam Eva. "Find the man who forged your fetters," she told him. "His final breath will set you free."
-> 
-> Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache, containing a half-written manuscript and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
-> 
-> Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . . 
->
-> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
-
-If the players make their way to the Vistani fire, Eliza—and Arturi, if he is present—introduce themselves. Eliza also asks the players’ names in return. (If asked why he has not shared a Vistani fire until recently, Arturi winces and admits only that the situation is complicated.)
-## C4d. The Dancing Fire
-As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
-
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
-
-> [!info]+ **Insight Checks**
-> Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
-
-After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
-
-If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
-
-* **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)
-* **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
-* **Arturi** wagers a short manuscript on werewolves authored by Dr. Rudolph van Richten.
-* **Ireena** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
-
-Give the players a few minutes away from the table to plan out their stories before the game begins.
-
-> [!info]+ ***Campfire Reactions***
-> In response to the players' stories, the participants of the Game of Stories vote as follows:
-> * Stanimir, believing that a grain of truth lies at the heart of every tale, votes nothing but True.
-> * Eliza, not one for half-truths, alternates between True and False.
-> * Arturi, cynical and distrusting, alternates between Half-True and False.
-> * Ireena, quick to warm to the player, alternates between True and Half-True.
+> In netto contrasto con Arturi, Eliza è una donna allegra ed eccitabile sulla trentina, sempre felice di inserirsi in una conversazione con un commento sfacciato o spiritoso.
 
 
-> [!lore]+ **Arturi's Manuscript**
+> [!lore]+ **La Maledizione di Arturi Radanavich**
 >
-> Arturi's manuscript—authored by Dr. Rudolph van Richten—is handwritten and two pages long. It is titled "A Study of the Werewolf's Curse," and reads as follows:
+> ***Oscure Origini.*** Vent'anni fa, quando Arturi Radanavich aveva solo diciassette anni, diversi membri della sua famiglia allargata nella carovana Radanavich lo invitarono per una "battuta di caccia." Impacciato, solitario e disperatamente in cerca di legami, Arturi accettò il loro invito con gratitudine.
+>
+> Non passò molto tempo, tuttavia, prima che Arturi scoprisse la vera natura della loro caccia. Sua zia, Madame Irene Radanavich e leader della carovana, aveva recentemente visto suo figlio, Radu, gravemente ferito. Quando le cure dei Vistani si rivelarono infruttuose, Madame Radanavich aveva portato Radu da un guaritore in un villaggio vicino — un dottore di nome Rudolph van Richten. Radu, tuttavia, era morto sotto le cure di Van Richten, e una Madame Radanavich vendicativa e addolorata cercava di infliggere questo dolore a Van Richten a sua volta.
+>
+> Arturi si sentiva sconcertato e spaventato — ma ogni volta che pensava di aprire bocca, immaginava gli insulti e le beffe dei cugini o lo sguardo bruciante di Zia Irene. E così, Arturi guardò in silenzio mentre la sua famiglia rapiva il figlio quattordicenne di Van Richten, Erasmus, lo portava via in una palude oscura e lo vendeva al signore dei vampiri Barone Metus. I Radanavich fuggirono poi attraverso le Nebbie — verso Barovia.
+>
+> Non passò molto tempo dopo la vendita di Erasmus prima che Van Richten rintracciasse la carovana Vistana, tendendo un'imboscata ai d'Avenir — un marito e una moglie Vistani che viaggiavano allora con i Radanavich e avevano aiutato Madame Radanavich nella sua vendetta — ed esigendo di sapere dove era stato portato suo figlio. Arturi scoprì in seguito che Van Richten aveva risparmiato la vita dei d'Avenir — una clemenza che non sarebbe durata per sempre.
+>
+> Tre anni dopo, Van Richten tornò, con il volto cupo e circondato da uno sciame di non-morti famelici. Suo figlio Erasmus era morto — trasformato in un vampiro e ucciso dalla mano stessa di Van Richten. Dilaniato dalla furia e dal dolore, Van Richten scatenò l'orda di non-morti sulla carovana Radanavich, urlando: "I non-morti vi prendano come voi avete preso mio figlio!"
+>
+> Solo Arturi sopravvisse, nascondendosi nel baule magico di sua nonna. Quando finalmente emerse, ore dopo, trovò l'accampamento distrutto, la sua famiglia massacrata — e Van Richten scomparso.
+>
+> ***La Maledizione di Arturi.*** Arturi scoprì presto, tuttavia, che le parole vendicative di Van Richten avevano preso vita propria, aggrappandosi a lui come un sudario funerario. "I non-morti vi prendano," aveva promesso Van Richten — e così fecero, inseguendo Arturi ovunque andasse. I Vistani lo bandirono dai loro accampamenti dopo il tramonto, chiamandolo *mortu*, ovvero "reietto," una parola che può anche essere tradotta più direttamente come "morto vivente." Nessun villaggio diede ad Arturi rifugio; nessuna mura cittadina lo avrebbe protetto.
+>
+> Per diciotto anni Arturi eluse i suoi eterni inseguitori, mentre cercava disperatamente un modo per sfuggire alla presa della sua maledizione. Infine, poco dopo il risveglio di Strahd, tornò a Barovia, dove cercò il consiglio della veggente Vistana Madam Eva. "Trova l'uomo che ha forgiato le tue catene," gli disse. "Il suo ultimo respiro ti renderà libero."
+>
+> Da allora Arturi ha percorso Barovia diverse volte alla ricerca di Van Richten. In un'occasione, ha persino recuperato un deposito di provviste, contenente un manoscritto incompiuto e un piccolo assortimento di armi. Non è riuscito, tuttavia, a localizzare il dottore stesso.
+>
+> Arturi è tornato spesso all'accampamento di Madam Eva per godere della sua ospitalità — ma non si ferma mai oltre il tramonto. Poiché i morti viventi non riposano mai, e Arturi non osa condurli al Tser Pool...
+>
+> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
+
+Se i giocatori si dirigono verso il fuoco Vistano, Eliza — e Arturi, se è presente — si presentano. Eliza chiede anche i nomi dei giocatori in cambio. (Se gli viene chiesto perché non ha condiviso un fuoco Vistano fino a poco tempo fa, Arturi fa una smorfia e ammette solo che la situazione è complicata.)
+## C4d. Il Fuoco Danzante
+Mentre il crepuscolo scende intorno al falò, i Vistani servono ai giocatori una cena a base di un sostanzioso stufato di coniglio, patate, rape, lenticchie e pastinache accompagnato da generose fette di pane azzimo. Mentre mangiano, Eliza chiede ai giocatori quale sia la loro prossima destinazione. Se i giocatori indicano che sono diretti verso Vallaki o mostrano altrimenti interesse a passare la notte, Stanimir li invita a riposare al campo per la notte, facendo notare che le strade possono essere lunghe e pericolose oltre i carri di Madam Eva.
+
+Se non l'ha già fatto, Arturi chiede ai giocatori notizie da Barovia, domandando specificamente se hanno incontrato un uomo di nome Rudolph van Richten. Se gli viene chiesto del suo interesse, Arturi nota sommessamente che Van Richten è un suo conoscente, e che aveva recentemente sentito la voce che fosse stato visto viaggiare verso Barovia. (Questa è una bugia. Un giocatore che supera una prova di DC 10 Wisdom (Insight) percepisce che Arturi sta parlando un po' troppo velocemente. Arturi non rivela la verità se messo alle strette, e invece si limita a scrollare le spalle e dire: "Credete ciò che scegliete di credere.") Arturi non è sicuro di credere che Van Richten sia morto, ma sospetta che sia ancora vivo — se non altro perché ha sentito dire che il vecchio è incredibilmente difficile da uccidere.
+
+> [!info]+ **Prove di Intuizione**
+> Non invitate i giocatori a effettuare prove di Intuizione senza che lo richiedano. Piuttosto, permettete ai giocatori di chiedere informazioni riguardo al linguaggio corporeo o alla sincerità di un PNG prima di invitarli a effettuarne una.
+
+Dopo cena, Stanimir informa allegramente i giocatori che, in qualità di ospiti a un fuoco Vistano, ci si aspetta ora che giochino al Gioco delle Storie, e chiede se i giocatori accettano. Per giocare, ogni partecipante deve mettere in palio una scommessa, che può essere un oggetto di modesto valore monetario, intellettuale o sentimentale. Ogni partecipante deve poi condividere una storia per far "ridere o piangere" un uomo. Ogni volta che una storia viene raccontata, gli altri partecipanti al gioco devono indovinare se la storia è verità, falsità, o entrambe. Alla fine del gioco, il partecipante con il maggior numero di risposte corrette vince il bottino.
+
+Se i giocatori accettano la sfida, Eliza, Arturi e [[Non-Player Characters#Ireena Kolyana|Ireena]] si offrono anche loro di unirsi al gioco. Le scommesse dei partecipanti sono le seguenti:
+
+* **Stanimir** scommette un mazzo consumato di carte Tarokka che apparteneva alla sua defunta moglie. ("Sono rimaste inutilizzate e impolverate nel mio carro abbastanza a lungo," dice con un sorriso triste. "Credo che a lei piacerebbe se fossero di nuovo in giro per il mondo.")
+* **Eliza** scommette un cannocchiale pieghevole in ottone con un piccolo specchio orientabile, che permette all'utilizzatore di sbirciare dietro gli angoli.
+* **Arturi** scommette un breve manoscritto sui lupi mannari scritto dal Dr. Rudolph van Richten.
+* **Ireena** scommette una molletta per capelli di legno dipinto a forma di girasole che portava da bambina.
+
+Concedete ai giocatori qualche minuto lontano dal tavolo per pianificare le loro storie prima che il gioco inizi.
+
+> [!info]+ ***Reazioni al Falò***
+> In risposta alle storie dei giocatori, i partecipanti del Gioco delle Storie votano come segue:
+> * Stanimir, credendo che un granello di verità si trovi al cuore di ogni racconto, vota sempre Vero.
+> * Eliza, non amante delle mezze verità, alterna tra Vero e Falso.
+> * Arturi, cinico e diffidente, alterna tra Mezzo-Vero e Falso.
+> * Ireena, rapida a simpatizzare con il giocatore, alterna tra Vero e Mezzo-Vero.
+
+
+> [!lore]+ **Il Manoscritto di Arturi**
+>
+> Il manoscritto di Arturi — scritto dal Dr. Rudolph van Richten — è scritto a mano e lungo due pagine. Si intitola "Uno Studio sulla Maledizione del Lupo Mannaro," e recita come segue:
 >
 ><hr>
 >
-> Werewolves are among the most fearsome lycanthropes, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
+> I lupi mannari sono tra i licantropi più temibili, portatori di una maledizione tanto antica quanto terrificante. Per loro, l'afflizione della licantropia trasforma anche l'individuo più civile in una bestia mostruosa, deformando i confini tra uomo e natura.
 >
-> In its humanoid form, a werewolf retains many of the characteristics of its original identity, save for certain nuances such as heightened senses, an explosive temper, and an odd preference for rare meats. Over time, subtle features that hint at their animalistic nature begin to manifest. Nevertheless, it is in their wolf and hybrid forms that the true horror of the curse is revealed. A werewolf's hybrid form is particularly terrifying, with a muscular humanoid body crowned by the head of a ravenous wolf. It is capable of wielding weapons, though its favored means of attack are its devastating claws and powerful bite.
+> Nella sua forma umanoide, un lupo mannaro conserva molte delle caratteristiche della sua identità originale, salvo alcune sfumature come sensi acuiti, un temperamento esplosivo e una strana preferenza per le carni al sangue. Col tempo, iniziano a manifestarsi tratti sottili che alludono alla loro natura animalesca. Ciononostante, è nelle loro forme di lupo e ibrida che il vero orrore della maledizione si rivela. La forma ibrida di un lupo mannaro è particolarmente terrificante, con un corpo umanoide muscoloso coronato dalla testa di un lupo famelico. È capace di brandire armi, sebbene i suoi mezzi di attacco preferiti siano i suoi devastanti artigli e il suo potente morso.
 >
-> Werewolves typically abandon civilization soon after their transformation. Those who reject the curse flee in fear of harming their loved ones, whereas those who accept it fear exposure and the repercussions of their violent deeds. Out in the wild, they form packs, living in cohesion with ordinary wolves and dire wolves alike.
+> I lupi mannari tipicamente abbandonano la civiltà poco dopo la loro trasformazione. Coloro che rifiutano la maledizione fuggono per paura di ferire i propri cari, mentre coloro che la accettano temono di essere scoperti e le ripercussioni delle loro azioni violente. In natura, formano branchi, vivendo in coesione con lupi ordinari e lupi crudeli.
 >
-> The most tragic aspect of lycanthropy is its transmission. A humanoid can contract this curse through a wound inflicted by a lycanthrope or through inheritance if one or both of its parents are lycanthropes.
+> L'aspetto più tragico della licantropia è la sua trasmissione. Un umanoide può contrarre questa maledizione attraverso una ferita inflitta da un licantropo o per eredità se uno o entrambi i suoi genitori sono licantropi.
 >
-> The cursed have two paths: they may resist the beast within or embrace it. Those who resist bear unending strain—until the rising full moon triggers a compulsory and horrific transformation. These individuals often experience bloody, haunting dreams: echoes of the carnage wrought in their madness.
+> I maledetti hanno due strade: possono resistere alla bestia interiore o abbracciarla. Coloro che resistono sopportano una tensione senza fine — fino a quando la luna piena crescente innesca una trasformazione obbligatoria e orrifica. Questi individui spesso sperimentano sogni sanguinari e ossessionanti: echi della carneficina compiuta nella loro follia.
 >
-> Some twisted souls, however, choose to accept their beastly nature. With time, they can master their abilities, calling upon the wolf's resilience and strength as they will. To do so, however, they must first perform a particular gruesome and foul act—one which I will decline to describe in these pages.
+> Alcune anime contorte, tuttavia, scelgono di accettare la loro natura bestiale. Col tempo, possono padroneggiare le loro abilità, invocando la resistenza e la forza del lupo a loro piacimento. Per farlo, tuttavia, devono prima compiere un atto particolarmente macabro e ripugnante — che mi rifiuterò di descrivere in queste pagine.
 >
-> One sure way to identify an afflicted individual is the presence of a perpetually raw, bloody wound: the scar of the initial curse transmission. This wound never fully heals until the curse is lifted.
+> Un modo sicuro per identificare un individuo afflitto è la presenza di una ferita perennemente viva e sanguinante: la cicatrice della trasmissione iniziale della maledizione. Questa ferita non guarisce mai completamente fino a quando la maledizione non viene rimossa.
 >
-> Beyond this mark, however, these creatures bear an extraordinary resilience. Conventional methods of harm prove ineffective in permanently subduing a werewolf. Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest.
+> Al di là di questo marchio, tuttavia, queste creature possiedono una resistenza straordinaria. I metodi convenzionali di danno si rivelano inefficaci nel sottomettere permanentemente un lupo mannaro. Solo attraverso il morso dell'argento o il gelo del potere della morte un lupo mannaro può essere veramente messo a riposo.
 >
-> A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
-### Stanimir’s Tale
-Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+> Un incantesimo di rimozione può anche curare un licantropo afflitto, sebbene coloro che accettano la bestia possano combatterlo aspramente. Quanto a quelle anime sfortunate nate sotto la maledizione, sono condannate a portare la loro afflizione per tutta la vita. Per quanto la mia ricerca abbia dimostrato, non esiste cura, né tregua per tali individui. Sono intrappolati in una lotta eterna, per sempre tormentati dal lupo interiore.
+### Il Racconto di Stanimir
+Stanimir va per primo, raccontando lo stesso racconto descritto in <span class="citation">The Dancing Fire (p. 20)</span>. Tuttavia, escludete l'ultimo paragrafo, e terminate invece con la frase: "La figura nel fuoco danzante sconfigge il suo ultimo nemico, poi si disperde in una nuvola di fumo e braci." Durante il suo racconto, i giocatori possono notare Stanimir che usa l'incantesimo *major image* per creare le forme nelle fiamme.
 
-When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
-### Eliza’s Tale
-After one of the players has gone, Eliza then shares the following tale:
+Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Eliza e Arturi per ultimi, con Eliza che vota "Vero" e Arturi che vota "Mezzo-Vero" — Stanimir rivela che la sua storia era effettivamente un racconto vero del popolo Vistano, e che il principe ferito visse come amico dei Vistani, anche quando il suo cuore fu sviato da ombre e nebbia. (Se gli viene chiesto, Stanimir ammette che il principe era Strahd von Zarovich nei giorni precedenti al suo arrivo a Barovia, e che la sua promessa ai Vistani è il motivo per cui rimangono nella valle ancora oggi, "senza paura né favori.")
+### Il Racconto di Eliza
+Dopo che uno dei giocatori è andato, Eliza condivide poi il seguente racconto:
 
-<div class="description"><p>“It is said that within each raven flutters a lost soul, and that each raven’s song tells a tale of ages past. They whisper, so listen closely.”</p>
-<p>She takes a deep breath; when she speaks again, her voice is quiet, with an eerie, melodic quality to it.</p>
-<p>“Sing, ravens, of Barovia, birthed from the mists and bathed in twilight. Sing of Lugdana, the Morninglord’s stalwart, dawn-touched foe to the deep-lurking dark. The Holy Symbol of Ravenkind, her radiant testament, the warrior’s beacon of faithful resolve.</p>
-<p>“Sing, ravens, of Chernovog’s rise, named Green-God and Demon-Lord upon Yester Hill. Lugdana, gray-haired, weary of battle, her longsword and shield yet polished and ready. Guided through shadows, toward sacred ground, she clashed with the demon, their tempest-like dance.</p>
-<p>“Sing, ravens, of Lugdana’s last fury, of Ravenkind’s token now blazing with light. The battle’s tide turning, a hero’s brave cry, a final onslaught with divinity’s grace. The Demon-Lord banished, the warrior now fell, the wound at her side gouged too deep to bear.</p>
-<p>“Sing, ravens, of light’s final moments, a shadow descending from radiance on high. Sing of the angel, black-feathered and beaked, the Morninglord’s angel reclaiming its gift. The Symbol retaken, in ravens’ claws held.</p>
-<p>“Sing, ravens; you are the keepers, the watchers, the tellers of stories untold. Sing, ravens, of Lugdana’s memory, the shadows that lurk, and heroes to come.”</p></div> 
+<div class="description"><p>"Si dice che dentro ogni corvo batta un'anima perduta, e che il canto di ogni corvo racconti una storia di ere passate. Sussurrano, quindi ascoltate attentamente."</p>
+<p>Fa un respiro profondo; quando parla di nuovo, la sua voce è sommessa, con una qualità inquietante e melodica.</p>
+<p>"Cantate, corvi, di Barovia, nata dalle nebbie e bagnata dal crepuscolo. Cantate di Lugdana, la paladina fedele del Signore del Mattino, nemica toccata dall'alba delle tenebre che si annidano in profondità. Il Holy Symbol of Ravenkind, il suo radioso testamento, il faro del guerriero di fedele determinazione.</p>
+<p>"Cantate, corvi, dell'ascesa di Chernovog, chiamato Dio Verde e Signore dei Demoni su Yester Hill. Lugdana, dai capelli grigi, stanca di battaglie, la sua spada lunga e il suo scudo ancora lucidati e pronti. Guidata attraverso le ombre, verso il sacro suolo, si scontrò con il demone, la loro danza simile a una tempesta.</p>
+<p>"Cantate, corvi, dell'ultima furia di Lugdana, del simbolo di Ravenkind ora fiammeggiante di luce. La marea della battaglia che si ribalta, il grido coraggioso di un'eroina, un assalto finale con la grazia della divinità. Il Signore dei Demoni bandito, la guerriera ora caduta, la ferita al suo fianco scavata troppo in profondità da sopportare.</p>
+<p>"Cantate, corvi, degli ultimi momenti di luce, un'ombra che discende dallo splendore celeste. Cantate dell'angelo, dalle piume nere e dal becco, l'angelo del Signore del Mattino che reclama il suo dono. Il Simbolo ripreso, tra gli artigli dei corvi custodito.</p>
+<p>"Cantate, corvi; voi siete i custodi, le sentinelle, i narratori di storie mai raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che si annidano, e degli eroi a venire."</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir and Arturi going last, with Stanimir voting “True” and Arturi voting “False”—Eliza reveals that her story was half-true. 
+Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Stanimir e Arturi per ultimi, con Stanimir che vota "Vero" e Arturi che vota "Falso" — Eliza rivela che la sua storia era mezzo-vera.
 
-Lugdana was indeed a paladin of the Morninglord who bore the legendary *Holy Symbol of Ravenkind*, which was a platinum amulet shaped like a sunburst, with an enormous ruby embedded at its center. According to legend, the symbol was given to Lugdana by an angel in the guise of a raven. Eliza notes with a chuckle, however, that no one knows what happened to the Symbol after Lugdana fell at Yester Hill, nor where it resides today.
-### Arturi’s Tale
-After three of the players have gone, Arturi then shares the following tale:
+Lugdana era davvero una paladina del Signore del Mattino che portava il leggendario *Holy Symbol of Ravenkind*, che era un amuleto di platino a forma di raggiera, con un enorme rubino incastonato al centro. Secondo la leggenda, il simbolo fu dato a Lugdana da un angelo sotto le sembianze di un corvo. Eliza nota con una risatina, tuttavia, che nessuno sa cosa accadde al Simbolo dopo che Lugdana cadde a Yester Hill, né dove si trovi oggi.
+### Il Racconto di Arturi
+Dopo che tre dei giocatori sono andati, Arturi condivide poi il seguente racconto:
 
 <div class="description">
-<p>There once was a Fox, renowned for his wisdom and skill, who dwelled with his kit in the misted woods. On a cold, moonlit night, a pair of Sparrows brought him their child, the tendrils of Death clutching its shivering body. The Fox took the chick into his den, but for all his knowledge, he could not cure its ailment, and it breathed its last in his paws.</p>
-<p>Driven mad in their grief, the vengeful Sparrows, aided by four of their kin, stole the Fox's kit in the night. They delivered him to the Wolf, who had long hungered for the taste of fox-flesh. The Wolf devoured the kit, and the Sparrows departed to return to their flock.</p>
-<p>When the Fox found what the Sparrows had done, rage clutched his own heart. In his cunning, he knew that the Rats, in their burrows beneath the earth, had always despised the songs of the Sparrows far above. The Fox descended to the kingdom of the Rats, and he promised them a forest free of the songs of the Sparrows. Intrigued, the Rats agreed.</p>
-<p>The Rats could not find the Sparrows' nest alone. But the crafty Fox could, and as the Sparrows slumbered in the hollow of a great oak, the Rats fell upon them to feast with tooth and claw. For the crimes of six, the flock perished, with nary an egg spared.</p>
-<p>The misted wood is darkened, now, and the trees no longer sing with the songs of the Sparrows. But some say that the Rats hunt still—that a lone chick yet escaped their clutches, and that one day, they will find it, and gobble it up like the rest.</p>
+<p>C'era una volta una Volpe, rinomata per la sua saggezza e abilità, che viveva con il suo cucciolo nei boschi nebbiosi. In una fredda notte illuminata dalla luna, una coppia di Passeri gli portò il loro piccolo, i tentacoli della Morte che stringevano il suo corpo tremante. La Volpe accolse il pulcino nella sua tana, ma per tutta la sua conoscenza, non poté curare il suo male, ed esso esalò l'ultimo respiro tra le sue zampe.</p>
+<p>Impazziti dal dolore, i Passeri vendicativi, aiutati da quattro dei loro simili, rubarono il cucciolo della Volpe nella notte. Lo consegnarono al Lupo, che aveva a lungo bramato il sapore della carne di volpe. Il Lupo divorò il cucciolo, e i Passeri partirono per tornare al loro stormo.</p>
+<p>Quando la Volpe scoprì cosa avevano fatto i Passeri, la rabbia strinse anche il suo cuore. Nella sua astuzia, sapeva che i Ratti, nelle loro tane sotto la terra, avevano sempre disprezzato i canti dei Passeri lassù in alto. La Volpe discese nel regno dei Ratti, e promise loro una foresta libera dai canti dei Passeri. Incuriositi, i Ratti accettarono.</p>
+<p>I Ratti non potevano trovare il nido dei Passeri da soli. Ma l'astuta Volpe sì, e mentre i Passeri dormivano nella cavità di una grande quercia, i Ratti si avventarono su di loro per banchettare con denti e artigli. Per i crimini di sei, lo stormo perì, senza che nemmeno un uovo fosse risparmiato.</p>
+<p>Il bosco nebbioso è oscurato, ora, e gli alberi non cantano più con i canti dei Passeri. Ma alcuni dicono che i Ratti cacciano ancora — che un pulcino solitario sfuggì ai loro artigli, e che un giorno lo troveranno, e lo divoreranno come gli altri.</p>
 </div>
 
-When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
-### Ireena’s Tale
-After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
+Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Stanimir ed Eliza per ultimi, con Stanimir che vota "Vero" ed Eliza che vota "Falso" — Arturi rivela che la sua storia era vera. Declina cortesemente, tuttavia, di rivelare altro, notando solo con un sorriso triste che "Una storia non può essere veramente raccontata finché non è terminata."
+### Il Racconto di Ireena
+Dopo che tutti i giocatori sono andati, [[Non-Player Characters#Ireena Kolyana|Ireena]] (se presente) condivide poi il seguente racconto:
 
-<div class="description"><p>"When I was a child, my father took me and my brother to a vast, tranquil lake. I remember the sand beneath my bare feet, and the lapping of the waves against the shore. </p>
-<p>"But then, something broke the silence—a low growl that echoed through the wind. As I turned, I saw a beast emerge from the fog: a wolf, far larger than any I'd ever seen. I still remember its eyes—yellow, cold, and hungry.</p>
-<p>"My father screamed for me to run. I took off for the woods, and the wolf followed, its snarls echoing through the underbrush. I remember branches whipping against my face, thorns cutting at my feet as my legs burned and my breath grew ragged, but my fear drove me forward.</p>
-<p>"It was only much later, when my heart had quieted in my chest and the wolf's footsteps had faded into silence, that I finally allowed myself to stop. By then, though, the woods were strange to me, and my father's shouts had faded. </p>
-<p>"A heavy mist had descended around me, and shadowed shapes lurked in every corner. I stepped forward, one hand reaching fearfully into the fog—and a wolf made of mist leapt forth, its jaws opened wide to devour me. And then—everything went black.</p>
-<p>"The next thing I remembered, I awoke in my own bed, my father's humming echoing from the kitchen. I don't know how I got there, or what became of the wolf, but I can still remember its teeth as clearly as ever."</p></div>
+<div class="description"><p>"Quando ero bambina, mio padre portò me e mio fratello a un vasto e tranquillo lago. Ricordo la sabbia sotto i miei piedi nudi, e il rumore delle onde sulla riva.</p>
+<p>"Ma poi, qualcosa ruppe il silenzio — un ringhio basso che echeggiò nel vento. Quando mi voltai, vidi una bestia emergere dalla nebbia: un lupo, molto più grande di qualsiasi altro avessi mai visto. Ricordo ancora i suoi occhi — gialli, freddi e affamati.</p>
+<p>"Mio padre urlò di correre. Mi lanciai verso i boschi, e il lupo mi seguì, i suoi ringhi che echeggiavano nel sottobosco. Ricordo i rami che mi sferzavano il viso, le spine che mi tagliavano i piedi mentre le mie gambe bruciavano e il mio respiro si faceva affannoso, ma la paura mi spingeva avanti.</p>
+<p>"Fu solo molto più tardi, quando il mio cuore si era calmato nel petto e i passi del lupo si erano dissolti nel silenzio, che finalmente mi permisi di fermarmi. A quel punto, però, i boschi mi erano estranei, e le grida di mio padre si erano affievolite.</p>
+<p>"Una nebbia pesante era scesa intorno a me, e forme oscure si annidavano in ogni angolo. Feci un passo avanti, una mano che si tendeva paurosa nella nebbia — e un lupo fatto di nebbia balzò fuori, le fauci spalancate per divorarmi. E poi — tutto divenne nero.</p>
+<p>"La cosa seguente che ricordo, mi svegliai nel mio letto, il canticchiare di mio padre che echeggiava dalla cucina. Non so come ci sono arrivata, o cosa ne fu del lupo, ma ricordo ancora i suoi denti chiaramente come sempre."</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
+Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Stanimir che vota "Vero" ed Eliza e Arturi che votano "Falso" — Ireena rivela che la sua storia era falsa. Con una risata sommessa, racconta che la storia è un sogno che ha avuto fin dall'infanzia, facendo notare che non ci sono laghi vicino al villaggio di Barovia e che non aveva mai visto un **dire wolf** fino a poco tempo fa.
 
-If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
-### Arturi Departs
-When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
+Se messo alla prova sul suo voto, Stanimir dice semplicemente, con un sorriso misterioso, che molti sogni hanno un granello di verità. Poi ringrazia Ireena per aver condiviso il suo racconto.
+### La Partenza di Arturi
+Quando il gioco finisce, Arturi saluta i giocatori e parte dal campo. Se gli viene chiesto perché, condivide, con un sorriso triste, che il campo è in pericolo ogni momento che vi indugia dopo il tramonto. "Sono stato egoista stasera," mormora, "e ho spinto la mia fortuna fin dove osavo. Ma non oso rimanere oltre, per paura del terrore che potrebbe seguire."
 
-A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
+Un giocatore che supera una prova di DC 12 Charisma (Persuasion) può convincere Arturi a rivelare che i non-morti lo inseguono ovunque vada, e che lo tormentano ogni notte da diciotto anni. "Un uomo un tempo giurò che i non-morti mi avrebbero preso," dice. "E sebbene non ci siano ancora riusciti, non hanno mai mancato di provarci." Rifiuta di spiegare oltre, affermando tristemente: "Alcuni racconti feriscono il narratore. Vi prego, non chiedete altro."
 
-Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
+Arturi rifiuta qualsiasi offerta di difenderlo, e scivola via nella notte, stabilendosi infine tra i rami di un albero alto a due miglia dall'accampamento. I non-morti emergono quindi come segue:
 
-* Thirty minutes after Arturi arrives, twelve **zombies** arrive to mill about the base of the tree. 
-* Two hours later, five **ghouls** arrive to claw and howl at the trunk of the tree. 
-* Two hours later, three **ghasts** arrive to join the ghouls. 
-* Two hours later, four **wights** emerge silently to stand guard around the base of the tree.
+* Trenta minuti dopo l'arrivo di Arturi, dodici **zombies** arrivano per aggirarsi alla base dell'albero.
+* Due ore dopo, cinque **ghouls** arrivano per graffiare e ululare al tronco dell'albero.
+* Due ore dopo, tre **ghasts** arrivano per unirsi ai ghoul.
+* Due ore dopo, quattro **wights** emergono silenziosamente per montare la guardia intorno alla base dell'albero.
 
-The undead vanish into the woods shortly before dawn.
-## C4e. Return to the River Ivlis Crossroads
-The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 11 Dexterity (Stealth) check or take other covert action to do so.
-### Traveling to the Crossroads
-As the players make the journey to the crossroads, read:
+I non-morti svaniscono nei boschi poco prima dell'alba.
+## C4e. Ritorno all'Incrocio del Fiume Ivlis
+Il viaggio dall'Accampamento del Tser Pool all'Incrocio del Fiume Ivlis è lungo un miglio e mezzo e richiede trenta minuti. I giocatori che tentano di nascondere i propri movimenti a Eliza, la spia di Strahd nel campo, devono superare una prova di DC 11 Dexterity (Stealth) o intraprendere altre azioni segrete per farlo.
+### Viaggio verso l'Incrocio
+Mentre i giocatori compiono il viaggio verso l'incrocio, leggete:
 
 <div class="description">
-<p>A pallid moon hangs low in the sky, casting a weak, silvery glow upon the mist-shrouded landscape below. Ancient trees loom on either side of the muddy road, their gnarled branches reaching out like skeletal fingers.</p>
-<p>As the witching hour approaches, an eerie stillness descends. Even the leaves cease their rustling, leaving the squelch of your boots through mud the only lingering sound.</p>
+<p>Una luna pallida pende bassa nel cielo, gettando un debole bagliore argenteo sul paesaggio avvolto dalla nebbia sottostante. Alberi antichi si stagliano su entrambi i lati della strada fangosa, i loro rami nodosi che si protendono come dita scheletriche.</p>
+<p>Mentre l'ora delle streghe si avvicina, una quiete inquietante discende. Persino le foglie cessano il loro frusciare, lasciando lo sciabordio dei vostri stivali nel fango come l'unico suono persistente.</p>
 </div>
 
-If the players failed to conceal their departure, any players with a passive Wisdom (Perception) score of 11 or greater realize they're being followed. Read:
+Se i giocatori non sono riusciti a nascondere la loro partenza, qualsiasi giocatore con un punteggio passivo di Wisdom (Perception) di 11 o superiore si rende conto di essere seguito. Leggete:
 
 <div class="description">
-<p>The sound of a snapping twig cuts through the silence like shattering glass. A bush behind you rustles—then abruptly falls still.</p>
+<p>Il suono di un ramoscello che si spezza taglia il silenzio come vetro che si infrange. Un cespuglio dietro di voi fruscia — poi si immobilizza bruscamente.</p>
 </div>
 
-The rustling bush hides the Vistani **bandit** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
+Il cespuglio frusciante nasconde la **bandit** Vistana Eliza. Se i giocatori la ignorano, continua a pedinare i giocatori mentre si avvicinano all'incrocio. Altrimenti, se i giocatori la affrontano, reagisce come segue:
 
-**If the players call out to Eliza**, she remains hidden and doesn't respond.
+**Se i giocatori chiamano Eliza**, lei rimane nascosta e non risponde.
 
-**If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were *up to* something—and a storyteller can always use more tales." 
+**Se i giocatori trovano il nascondiglio di Eliza**, lei esce dal sottobosco con le mani alzate in un gesto di pace. Rassicura i giocatori che non intendeva far loro del male, e insiste di averli seguiti per curiosità riguardo ai loro viaggi notturni. "In giro a mezzanotte — in un momento in cui tutti tranne i mostri temono di camminare?" sussurra, con gli occhi lucenti. "Si potrebbe pensare che stiate *tramando* qualcosa — e una narratrice può sempre usare più storie."
 
-Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 15 Charisma (Intimidation) check, however, Eliza returns to Tser Pool and remains there for the night.
+Eliza spera di viaggiare apertamente con i giocatori fino alla loro destinazione. Se rifiutata, "accetta" di tornare al Tser Pool, ma segretamente torna sui propri passi per seguire le tracce dei giocatori. Se i giocatori tentano di convincerla che un tale sforzo sarebbe futile e superano una prova di DC 15 Charisma (Intimidation), tuttavia, Eliza torna al Tser Pool e vi rimane per la notte.
 
-**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
+**Se i giocatori minacciano Eliza**, lei si arrende immediatamente, gettandosi alla loro mercé. Se superano una prova di DC 15 Charisma (Intimidation), rivela che "riferisce al signore del castello." Se le viene chiesto perché serve Strahd, i suoi occhi brillano con un accenno di fanatismo mentre afferma con voce ansimante che Strahd è — o dovrebbe essere — il "re" dei Vistani. "È lui che ci ha portati a casa," sussurra con reverenza. "Noi lo abbiamo liberato dalla morte, e, per gratitudine, lui ci ha liberati dall'esilio."
 
-> [!lore]+ **Eliza's Fanaticism**
-> Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
+> [!lore]+ **Il Fanatismo di Eliza**
+> Eliza ammette liberamente che pochi Vistani concordano con le sue convinzioni o la sua lealtà verso Strahd — un fatto che la porta a maledire gli "ingrati" e gli "infedeli" tra loro. Sebbene non creda che Barovia sia la patria ancestrale dei Vistani, Eliza la considera una nuova patria che Strahd ha trovato per loro.
 
-**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
+**Se i giocatori attaccano Eliza**, lei tenta di fuggire nei boschi. Se le viene permesso, Eliza si muove immediatamente per tornare a Castle Ravenloft, e non torna al Tser Pool quella notte. Se i giocatori la inseguono, gestite l'inseguimento come descritto in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, usando la tabella **Wilderness Chase Complications** come segue:
 
-* Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-* Use a stampede of spooked **elk** for the stampede of spooked animals
-* Use a **giant spider** for the creature indigenous to the area
+* Usate uno **swarm of biting midges** (usando le statistiche per uno **swarm of wasps**) per lo **swarm of insects**
+* Usate una fuga precipitosa di **elk** spaventati per la fuga precipitosa di animali spaventati
+* Usate un **giant spider** per la creatura indigena dell'area
 
-While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
+Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi giocatore ad almeno 30 piedi di distanza, e tre quarti di copertura da qualsiasi giocatore ad almeno 60 piedi di distanza.
 
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
-### The March of the Dead
-When the players arrive at the River Ivlis Crossroads, read:
+**Se i giocatori tentano di nascondere le loro tracce a Eliza**, possono farlo viaggiando fuori strada e superando una prova di DC 11 Dexterity (Stealth), seguita da una prova di DC 11 Wisdom (Survival). I giocatori che si allontanano dalla strada in questo modo incontrano un **will-o'-wisp** come descritto in <span class="citation">Will-o'-Wisp (p. 33)</span>.
+### La Marcia dei Morti
+Quando i giocatori arrivano all'Incrocio del Fiume Ivlis, leggete:
 
 <div class="description">
-<p>The well-worn path returns to the crossroad, now illuminated beneath the pale, sickly light of the moon. Across the road, the mist-shrouded headstones seem to hunker down in the gloom beside the old wooden gallows, whose frayed rope dangles lifelessly in the still air.</p>
-<p>A squat, cloaked silhouette stands beside the gallows—waiting.</p>
+<p>Il sentiero ben battuto ritorna all'incrocio, ora illuminato sotto la luce pallida e malaticcia della luna. Dall'altro lato della strada, le lapidi avvolte dalla nebbia sembrano accovacciarsi nell'oscurità accanto alla vecchia forca di legno, la cui corda logora penzola senza vita nell'aria immobile.</p>
+<p>Una sagoma tozza e incappucciata sta accanto alla forca — in attesa.</p>
 </div>
 
-The silhouette is Madam Eva. She does not answer if called out to, and waits for the players to approach her. When they do, she whispers to them, her voice rasping like a chill wind: "*What did I say to you before you departed my tent?*" If the players respond accurately, Madam Eva nods, assured of their identities. 
+La sagoma è Madam Eva. Non risponde se chiamata, e attende che i giocatori si avvicinino a lei. Quando lo fanno, sussurra loro, la sua voce che raschia come un vento gelido: "*Cosa vi ho detto prima che lasciaste la mia tenda?*" Se i giocatori rispondono accuratamente, Madam Eva annuisce, rassicurata sulla loro identità.
 
-> [!abstract]+ **Eliza's Flight**
-> If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place. 
-> 
-> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
-> * Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-> * Use a stampede of spooked **elk** for the stampede of spooked animals
-> * Use a **giant spider** for the creature indigenous to the area
-> 
-> While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
-> 
-> If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
+> [!abstract]+ **La Fuga di Eliza**
+> Se i giocatori non sono riusciti a impedire a Eliza di seguirli, Eliza è nascosta dietro un cespuglio a nord dell'incrocio, osservandoli in silenzio. Se è così, gli occhi di Madam Eva si spalancano e lei espira bruscamente. "Sciocchi!" sussurra. "Siete stati seguiti — neutralizzatela, o tutto è perduto!" Poi indica il nascondiglio di Eliza.
+>
+> Una volta notata, Eliza tenta immediatamente di fuggire nei boschi, partendo con un vantaggio di 30 piedi. Se le viene permesso, Eliza si muove immediatamente per tornare a Castle Ravenloft, e non torna al Tser Pool quella notte. Se i giocatori la inseguono, gestite l'inseguimento come descritto in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, usando la tabella **Wilderness Chase Complications** come segue:
+> * Usate uno **swarm of biting midges** (usando le statistiche per uno **swarm of wasps**) per lo **swarm of insects**
+> * Usate una fuga precipitosa di **elk** spaventati per la fuga precipitosa di animali spaventati
+> * Usate un **giant spider** per la creatura indigena dell'area
+>
+> Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi giocatore ad almeno 30 piedi di distanza, e tre quarti di copertura da qualsiasi giocatore ad almeno 60 piedi di distanza.
+>
+> Se Eliza viene catturata, Madam Eva insiste che venga uccisa e gettata nel Fiume Ivlis, "affinché non riferisca ciò che ha visto e sentito al suo padrone." Se messa alla prova, Madam Eva replica freddamente che "non ci possono essere esitazioni quando il Fato stesso è in bilico sul precipizio."
 
-If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
+Se ulteriormente interrogata, Madam Eva alza una mano, poi si volta in silenzio verso il cimitero senza nome vicino alla forca. La Marcia dei Morti, come descritta in <span class="citation">March of the Dead (p. 48)</span>, inizia poco dopo.
 
-Once the March has begun, Madam Eva informs the players: "Each spirit in this march shares a common trait. Can you suppose what that might be?" If the players answer correctly, she then asks, "Where do you suppose they might be headed?"
+Una volta che la Marcia è iniziata, Madam Eva informa i giocatori: "Ogni spirito in questa marcia condivide un tratto comune. Potete supporre quale sia?" Se i giocatori rispondono correttamente, chiede poi: "Dove supponete che si stiano dirigendo?"
 
-Regardless of the players' answer, Madam Eva then shares the information about the March provided in <span class="citation">March of the Dead (p. 48)</span>, either in response to the players' questions or of her own initiative once the March has fully departed the graveyard.
+Indipendentemente dalla risposta dei giocatori, Madam Eva condivide poi le informazioni sulla Marcia fornite in <span class="citation">March of the Dead (p. 48)</span>, sia in risposta alle domande dei giocatori sia di propria iniziativa una volta che la Marcia ha completamente lasciato il cimitero.
 
-"This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you *must* do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, glory, or love. Do you understand?"
+"Questo è il precipizio su cui camminate," li avverte una volta che la Marcia è partita. "Ci sono molti sentieri tra le ragnatele del Fato, ma io posso vedere solo ciò che potrebbe essere — non ciò che sarà. Posso dirvi ciò che *dovete* fare, ma non posso assicurarvi che avrete successo. Poiché se fallite, questo sarà il vostro luogo di riposo — un luogo senza eredità, gloria o amore. Capite?"
 
-Regardless of the players' answer, Madam Eva fixates them with a steady gaze. "If you wish to put aside this mission, no soul could blame you. There is no shame in flight from a foe that no others have defeated. If you wish me to read your futures, I can read your palms, or gaze into my crystal ball. I can tell you the face of your true love, the path to good health in your elder years, or the success you might find in a trade of profession." She pauses, then adds, her voice nearly a whisper: "Or I can read the cards—and set you upon a path that ends only when your foe is vanquished—or you are. The choice is yours."
+Indipendentemente dalla risposta dei giocatori, Madam Eva li fissa con uno sguardo fermo. "Se desiderate accantonare questa missione, nessuna anima potrebbe biasimarvi. Non c'è vergogna nel fuggire da un nemico che nessun altro ha sconfitto. Se desiderate che legga il vostro futuro, posso leggere i vostri palmi, o scrutare nella mia sfera di cristallo. Posso dirvi il volto del vostro vero amore, la strada per la buona salute nei vostri anni di vecchiaia, o il successo che potreste trovare in un mestiere o professione." Fa una pausa, poi aggiunge, la sua voce quasi un sussurro: "Oppure posso leggere le carte — e mettervi su un sentiero che finisce solo quando il vostro nemico è sconfitto — o lo siete voi. La scelta è vostra."
 
-If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well," she says. "Then let us begin." 
-## C4f. The Tarokka Reading
-Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth, reaching into her cloak, and removing three old candles, which she stakes into the ground and lights with a wave of her hand. She then removes a deck of Tarokka cards, which she sets upon the ground between the candles. Read:
+Se i giocatori insistono nel desiderio di sconfiggere Strahd, Madam Eva annuisce. "Molto bene," dice. "Allora cominciamo."
+## C4f. La Lettura dei Tarokka
+Madam Eva inizia la lettura dei Tarokka sedendosi sulla terra del cimitero, infilando la mano nel mantello e tirando fuori tre vecchie candele, che pianta nel terreno e accende con un gesto della mano. Poi estrae un mazzo di carte Tarokka, che posa a terra tra le candele. Leggete:
 
 <div class="description">
-<p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
+<p>Le sue vecchie mani muovendosi con destrezza, l'antica veggente rimuove quattordici carte dalla cima del mazzo, mettendole da parte. Le carte rimanenti le mescola agilmente due, tre, quattro volte.</p>
 </div>
 
-As she shuffles the deck, the players notice a velvet pouch upon the ground beside her that wasn't present a moment before. Madam Eva meets their eyes, then cackles quietly. "The task you seek of me is no small boon," she murmurs. "In exchange, I would ask a boon of my own."
+Mentre mescola il mazzo, i giocatori notano una borsetta di velluto sul terreno accanto a lei che un momento prima non c’era. Madam Eva incrocia i loro sguardi, poi ridacchia sommessamente. “Il compito che mi chiedete non è un favore da poco,” mormora. “In cambio, vorrei chiedere un favore anch’io.”
 
-If the players accept Madam Eva's request or inquire further, she informs them that the pouch contains ten gold pieces. "My great-grand-niece, Arabelle, will celebrate her tenth nameday in two days' time," she says. "For this momentous occasion, I wish to provide her a gift—but in my old age, I am quite unable to make the journey myself."
+Se i giocatori accettano la richiesta di Madam Eva o chiedono ulteriori informazioni, ella li informa che la borsetta contiene dieci monete d’oro. “La mia pronipote, Arabelle, festeggerà il suo decimo compleanno fra due giorni,” dice. “Per questa importante occasione, desidero farle un regalo—ma nella mia vecchiaia, non sono proprio in grado di affrontare il viaggio da sola.”
 
-Madam Eva asks the players to use the funds in the pouch to purchase a toy for Arabelle at Blinsky Toys in Vallaki—Blinsky’s, she notes fondly, are Arabelle’s favorites—and deliver the toy to the Vistani encampment to the southwest of Vallaki by noon on Arabelle’s nameday. She adds that the players are welcome to keep any change as payment for their efforts.
+Madam Eva chiede ai giocatori di usare i fondi nella borsetta per acquistare un giocattolo per Arabelle da Blinsky Toys a Vallaki—quelli di Blinsky, nota con affetto, sono i preferiti di Arabelle—e di consegnare il giocattolo all’accampamento Vistani a sud-ovest di Vallaki entro mezzogiorno del giorno del compleanno di Arabelle. Aggiunge che i giocatori sono liberi di tenere il resto come compenso per i loro sforzi.
 
-Eva adds, with a cryptic smile, that the players may enjoy speaking with Arabelle, as she is “a most interesting child”—and that the players may find befriending her family a gift in itself. (If the players ask, Eva shares only that Arabelle's father, Luvash, is the leader of the Vallakian Vistani encampment, and his brother Arrigal a "perceptive and intelligent man.")
+Eva aggiunge, con un sorriso criptico, che i giocatori potrebbero apprezzare una conversazione con Arabelle, poiché è “una bambina molto interessante”—e che i giocatori potrebbero trovare che stringere amicizia con la sua famiglia sia un dono di per sé. (Se i giocatori chiedono, Eva rivela solo che il padre di Arabelle, Luvash, è il capo dell’accampamento Vistani di Vallaki, e suo fratello Arrigal un “uomo perspicace e intelligente”.)
 
-If the players accept Madam Eva's task, she nods approvingly. She then begins the Tarokka reading. Read:
+Se i giocatori accettano il compito di Madam Eva, ella annuisce con approvazione. Poi inizia la lettura dei Tarokka. Leggete:
 
 <div class="description">
 <p>Madam Eva sets both decks upon the earth before her. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sound of the rustling trees begins to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
@@ -675,287 +676,287 @@ Madam Eva declines to return with the players, preferring instead to linger at t
 
 
 **_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 500 XP.
-## C4g. Departing Tser Pool
-When the players awaken at Tser Pool the following morning, Stanimir invites them to break their fast with him around the cold fire. Breakfast, which Arturi attends if able, includes cornmeal polenta, stuffed cabbage rolls, and fried bread. (If her treachery was not revealed the previous night, Eliza cheerfully joins the players for breakfast as well.)
+## C4g. Partenza dal Tser Pool
+Quando i giocatori si svegliano al Tser Pool la mattina seguente, Stanimir li invita a fare colazione con lui attorno al fuoco spento. La colazione, a cui Arturi partecipa se possibile, include polenta di mais, involtini di cavolo ripieni e pane fritto. (Se il suo tradimento non è stato rivelato la sera precedente, Eliza si unisce allegramente ai giocatori per la colazione.)
 
-If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
-# C5. The Skeletal Rider
-When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
+Se i giocatori tentano di parlare di nuovo con Madam Eva prima di partire, Stanimir li avverte che "la vecchia" sta dormendo e non desidera essere disturbata. Se i giocatori tentano di entrare nella sua tenda, la trovano addormentata su un pagliericcio accanto al suo tavolo.
+# C5. Il Cavaliere Scheletrico
+Quando i giocatori tornano all’Incrocio del Fiume Ivlis dopo aver ricevuto la lettura dei Tarokka, incontrano un cavaliere scheletrico, come descritto in <span class="citation">Skeletal Rider (p. 31)</span>, che si avvicina dalla strada occidentale e prosegue verso il villaggio di Barovia. Se i giocatori hanno visto il cadavere di Dalvan Olensky al loro ingresso a Barovia, notano che gli abiti del cavaliere sono riconoscibilmente simili ai suoi.
 
-> [!abstract]+ **Following the Rider**
-> If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
-# C6. The Watchtower
-As the players travel west from the River Ivlis Crossroads, read:
+> [!abstract]+ **Seguire il Cavaliere**
+> Se seguito, il cavaliere continua a ignorare i giocatori. Dopo aver percorso una breve distanza lungo la strada, svolta a sud lungo un vecchio sentiero di caccia nel bosco, che segue verso est in direzione del confine orientale di Barovia. (Il cavaliere sta vagando casualmente e non ha una destinazione particolare.)
+# C6. La Torre di Guardia
+Mentre i giocatori viaggiano verso ovest dall'Incrocio del Fiume Ivlis, leggete:
 
-<div class="description"><p>You leave the crossroads behind and resume your westward journey. You follow the road as it bends around, then ascends the cliff, trudging up its steep, rocky incline. </p>
-<p>The fog is thick here, obscuring the top of the cliff overhead. The road itself grows narrow and treacherous, with loose stones and deep ruts that make it difficult to maintain your footing. </p>
-<p>Soon enough, though, the road levels out, continuing past a ruined three-story watchtower perched atop the edge of the cliff. </p>
-<p>The tower's old stone walls are covered in moss and ivy, its rotten wooden door hanging off its hinges. Nearby, two fresh graves sit against the road. An animal's corpse seems to lie in the tall grass not far away.</p></div>
+<div class="description"><p>Vi lasciate alle spalle l'incrocio e riprendete il vostro viaggio verso ovest. Seguite la strada mentre curva e poi risale la scogliera, arrancando lungo la sua ripida salita rocciosa.</p>
+<p>La nebbia è fitta qui, e oscura la cima della scogliera sopra di voi. La strada stessa diventa stretta e insidiosa, con pietre smosse e solchi profondi che rendono difficile mantenere l'equilibrio.</p>
+<p>Abbastanza presto, però, la strada si livella, proseguendo oltre una torre di guardia in rovina a tre piani, arroccata sul bordo della scogliera.</p>
+<p>Le vecchie mura in pietra della torre sono ricoperte di muschio ed edera, la porta di legno marcio pende dai cardini. Nelle vicinanze, due tombe fresche si trovano a ridosso della strada. Il cadavere di un animale sembra giacere nell'erba alta poco distante.</p></div>
 
-Pause to allow the players to act or react. If the players remain silent, continue to [[#C7. The High Road]] below. Otherwise, allow the players to explore the area.
-## The Watchtower
-The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the <span class="citation">Guard Tower (p. 157)</span> at Tsolenka Pass, with the following changes:
+Fate una pausa per permettere ai giocatori di agire o reagire. Se i giocatori restano in silenzio, proseguite con [[#C7. The High Road]] qui sotto. Altrimenti, permettete ai giocatori di esplorare l'area.
+## La Torre di Guardia
+La torre di guardia in rovina fu costruita come posto di vedetta dall'Ordine del Drago d'Argento molto tempo fa. Ha la stessa struttura della <span class="citation">Guard Tower (p. 157)</span> al Passo di Tsolenka, con le seguenti modifiche:
 
-* The tower door has been half-pulled from its hinges and can be opened easily.
-* The temperature and wind in the tower are far less severe.
-* There is no dire wolf's head mounted above the hearth.
-* There are neither statues nor skeletons atop the battlements.
+* La porta della torre è stata quasi divelta dai cardini e può essere aperta facilmente.
+* La temperatura e il vento nella torre sono molto meno severi.
+* Non c'è una testa di lupo crudele montata sopra il camino.
+* Non ci sono né statue né scheletri in cima ai merli.
 
-If the players explore the watchtower, they find a broken silver pendant carved to resemble a dragon lying on the ground of the first floor, close to the entrance. The pendant is always cold to the touch.
+Se i giocatori esplorano la torre di guardia, trovano un ciondolo d'argento spezzato, scolpito a forma di drago, che giace sul pavimento del primo piano, vicino all'ingresso. Il ciondolo è sempre freddo al tatto.
 
-From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
-## The Graves
-The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 12 Wisdom (Survival) check reveals that the graves are no more than a few weeks old.
+Dalla cima dei merli della torre di guardia, i giocatori possono vedere le Cascate di Tser a nord-ovest e il Tser Pool a nord-est. A sud, sopra e oltre i pendii del Monte Ghakis, possono vedere solo un muro impenetrabile di fitta nebbia grigia.
+## Le Tombe
+Le due tombe contengono i resti di due profughi Baroviani che furono uccisi dai lupi durante il viaggio verso Vallaki qualche tempo fa. Una prova di DC 12 Saggezza (Sopravvivenza) rivela che le tombe non hanno più di qualche settimana.
 
-Small pebbles have been arranged in the soil atop each grave to form the shape of a rising sunburst.
-## The Corpse
-The corpse belongs to a wolf killed by spears and crossbow bolts, and has mostly rotted away. The Barovian refugees left it here after slaying it and driving off the other members of its pack.
-# C7. The High Road
-The journey from the River Ivlis Crossroads to Tser Falls is seven-and-a-half miles long, or two-and-a-half hours.
-## C7a. The Ravine
-As the players continue down the road, read:
+Piccoli ciottoli sono stati disposti nel terreno sopra ogni tomba a formare la sagoma di un'aurora nascente.
+## Il Cadavere
+Il cadavere appartiene a un lupo ucciso da lance e dardi di balestra, ed è in gran parte decomposto. I profughi Baroviani lo lasciarono qui dopo averlo abbattuto e aver messo in fuga gli altri membri del suo branco.
+# C7. La Strada Alta
+Il viaggio dall'Incrocio del Fiume Ivlis alle Cascate di Tser è lungo sette miglia e mezzo, ovvero due ore e mezzo.
+## C7a. Il Burrone
+Mentre i giocatori proseguono lungo la strada, leggete:
 
-<div class="description"><p>You continue down the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
-<p>The air grows colder as the road passes through a dark evergreen forest, the thick canopy once more blocking out much of the sky's dim light. Here, the road grows narrow, its edges passing above steep, craggy slopes as it winds around a mountain spur. The only sounds that follow you are the crunching of fallen leaves and an occasional rustling in the underbrush.</p></div>
+<div class="description"><p>Proseguite lungo la tortuosa strada di montagna, le cime frastagliate che si stagliano minacciose attraverso la nebbia in alto.</p>
+<p>L'aria si fa più fredda mentre la strada attraversa una scura foresta sempreverde, la fitta chioma degli alberi che blocca nuovamente gran parte della debole luce del cielo. Qui, la strada si restringe, i suoi bordi che passano sopra pendii ripidi e scoscesi mentre si snoda attorno a uno sperone di montagna. Gli unici suoni che vi seguono sono lo scricchiolio delle foglie cadute e un occasionale fruscio nel sottobosco.</p></div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Se uno dei giocatori ha un punteggio passivo di Saggezza (Percezione) di 14 o superiore, o se uno dei giocatori supera una prova di DC 14 Saggezza (Percezione), aggiungete:
 
-<div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
+<div class="description"><p>Mentre i vostri passi affondano nella vecchia strada fangosa, intravedete un guizzo di movimento nel sottobosco: un lampo di pelo grigio, occhi ambrati e denti bianchi e affilati. Poi, non appena apparso, svanisce, dileguandosi nelle ombre.</p></div>
 
-The movement belongs to a **wolf**, which swiftly retreats into the woods. Its five **wolf** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
+Il movimento appartiene a un **wolf**, che si ritira rapidamente nel bosco. I suoi cinque compagni di branco **wolf** non sono lontani, mantenendo una distanza di sessanta metri mentre seguono furtivamente i giocatori attraverso il bosco.
 
-If the players continue, read:
+Se i giocatori proseguono, leggete:
 
-<div class="description"><p>As the road curves around the edge of the mountain, the right-hand cliffs fall away, leaving a sheer drop to a wooded ravine below. The road, now barely ten feet wide, bends up ahead, doubling back around this ravine before plunging dramatically and winding around a smaller mountain peak. </p>
+<div class="description"><p>Mentre la strada curva attorno al bordo della montagna, le scogliere sulla destra si aprono, lasciando uno strapiombo verso un burrone boscoso sottostante. La strada, ora larga a malapena tre metri, curva più avanti, raddoppiando attorno a questo burrone prima di scendere drasticamente e avvolgersi attorno a un picco montano più piccolo.</p>
 </div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Se uno dei giocatori ha un punteggio passivo di Saggezza (Percezione) di 14 o superiore, o se uno dei giocatori supera una prova di DC 14 Saggezza (Percezione), aggiungete:
 
 <div class="description">
-<p>You see three gray-furred shadows dart through the underbrush ahead. Three more flicker at the edge of your vision, just behind you.</p>
+<p>Vedete tre ombre dal pelo grigio guizzare attraverso il sottobosco davanti a voi. Altre tre balenano ai margini del vostro campo visivo, appena dietro di voi.</p>
 </div>
 
-If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
+Se uno dei giocatori ha un punteggio passivo di Saggezza (Percezione) di 18 o superiore, o se uno dei giocatori supera una prova di DC 18 Saggezza (Percezione), aggiungete:
 
 <div class="description">
-<p>Two more lurk in the ravine nearly fifty feet below, keeping pace with your movements as they cling to the shadows of the crags.</p>
+<p>Altre due si aggirano nel burrone quasi quindici metri più in basso, tenendo il vostro passo mentre si aggrappano alle ombre delle rocce.</p>
 </div>
 
-If the players pause, proceed, or attack, the six wolves in the woods strike. Read:
+Se i giocatori si fermano, proseguono o attaccano, i sei lupi nel bosco colpiscono. Leggete:
 
 <div class="description">
-<p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
+<p>Sei ombre ringhianti si lanciano dal sottobosco, zanne scoperte e artigli protesi!</p>
 </div>
 
 ![[wolf_ravine.jpg]]
 
-> [!combat]- **Combat - The Wolves**  
-> **Combat Level**: Bloody
-> **Expected Character Level**: 3
-> **Allies:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 58%
+> [!combat]- **Combattimento - I Lupi**
+> **Livello di Combattimento**: Sanguinoso
+> **Livello Personaggio Previsto**: 3
+> **Alleati:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
+> **Consumo HP Previsto:** 58%
 > 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
 > | Wolves | 3 | 4 | 8 | 1 |
 > | Werewolves | 0 | 0 | 0 | 2 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
 >
-> | Number of Players | Modification |
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the number of wolves to 3. |
-> | 4 | Reduce the number of wolves to 4. |
-> | 6 | Reduce the number of wolves to 1 and increase the number of werewolves to 2. |
+> | 3 | Riducete il numero di lupi a 3. |
+> | 4 | Riducete il numero di lupi a 4. |
+> | 6 | Riducete il numero di lupi a 1 e aumentate il numero di lupi mannari a 2. |
 
-Replace the wolves' ***bite*** attack with the following action options:
+Sostituite l'attacco ***bite*** dei lupi con le seguenti opzioni di azione:
 
-* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
-* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
+* ***Maul.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. Invece di infliggere danni, il lupo può afferrare il bersaglio (DC di fuga 11).
+* ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage. Se il bersaglio è una creatura, deve effettuare un tiro salvezza di DC 11 Forza. In caso di fallimento, viene atterrato prono o spinto di 1,5 metri (a scelta del lupo).
 
-The **wolves** start on the mountainside, with the players between them and the ravine. In combat, the **wolves** target a single player at a time with their ***claws*** attacks, using their ***pack tactics*** to gain advantage on attack rolls and hoping to knock that player into the gully.
+I **wolves** iniziano sul fianco della montagna, con i giocatori tra loro e il burrone. In combattimento, i **wolves** prendono di mira un singolo giocatore alla volta con i loro attacchi ***claws***, usando la loro ***pack tactics*** per ottenere vantaggio sui tiri per colpire e sperando di far cadere quel giocatore nel burrone.
 
-A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The two wolves at the bottom use their ***maul*** to attack any creature that falls into the ravine, then drag them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
+Un giocatore che cade nel burrone precipita per 15 metri, subendo 17 (5d6) danni contundenti e cadendo prono. I due lupi sul fondo usano il loro ***maul*** per attaccare qualsiasi creatura che cada nel burrone, per poi trascinarla via nella speranza di un pasto facile. Una creatura che si aggrappa al bordo roccioso in fondo al burrone ha mezza copertura dalle creature in cima al burrone.
 
-Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if six of the eight wolves are killed.
+Una volta che un giocatore cade nel burrone, il resto del branco fugge nel bosco, poi scende nel burrone da un altro sentiero per aiutare il sesto lupo a trascinare via la preda. Il branco fugge se sei degli otto lupi vengono uccisi.
 
-> [!info]+ **Descending Into the Ravine**
-> A player attempting to ascend or descend the edge of the ravine must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
+> [!info]+ **Scendere nel Burrone**
+> Un giocatore che tenta di salire o scendere lungo il bordo del burrone deve effettuare una prova di DC 10 Forza (Atletica). Se la prova riesce, il personaggio si muove a metà velocità su o giù per il bordo del burrone, come desidera. Con un risultato della prova di 6-9, il personaggio non guadagna né perde terreno; con un risultato di 5 o meno, il personaggio cade e subisce 1d6 danni contundenti per ogni 3 metri di caduta, atterrando prono alla base del burrone.
 
-As the players depart this area, a player with a passive Wisdom (Perception) score of 13 or greater notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 20 Wisdom (Insight) check discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
+Mentre i giocatori lasciano quest'area, un giocatore con un punteggio passivo di Saggezza (Percezione) di 13 o superiore nota due lupi, leggermente più grandi degli altri, che li osservano dalla cima di una cresta montana orientale che si erge sopra la linea degli alberi. Un giocatore che supera una prova di DC 20 Saggezza (Intuizione) percepisce che i lupi sembrano osservarli con un'intelligenza paziente, insolita per un lupo. I lupi si voltano e scompaiono dalla vista se notati o se si interagisce con loro.
 
-> [!lore]+ **The Watching Wolves**
-> The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
-## C7b. Tser Falls
-<span class="citation"><em>This scene takes place in Chapter 2: Area H.</em></span>
+> [!lore]+ **I Lupi Osservatori**
+> I due lupi sono **werewolves** in forma di lupo. Bruti assetati di sangue fedeli a Kiril Stoyanovich e Strahd von Zarovich, riappariranno per inseguire i giocatori in [[#C11. The Werewolves' Hunt]].
+## C7b. Le Cascate di Tser
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area H.</em></span>
 
-This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
+Quest'area è in gran parte come descritta in <span class="citation">Tser Falls (p. 37)</span>. Inoltre, quando i giocatori arrivano, possono vedere un <span class="citation">revenant (p. 31)</span> in piedi da solo al centro del ponte, con le mani appoggiate sul pomolo della spada, la cui lama è piantata saldamente nel terreno.
 
 ![[Bridge Revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **Vladimir’s Fury**
+> [!lore]+ **La Furia di Vladimir**
 >
-> This nameless **revenant** was banished, along with a dozen of its peers, from the ruins of Argynvostholt shortly after the failure of Doru’s rebellion three months ago.
+> Questo **revenant** senza nome fu bandito, insieme a una dozzina dei suoi pari, dalle rovine di Argynvostholt poco dopo il fallimento della ribellione di Doru tre mesi fa.
 >
-> When news of Strahd’s planned counterstroke reached them, the knights of the Order of the Silver Dragon raised their voices, begging Vladimir Horngaard to allow them to lend their swords to the cause.
+> Quando la notizia del contrattacco pianificato da Strahd li raggiunse, i cavalieri dell’Ordine del Drago d’Argento alzarono la voce, implorando Vladimir Horngaard di permettere loro di offrire le proprie spade alla causa.
 >
-> Vladimir denied them and, when the knights grew enraged and unruly, banished them from the manor and forbade them from raising their swords against Strahd or any of his creatures. Now, only Sir Godfrey Gwilym, Vladimir Horngaard, and the spirits of the **phantom warriors** that once fought for the Order remain in Argynvostholt.
+> Vladimir li rifiutò e, quando i cavalieri divennero furiosi e indisciplinati, li bandì dal maniero e proibì loro di alzare le spade contro Strahd o qualsiasi sua creatura. Ora, solo Sir Godfrey Gwilym, Vladimir Horngaard e gli spiriti dei **phantom warriors** che un tempo combatterono per l’Ordine rimangono ad Argynvostholt.
 
-If the players call out to this nameless **revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
+Se i giocatori chiamano questo **revenant** senza nome o mettono piede sul ponte, esso li saluta con voce roca e chiede quale sia il loro scopo. Dopo aver ascoltato la loro risposta, dice: "Antiche cose si stanno risvegliando e il signore di Castle Ravenloft vaga per la valle. Ditemi: lo servite voi?"
 
-If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
+Se i giocatori affermano di servire Strahd, il revenant si irrigidisce visibilmente, ma si fa da parte, dicendo freddamente: "Allora andate per la vostra strada, e che la vostra opera infame vi porti rovina e disperazione."
 
-If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life. 
+Se i giocatori negano di servire Strahd, il revenant è visibilmente sollevato e li invita ad avvicinarsi così da poterli "guardare più da vicino." Si presenta come un cavaliere dell'Ordine del Drago d'Argento, ma afferma di aver dimenticato da tempo il proprio nome in vita.
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
+Se le armi dei giocatori sono chiaramente visibili, chiede loro se si oppongono al signore di Castle Ravenloft. Se i giocatori affermano di opporsi a Strahd, il revenant consiglia loro di recarsi ad Argynvostholt a ovest, dove Sir Godfrey Gwilym attende coloro che vogliono alzare le proprie spade contro l'oscurità che si annida nelle profondità del castello.
 
-If the players inquire about the Order of the Silver Dragon, the revenant shares only that the knights of the Order opposed the lord of Ravenloft in life and suggests that the players speak with Sir Godfrey to obtain further information. If the players obtained the silver pendant in the watchtower by the River Ivlis Crossroad, the revenant recognizes it, but refuses to comment further on its significance.
+Se i giocatori chiedono informazioni sull'Ordine del Drago d'Argento, il revenant condivide solo che i cavalieri dell'Ordine si opposero al signore di Ravenloft in vita e suggerisce ai giocatori di parlare con Sir Godfrey per ottenere ulteriori informazioni. Se i giocatori hanno ottenuto il ciondolo d'argento nella torre di guardia presso l'Incrocio del Fiume Ivlis, il revenant lo riconosce, ma rifiuta di commentare oltre il suo significato.
 
-If the players ask the revenant why it is guarding the bridge, it says only, "Because I raised my voice against my commander and was banished. Now, I stand like my brothers- and sisters-in-arms, watching the dark places of this land and awaiting an order that will never come." 
+Se i giocatori chiedono al revenant perché stia sorvegliando il ponte, risponde soltanto: "Perché alzai la voce contro il mio comandante e fui bandito. Ora, sto in piedi come i miei fratelli e sorelle d'armi, osservando i luoghi oscuri di questa terra e attendendo un ordine che non arriverà mai."
 
-If the players ask why it cannot take up arms against Strahd itself, it says only, "Because my commander forbids it, and my spirit is bound from disobeying his will." It is willing to share that its commander's name is Sir Vladimir Horngaard, but is unwilling to share more, advising the players to speak with Sir Godfrey instead.
+Se i giocatori chiedono perché non possa prendere le armi contro Strahd in prima persona, risponde soltanto: "Perché il mio comandante lo proibisce, e il mio spirito è vincolato a non disobbedire alla sua volontà." È disposto a condividere che il nome del suo comandante è Sir Vladimir Horngaard, ma non è disposto a dire altro, consigliando ai giocatori di parlare piuttosto con Sir Godfrey.
 
-> [!abstract]+ **Secrets of Amber**
-> If the players ask the revenant about the "amber doors" mentioned in Madam Eva's Tarokka reading, it stiffens, then warns the players that they "meddle with things that ought not be meddled with." If the players reassure the revenant that their interest in the "amber doors" is directed at Strahd's defeat, the revenant hesitates, then informs them it is "bound never to reveal the secrets of that which we once guarded," but shares that Sir Godfrey can provide the information they seek.
+> [!abstract]+ **Segreti d'Ambra**
+> Se i giocatori chiedono al revenant delle "porte d'ambra" menzionate nella lettura dei Tarokka di Madam Eva, esso si irrigidisce, poi avverte i giocatori che "si immischiano in cose con cui non dovrebbero immischiarsi." Se i giocatori rassicurano il revenant che il loro interesse per le "porte d'ambra" è volto alla sconfitta di Strahd, il revenant esita, poi li informa che è "vincolato a non rivelare mai i segreti di ciò che un tempo custodivamo," ma condivide che Sir Godfrey può fornire le informazioni che cercano.
 
-> [!info]+ **The Oathbound Revenant**
-> Each revenant of the Order of the Silver Dragon has been bound by the effects of Vladimir Horngaard's ***oathbind*** feature, which binds them to obey Vladimir's express commands. The revenants of the Order, excepting Sir Godfrey Gwilym, have been given the following commands:
-> 
-> * Do not betray the secrets of the Order of the Silver Dragon.
-> * Raise no weapon against the vampire Strahd von Zarovich, his servants, or his creatures.
-> * Do not return to Argynvostholt.
->   
-> A revenant that violates one of these commands suffers the effects of a *geas* spell and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
+> [!info]+ **Il Revenant Vincolato dal Giuramento**
+> Ogni revenant dell'Ordine del Drago d'Argento è stato vincolato dagli effetti della capacità ***oathbind*** di Vladimir Horngaard, che li obbliga a obbedire ai comandi espliciti di Vladimir. Ai revenant dell'Ordine, ad eccezione di Sir Godfrey Gwilym, sono stati dati i seguenti comandi:
+>
+> * Non tradire i segreti dell'Ordine del Drago d'Argento.
+> * Non alzare alcuna arma contro il vampiro Strahd von Zarovich, i suoi servitori o le sue creature.
+> * Non fare ritorno ad Argynvostholt.
+>
+> Un revenant che viola uno di questi comandi subisce gli effetti di un incantesimo *geas* ed è trattenuto fino all'inizio del suo turno successivo da fili neri appuntiti. (Questo effetto può attivarsi un numero qualsiasi di volte al giorno. Poiché i revenant sono vincolati dai giuramenti che prestarono a Vladimir in vita, questo effetto non può essere dissolto.)
 
-If the players ask for directions to Argynvostholt, the revenant advises them to travel "west, beyond the walled town, then south upon the ash-gray path."
+Se i giocatori chiedono indicazioni per Argynvostholt, il revenant consiglia loro di viaggiare "verso ovest, oltre la città murata, poi a sud lungo il sentiero grigio cenere."
 
-If the players mention Strahd's carriage, the revenant notes its disgust for "the beast von Zarovich" and advises the players to be cautious of him and his servants and spies. If the players mention the skeletal rider, the revenant shares that "the Wandering One seeks a road to freedom through the mists. It will never succeed."
+Se i giocatori menzionano la carrozza di Strahd, il revenant esprime il suo disgusto per "la bestia von Zarovich" e consiglia ai giocatori di essere cauti nei confronti suoi e dei suoi servitori e spie. Se i giocatori menzionano il cavaliere scheletrico, il revenant condivide che "l'Errante cerca una via di fuga attraverso le nebbie. Non ci riuscirà mai."
 
-Before the players depart, the revenant warns them to beware "those who walk in the skins of wolves," who haunt the forests to the west. "Once, they did not trouble those who traveled the roads," it rasps. "Something has changed, however, and now, their hunger for human flesh cannot be sated." (The revenant doesn't know where to find the werewolves' den, or any further information about the pack.)
+Prima che i giocatori partano, il revenant li avverte di guardarsi da "coloro che camminano nella pelle dei lupi," che infestano le foreste a ovest. "Un tempo, non disturbavano coloro che percorrevano le strade," gracchia. "Qualcosa è cambiato, tuttavia, e ora la loro fame di carne umana non può essere saziata." (Il revenant non sa dove trovare la tana dei lupi mannari, né ha ulteriori informazioni sul branco.)
 
-The revenant will not leave its post on the bridge under any circumstances.
-# C8. Black Carriage
-<span class="citation"><em>This scene takes place in Chapter 2: Area I.</em></span>
+Il revenant non lascerà il suo posto sul ponte in nessuna circostanza.
+# C8. La Carrozza Nera
+<span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area I.</em></span>
 
-The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)</span> is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
+Il viaggio dalle Cascate di Tser alla <span class="citation">Black Carriage (p. 37)</span> è lungo un miglio e mezzo e richiede trenta minuti. Mentre i giocatori compiono questo viaggio, leggete:
 
-<div class="description"><p>You continue down the winding road, which climbs a short distance north before bending west to avoid a bald-headed peak on the right, its craggy cliffs bearing an array of sharp rocks that jut out over the roadway.</p>
-<p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
-<p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
+<div class="description"><p>Proseguite lungo la strada tortuosa, che sale per un breve tratto verso nord prima di curvare a ovest per evitare un picco dalla cima spoglia sulla destra, le sue scogliere frastagliate costellate di rocce aguzze che sporgono sulla carreggiata.</p>
+<p>Non passa molto prima che la strada curvi nuovamente verso nord, una seconda collina che emerge dalla nebbia alla vostra sinistra. Alberi contorti punteggiano i suoi ripidi pendii, con i rami protesi come dita nodose.</p>
+<p>Mentre vi addentrate tra le colline, la strada si restringe e le pareti rocciose si fanno più alte. Ben presto, però, le colline si ritirano ancora una volta, e la strada prosegue in una piccola conca avvolta dalla nebbia.</p></div>
 
-This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
+Quest'area è come descritta in <span class="citation">Black Carriage (p. 37)</span>. (La carrozza di Strahd non è presente, sebbene i giocatori possano vedere profondi solchi nella strada fangosa che passano dalla Vecchia Strada di Svalich alla vecchia via lastricata di ciottoli che conduce a Castle Ravenloft.)
 
-The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
+Il viaggio dalla Carrozza Nera ai **Cancelli di Barovia** occidentali è lungo un quarto di miglio e richiede cinque minuti. Quest'area è come descritta in <span class="citation">Gates of Barovia (p. 33)</span>, ma vista dal lato opposto.
 
-> [!abstract]+ **Visiting Castle Ravenloft**
-> If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
-# C9. Old Bonegrinder
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
+> [!abstract]+ **Visitare Castle Ravenloft**
+> Se i giocatori decidono di visitare Castle Ravenloft (ad esempio, per indagare sulla scomparsa di Gertruda), il viaggio dall'incrocio è lungo due miglia e mezzo e richiede cinquanta minuti. Quando i giocatori arrivano, l'esterno del castello è come descritto in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
+# C9. Il Vecchio Macinaossa
+<span class="citation"><em>Questa scena si svolge nel Capitolo 6: Area O.</em></span>
 
-The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
+Il viaggio dai Cancelli di Barovia al **Vecchio Macinaossa** è lungo due miglia e mezzo e richiede quarantacinque minuti. Mentre i giocatori compiono questo viaggio, leggete:
 
-<div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
-<p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone stele standing just under six feet in height. It sits within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p></div>
+<div class="description"><p>La strada prosegue in avanti, passando tra una macchia di boschi scuri. L'aria qui è silenziosa come una tomba, gli alberi perfettamente immobili nell'inquietante silenzio.</p>
+<p>Non lontano dalla strada, annidato nel sottobosco ricoperto di vegetazione, si erge una stele di pietra muschiosa alta poco meno di due metri. Si trova all'interno di un cerchio di vecchi ciottoli crepati, e sembra recare una qualche incisione.</p></div>
 
-Briefly pause to allow the players to act or react. If the players choose to investigate the slab, they find that it bears a crude carving of a raven over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Seeker, and the three-pointed star the symbol of the Ladies Three.)
+Fate una breve pausa per permettere ai giocatori di agire o reagire. Se i giocatori scelgono di esaminare la lastra, scoprono che porta un'incisione grezza di un corvo sopra una stella a tre punte incisa, le cui scanalature sono rivestite di licheni e muschio. (La lastra è un antico monumento al Cercatore, e la stella a tre punte è il simbolo delle Tre Signore.)
 
-If the players remain silent or continue ahead, read:
+Se i giocatori restano in silenzio o proseguono, leggete:
 
-<div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
+<div class="description"><p>La strada riemerge presto dai boschi ancora una volta, deviando tra due colline. Non passa molto prima che curvi verso nord, costeggiando la base di una montagna.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill. 
+I giocatori emergono alla base della collina su cui si erge il **Vecchio Macinaossa**, come descritto in <span class="citation">Approaching the Windmill (p. 125)</span>. Non ci sono corvi al mulino o nelle vicinanze.
 
-As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>. 
+Quando il mulino a vento diventa visibile, i giocatori notano anche **Morgantha** che si avvicina dalla direzione opposta con il suo carretto, come descritto in <span class="citation">Dream Pastries (p. 48)</span>.
 
-This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
+Questa scena si svolge in gran parte come descritto in <span class="citation">Dream Pastries (p. 48)</span>, ma Morgantha sta arrivando dalla città di Vallaki, non dal villaggio di Barovia, e non ha un bambino infilato in un sacco nel suo carretto da ambulante.
 
 ![[Morgantha_Disguised.png]]
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Morgantha, Dream Peddler**
-> **Roleplaying Information**
-> ***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
+> [!profile]+ **Profilo: Morgantha, Venditrice di Sogni**
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Al momento in cui i giocatori la incontrano, Morgantha dovrebbe ispirare lusinga e conforto con il suo fascino da nonnina, gratitudine per la sua disponibilità a condividere complimenti e "campioni gratuiti," simpatia per le sue lamentele sulle banali difficoltà della vita di una vecchia, e un leggero sospetto per la sua sicurezza e disinvoltura nel viaggiare da sola su una strada pericolosa.
 > 
-> ***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
-> 
-> ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
-> 
-> ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
-> 
-> **Character Information**
-> ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
-> 
-> ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
-> 
-> ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+> ***Emozioni.*** Morgantha appare più spesso allegra, divertita o pensierosa.
+>
+> ***Motivazioni.*** Morgantha vuole mantenere la sua copertura, far funzionare il suo commercio in pace, far sì che gli estranei si affezionino a lei e si sentano a proprio agio, e incoraggiare gli altri a provare i suoi pasticcini dei sogni se sembrano inclini a farlo.
+>
+> ***Ispirazioni.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
+>
+> **Informazioni sul Personaggio**
+> ***Facciata.*** Per il mondo, Morgantha è un’allegra vecchietta con una passione per i pettegolezzi e le lamentele. Solo Morgantha e le sue figlie sanno che in segreto è la matriarca dal cuore nero di una congrega di night hag.
+>
+> ***Morale.*** In un combattimento, Morgantha tenterebbe di parlamentare per la pace, per poi usare la sua abilità ***etherealness*** per fuggire nel Piano Etereo se ciò si rivelasse inutile.
+>
+> ***Relazioni.*** Morgantha è la madre delle **night hag** Bella e Offalia, e la venditrice di pasticcini dei sogni per il rifugiato Baroviano [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
 
-Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
+Morgantha saluta i giocatori calorosamente, chiamandoli "stanchi viaggiatori," e condivide la sua speranza che la strada non sia stata troppo dura con loro. Condivide liberamente le seguenti informazioni se richiesta:
 
-* She is a peddler who sells baked wares to the "good people of Barovia."
-* She is just returning from a day peddling her goods to the townsfolk of Vallaki and the "poor, hungry dears" camped outside the gates. (Her latter comment is referring to a camp of Barovian refugees that has not been allowed to enter the town.)
-* She lives in the old windmill up the hill with her two daughters, Bella and Offalia. (She kindly declines to share what happened to her "husband," saying only, "Now, that's an old woman's business, meant to be shared only if she chooses.")
+* È un'ambulante che vende prodotti da forno alla "buona gente di Barovia."
+* Sta tornando da una giornata di vendita dei suoi prodotti alla gente di Vallaki e ai "poveri cari affamati" accampati fuori dai cancelli. (Quest'ultimo commento si riferisce a un campo di rifugiati Baroviani a cui non è stato permesso di entrare in città.)
+* Vive nel vecchio mulino a vento sulla collina con le sue due figlie, Bella e Offalia. (Declina gentilmente di condividere cosa sia successo a suo "marito," dicendo solo: "Ora, questi sono affari di una vecchia donna, da condividere solo se lei lo desidera.")
 
-Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (The dream pastries, if eaten, affect the players as described in **Dream Pastries**, p. 125.)
+Morgantha ha ancora qualche "pasticcino dei sogni" rimasto dalla giornata lavorativa — "riempiti con la luce e l'amore del sognare" — che offre ai giocatori gratuitamente come "primo assaggio." Consiglia ai giocatori che i pasticcini dei sogni sono più buoni dopo un pasto caldo, "specialmente con un bel bicchiere di vino per mandarli giù." (I pasticcini dei sogni, se mangiati, influenzano i giocatori come descritto in **Dream Pastries**, p. 125.)
 
-If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
+Se le viene chiesto come riesce a viaggiare per le strade in sicurezza, Morgantha si limita a sorridere e promette ai giocatori che "una vecchia donna ha i suoi trucchi." ("Ma," si lamenta, "la mia schiena e i miei poveri piedi si lamentano di tanto in tanto. Non vedo l'ora di metterli a mollo in una tinozza di bella acqua calda una volta a casa.")
 
-If the players ask to enter her home, Morgantha apologizes for her lack of hospitality, but notes that she's tired and not prepared for visitors, besides. (The players are welcome, she says, to visit another day if they'd like.)
+Se i giocatori chiedono di entrare nella sua casa, Morgantha si scusa per la mancanza di ospitalità, ma fa notare che è stanca e non è preparata per ricevere visite, del resto. (I giocatori sono i benvenuti, dice, a visitare un altro giorno se lo desiderano.)
 
-When the conversation runs out of steam, Morgantha bids the players a safe journey, and lets them know that they can find her outside of Vallaki's gates in the future, should they like to purchase additional pastries.
+Quando la conversazione si esaurisce, Morgantha augura ai giocatori un viaggio sicuro, e fa sapere loro che potranno trovarla fuori dai cancelli di Vallaki in futuro, se desiderassero acquistare altri pasticcini.
 
-Before she departs, Morgantha warns the players that the guards at the Vallaki gates are confiscating silver coins and visible silver items from travelers as a tax. "But," she says, tapping her nose with a cheeky, half-toothed grin, "you didn't hear it from me."
+Prima di congedarsi, Morgantha avverte i giocatori che le guardie ai cancelli di Vallaki stanno confiscando monete d'argento e oggetti d'argento visibili dai viaggiatori come tassa. "Ma," dice, toccandosi il naso con un sorriso furbo e sdentato, "non l'avete sentito da me."
 
-> [!abstract]+ **Morgantha Detected**
-> If a player discerns Morgantha's fiendish nature, such as by using a paladin's ***divine sense***, and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
-> 
-> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her ***etherealness*** feature, cackling. 
-> 
-> If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc H - The Lost Soul]] begins.)
-# C10. The Deep Woods
-The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-quarter miles long and takes two hours. As the players make this journey, read:
+> [!abstract]+ **Morgantha Scoperta**
+> Se un giocatore discerne la natura immonda di Morgantha, ad esempio usando il ***divine sense*** di un paladino, e la confronta al riguardo, lei si ferma, poi si congratula per la sua perspicacia. Quindi sorride dolcemente e nota che non sta infrangendo alcuna legge, chiedendo: "È forse un crimine essere come si è stati creati?" Se il giocatore insiste nel volerla attaccare, aggiunge: "E un tale crimine richiede l'esecuzione immediata?"
+>
+> Se i giocatori insistono che è così, lei si inginocchia immediatamente, implorando sarcasticamente pietà e un'opportunità di pentirsi. "Permettetemi di tornare a casa mia e riflettere sui miei peccati," aggiunge, sogghignando. Se attaccata, svanisce usando la sua capacità ***etherealness***, cachinando.
+>
+> Se i giocatori si avvicinano al mulino a vento, lei avvisa Bella e Offalia, che si uniscono a lei nel Piano Etereo. Se i giocatori tentano di danneggiare o distruggere il mulino, le megere tornano nel Piano Materiale e li avvertono di smettere pena la morte. Vedete [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] per maggiori informazioni sul conflitto con le megere. (Il mulino attualmente non contiene bambini, e non ne conterrà fino all'inizio di [[Arc H - The Lost Soul]].)
+# C10. I Boschi Profondi
+Il viaggio dal Vecchio Macinaossa alla **Città di Vallaki** è lungo cinque miglia e tre quarti e richiede due ore. Mentre i giocatori compiono questo viaggio, leggete:
 
-<div class="description"><p>The winding valley road hugs the mountainside as it meanders north. The dark woods cling to the opposite side of the road, the tall, gnarled trees creeping as close as they dare. You can hear the sound of the wind rustling through the leaves and the occasional creak of branches. From time to time, it almost sounds like the trees are whispering among themselves, or stirring their ancient roots in the old, rotten mulch.</p>
-<p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
-<p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
+<div class="description"><p>La tortuosa strada della valle costeggia il fianco della montagna mentre serpeggia verso nord. I boschi scuri si aggrappano al lato opposto della strada, gli alberi alti e nodosi che si avvicinano fin dove osano. Potete sentire il suono del vento che fruscia tra le foglie e l'occasionale scricchiolio dei rami. Di tanto in tanto, sembra quasi che gli alberi stiano sussurrando tra loro, o agitando le loro antiche radici nel vecchio pacciame marcio.</p>
+<p>Man mano che la strada prosegue, la foresta la inghiotte su entrambi i lati. Gli alberi svettano molto al di sopra delle vostre teste, bloccando tutto tranne i più deboli accenni di luce grigia. L'aria diventa densa e pesante con il profumo di muschio e foglie in decomposizione; in lontananza, udite il gracchio gorgogliante di un corvo, seguito dal suono di ali che sbattono.</p>
+<p>Non passa molto prima che diventi chiaro che la vostra presenza in questa terra desolata non è passata inosservata. Un corvo vi segue per diversi minuti mantenendo una rispettosa distanza.</p></div>
 
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+Questo incontro si svolge come descritto in <span class="citation">Swarms of Ravens (p. 32)</span>, con il gruppo raggiunto da due **swarms of ravens**. Se è con il gruppo ed è in grado di volare, Muriel travestita prende il volo insieme allo stormo, ma tiene d'occhio i giocatori durante il viaggio.
 
-As the players proceed down the road, read:
+Mentre i giocatori procedono lungo la strada, leggete:
 
-<div class="description"><p>Ahead, the trees to the north break, revealing a grassy field. The tall grasses sway in the chill air, the field stretching until it reaches the shores of a dark, distant lake. Fog clings to the shoreline. Even from a distance, you can hear the faint sound of water lapping against the rocks.</p></div>
+<div class="description"><p>Davanti a voi, gli alberi a nord si aprono, rivelando un campo erboso. Le erbe alte ondeggiano nell'aria gelida, il campo che si estende fino a raggiungere le rive di un lago scuro e lontano. La nebbia si aggrappa alla riva. Anche da lontano, potete sentire il debole suono dell'acqua che lambisce le rocce.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è con il gruppo, si blocca e chiede ai giocatori se il gruppo può fare una breve deviazione attraverso il campo fino al lago. Se interrogata, nota solo che il lago le sembra stranamente familiare.
 
-Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible. 
+Il Lago Zarovich è come descritto in <span class="citation">L. Lake Zarovich (p. 38)</span>, ma senza le barche a remi arenate o la barca di Bluto visibile.
 
-Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
+All'arrivo sulla riva del lago, Ireena nota con trepidazione che sembra essere lo stesso lago che ha visto nei suoi sogni. (Se non l'ha già condiviso, Ireena racconta la storia del suo sogno, descritto in [[#C4d. The Dancing Fire]] sopra.)
 
-Ireena is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
-# C11. The Werewolves' Hunt
-As the players continue down the road, read:
+Ireena è certa, tuttavia, di non aver mai visitato questo lago con Ismark e suo padre, Kolyan. È incerta sulle implicazioni, ma si perde nei suoi pensieri se un giocatore le ricorda che suo padre la trovò mentre vagava per i Boschi di Svalich da bambina.
+# C11. La Caccia dei Lupi Mannari
+Mentre i giocatori proseguono lungo la strada, leggete:
 
-<div class="description"><p>As quickly as it appeared, the field is swallowed up by the forest again, the trees closing in around you once more. The dark undergrowth rustles and stirs in the wind, and the weight of the forest presses in from all sides. You're unable to shake the sense that, somehow, you're being watched.</p></div>
+<div class="description"><p>Con la stessa rapidità con cui è apparso, il campo viene nuovamente inghiottito dalla foresta, gli alberi che si richiudono attorno a voi. Il sottobosco scuro fruscia e si agita nel vento, e il peso della foresta preme da ogni lato. Non riuscite a scrollarvi di dosso la sensazione che, in qualche modo, qualcuno vi stia osservando.</p></div>
 
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
+Se uno dei giocatori ha un punteggio passivo di Wisdom (Perception) pari o superiore a 14, oppure se uno dei giocatori supera una prova DC 14 di Wisdom (Perception), aggiungete:
 
 <div class="description">
-<p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
+<p>Un'ombra umanoide guizza in lontananza, poi svanisce dalla vista.</p>
 </div>
 
-The shadow belongs to a **werewolf**. Its companions—three **wolves** and an additional **werewolf**—lurk in the woods nearby.
+L'ombra appartiene a un **werewolf**. I suoi compagni — tre **wolves** e un ulteriore **werewolf** — si nascondono nei boschi vicini.
 
-The werewolves don't attack immediately, preferring to wait for the perfect time to strike. If the players continue down the road, read:
+I lupi mannari non attaccano immediatamente, preferendo aspettare il momento perfetto per colpire. Se i giocatori proseguono lungo la strada, leggete:
 
-<div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
-<p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
+<div class="description"><p>La strada boscosa vi conduce attraverso una piccola radura nel bosco, il perimetro circolare degli alberi disseminato di fitti cespugli, massi coperti di muschio e creste rocciose.</p>
+<p>Poi, senza preavviso, cinque lupi balzano fuori dalla foresta, gli occhi gialli scintillanti mentre i musi si arricciano in ringhi feroci!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Fate tirare l'iniziativa ai giocatori, ai **wolves**, ai **werewolves** (in forma di lupo) e (se sono con il gruppo) a Ireena, ai due **swarms of ravens** e a Muriel (una **wereraven** in forma di corvo). Qualsiasi personaggio con un punteggio passivo di Wisdom (Perception) inferiore a 14 è sorpreso.
 
-Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
+Modificate i blocchi statistiche dei lupi come descritto in [[#C7a. The Ravine]]. Inoltre, usate il blocco statistiche qui sotto per i lupi mannari, anziché quello del *Monster Manual*:
 
 <div class="statblock">
 <h2>Werewolf</h2>
@@ -1010,462 +1011,462 @@ Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition,
 </div>
 
 
-In combat, the **wolves** work together, using their ***Claws*** to knock characters prone, then using their ***Maul*** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its ***bite***. The first character targeted in this way notices that the werewolves are slightly larger than the other three and have intelligent, disturbingly human eyes.
+In combattimento, i **wolves** collaborano, usando i loro ***Claws*** per far cadere i personaggi a terra, poi usando il loro ***Maul*** per afferrare i bersagli proni. Una volta che i lupi hanno trascinato un personaggio afferrato lontano dal gruppo, i **werewolves** spostano la loro attenzione per colpirlo con il loro ***bite***. Il primo personaggio preso di mira in questo modo nota che i lupi mannari sono leggermente più grandi degli altri tre e hanno occhi intelligenti, inquietantemente umani.
 
-A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after. 
+Un lupo mannaro fugge se inizia il suo turno con 20 punti ferita o meno e non si rigenera, o se inizia il suo turno con 0 punti ferita per tre turni consecutivi. Eventuali lupi sopravvissuti seguono poco dopo.
 
-If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction. 
+Se i lupi mannari muoiono, tornano alla loro vera forma: un giovane con la pelle pallida e lentigginosa e un fisico magro e muscoloso, e un giovane robusto con un viso crudele e capelli scuri e unti. Ciascuno porta una ferita sanguinante, viva e corrotta sul fianco — la fonte della loro afflizione licantropa.
 
-Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
+Tutti i giocatori che hanno fallito il tiro salvezza contro la maledizione della licantropia scoprono presto che, sebbene recuperino punti ferita normalmente, la ferita originale rimane visivamente sanguinante e viva — proprio come descritto nel manoscritto di Van Richten sulla maledizione del lupo mannaro. La prossima luna piena ha luogo la notte del sesto giorno dopo l’arrivo dei giocatori a Vallaki.
 
-> [!combat]- **Combat - The Werewolf Hunt**  
-> **Combat Level**: Oppressive
-> **Expected Character Level**: 3
-> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 84%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - La Caccia dei Lupi Mannari**
+> **Livello di Combattimento**: Opprimente
+> **Livello dei Personaggi Previsto**: 3
+> **Alleati:** Due stormi di corvi (CR 1/4), Ireena Kolyana (CR 1)
+> **Consumo di HP Previsto:** 84%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
 > | Werewolf | 2 | 2 | 2 | 2 |
 > | Wolf | 1 | 2 | 3 | 4 |
 
-> [!info]+ **Lycanthropy in Barovia**
+> [!info]+ **La Licantropia a Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> A Barovia, la maledizione della licantropia si diffonde come descritto in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). Tuttavia, un giocatore infetto o un'altra creatura non riceve automaticamente alcuna modifica ai punteggi di caratteristica o alla Armor Class, né riceve automaticamente i benefici del blocco statistiche del licantropo (ad esempio, immunità o rigenerazione).
 >
-> Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+> Invece, una creatura infetta riceve i benefici della licantropia solo quando si trasforma nella sua forma ibrida nella notte di luna piena. Durante questo periodo, la creatura diventa un PNG sotto il controllo del DM fino all'alba, momento in cui la creatura perde i benefici della licantropia.
 >
-> An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
+> Una creatura infetta può abbracciare la maledizione della licantropia — e quindi ottenerne tutti i benefici — completando un determinato compito, a seconda della natura della sua maledizione:
 >
-> - An infected **werewolf** must voluntarily kill an innocent humanoid, without fear or hatred, and devour their flesh.
-> - An infected **wereraven** must be knocked unconscious while voluntarily attempting to protect another humanoid from (what they believe to be) near-certain death.
+> - Un **werewolf** infetto deve uccidere volontariamente un umanoide innocente, senza paura né odio, e divorarne la carne.
+> - Un **wereraven** infetto deve essere reso privo di sensi mentre tenta volontariamente di proteggere un altro umanoide da quella che crede essere una morte quasi certa.
 >
-> An infected lycanthrope can be recognized by the scar of the wound that originally transmitted the curse. The wound will never entirely heal, and remains raw and bloody until the curse is lifted.
+> Un licantropo infetto può essere riconosciuto dalla cicatrice della ferita che ha originariamente trasmesso la maledizione. La ferita non guarirà mai completamente e rimarrà viva e sanguinante fino a quando la maledizione non sarà rimossa.
 >
-> The child of two lycanthropes possesses the full benefits of lycanthropy from birth, and may learn to control their curse as they age. A child born with lycanthropy in this way cannot be cured except by means of a *wish* spell.
+> Il figlio di due licantropi possiede tutti i benefici della licantropia fin dalla nascita e può imparare a controllare la propria maledizione crescendo. Un bambino nato con la licantropia in questo modo non può essere curato se non tramite un incantesimo *wish*.
 >
-> Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
+> Infine, finché le nebbie permangono, il ciclo lunare è accelerato a Barovia: la luna piena arriva ogni due settimane, anziché ogni quattro. **La prima luna piena che i giocatori sperimentano ha luogo il Neyavr 8 — la sesta notte dopo il loro primo arrivo a Vallaki.**
 
-> [!abstract]+ **Curing Player Lycanthropy**
-> The players can learn from the Martikovs of the Blue Water Inn, Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
-> 
-> Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting *remove curse* upon reaching 5th level. (Father Lucian of St. Andral's Church in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
+> [!abstract]+ **Curare la Licantropia dei Giocatori**
+> I giocatori possono apprendere dai Martikov della Locanda dell'Acqua Blu, dal Dr. Rudolph van Richten, o da Kasimir Velikov dell'accampamento Vistani di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Con l'avvicinarsi della notte di luna piena, i giocatori infetti da licantropia sperimentano incubi di gravità crescente, nonché un appetito crescente per la carne cruda.
+>
+> I giocatori infetti da licantropia da **werewolf** potranno cercare una cura in [[Arc I - The Walls of Krezk]] dopo aver incontrato il Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. I giocatori di una classe appropriata possono anche curare sé stessi e gli altri dalla licantropia lanciando *remove curse* una volta raggiunto il 5° livello. (Padre Lucian della Chiesa di St. Andral a Vallaki non può lanciare l'incantesimo e pertanto non può curare la licantropia.)
 
-> [!warning]+ **Embracing Werewolf Lycanthropy**
-> As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
-# C12. The Town of Vallaki
-## C12a. The Vallakian Gates
-The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+> [!warning]+ **Abbracciare la Licantropia da Lupo Mannaro**
+> Come indicato in [[Session Zero]], questa campagna è progettata per personaggi giocanti eroici, piuttosto che malvagi. In quanto tale, è incompatibile con personaggi che scelgono di abbracciare la licantropia da **werewolf** uccidendo e divorando un umanoide innocente. Se un giocatore esprime interesse nel farlo, avvertitelo che abbracciare la maledizione comporterà la trasformazione del suo personaggio attuale in un PNG malvagio, richiedendogli di creare un nuovo personaggio.
+# C12. La Città di Vallaki
+## C12a. I Cancelli di Vallaki
+La strada prosegue fino alla **Città di Vallaki**, in gran parte come descritto in <span class="citation">Approaching the Town (p. 95)</span>. Tuttavia, rimuovete la prima frase del testo descrittivo e aggiungete il seguente testo alla fine del primo paragrafo:
 
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+<div class="description"><p>Più di una dozzina di tende improvvisate sono state montate contro la palizzata. Tra di esse, decine di persone lacere ed emaciate vagano o siedono accanto a fuochi da campo quasi spenti e giacigli, i loro sguardi vuoti che vi osservano in silenzio mentre vi avvicinate.</p></div>
 
-If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
+Se i giocatori sono partiti dal Tser Pool quella mattina, arrivano a Vallaki al crepuscolo.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] viaggia visibilmente con il gruppo, aggiungete:
 
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Alcuni di loro guardano Ireena con un opaco riconoscimento, ma nessuno alza una mano in saluto né fa alcun gesto di calore.</p></div>
 
-This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
-### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+Quest'area, il Cancello del Mattino, è in gran parte come descritta in <span class="citation">Town Gates (p. 95)</span>. Le tende sono un campo di rifugiati Baroviani, che ospita coloro che sono sopravvissuti alla marcia dal villaggio di Barovia a seguito dell'assedio di Strahd.
+### Il Campo dei Rifugiati
+Se è con il gruppo, [[Non-Player Characters#Ireena Kolyana|Ireena]] è affranta e furiosa alla vista del campo dei rifugiati. Suggerisce di andare a parlare con i rifugiati mentre i giocatori cercano un alloggio in città, e promette di raggiungerli più tardi. I giocatori possono dissuaderla con una prova di Carisma (Persuasione) con DC 10 riuscita. Altrimenti, Ireena si avvicina a uno dei fuochi da campo, da sola o — se i giocatori hanno insistito per accompagnarla — in compagnia.
 
-The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
+I membri del campo dei rifugiati, tra cui Emeric, un anziano malinconico, e Magda, una giovane donna affranta dal dolore, possono condividere le seguenti informazioni:
 
-* The Barovian refugees arrived at Vallaki's gates a few weeks ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-* Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
+* I rifugiati Baroviani sono arrivati ai cancelli di Vallaki qualche settimana fa, ma è stato loro impedito di entrare. Quando hanno tentato di forzare i cancelli, le guardie hanno chiamato un uomo di nome Izek, che aveva un braccio demoniaco deforme e ha evocato il fuoco per respingere i rifugiati.
+* Da allora, i rifugiati hanno allestito un campo fuori dalle mura della città, raggruppandosi per protezione e calore. Sono riusciti a ottenere alcune necessità minime, come le tende, corrompendo le guardie ai cancelli, ma non sono riusciti a persuadere le guardie a farli entrare né a invitare il Barone della città a discutere della loro situazione.
+* Sciami di pipistrelli e branchi di lupi hanno afflitto il campo ogni notte dal loro arrivo. Per fortuna, nessuno è ancora morto, ma diversi rifugiati sono rimasti feriti.
+* A causa delle perdite subite sulla strada e della minaccia del Diavolo nel Castello Ravenloft, i rifugiati non sono disposti a rischiare il viaggio di ritorno, sperando invece di aspettare che il Barone rinsavisca e permetta loro di entrare tra le mura.
+* Circa un quarto dei rifugiati è diventato dipendente dai "dolcetti dei sogni", un alimento venduto dalla venditrice ambulante Morgantha. Questi rifugiati cercano una fuga dalla miseria e dalla disperazione della loro situazione. Coloro che mangiano un dolcetto dei sogni cadono in trance come descritto in <span class="citation">Dream Pastries (p. 125)</span>.
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+I rifugiati sono sprofondati nella disperazione. Alcuni ricordano una superstizione secondo cui le donne Baroviane dai capelli rossi portano sfortuna, e suggeriscono che Ireena stessa abbia portato una maledizione sul loro popolo. Pochi desiderano avere ancora a che fare con lei.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
-### The Guards at the Gates
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+Dopo l'interazione con i rifugiati, Ireena è furiosa per l'insensibilità del Barone e giura di fare del suo meglio per assicurare l'ingresso dei rifugiati a Vallaki.
+### Le Guardie ai Cancelli
+Le guardie ai cancelli agiscono in gran parte come descritto in <span class="citation">Town Gates (p. 95)</span>. Una ha una lancia argentata, mentre l'altra ha una faretra contenente una dozzina di dardi da balestra, metà dei quali argentati.
 
-The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
+Le guardie richiedono che ogni persona si identifichi. Una volta identificato, ogni giocatore deve mostrare i denti ("Per dimostrare che non siete vampiri.") e brevemente essere esposto a una collana con bulbi d'aglio ("Per dimostrare che non siete lupi mannari"). (Il Barone ha, erroneamente, informato le sue guardie che i lupi mannari sono gravemente allergici all'aglio.)
 
-The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+Le guardie richiedono quindi che ogni giocatore paghi 1 moneta d'oro come pedaggio per entrare nel villaggio. Le guardie rifiutano di accettare il pagamento per conto dei rifugiati, che il Barone ha specificamente vietato di far entrare, adducendo preoccupazioni per "malattia, insubordinazione e infelicità maliziosa."
 
-If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
+Se i giocatori pagano il pedaggio, le guardie insistono anche che ogni entrante apra la propria borsa (o equivalente) e consegni tutte le monete d'argento in suo possesso. (Se i giocatori protestano, le guardie assicurano che l'argento è necessario per produrre le armi argentate indispensabili per difendere la città dai lupi mannari.) In cambio delle monete d'argento cedute, i giocatori ricevono una quantità di monete di rame di pari valore — meno una tassa del dieci percento.
 
-If asked about lodging, the guards can share information about the Blue Water Inn, as described in <span class="citation">Vallaki Lore (p. 96)</span>. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+Se viene chiesto di un alloggio, le guardie possono condividere informazioni sulla Locanda dell'Acqua Blu, come descritto in <span class="citation">Vallaki Lore (p. 96)</span>. Le guardie sono anche disposte a fornire indicazioni aggiuntive per altri luoghi di interesse nella città in cambio di una mancia di 1 moneta d'oro.
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
+Ogni volta che i giocatori passano attraverso i cancelli, inclusa la prima, le guardie annuiscono e intonano la frase preferita del Barone: "Tutto andrà bene."
 
-> [!abstract]+ **Gertruda's Fate**
-> If the players inquire about Gertruda's fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
-### Entering the Town
-As the players pass down Vallaki's main avenue, read:
+> [!abstract]+ **Il Destino di Gertruda**
+> Se i giocatori chiedono del destino di Gertruda e forniscono una descrizione, le guardie dichiarano sinceramente di non aver visto nessuno che corrisponda alla descrizione.
+### Entrare in Città
+Quando i giocatori percorrono il viale principale di Vallaki, leggete:
 
-<div class="description"><p>You pass from the earthen road onto cobblestone streets, mud staining your boots and the bottoms of your pants. Behind you, the gates close with a slam, and you can see the guards resume their posts behind it. In the distance, you can see two other figures bearing pikes, patrolling the walls as they look down on the twisted forest beyond.</p>
-<p>The eaves of the buildings hang with old banners and tattered fabrics that flap and twist in the chill breeze. The banners are painted with faded words and illustrations, but time has robbed them of both their legibility and any beauty they may have once had.</p>
-<p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
-<p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
+<div class="description"><p>Passate dalla strada sterrata alle strade lastricate, il fango che macchia i vostri stivali e l'orlo dei vostri pantaloni. Dietro di voi, i cancelli si chiudono con un tonfo, e potete vedere le guardie riprendere il loro posto. In lontananza, scorgete altre due figure armate di picche che pattugliano le mura, osservando la foresta contorta sottostante.</p>
+<p>Le gronde degli edifici sono adornate con vecchi stendardi e tessuti logori che sventolano e si attorcigliano nella brezza gelida. Gli stendardi sono dipinti con parole e illustrazioni sbiadite, ma il tempo li ha privati sia della leggibilità che di qualsiasi bellezza possano aver avuto un tempo.</p>
+<p>La luce tremolante delle candele indugia dietro le imposte chiuse delle case, e ombre umanoidi si muovono oltre le tende tirate. Lunghe ombre si annidano nei vicoli, dove l'erba cresce alta e contorta sotto il legno macchiato e cadente degli edifici sovrastanti. </p>
+<p>Le strade sono deserte, anche se potete scorgere una singola figura incappucciata che si allontana da voi lungo la strada centrale. In lontananza, oltre le mura, un lupo solitario ulula, e una raffica di vento gelido fende la notte come una lama.</p></div>
 
-The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+La figura incappucciata è Willemina Rikalova, come descritto in <span class="citation">St. Andral's Church (p. 97)</span>. Si sta recando alla chiesa per pregare per la liberazione di suo figlio, Udo Lukovich.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
-## C12b. The Blue Water Inn
+Mentre i personaggi attraversano le strade, vengono notati da Ernst Larnak, che li osserva attentamente — senza però seguirli — come descritto in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst non consegna ancora un invito a cenare con Lady Wachter, ma torna a <span class="citation">N4. Wachterhaus (p. 110)</span> per riferire a Lady Wachter quando i giocatori escono dal suo campo visivo.)
+## C12b. La Locanda dell'Acqua Blu
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
+Quest'area è in gran parte come descritta in <span class="citation">N2. Blue Water Inn (p. 98)</span>. Se Muriel è presente, saluta i giocatori con un trillo dolce e sentimentale, poi se ne va per unirsi agli altri corvi appollaiati sul tetto. (Se i giocatori tornano in seguito alla locanda per cercarla, non è presente.)
 
-When the players first arrive, the inn contains the following notable NPCs:
+Quando i giocatori arrivano per la prima volta, la locanda ospita i seguenti PNG degni di nota:
 
-* Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**; 
-* Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
-* Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
-* Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
+* Danika Dorakova, che sta versando bevande e servendo gli avventori nella **N2c. Taproom**;
+* Urwin Martikov, che sta cucinando pane e stufato di barbabietole nella **N2e. Kitchen**;
+* Brom e Bray Martikov, che stanno giocando con dei giocattoli nella **N20. Boys' Bedroom**; e
+* Rictavio, che sta raccontando storie agli avventori nella **N2c. Taproom**, tra cui Nikolai e Karl Wachter.
 
 ![[Vallaki_Martikovs.png]]
 
 <span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Urwin Martikov**
+> [!profile]+ **Profilo: Urwin Martikov**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+> **Informazioni per l’Interpretazione**
+> ***Risonanza.*** Urwin dovrebbe ispirare divertimento con i suoi brutti giochi di parole e battute, gratitudine per i suoi consigli e il suo supporto paterno, e conforto dalla sua compassione e sincerità.
 >
-> ***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+> ***Emozioni.*** Urwin si sente più spesso divertito, soddisfatto, allegro, pensieroso, preoccupato e fiducioso.
 >
-> ***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+> ***Motivazioni.*** Urwin vuole crescere bene i suoi figli, servire gli ospiti con ospitalità e abilità, e vedere il popolo di Barovia liberato dalla tirannia di Strahd.
 >
-> ***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+> ***Ispirazioni.*** Quando interpretate Urwin, ispiratevi a Vander (Arcane), Greg Universe (Steven Universe) e Linda Belcher (Bob’s Burgers).
 >
-> **Character Information**
-> ***Persona.*** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Urwin è una figura paterna gentile, un uomo di famiglia e un ospite accogliente con un perenne luccichio negli occhi. Per coloro di cui si fida, Urwin è un astuto maestro di spie e tattico con una feroce speranza per il futuro di Barovia. Nel profondo, Urwin teme per il futuro dei suoi figli in un reame governato da Strahd.
 >
-> ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+> ***Morale.*** In un combattimento, Urwin tenterebbe immediatamente di disinnescare la situazione, e tenterebbe di fuggire in caso di insuccesso—non prima però di aver messo in salvo chiunque altro.
 >
-> ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefania Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e l’amato fratello maggiore di Adrian, Elvir e Stefania Martikov. Oltre a essere comproprietario della Locanda dell’Acqua Blu, Urwin è il maestro di spie dei [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
 
-> [!profile]+ **Profile: Danika Dorakova**
+> [!profile]+ **Profilo: Danika Dorakova**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Danika dovrebbe ispirare divertimento con il suo ruolo di “spalla” seria nel battibecco bonario con Urwin, gratitudine per la sua ospitalità e le sue cure materne, e conforto dalla sua natura pratica e concreta e dalla sua feroce dedizione alla famiglia, alla casa e agli ospiti.
 >
-> ***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+> ***Emozioni.*** Danika si sente più spesso affezionata, soddisfatta, cordiale, determinata, combattiva e affettuosa.
 >
-> ***Motivations.*** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+> ***Motivazioni.*** Danika vuole tenere al sicuro la sua famiglia, gestire un'attività di successo e assicurarsi che i suoi figli un giorno vedano la luce del sole su Barovia.
 >
-> ***Inspirations.*** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+> ***Ispirazioni.*** Quando interpretate Danika, ispiratevi a Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers) e Garnet (Steven Universe).
 >
-> **Character Information**
-> ***Persona.*** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Danika è una donna d'affari pratica e senza fronzoli con un cuore d'oro. Per coloro di cui si fida, Danika è una madre feroce con una profonda dedizione al clan Martikov. Nel profondo, Danika è cupamente pronta a difendere coloro che ama—a qualsiasi costo.
 >
-> ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+> ***Morale.*** In un combattimento, Danika tenterebbe rapidamente di disinnescare la situazione, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
 >
-> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
-### Entering the Inn
-The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
+> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere comproprietaria della Locanda dell'Acqua Blu, Danika è un membro di alto rango dei [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+### Entrare nella Locanda
+La sala comune è come descritta in <span class="citation">N2c. Taproom (p. 100)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
+<p>Quasi una dozzina di Vallakiani siedono sparsi ai vari tavoli, sorseggiando boccali di vino o ciotole di stufato sostanzioso. Lungo la scalinata, un uomo vestito in modo colorato che indossa un cappello a tesa larga con una piuma gesticola vivacemente a capotavola di un lungo tavolo, catturando l'attenzione rapita dei diversi avventori seduti lì. Sentite un'ondata di risate propagarsi nel gruppo, seguita da un leggero applauso.</p>
 </div>
 
-The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+L'uomo è il direttore di circo Rictavio, che è in gran parte come descritto in <span class="citation">Rictavio (p. 238)</span> e <span class="citation">N2c. Taproom (p. 100)</span>. Due dei cinque ascoltatori al suo tavolo sono Nikolai e Karl Wachter, che sono come descritti in <span class="citation">N2c. Taproom (p. 100)</span>.
 ![[Rictavio.png]]
 <span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+Quando i giocatori entrano per la prima volta nella locanda, [[Non-Player Characters#Danika Dorakova|Danika]], che sta servendo ai tavoli, li saluta e chiede loro di aspettare al bancone mentre si occupa degli altri avventori.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+Se i personaggi si avvicinano al bancone, [[Non-Player Characters#Urwin Martikov|Urwin]] esce dalla cucina portando un vassoio di pane appena sfornato, stufato di barbabietole caldo e bistecche di lupo, che appoggia sul bancone. (Il cibo ha un profumo deliziosamente invitante.) Szoldar Szoldarovich e Yevgeni Krushkin sono anch'essi seduti al bancone, e sono come descritti in <span class="citation">N2c. Taproom (p. 100)</span>.
 
-Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+Urwin saluta i giocatori calorosamente e dà loro il benvenuto alla Locanda dell'Acqua Blu. Se i giocatori non indirizzano la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
 
-Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
+Prima che Urwin possa rispondere ai giocatori, Danika torna e si scusa con i giocatori per il ritardo. Presumendo che i giocatori non interrompano, la conversazione prosegue come segue:
 
-* Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
-* Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
-* "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
-* Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
+* Danika accusa scherzosamente Urwin di complottare per affittare stanze agli ospiti "gratis" di nuovo, un'accusa che Urwin nega allegramente. 
+* Danika dice ai giocatori che Urwin ha già permesso a un altro ospite di soggiornare gratuitamente e che "manderebbe in bancarotta la locanda" con la sua generosità se lei non fosse lì a tenere i conti. (Urwin concede graziosamente il punto.) 
+* "Dopotutto," dice Urwin con aria furbetta, "perché altro ti avrei sposata?" Con un sorriso, Danika risponde: "Un raro caso di buon senso, immagino."
+* Danika schiocca un bacio sulla guancia di Urwin e dice: "Il tavolo vicino alla finestra sta avendo fame." Urwin fa l'occhiolino ai giocatori, riprende il vassoio e esce dal bancone per servire il cibo.
 
-Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+Danika comunica poi ai giocatori le tariffe per vitto e alloggio, come elencate in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Sia la camera grande per gli ospiti, <span class="citation">N2m. Guest Room (p. 102)</span>, che le due camere piccole per gli ospiti, <span class="citation">N2l. Guest Rooms (p. 102)</span>, sono disponibili per l'affitto.) Quando Urwin torna, si offre di prendere le ordinazioni dei giocatori per la cena, presumendo che abbiano fame. 
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>. 
+I giocatori hanno poi qualche minuto per parlare con Urwin e Danika o tra di loro. Durante questa conversazione, Urwin e Danika possono fornire ai giocatori informazioni su Rictavio, il Festival del Sole Ardente (che si terrà tra cinque giorni a mezzogiorno), e il vicino accampamento Vistani, come descritto in <span class="citation">Vallaki Lore (p. 96)</span>. 
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
+Sia Urwin che Danika possono fornire indicazioni per qualsiasi punto di riferimento importante all'interno di Vallaki, tra cui **N1. Chiesa di St. Andral**, **N5. Arasek Stockyard** e **N8. Town Square**. Se i giocatori chiedono dell'altro ospite della locanda, Urwin e Danika possono anche condividere informazioni su Rictavio, che sono in gran parte come descritte in <span class="citation">N2c. Taproom (p. 100)</span>, tranne per il fatto che Rictavio è arrivato quella stessa mattina.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
+La più recente spedizione di vino della locanda è leggermente in ritardo, ma non è stata sufficientemente ritardata da allarmare Urwin. Pertanto, non chiede ai giocatori di indagare sulla Cantina dei Maghi a questo punto. (Questa missione non sarà disponibile finché i giocatori non raggiungeranno il livello 5. Consultate [[Arc J - The Stolen Gem]] per maggiori informazioni.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
-### The Ringmaster's Tale
-If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
+Se i giocatori ordinano cibo o vino nella sala comune, [[Non-Player Characters#Danika Dorakova|Danika]] si offre di farli accomodare al tavolo lungo all'estremità sud della sala e promette che verranno serviti a breve. (Consultate **Map 5.2: Blue Water Inn**.)
+### Il Racconto del Direttore di Circo
+Se uno dei giocatori si avvicina al tavolo di Rictavio, Nikolai e Karl Wachter li esortano a sedersi. "Sta per raccontare una storia," sussurra Nikolai ad alta voce. (Szoldar Szoldarovich, il cacciatore di lupi, ha girato la sedia dal bancone per ascoltare.)
 
-> [!profile]+ **Profile: Rictavio**
+> [!profile]+ **Profilo: Rictavio**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+> **Informazioni per l’Interpretazione**
+> ***Risonanza.*** Rictavio dovrebbe ispirare divertimento per il suo abbigliamento sgargiante, la sua stravaganza da direttore di circo e il suo modo di parlare colorito, che il più delle volte include il riferirsi a sé stesso in terza persona.
 >
-> ***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+> ***Emozioni.*** Agli osservatori, Rictavio appare più spesso divertito, deliziato o soddisfatto.
 >
-> ***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+> ***Motivazioni.*** Rictavio vuole mantenere la sua reputazione di direttore di circo divertente, seppur alquanto stravagante.
 >
-> ***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+> ***Ispirazioni.*** Quando interpretate Rictavio, ispiratevi a Varrick (Avatar: The Legend of Korra) o a un tipico imbonitore da circo.
 >
-> **Character Information**
-> ***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Rictavio appare come un direttore di circo sgargiante, irriverente e occasionalmente narcisista.
 >
-> ***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+> ***Morale.*** In un combattimento, Rictavio tenterebbe di cavarsi d’impaccio a forza di chiacchiere, fuggendo dalla battaglia se le ostilità sembrano inevitabili. (Potrebbe tuttavia intervenire per difendere un innocente dal male per mano del soprannaturale—facendo del suo meglio per preservare la sua identità segreta.)
 >
-> ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> ***Relazioni.*** Rictavio è segretamente il Dr. Rudolph van Richten, il famoso cacciatore di vampiri.
 
-After clearing his throat, Rictavio shares the following story:
+Dopo essersi schiarito la voce, Rictavio racconta la seguente storia:
 
 <div class="description">
-<p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
-<p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
-<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Olivenka—one particular moonlit night. Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
-<p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
-<p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
-<p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>
-<p>And so the Count departed. He lurked in alleyways and prowled across rooftops—yet he found not a single morsel to sate his thirst. It was with surprise, that the hungry, defeated Count finally looked up to the velvet skies and saw the periwinkle-grey of approaching morning.</p>
-<p>With panic, he flew through the streets. Four blocks away. A streak of orange began to slice across the sky. Three blocks. Two—</p>
-<p>—the door to the inn slammed shut behind him.</p>
-<p>"Goodness," Olivenka said, yawning atop the staircase. "Have you been out all night?"</p>
-<p>In an eyeblink, the Count's great silhouette towered far above her. "Yes," he growled. "But I've only just found what I've been looking for. Olivenka—<i>I want to suck your blood!</i>"</p>
-<p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
-<p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
-<p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
-<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
-<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+<p>Il vampiro Conte Belasco teneva la sua bara, non in una cripta o una fortezza, ma nella cantina di una vecchia locanda fatiscente, gestita dal suo servitore, Igoron.</p>
+<p>Il povero Conte Belasco aveva un terribile segreto: nella sua età vetusta, il suo cuoio capelluto stava iniziando a marcire, e i suoi capelli cadevano in grossi ciuffi e nodi. Imbarazzato, ordinò a Igoron di acquistare una bella parrucca nero corvino, sperando di preservare il bell'uomo giovane che era stato un tempo.</p>
+<p>“Un bell'uomo davvero,” concordò una delle sue ospiti—un'anziana vedova quasi cieca di nome Olivenka—in una particolare notte di luna. La cara Olivenka se ne stava per conto suo, trascorrendo le giornate a ordinare e riordinare la collezione di pietre del suo defunto marito, che conservava amorevolmente nella sua borsa. Nonostante il comportamento strano e la pelle pallida del Conte, non sospettava nulla, la sua vecchia vista troppo offuscata per distinguere le zanne che spuntavano tra i suoi denti.</p>
+<p>Come sempre, il Conte sentì l'impulso di nutrirsi di lei—e sebbene le sue parole lusinghiere avessero placato il suo interesse, sentiva comunque la sete nelle sue zanne. “Igoron!” tuonò. “Portami il mantello—vado a caccia.”</p>
+<p>“Sì, sire,” ansimò Igoron. Tornando, gemette: “Meglio essere di ritorno prima dell'alba, mio signore. Stanotte pulisco le tende. Vi voglio bello al sicuro nella vostra bara prima dell'alba.”</p>
+<p>Il Conte Belasco sbuffò. “Non temere, semplice Igoron,” si vantò. “Conosco bene l'ora del mio nemico. Nulla potrebbe indurre il mio spirito a indugiare sotto i suoi terribili raggi.”</p>
+<p>E così il Conte partì. Si aggirò nei vicoli e scivolò sui tetti—eppure non trovò un solo boccone per saziare la sua sete. Fu con sorpresa che il Conte affamato e sconfitto alzò finalmente lo sguardo verso il cielo di velluto e vide il grigio pervinca del mattino in avvicinamento.</p>
+<p>In preda al panico, volò attraverso le strade. Quattro isolati. Una striscia arancione iniziò a tagliare il cielo. Tre isolati. Due—</p>
+<p>—la porta della locanda si chiuse sbattendo alle sue spalle.</p>
+<p>“Santo cielo,” disse Olivenka, sbadigliando in cima alle scale. “Siete stato fuori tutta la notte?”</p>
+<p>In un batter d'occhio, la grande sagoma del Conte torreggiò molto al di sopra di lei. “Sì,” ringhiò. “Ma ho appena trovato quello che cercavo. Olivenka—<i>voglio succhiarti il sangue!</i>”</p>
+<p>Normalmente, una delle vittime del Conte Belasco avrebbe urlato, sarebbe fuggita o sarebbe svenuta—eppure aveva commesso un terribile errore.</p>
+<p>Aveva dimenticato che gli occhi afflitti da cataratta di Olivenka non riuscivano a vedere bene le sue zanne.</p>
+<p>“Uomo disgustoso!” strillò Olivenka, e scagliò diciotto anni di pietre rare e minerali direttamente verso la sua testa. Ci fu un tonfo terribile—e un terribile scricchiolio di legno—e il Conte Belasco rotolò giù al piano di sotto. Quando aprì gli occhi, vide Olivenka che fissava inorridita, non lui, ma la sua <i>testa</i>—la sua testa <i>nuda</i>.</p>
+<p>Lì, proprio sotto la finestra orientale, giaceva la sua amata parrucca. Si tuffò verso di essa, artigli protesi—e un raggio di luce solare gli sfiorò la pelle.</p> 
+<p>Ci fu uno sfrigolio, un sibilo, e un'esplosione di fumo e fiamme. Olivenka, con la borsa stretta al petto, osservò sgomenta il Conte Belasco soccombere alla luce del mattino, finché tutto ciò che rimase fu un mucchio fumante di cenere e una parrucca carbonizzata e fumante.</p>
 </div>
 
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
+"La povera Olivenka non se ne riprese mai del tutto," conclude Rictavio, con gli occhi scintillanti. "Dopotutto—è stata davvero un'esperienza da far rizzare i capelli!" Mentre i suoi ascoltatori fischiano, sghignazzano e applaudono, si inchina e poi fa cenno a Danika per un altro giro di bevande. Mentre lei si avvicina, Brom e Bray le corrono accanto verso la cucina, ridacchiando.
 
-If spoken with, Rictavio is willing to share the following information over drinks:
+Se interpellato, Rictavio è disposto a condividere le seguenti informazioni davanti a un drink:
 
-* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
-* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+* È Rictavio, un direttore di circo mezzelfo che ha viaggiato a lungo e lontano in cerca di nuovi numeri per il suo circo. Non è del tutto sicuro di come sia finito a Barovia, ma sta cercando di sfruttare al meglio la situazione. (Questa è una bugia. Una prova di DC 16 Wisdom (Insight) rivela che le parole di Rictavio suonano un po' troppo fluide e studiate.)
+* È arrivato quella mattina stessa e si è stabilito nella suite privata della Locanda dell'Acqua Blu. "I buoni locandieri mi hanno generosamente permesso di restare in cambio di racconti e buonumore," nota, sorridendo.
 
-During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
+Durante la conversazione, Rictavio tenta sottilmente di apprendere più informazioni di quante ne riveli, sperando di carpire le identità, le capacità, le relazioni e le storie dei giocatori dentro e fuori Barovia. Se gli viene chiesto perché sembra essere così curioso, insiste con enfasi che è sempre alla ricerca di nuovi racconti da aggiungere al suo repertorio.
 
-When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+Quando ha finito il suo drink, Rictavio fa un altro inchino teatrale e si congeda. Mentre lo fa, Nikolai e Karl fischiano e sollecitano Rictavio a raccontare un'altra storia. "Ne abbiamo sentita una su un Conte stupido," dice Nikolai. "Che ne dite di un Barone stupido?"
 
-If the players don't intervene, the following sequence of events then occurs:
+Se i giocatori non intervengono, si verifica la seguente sequenza di eventi:
 
-* The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
-* From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
-* Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>. 
+* Il tavolo e la sala comune vicina ammutoliscono, con molti avventori che guardano nervosamente Nikolai e Rictavio.
+* Dal suo posto al bancone, Szoldar borbotta: "Meglio di no, ragazzo." (Dietro di lui, Yevgeni grugnisce, poi fa eco: "Meglio di no.")
+* Karl sbuffa. "Codardi, tutti quanti," dice, guardandosi intorno. "Non avete un briciolo di umorismo."
+* Rictavio si schiarisce la voce. "Ahimè, amici miei," dice, "ma la giornata è stata lunga e devo ritirarmi. Un altro giorno, forse." Mentre Nikolai e Karl brontolano e tornano ai loro drink, Rictavio si inchina con un gesto teatrale, poi sale le scale verso la <span class="citation">N2n Private Guest Room (p. 102)</span>. 
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
-### The Brothers Wachter
-If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+Qualsiasi giocatore che osservi Rictavio mentre percorre il **N2j. Great Balcony** lo vede passare accanto a Brom e Bray, che sono accovacciati lungo il balcone davanti alla **N2o. Boys' Bedroom**. (I ragazzi stanno dondolando il pipistrello di peluche descritto in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> sopra il bancone sottostante, ridacchiando mentre Nikolai e Karl, ubriachi, cercano di colpirlo. I ragazzi hanno usato le <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> per sgattaiolare silenziosamente dalla cucina al balcone mentre i giocatori bevevano, senza essere visti dagli avventori della locanda.)
+### I Fratelli Wachter
+Se i giocatori indugiano al tavolo di Rictavio, i fratelli Wachter sono felici (se stimolati) di lamentarsi riguardo a:
 
-- the Festival of the Blazing Sun,
-- Vallaki's recent history of festivals,
-- the Baron's response to those who speak ill of the festivals, and
-- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+- il Festival del Sole Ardente,
+- la recente storia di festival di Vallaki,
+- la risposta del Barone a coloro che parlano male dei festival, e
+- i lampi di luce viola che sono stati visti dalla soffitta della **N3. Burgomaster's Mansion**
 
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+(Consultate <span class="citation">Vallaki Lore (p. 96)</span>). Una volta che i giocatori hanno guadagnato la fiducia dei fratelli, la conversazione procede come descritto in <span class="citation">N2c. Taproom (p. 100)</span>.
 
-Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
+Attraverso la conversazione, diventa evidente che i fratelli nutrono una profonda inimicizia personale verso Izek Strazni e la famiglia Vallakovich. Tuttavia, nessuno dei due fratelli rivelerà la ragione sottostante—la malattia di Stella Wachter (vedi [[Arc H - The Lost Soul]])—a meno che i giocatori non chiedano e riescano in una prova di DC 20 Charisma (Persuasion).
 
-At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+A un certo punto durante la conversazione, Danika si avvicina al tavolo per portare via i piatti vuoti. Mentre lo fa, Nikolai chiede allegramente altro vino. Se i giocatori non intervengono, la conversazione prosegue come segue:
 
-- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
-- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
-- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
-- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+- [[Non-Player Characters#Danika Dorakova|Danika]] saluta Karl e Nikolai per nome e chiede: "Non avete già bevuto troppo, ragazzi?"
+- Nikolai scaccia le sue parole con un gesto e dice: "Sciocchezze—abbiamo appena cominciato! Due pinte di vino per iniziare, e continuate a versare."
+- Danika risponde: "Posso iniziare con del Purple Grapemash No. 3?" Nikolai sbuffa e dice: "Per chi ci prendete—contadini senza gusto? Red Dragon Crush, e non siate tirchi."
+- Mentre versa il vino, Danika dice distrattamente: "Vostra madre sa cosa state facendo stasera?" Karl aspetta di ricevere la sua pinta, poi borbotta: "La mamma è troppo impegnata di questi tempi. E quel che non sa non può farle male." ("Né a noi," aggiunge Nikolai con un sorriso, dando una gomitata al fratello. I due ridacchiano, poi tornano ai loro drink.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
-### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Se i giocatori chiedono a Urwin o Danika dei fratelli Wachter, Urwin può dire loro le informazioni elencate in <span class="citation">N2c. Taproom (p. 100)</span>. Se i giocatori chiedono della loro madre, o delle loro parole su un "Barone stupido," Urwin diventa visibilmente a disagio e promette di parlare ulteriormente con i giocatori al mattino.
+### Cenare
+Poco dopo la conclusione della storia di Rictavio, se i giocatori hanno ordinato la cena, [[Non-Player Characters#Danika Dorakova|Danika]] si avvicina al loro tavolo con un vassoio di cibo. Mentre li serve, viene improvvisamente urtata da dietro, facendo cadere una delle ciotole di zuppa dalle sue mani. I due giocatori seduti all'estremità più a nord del tavolo devono effettuare tiri salvezza su DC 10 Dexterity, afferrando la ciotola in caso di successo. (Se entrambi i giocatori riescono, il giocatore con il risultato più alto afferra la ciotola per primo. Se nessuno dei due riesce, la ciotola cade sul pavimento, versando la zuppa.) 
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika si volta, rivelando il colpevole: un Brom Martikov dalle guance rosse che indossa una delle maschere da pagliaccio in legno dipinto come descritte in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, che indossa l'altra maschera della coppia, si sta nascondendo dietro una delle sedie del tavolo più vicino.)
 
-If the players do not interrupt, Danika scolds the boys as follows:
+Se i giocatori non interrompono, Danika rimprovera i ragazzi come segue:
 
-* Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
-* Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
-* Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
+* Danika si rivolge bruscamente (ma non senza gentilezza) a Brom e Bray chiamandoli per nome completo. Entrambi i bambini si mettono sull'attenti.
+* Danika chiede ai ragazzi: "Cosa vi ha detto vostro padre riguardo all'indossare quelle maschere nella sala comune?" Entrambi i ragazzi si tolgono le maschere, arrossiti, e Brom dice, imbarazzato: "Non dovremmo farlo."
+* Danika chiede poi ai ragazzi: "E cosa vi ho detto riguardo al correre nella sala comune?" I due tacciono, poi Bray dice timidamente: "...non dovremmo farlo?" Danika risponde: "Esatto."
 
-If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+Se la zuppa è stata versata, Danika ordina a Bray di prendere un secchio d'acqua dal **N2a. Well** fuori, e a Brom di prendere uno straccio dalla cucina per pulire il disordine. Se la zuppa non è stata versata, Danika ricorda ai ragazzi che dovrebbero aiutare il padre a cucinare la cena e li caccia in cucina.
 
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+In entrambi i casi, Danika si scusa con i giocatori e offre loro pasti gratuiti la sera successiva. Se i giocatori chiedono di Brom e Bray, Danika sorride con affetto e dice: "A volte possono essere una bella gatta da pelare, ma sono bravi ragazzi."
 
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
+Se i giocatori chiedono delle maschere dei bambini, Danika dice loro che Urwin le ha comprate dal giocattolaio locale, Gadof Blinsky, che lavora presso <span class="citation">N7. Blinsky Toys (p.118)</span>.
 
-The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
+La sala comune si svuota lentamente nelle due ore successive. Nikolai e Karl Wachter barcollano fuori e crollano nel capanno della locanda, troppo ubriachi per tornare a casa.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+Se i giocatori hanno affittato stanze per la notte, [[Non-Player Characters#Danika Dorakova|Danika]] alla fine si avvicina al loro tavolo e si offre di accompagnarli alle loro stanze. (Consultate **N2l. Guest Rooms** e <span class="citation">N2m. Guest Room (p. 102)</span>). Durante il tour, Danika li informa che sono liberi di richiedere lenzuola fresche o una tinozza di acqua calda (per un bagno) portate nelle loro stanze. "La colazione viene servita alle prime luci dell'alba," dice calorosamente, e aggiunge: "Non esitate a farci sapere se avete bisogno di qualcos'altro."
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
-## C12c. Morning in Vallaki
-### Urwin's Advice
-When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+***Traguardo.*** Quando i giocatori effettuano il loro primo riposo lungo a Vallaki, assegnate a ogni giocatore 1.000 XP. (Questo dovrebbe portare i giocatori al 4° livello.) Se i giocatori hanno scortato con successo Ireena a Vallaki, guadagnano ulteriori 250 XP. (I giocatori non hanno bisogno di portare Ireena alla Chiesa di St. Andral per ricevere questi XP.)
+## C12c. Mattino a Vallaki
+### I Consigli di Urwin
+Quando i giocatori emergono per la prima volta dalle loro stanze sul <span class="citation">N2k. Guest Balcony</span> la mattina seguente, [[Non-Player Characters#Urwin Martikov|Urwin]]—che sta togliendo le sedie dai tavoli della sala comune—chiede loro di scendere al bancone per parlare.
 
-Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
+Abbassando la voce, Urwin avverte i giocatori che devono essere cauti a Vallaki—sia a causa del rigido sistema di applicazione della legge della città sia delle recenti tensioni politiche. Urwin può condividere le seguenti informazioni aggiuntive, come descritto in <span class="citation">Vallaki Lore (p. 96)</span>:
 
-* The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
-* Vallaki's recent history of festivals,
-* The Baron's strict rules regarding his festivals—and the fates of those who speak ill of them,
-* The brutish nature and terrible strength of Izek Strazni, the baron's henchman. ("Many have tried to test his strength," Urwin notes grimly. "All have failed.")
+* La data del Festival del Sole Ardente, che si terrà dall'alba a mezzogiorno del quinto giorno completo dei giocatori a Vallaki,
+* La recente storia di festival di Vallaki,
+* Le rigide regole del Barone riguardo ai suoi festival—e il destino di coloro che ne parlano male,
+* La natura brutale e la terribile forza di Izek Strazni, lo scagnozzo del Barone. ("Molti hanno provato a mettere alla prova la sua forza," nota Urwin cupamente. "Tutti hanno fallito.")
 
-Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+Urwin nota sommessamente, tuttavia, che il Barone è noto per essere molto suscettibile all'adulazione—e che se i giocatori dovessero mai avere bisogno di ottenere il suo favore, il suo ego potrebbe essere un bersaglio ideale.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in <span class="citation">Vallaki Lore (p. 96)</span>. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+Se i giocatori chiedono se il Barone ha nemici a Vallaki, Urwin può anche condividere le informazioni su Lady Fiona Wachter descritte in <span class="citation">Vallaki Lore (p. 96)</span>. Tuttavia, invece di descrivere la "figlia pazza" di Lady Wachter, Urwin condivide solo che Lady Fiona ha una figlia, Stella Wachter, che Lady Wachter ha recentemente tenuto reclusa nei terreni di Wachterhaus per ragioni sconosciute.
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from <span class="citation">N2n. Private Guest Room</span> and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+Mentre la conversazione di Urwin volge al termine, Rictavio scende le scale dalla <span class="citation">N2n. Private Guest Room</span> e si avvicina al bancone, salutando i giocatori con un cenno del capo. Urwin gli augura il buongiorno e rimuove un piccolo pacco da sotto il bancone, che Rictavio accetta e infila nel suo mantello.
 
-> [!abstract]+ **What's In the Parcel?**
-> If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
-### Following the Ringmaster
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
+> [!abstract]+ **Cosa c'è nel Pacco?**
+> Se interrogato, Urwin può informare i giocatori che il pacco contiene semplicemente del cibo—alcune mele, qualche pagnotta e una forma di formaggio.
+### Seguire il Direttore di Circo
+Se uno o più giocatori seguono Rictavio fuori dalla Locanda dell'Acqua Blu, possono seguirlo fino alla <span class="citation">N2f. Stable (p. 101)</span> senza difficoltà.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Una volta dentro, Rictavio rimuove il pacco dal suo mantello, prende due mele e procede a darle al suo cavallo, Drusilla. Una volta che Drusilla ha finito di mangiare, Rictavio controlla i dintorni, costringendo eventuali giocatori nascosti a riuscire in una prova di gruppo DC 18 Dexterity (Stealth) o essere individuati.
 
-> [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
+> [!info]+ **Prove di Gruppo**
+> Consultate <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> per maggiori informazioni su come utilizzare le prove di caratteristica di gruppo.
 
-> [!abstract]+ **Detecting Magic**
-> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> [!abstract]+ **Individuare la Magia**
+> Se un giocatore lancia _detect magic_ mentre è in presenza di Rictavio, può immediatamente notare:
 > 
-> * the aura of illusion magic surrounding his _hat of disguise_,
-> * the aura of enchantment magic surrounding his _ring of mind shielding_, and
-> * the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
+> * l'aura di magia di illusione che circonda il suo _hat of disguise_,
+> * l'aura di magia di ammaliamento che circonda il suo _ring of mind shielding_, e
+> * l'aura di magia di abiurazione che circonda il suo _amulet of proof against detection and location_, che indossa nascosto sotto la camicia.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+Se individua dei giocatori, Rictavio li chiama e nota, divertito, che è maleducazione aggirarsi in posti bui. Li interroga poi in modo scherzoso, facendo del suo meglio per scoprire il loro scopo nel seguirlo evitando al contempo di rivelare la sua vera identità. 
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
+Se gli viene chiesto a chi è destinato il cibo, Rictavio insiste che è per "il mio amico, il giocattolaio indigente." (Si riferisce a Gadof Blinsky, descritto ulteriormente in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+Se confrontato riguardo ai suoi oggetti magici o alla sua vera identità, Rictavio invita i giocatori a controllare i dintorni per eventuali spie, poi esige che dimostrino di non essere spie di Strahd. Se i giocatori rispondono in modo persuasivo, insiste affinché giurino di mantenere il segreto. Se lo fanno, la sua storia cambia come segue:
 
-* If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-* If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+* Se i giocatori non sospettano la sua vera identità, Rictavio "rivela" di essere un agente segreto dei Keepers of the Feather, una società segreta dedita a resistere a Strahd. (Il suo vero nome, afferma, è classificato, per timore che possa portare Strahd a perseguitare i suoi cari.)
+* Se i giocatori sospettano la sua vera identità, Rictavio "rivela" di essere Arthur Sedgwick, un ex studente di Van Richten da una terra oltre le Nebbie, che ha seguito il Dr. Van Richten a Barovia quando ha saputo che il cacciatore di vampiri era scomparso.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+Queste sono bugie. Una prova di DC 18 Wisdom (Insight) indica che gli occhi di Rictavio guizzano verso l'alto per un momento prima di pronunciare il nome dei Keepers o quello di Arthur. Se ulteriormente confrontato, Rictavio nega qualsiasi ulteriore accusa. "Credete pure quel che volete," concede, scrollando le spalle. "Quello che pensate non mi riguarda."
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+Rictavio rifiuta di condividere ulteriori informazioni per timore che gli agenti di Strahd possano sottrargliele. 
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+Se non riesce a individuare i giocatori, Rictavio usa il suo *hat of disguise* per assumere la forma di un comune cittadino di Vallaki qualsiasi, poi sgattaiola fuori dalla stalla sulla strada. Procede quindi a zigzagare per le strade e i vicoli di Vallaki in un tentativo paranoico di seminare eventuali inseguitori. Un giocatore che tenti di seguirlo deve riuscire in una prova di DC 18 Wisdom (Perception) o perderlo tra la folla. 
 
-> [!abstract]+ **Following Rictavio**
-> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
-### Exiting the Inn
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+> [!abstract]+ **Seguire Rictavio**
+> Una volta uscito dalla stalla della Locanda dell'Acqua Blu, Rictavio si dirige verso l'Arasek Stockyard, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre lei mangia, inginocchiandosi davanti al carro come descritto in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+### Uscire dalla Locanda
+Quando i giocatori lasciano la Locanda dell'Acqua Blu nella loro prima mattina a Vallaki, trovano la strada piena di cittadini. Presumendo che i giocatori non interferiscano, la seguente scena si svolge:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession. 
-* The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
-* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
-* Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
-* As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
+* I giocatori sentono il suono di un cavallo che nitrisce più avanti nella strada—e i cittadini si immobilizzano e ammutoliscono. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) in sella al suo cavallo sauro, fiancheggiato dai suoi due **mastiffs** di nome Claw e Fang, e seguito da tre **guards**. Izek Strazni guida la processione. 
+* I giocatori possono vedere che una donna anziana dall’aspetto spaventato, vestita con abiti logori da popolana, è appena inciampata lontano dal cavallo ed è caduta in una pozzanghera di fango a pochi passi dal cavallo. Il cavallo si è fermato bruscamente e la processione si è fermata con esso. Il braccio diabolico di Izek è proteso, suggerendo che ha appena spinto—o scagliato—la vecchia donna nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich.)
+* Il Barone rimprovera furiosamente la donna per aver sporcato il suo mantello di fango con le sue “sudice mani da contadina.” La vecchia donna, con la voce tremante, si scusa e supplica il Barone di rilasciare suo figlio, Udo, sostenendo che non intendeva fare del male con il suo “sciocco scherzo.”
+* Il Barone insiste che Udo ha bisogno di “riabilitazione” per la sua “infelicità malevola,” e suggerisce che anche la donna ne abbia bisogno. Ordina a Izek di afferrarla e chiuderla nella gogna, suggerendo che “qualche giorno alla gogna dovrebbe tenerle a freno la lingua.” Izek avanza, flettendo il suo braccio diabolico con un luccichio crudele negli occhi.
+* Izek afferra la donna, la tira in piedi e la spinge rudemente tra le braccia delle guardie in attesa. Due delle guardie tirano le braccia della vecchia donna dietro la schiena e iniziano a trascinarla verso sud mentre lei si dibatte, piange e supplica per la libertà di suo figlio. Nessun cittadino osa aiutarla.
+* Mentre la vecchia donna viene trascinata via, il Barone si rivolge ai cittadini che lo circondano e annuncia: “Che questa sia una lezione sui pericoli dell’infelicità malevola! La mano del Diavolo è lunga, ma la nostra gioia supererà la sua ombra.”
 ![[Izek Strazni.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+> [!profile]+ **Profilo: Barone Vargas Vallakovich**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Vargas dovrebbe ispirare frustrazione con la sua ostinazione, disgusto per la sua arroganza narcisistica, e leggero divertimento per la sua totale e ridicola sicurezza di sé.
 >
-> ***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> ***Emozioni.*** Vargas si sente più spesso infastidito, offeso, soddisfatto, indignato, impaziente o compiaciuto.
 >
-> ***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> ***Motivazioni.*** Vargas vuole consolidare il suo potere libero dall'influenza di Strahd e guidare Vallaki a fuggire dalle Nebbie costringendo tutti in città a essere felici.
 >
-> ***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> ***Ispirazioni.*** Quando interpretate Vargas, ispiratevi a Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones) e Governor Ratcliffe (Pocahontas).
 >
-> **Character Information**
-> ***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Vargas è un nobile borioso, narcisista e di sangue blu con un brutto carattere, deliri di salvezza e un amore per le lodi e l'adorazione.
 >
-> ***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> ***Morale.*** In un combattimento, Vargas ordinerebbe ai suoi cani, Claw e Fang, così come a Izek Strazni e a qualsiasi guardia presente di catturare chiunque si opponga a lui. Se privato dei suoi difensori, Vargas tenterebbe di fuggire, o—se la fuga fosse ostacolata—si prostrerebbe pateticamente ai piedi del suo aggressore, implorando pietà.
 >
-> ***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+> ***Relazioni.*** Vargas, il borgomastro di Vallaki, è il padre di Victor Vallakovich, il marito della Baronessa Lydia Petrovna, il cognato di Padre Lucian Petrovich e il figlio del defunto Barone Valentin Vallakovich. È anche il datore di lavoro e "padre" adottivo di Izek Strazni, il suo capitano delle guardie e capo esecutore.
 
-> [!profile]+ **Profile: Izek Strazni**
+> [!profile]+ **Profilo: Izek Strazni**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Izek dovrebbe ispirare disgusto con la sua crudeltà e indifferenza verso la vita umana, e disagio con il suo inquietante interesse per Ireena Kolyana.
 >
-> ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+> ***Emozioni.*** Izek si sente più spesso irritato, infuriato, impaziente, sadico, ossessionato o annoiato.
 >
-> ***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> ***Motivazioni.*** Izek vuole servire il Barone fedelmente—e, molto più importante, trovare e possedere la donna che ha sognato.
 >
-> ***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+> ***Ispirazioni.*** Quando interpretate Izek, ispiratevi a Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter) e Kratos (God of War).
 >
-> **Character Information**
-> ***Persona.*** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Izek è un esecutore crudele e brutale con un amore per il fuoco e il sangue.
 >
-> ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+> ***Morale.*** In un combattimento, Izek impugnerebbe volentieri la sua ascia da battaglia argentata e combatterebbe fino alla morte.
 >
-> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> ***Relazioni.*** Izek è il "figlio" adottivo del Barone Vargas Vallakovich, il capitano della guardia cittadina di Vallaki, un cliente abituale del giocattolaio Gadof Blinsky e (all'insaputa di entrambi) il fratello biologico di Ireena Kolyana.
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
+Se i giocatori interrompono l’arresto di Willemina, il Barone li saluta come forestieri e chiede, divertito, se intendono assumersi la responsabilità della riabilitazione della “vecchia sciocca”.
 
-***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomazia.*** Se i giocatori superano una prova di DC 10 Charisma (Persuasion) o presentano un argomento che lusinga sufficientemente l’ego del Barone, egli ordina alle guardie di rilasciarla nella loro custodia. Dà loro il benvenuto a Vallaki e ordina pomposamente di assicurarsi di informarsi sulle regole e tradizioni della città.
 
-***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
+***Ostilità.*** Se i giocatori indicano la volontà di iniziare un combattimento, gli occhi del Barone si restringono e i suoi mastini iniziano a ringhiare. Nel frattempo, il braccio di Izek arde di una fiamma cremisi, la sua presa si stringe sull’impugnatura della sua ascia da battaglia argentata.
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+Il Barone esige innanzitutto di sapere se i giocatori sono “spie del Diavolo Strahd.” I giocatori possono tentare di calmare la situazione e assicurare l’arresto di Willemina pacificamente, ma qualsiasi successiva prova di Charisma per influenzare il Barone viene effettuata con svantaggio.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+Se sembra che il combattimento sia imminente, [[Non-Player Characters#Father Lucian Petrovich|Padre Lucian Petrovich]] (come descritto in <span class="citation">N1. St. Andral’s Church, p. 97</span>) si fa avanti dalla folla e invita alla pace. Il Barone lo saluta calorosamente per nome, e Padre Petrovich si scusa per il comportamento di Willemina, notando che è stata turbata nei giorni recenti alle sue congregazioni. Promette di scortarla alla Chiesa di St. Andral e di assicurarsi che la sua mente turbata sia placata—una proposta che il Barone accetta a malincuore.
 
-> [!lore]+ **What's Lucian Doing Here?**
-> After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **Cosa ci Fa Lucian Qui?**
+> Dopo aver scoperto [[Act I - Into the Mists/Arc C - Into the Valley|le ossa mancanti di St. Andral]] e aver mandato Yeska a reclutare Henrik per lasciare materiali per riparare la cripta, Padre Petrovich ha cercato il Barone Vallakovich nella speranza di ottenere il suo aiuto nel trovare le ossa. Ha però rinunciato dopo aver osservato l’umore e il comportamento del Barone per le strade. (Lucian non condivide questo a meno che non abbia già parlato ai giocatori delle ossa mancanti in [[Arc D - St. Andral’s Feast]]. Condividerà tuttavia che sperava di chiedere qualcosa al Barone, ma ha rinunciato dopo aver visto l’umore attuale dell’uomo.)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+Il Barone si chiede anche ad alta voce se dovrebbe punire i giocatori per la loro insolenza. Padre Petrovich assicura al Barone che sono semplicemente forestieri, non istruiti sui costumi di Vallaki, e che provvederà lui stesso a educarli adeguatamente.
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+Il Barone ordina imperiosamente che provveda, poi informa i giocatori che li ha colti “di buon umore,” e che dovrebbero essere grati per “la misericordia del Signore del Mattino.” Li avverte, tuttavia, che future trasgressioni saranno punite severamente.
 
-***Departure.*** As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+***Partenza.*** Mentre il Barone lascia la scena, annuncia alla folla: “Mi aspetto di vedervi tutti al Festival del Sole Ardente tra quattro giorni. Tutto andrà bene!”
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+I cittadini, con sorrisi che assomigliano più a smorfie, intonano cupamente: “Tutto andrà bene.” Il Barone annuisce, evidentemente soddisfatto, e continua a cavalcare verso nord, seguito da Izek, i suoi mastini e le guardie rimanenti. L’attività della strada riprende poco dopo.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+Se Ireena è con il gruppo, ha tirato su il cappuccio del suo mantello uscendo dalla locanda. Ciononostante, a meno che il gruppo non abbia preso misure specifiche per impedire a Izek di notarla, egli incrocia lo sguardo di Ireena e lo sostiene per un lungo, indugiante momento prima di allontanarsi, lasciando Ireena a disagio e con un brivido di freddo. [[Arc G - The Strazni Siblings]] inizia quindi.
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+Se interrogata, Ireena nota con incertezza che qualcosa in Izek le sembrava quasi familiare, anche se non riesce a ricordare il perché.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+Se i giocatori hanno sfidato Vargas o Izek in qualsiasi modo, o hanno altrimenti assistito Willemina, Ernst Larnak riferisce le loro azioni a Lady Fiona Wachter a Wachterhaus. [[Arc F - Lady Wachter’s Wish]] inizia quindi.
 
-***End of an Act.*** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
-# Design Notes: Into the Valley
-## Journey to Vallaki
-***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
+***Fine di un Atto.*** Quando i giocatori partono dalla Locanda dell’Acqua Blu per il loro primo giorno completo a Vallaki, l'**Atto I** termina e l'**Atto II** inizia.
+# Note di Design: Nella Valle
+## Viaggio verso Vallaki
+***La Famiglia Lansten.*** Gli incontri con gli esploratori Baroviani e la famiglia Lansten non-morta sono stati aggiunti per sottolineare la tragedia dell’assedio di Strahd al villaggio di Barovia, per introdurre le forze non-morte di Strahd e per prefigurare il piano finale di Strahd di trasformare i Baroviani in non-morti per forgiare il suo nuovo esercito dopo la fuga dalle Nebbie.
 
-***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
+***Incontro con Strahd.*** Molti incontri della community con Strahd creano situazioni in cui, per far capire il potere e la crudeltà di Strahd, i giocatori inevitabilmente “perdono.” Tali incontri rischiano di frustrare i giocatori e generare apatia o disperazione invece di un’esperienza di gioco tesa ma piacevole. Tuttavia, è altrettanto importante che a Strahd non sia permesso di “perdere” il suo primo incontro con i giocatori, nemmeno indirettamente (ad es., combattimento con i suoi servitori). Permettere che il potere di Strahd venga messo in discussione a questo punto minerebbe fondamentalmente la sua efficacia come antagonista.
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+Pertanto, questo incontro crea intenzionalmente una circostanza in cui sia Strahd che i giocatori possono “vincere” alla fine—i giocatori, convincendo Strahd a lasciar andare loro e Ireena, e Strahd, carpendo informazioni utili dagli argomenti dei giocatori e segnalando chiaramente che sta semplicemente assecondando i loro sforzi.
 
-While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players *cannot hurt* Strahd in any meaningful way—and, as such, he feels no need to hurt *them* in any meaningful way.
+Mentre gestite questa scena, ricordate le sagge parole di Tywin Lannister: “Qualsiasi uomo che debba dire 'Io sono il re' non è un vero re.” Lo stesso vale per Strahd: permettere ai giocatori di irritarlo, infastidirlo o spingerlo a “punirli” consente funzionalmente ai giocatori di ottenere un certo controllo sulla conversazione, riducendo l’apparenza di controllo reale e apparente di Strahd, e indicando che Strahd è un nobile meschino che si preoccupa del proprio ego. Ricordate sempre che, specialmente a questo punto, i giocatori *non possono ferire* Strahd in modo significativo—e, pertanto, egli non sente il bisogno di ferire *loro* in modo significativo.
 
-Altogether, the intended effect of this encounter is to introduce the players to Strahd, make the players hate and fear him, put the players on notice of Strahd's minions and servants, to reassure the players that Strahd will be an inevitable antagonist, and to make the players appreciate Strahd's Lawful Evil alignment—that, while inhabiting his Gentleman, he will do them no harm until and unless they give him reason to do so.
+Complessivamente, l’effetto previsto di questo incontro è introdurre i giocatori a Strahd, far sì che i giocatori lo odino e lo temano, mettere i giocatori sull’avviso riguardo ai servitori e seguaci di Strahd, rassicurare i giocatori che Strahd sarà un antagonista inevitabile, e far apprezzare ai giocatori l’allineamento Legale Malvagio di Strahd—ovvero che, mentre abita il suo lato da Gentiluomo, non farà loro del male finché e a meno che non gli diano motivo per farlo.
 
-***The Strix.*** The greater and lesser strix have been introduced to provide Baba Lysaga and the druids of Yester Hill with a meaningful way of combating the wereravens of the Keepers of the Feather. Muriel has also been added here to foreshadow the Keepers of the Feather, to foreshadow Strahd's prophecy (which the players will have an opportunity to learn after defeating the druids at Yester Hill), and to continue setting up Muriel's existence before her formal introduction at the beginning of the winery quest.
+***Lo Strix.*** Lo strix maggiore e minore sono stati introdotti per fornire a Baba Lysaga e ai druidi di Yester Hill un mezzo significativo per combattere i wereraven dei Keepers of the Feather. Muriel è stata aggiunta qui anche per prefigurare i Keepers of the Feather, per prefigurare la profezia di Strahd (che i giocatori avranno l’opportunità di apprendere dopo aver sconfitto i druidi a Yester Hill), e per continuare a costruire l’esistenza di Muriel prima della sua introduzione formale all’inizio della missione della cantina.
 
-***Changes to Lycanthropy.*** Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics. 
+***Modifiche alla Licantropia.*** A causa dell’impatto devastante che un personaggio giocante licantropo può avere sulla vostra partita, è stato intenzionalmente reso il più difficile possibile ottenere tutti i benefici della maledizione. Questa versione crea regole chiare per distinguere i licantropi che hanno “abbracciato” la loro maledizione da quelli che non lo hanno fatto, e assicura che queste regole si basino sulla narrazione guidata dai personaggi, piuttosto che su meccaniche di gioco arbitrarie.
 
-Lycanthropic immunity has been changed to silver-based regeneration in order to ensure that lycanthropes resonate with common understandings of lycanthropy and to ensure that all classes can meaningfully contribute to a lycanthrope's defeat, with or without magic weapons or spell. Lycanthropes have also been made weak to necrotic damage (in addition to damage from silvered weapons) in order to provide creative players with an alternate means of halting their regeneration and (more importantly) to explain how Strahd, who owns no silver weapons, is able to keep the werewolves in line.
+L’immunità licantropica è stata cambiata in rigenerazione basata sull’argento per assicurare che i licantropi risuonino con le comprensioni comuni della licantropia e per assicurare che tutte le classi possano contribuire significativamente alla sconfitta di un licantropo, con o senza armi magiche o incantesimi. I licantropi sono stati resi anche deboli ai danni necrotici (oltre ai danni da armi argentate) per fornire ai giocatori creativi un mezzo alternativo per fermare la loro rigenerazione e (più importante) per spiegare come Strahd, che non possiede armi d’argento, sia in grado di tenere a bada i lupi mannari.
 
-***The Tarokka Reading.*** Madam Eva's warnings at the beginning of the reading have been added to increase the tension of the reading, to ensure that players treat it with the weight and care that it deserves, and to introduce a minor element of dramatic intrigue in the scenes that follow.
+***La Lettura dei Tarokka.*** Gli avvertimenti di Madam Eva all’inizio della lettura sono stati aggiunti per aumentare la tensione della lettura, per assicurare che i giocatori la trattino con il peso e la cura che merita, e per introdurre un elemento minore di intrigo drammatico nelle scene successive.
 
-***Arturi Radanavich.*** Arturi Radanavich is a creation of the *Advanced Dungeons & Dragons* sourcebook *Van Richten's Guide to the Vistani.* His tale (and his character) have largely been transplanted directly into this guide in order to further introduce Van Richten's legend (and tragedy), to provide an explanation for Van Richten's transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in Van Richten's history upon uncovering his burned journal in Van Richten's Tower.
+***Arturi Radanavich.*** Arturi Radanavich è una creazione del manuale di *Advanced Dungeons & Dragons* *Van Richten’s Guide to the Vistani.* Il suo racconto (e il suo personaggio) sono stati in gran parte trapiantati direttamente in questa guida per introdurre ulteriormente la leggenda (e la tragedia) di Van Richten, per fornire una spiegazione della trasformazione di Van Richten in un personaggio più simpatico, per introdurre Ezmerelda d’Avenir, e per creare interesse dei giocatori nella storia di Van Richten al momento della scoperta del suo diario bruciato nella Torre di Van Richten.
 
-***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told. 
+***Il Fuoco Danzante.*** Il Gioco delle Storie è stato introdotto per dare ai giocatori l’opportunità di decomprimere in un luogo relativamente sicuro mentre interagiscono ed esplorano le storie e gli interessi reciproci. Il Gioco stesso—insieme alle sue scommesse—introduce un aspetto di tensione drammatica all’incontro, assicurando che i giocatori rimangano coinvolti e impegnati con ogni storia raccontata.
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to Izek Strazni and her true origins in Vallaki.
+Il racconto di Stanimir indica la relazione tra Strahd e i Vistani, prefigurando così la lealtà di Arrigal verso di lui. Il racconto di Eliza introduce il *Holy Symbol of Ravenkind* e la natura simpatica dei corvi, così come l’interferenza di Baba Zelenna con il Forest Fane a Yester Hill (ovvero, usandolo per evocare Chernovog). Il racconto di Arturi introduce in modo colorito la tragedia del Dr. Rudolph van Richten, costruendo la suspense per un personaggio che i giocatori avranno presto l’opportunità di incontrare. Infine, il racconto di Ireena prefigura la sua relazione con Izek Strazni e le sue vere origini a Vallaki.
 
-***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+***Un Regalo per Arabelle.*** La richiesta di Madam Eva è stata aggiunta per creare un aggancio ai Blinsky Toys a Vallaki (permettendo ai giocatori di osservare la bambola a forma di Ireena commissionata da Izek) e all’accampamento Vistani fuori Vallaki (permettendo ai giocatori di iniziare la missione per trovare la scomparsa Arabelle).
 
-***The Skeletal Rider.*** The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
+***Il Cavaliere Scheletrico.*** L’incontro con il cavaliere scheletrico è una scena breve ma evocativa che mira a risuonare con i temi della non-morte, della solitudine e del mistero che permeano questo arco.
 
-***The Watchtower.*** This short landmark serves to foreshadow the tragedy of the Barovian refugees, the fate of the Order of the Silver Dragon, and the bloodstained history of the valley.
+***La Torre di Guardia.*** Questo breve punto di riferimento serve a prefigurare la tragedia dei rifugiati Baroviani, il destino dell’Ordine del Drago d’Argento e la storia insanguinata della valle.
 
-***Tser Falls.*** The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
+***Le Cascate di Tser.*** L’incontro con il revenant è stato aggiunto per fornire ai giocatori un aggancio chiaro, anche se non urgente, ad Argynvostholt. Le risposte del revenant sono intenzionalmente tenute concise per assicurare che i giocatori apprendano poco dell’Ordine del Drago d’Argento fino al loro incontro con Sir Godfrey Gwilym.
 
-***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+***Incontro con Morgantha.*** Questa scena è stata intenzionalmente strutturata per scoraggiare i giocatori dallo scoprire la vera identità di Morgantha, attaccare le night hag o entrare nel Vecchio Bonegrinder. (Avranno piena opportunità di farlo più avanti in [[Arc H - The Lost Soul]].) Invece, questa scena si limita a introdurre Morgantha come personaggio, prefigurare il suo dominio sui sogni e informare i giocatori che vive nel vecchio mulino a vento con le sue due figlie (ovvero, il suo convegno).
 
-***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+***I Boschi Profondi.*** Gli stormi di corvi sono stati aggiunti per assicurare che i giocatori vedano i corvi (e, per estensione, i wereraven) come amici e alleati. La reazione di Ireena al Lago Zarovich è stata aggiunta per prefigurare ulteriormente la sua relazione con Izek e le sue origini a Vallaki.
 
-***The Werewolf's Hunt.*** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' ***Maul*** action option has been added to create a more tense and dynamic combat scenario.
-## Welcome to Vallaki
-***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+***La Caccia del Lupo Mannaro.*** Questo breve incontro di combattimento introduce i lupi mannari e fornisce agli stormi di corvi (e a Muriel) l’opportunità di assistere e difendere i giocatori. L’opzione di azione ***Maul*** dei lupi è stata aggiunta per creare uno scenario di combattimento più teso e dinamico.
+## Benvenuti a Vallaki
+***Il Campo Profughi.*** Il campo profughi Baroviano è stato posizionato qui per fornire ai giocatori un ulteriore motivo per odiare il Barone Vallakovich e Izek, e per fornire a Morgantha una base naturale per i suoi pasticcini dei sogni. Rifiutando gli sforzi di Ireena per aiutarli, i profughi fanno avanzare il suo arco narrativo permettendole di rendersi conto che non può aiutare il suo popolo finché Strahd sopravvive, il che alimenta la sua decisione finale di unirsi al gruppo nella loro lotta.
 
-***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
+***La Tassa.*** La tassa delle guardie offre ai giocatori un ulteriore motivo per odiare il Barone Vallakovich. La tariffa sull’argento indica anche ai giocatori la ricchezza di armi argentate e munizioni che il Barone ha accumulato.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
+***La Locanda dell’Acqua Blu.*** Questa sequenza è stata intenzionalmente strutturata per introdurre lentamente e in modo gestibile i giocatori a diversi personaggi chiave di Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il direttore di circo Rictavio. Il racconto di Rictavio è stato scritto per essere il più comico ragionevolmente possibile, al fine di scoraggiare i giocatori dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Uscire dalla Locanda.*** L’incontro dei giocatori con il Barone Vallakovich e Izek per le strade di Vallaki è stato aggiunto per fornire ai giocatori un motivo immediato per detestarli, per presentare ai giocatori Padre Lucian Petrovich, per impostare la tensione drammatica centrale del governo tirannico del Barone su Vallaki, per avviare la ricerca di Ireena da parte di Izek, e per fornire a Lady Fiona Wachter un motivo concreto per invitare i giocatori nelle sue macchinazioni. **È essenziale che i giocatori *non* combattano Izek qui, e tutte le precauzioni ragionevoli sono state prese per assicurarlo.**
