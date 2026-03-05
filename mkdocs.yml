@@ -1,0 +1,107 @@
+site_name: "Curse of Strahd: Reloaded (ITA)"
+site_description: Guida completa per Dungeon Master alla campagna Curse of Strahd
+docs_dir: .
+site_dir: site
+
+theme:
+  name: material
+  language: it
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Passa al tema scuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Passa al tema chiaro
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+plugins:
+  - search:
+      lang: it
+  - callouts
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra_css:
+  - publish.css
+
+exclude_docs: |
+  .obsidian/
+  .git/
+  _other/
+  site/
+
+nav:
+  - Home: "Introduction/A DM's Guide to Curse of Strahd.md"
+  - Introduzione:
+      - "Guida per il DM": "Introduction/A DM's Guide to Curse of Strahd.md"
+      - "Usare questa Guida": "Introduction/Using This Guide.md"
+      - "Changelog": "Introduction/Changelog.md"
+  - "Capitolo 1 - Iniziare la Campagna":
+      - "Creazione del Personaggio": "Chapter 1 - Beginning the Campaign/Character Creation.md"
+      - "Sessione Zero": "Chapter 1 - Beginning the Campaign/Session Zero.md"
+  - "Capitolo 2 - La Terra di Barovia":
+      - "Storia di Barovia": "Chapter 2 - The Land of Barovia/History of Barovia.md"
+      - "Tradizioni di Barovia": "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+      - "Strahd von Zarovich": "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+  - "Capitolo 3 - Condurre il Gioco":
+      - "Riassunto dell'Avventura": "Chapter 3 - Running the Game/Adventure Summary.md"
+      - "Condurre l'Avventura": "Chapter 3 - Running the Game/Running the Adventure.md"
+  - "Atto I - Nelle Nebbie":
+      - "Riassunto Atto I": "Act I - Into the Mists/Act I Summary.md"
+      - "Arco A - Fuga dalla Death House": "Act I - Into the Mists/Arc A - Escape From Death House.md"
+      - "Arco B - Benvenuti a Barovia": "Act I - Into the Mists/Arc B - Welcome to Barovia.md"
+      - "Arco C - Nella Valle": "Act I - Into the Mists/Arc C - Into the Valley.md"
+  - "Atto II - La Città Ombreggiata":
+      - "Riassunto Atto II": "Act II - The Shadowed Town/Act II Summary.md"
+      - "Arco D - Il Banchetto di Sant'Andral": "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md"
+      - "Arco E - La Vistana Scomparsa": "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+      - "Arco F - Il Desiderio di Lady Wachter": "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md"
+      - "Arco G - I Fratelli Strazni": "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md"
+      - "Arco H - L'Anima Perduta": "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+      - "Arco I - Le Mura di Krezk": "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md"
+  - "Atto III - La Terra Spezzata":
+      - "Riassunto Atto III": "Act III - The Broken Land/Act III Summary.md"
+      - "Arco J - La Gemma Rubata": "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+      - "Arco K - L'Abbazia Caduta": "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+      - "Arco L - La Tana dei Lupi": "Act III - The Broken Land/Arc L - The Den of Wolves.md"
+      - "Arco M - Il Maniero del Drago": "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+      - "Arco N - Racconti di Vallaki": "Act III - The Broken Land/Arc N - Tales of Vallaki.md"
+      - "Arco O - Cena con il Diavolo": "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+      - "Arco P - Il Colpo di Ravenloft": "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+      - "Arco Q - Un Faro Splendente": "Act III - The Broken Land/Arc Q - A Shining Beacon.md"
+  - "Atto IV - Segreti dell'Antico":
+      - "Riassunto Atto IV": "Act IV - Secrets of the Ancient/Act IV Summary.md"
+      - "Arco R - Le Prove della Montagna": "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md"
+      - "Arco S - Una Spada di Luce Solare": "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+      - "Arco T - I Tre Fanes": "Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md"
+      - "Arco U - Sogni dell'Alba": "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md"
+      - "Epilogo": "Act IV - Secrets of the Ancient/Epilogue.md"
+  - Appendici:
+      - "Bestiario": "Appendices/Bestiary.md"
+      - "Personaggi Non Giocanti": "Appendices/Non-Player Characters.md"
+      - "Glossario": "Appendices/Glossary.md"
+      - "Frammenti d'Ambra": "Appendices/Amber Shards.md"
