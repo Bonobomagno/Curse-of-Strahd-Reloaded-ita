@@ -28,7 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Explorer(),
+    Component.Explorer({ folderClickBehavior: "collapse", folderDefaultState: "collapsed" }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -42,7 +42,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Explorer(),
+    Component.Explorer({ folderClickBehavior: "collapse", folderDefaultState: "collapsed" }),
   ],
   right: [],
 }
