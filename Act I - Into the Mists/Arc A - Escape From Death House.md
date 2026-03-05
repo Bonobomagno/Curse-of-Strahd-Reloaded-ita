@@ -525,50 +525,50 @@ Il carillon contiene anche due pezzi di pergamena arrotolati. La prima pergamena
 ![[Death House Dungeon Map.png]]
 <span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-As the players exit the room, the rocking chair begins to rock softly and the music box opens and begins to play. The sound of motherly humming floats through the air for two measures, but grows off-key and distorted before coming to a violent, screeching halt. The rocking chair then stops rocking.
+Quando i giocatori escono dalla stanza, la sedia a dondolo inizia a oscillare dolcemente e il carillon si apre e comincia a suonare. Il suono di un canticchiare materno fluttua nell'aria per due battute, ma diventa stonato e distorto prima di arrestarsi con un violento stridio. La sedia a dondolo smette quindi di oscillare.
 ### Children’s Room
-<span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
+<span class="citation"><em>Questa scena si svolge nell’Appendice B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+Questa stanza è in gran parte come descritta in **Children’s Room** (p. 215-16).
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
+> [!profile]+ **Profilo: Rosavalda "Rose" Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Rose dovrebbe ispirare simpatia per le sue insicurezze e paure, affetto per la sua dedizione a Thorn, e gratitudine per i suoi sinceri sforzi di aiutare i giocatori.
 >
-> ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
+> ***Emozioni.*** Rose si sente più spesso apprensiva, curiosa, ribelle o coraggiosa.
 >
-> ***Motivations.*** Rose wants to keep Thorn safe and comforted, and to allow their spirits to finally find peace.
+> ***Motivazioni.*** Rose vuole tenere Thorn al sicuro e confortato, e permettere ai loro spiriti di trovare finalmente pace.
 >
-> ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
+> ***Ispirazioni.*** Quando interpretate Rose, ispiratevi a Eleven (*Stranger Things*), Matilda (*Matilda*) e Lucy Pevensie (*Le Cronache di Narnia*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
+> **Informazioni sul Personaggio**
+> ***Personalità.*** Per il mondo, Rose è la più feroce protettrice di Thorn. Per coloro di cui si fida, Rose è una ragazzina smarrita, spaventata e traumatizzata.
 >
-> ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
+> ***Morale.*** In un combattimento, Rose implorerebbe la pace, ma fuggirebbe con Thorn se ciò si rivelasse impossibile.
 >
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+> ***Relazioni.*** Rose è la sorella maggiore di Thorn Durst, sorellastra di Walter Durst, e la figlia primogenita di Elisabeth e Gustav Durst.
 
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
+> [!profile]+ **Profilo: Thornboldt "Thorn" Durst**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Thorn dovrebbe ispirare simpatia per la sua timidezza e paura, e affetto per la sua gioia infantile.
 >
-> ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
+> ***Emozioni.*** Thorn si sente più spesso a disagio, gioioso, ansioso o terrorizzato.
 >
-> ***Motivations.*** Thorn wants to keep close to Rose and find toys to play with.
+> ***Motivazioni.*** Thorn vuole restare vicino a Rose e trovare giocattoli con cui giocare.
 >
-> ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
+> ***Ispirazioni.*** Quando interpretate Thorn, ispiratevi a Neville Longbottom (*Harry Potter*) e Piglet (*Winnie the Pooh*).
 >
-> **Character Information**
-***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
+> **Informazioni sul Personaggio**
+***Personalità.*** Per il mondo, Thorn è un ragazzino spaventato che si aggrappa alla sorella. Per coloro di cui si fida, Thorn è un bambino quietamente osservatore e perspicace.
 >
-> ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
+> ***Morale.*** In un combattimento, Thorn si rannicchierebbe piangendo, implorando Rose di salvarlo.
 >
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+> ***Relazioni.*** Thorn è il fratello minore di Rose Durst, fratellastro di Walter Durst, e il figlio più giovane di Elisabeth e Gustav Durst.
 
 In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
@@ -872,28 +872,28 @@ Le ombre ottengono la seguente caratteristica aggiuntiva:
 > | Shadow | 3 | 4 | 5 | 6 |
 
 
-### Hidden Trapdoor
-<span class="citation"><em>This scene takes place in Appendix B: Area 32.</em></span>
+### Botola Nascosta
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 32.</em></span>
 
-This room is largely as described in <span class="citation">Hidden Trapdoor (p. 219)</span>. When the players find and enter this area, read:
-
-<div class="description">
-<p>The clay staircase ends at a cramped landing. Six feet above the ground, a half-rotted ceiling of close-fitting planks holds a closed wooden trapdoor leading to an upper floor. The trapdoor is bolted shut from this side.</p>
-</div>
-
-### Cult Leader’s Den
-<span class="citation"><em>This scene takes place in Appendix B: Area 33.</em></span>
-
-This room is largely as described in <span class="citation">Cult Leaders’ Den (p. 219)</span>. However, remove the **mimic** from this area. In addition, when the players enter this room, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Hidden Trapdoor (p. 219)</span>. Quando i giocatori trovano ed entrano in quest'area, leggete:
 
 <div class="description">
-<p>This quiet room contains a wooden table flanked by two high-backed chairs and holding a clay jug and two flagons. Above the table is suspended an unlit cast-iron chandelier. Iron candlesticks stand in two corners of the chamber, their candles long since melted away. A short corridor at the north end of the room leads to a darkened chamber beyond.</p>
+<p>La scala di argilla termina in un pianerottolo angusto. A sei piedi dal suolo, un soffitto semi-marcio di assi ben accostate sostiene una botola di legno chiusa che conduce a un piano superiore. La botola è chiusa con un chiavistello da questo lato.</p>
 </div>
 
-### Cult Leader’s Quarters
-<span class="citation"><em>This scene takes place in Appendix B: Area 34.</em></span>
+### Tana del Capo del Culto
+<span class="citation"><em>Questa scena si svolge nell’Appendice B: Area 33.</em></span>
 
-This room is largely as described in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. When the players enter this room, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Cult Leaders’ Den (p. 219)</span>. Tuttavia, rimuovete il **mimic** da quest’area. Inoltre, quando i giocatori entrano in questa stanza, leggete:
+
+<div class="description">
+<p>Questa stanza tranquilla contiene un tavolo di legno affiancato da due sedie con schienale alto, sul quale poggiano una brocca di argilla e due boccali. Sopra il tavolo è sospeso un lampadario di ferro battuto spento. Candelabri di ferro si ergono in due angoli della camera, le loro candele da tempo consumate. Un breve corridoio all’estremità settentrionale della stanza conduce a una camera oscura oltre.</p>
+</div>
+
+### Quartieri del Capo del Culto
+<span class="citation"><em>Questa scena si svolge nell’Appendice B: Area 34.</em></span>
+
+Questa stanza è in gran parte come descritta in <span class="citation">Cult Leaders’ Quarters (p. 219)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
 <p>This room contains a large wood-framed bed, the feather mattress rotted by years of disuse. An old wooden wardrobe carved with demonic faces stands against the wall to the left, and a faded wooden footlocker stands quietly at the foot of the bed.</p>
