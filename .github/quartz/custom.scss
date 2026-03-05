@@ -51,6 +51,27 @@ blockquote:not(.callout) {
 }
 
 // ============================================
+// Fix header layout broken by Adrenaline theme
+// ============================================
+
+// Adrenaline hides page-title on mobile - restore it
+.page-title {
+  display: block !important;
+}
+
+// Ensure the left sidebar header row (Search + Darkmode + ReaderMode)
+// stays horizontal, not stacked in columns
+.page > div#quartz-body div.sidebar.left {
+  > .flex {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+  }
+}
+
+// ============================================
 // Restore callout styling overridden by Adrenaline
 // ============================================
 .callout {
