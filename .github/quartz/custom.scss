@@ -34,6 +34,7 @@ h6 { font-size: 1rem; }
 // Internal links: purple and bold
 a.internal {
   font-weight: bold;
+  cursor: pointer;
 }
 
 // Dark-only: hide light-theme images, show dark-theme images

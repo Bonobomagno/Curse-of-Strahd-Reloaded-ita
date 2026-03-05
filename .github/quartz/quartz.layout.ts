@@ -15,12 +15,14 @@ const folderOrder = [
 ]
 
 function explorerSortFn(a: any, b: any): number {
-  // Folders before files
-  if (a.isFolder && !b.isFolder) return -1
-  if (!a.isFolder && b.isFolder) return 1
+  // Folders (have children) before files (have data)
+  const aIsFolder = a.children && a.children.length > 0
+  const bIsFolder = b.children && b.children.length > 0
+  if (aIsFolder && !bIsFolder) return -1
+  if (!aIsFolder && bIsFolder) return 1
 
-  const aName = a.displayName ?? a.name
-  const bName = b.displayName ?? b.name
+  const aName = a.displayName ?? a.slugSegment ?? a.name ?? ""
+  const bName = b.displayName ?? b.slugSegment ?? b.name ?? ""
   const aIndex = folderOrder.findIndex((f) => aName.startsWith(f) || f.startsWith(aName))
   const bIndex = folderOrder.findIndex((f) => bName.startsWith(f) || f.startsWith(bName))
 
