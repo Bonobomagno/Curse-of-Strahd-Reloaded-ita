@@ -1,179 +1,102 @@
-@use "./themes";
+@use "base";
 
 // ============================================
-// Fix Adrenaline theme compatibility with Quartz
-// Adrenaline uses CSS light-dark() which requires
-// color-scheme property. Quartz uses [saved-theme]
-// attributes instead, so we override with Quartz vars.
+// Global: Force dark color scheme
 // ============================================
-
-// Enable color-scheme so light-dark() works
 :root {
-  color-scheme: light;
-}
-:root[saved-theme="dark"] {
   color-scheme: dark;
 }
 
-// Fix sidebar backgrounds (light-dark fallback)
-[saved-theme="light"] {
-  .page > div#quartz-body div.sidebar,
-  .page > div#quartz-body div.sidebar.left,
-  .page > div#quartz-body div.sidebar.right,
-  .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: rgb(246, 246, 246);
-  }
+// ============================================
+// Typography
+// ============================================
+strong,
+b {
+  color: var(--secondary);
+}
 
-  // Only style plain blockquotes, not callouts
-  blockquote:not(.callout) {
-    background-color: rgb(244, 244, 246);
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dark);
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.35rem; }
+h4 { font-size: 1.15rem; }
+h5 { font-size: 1.05rem; }
+h6 { font-size: 1rem; }
+
+// ============================================
+// Content area
+// ============================================
+article {
+  line-height: 1.7;
+
+  p {
+    margin-bottom: 1.2em;
   }
 }
 
-[saved-theme="dark"] {
-  .page > div#quartz-body div.sidebar,
-  .page > div#quartz-body div.sidebar.left,
-  .page > div#quartz-body div.sidebar.right,
-  .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: rgb(38, 38, 38);
-  }
+// ============================================
+// Explorer sidebar
+// ============================================
+.sidebar.left {
+  .explorer {
+    border-top: 1px solid var(--lightgray);
+    padding-top: 0.75rem;
 
-  blockquote:not(.callout) {
-    background-color: rgb(38, 38, 39);
+    .explorer-content {
+      background: transparent;
+
+      li > a {
+        padding: 0.25rem 0.5rem;
+        border-radius: 4px;
+        transition: background-color 0.15s ease;
+
+        &:hover {
+          background-color: var(--lightgray);
+        }
+      }
+
+      // Nested folder indentation
+      ul {
+        padding-left: 0.75rem;
+      }
+    }
   }
 }
 
-// Fix blockquote border visibility (only plain blockquotes)
+// ============================================
+// Blockquotes (non-callout)
+// ============================================
 blockquote:not(.callout) {
-  border-left: 2px solid rgb(138, 92, 245);
+  border-left: 3px solid var(--secondary);
   padding: 0.5em 1em;
   margin-inline-start: 0;
+  background-color: rgba(224, 165, 38, 0.06);
+  border-radius: 4px;
 }
 
 // ============================================
-// Fix header layout broken by Adrenaline theme
+// Footer
 // ============================================
-
-// Adrenaline hides page-title on mobile - restore it
-.page-title {
-  display: block !important;
-}
-
-// On mobile, the left sidebar becomes a top header bar.
-// Make PageTitle + Spacer + Flex(Search/Darkmode/ReaderMode) stay in one row.
-.page > div#quartz-body div.sidebar.left {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-
-  // The Spacer fills space between title and toolbar (pushed by MobileOnly)
-  > .spacer {
-    flex: 1 1 auto;
-  }
-
-  // Toolbar: Search + Darkmode + ReaderMode
-  > .flex {
-    display: flex !important;
-    flex-direction: row !important;
-    align-items: center;
-    gap: 0.5rem;
-    flex-shrink: 0;
-  }
-
-  // Explorer takes full width below the header row
-  > .explorer {
-    flex-basis: 100%;
-  }
+footer {
+  opacity: 0.7;
 }
 
 // ============================================
-// Restore callout styling overridden by Adrenaline
+// Callouts: Base
 // ============================================
 .callout {
-  // Override Adrenaline's --callout-border-width: 0px
-  --callout-border-width: 1px !important;
-  --callout-border-opacity: 1 !important;
-  border: 1px solid var(--border) !important;
-  background-color: var(--bg) !important;
-  border-radius: 5px;
+  border-left: 3px solid var(--color, var(--secondary));
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  background-color: var(--bg, rgba(224, 165, 38, 0.08));
+  border-radius: 4px;
   padding: 0 1rem;
-  overflow-y: hidden;
+  margin: 1rem 0;
 
-  // Increase callout background visibility (Quartz defaults are 6% opacity)
-  &[data-callout] {
-    --border: rgba(68, 138, 255, 0.4);
-    --bg: rgba(68, 138, 255, 0.1);
-  }
-  &[data-callout="abstract"] {
-    --border: rgba(0, 176, 255, 0.4);
-    --bg: rgba(0, 176, 255, 0.1);
-  }
-  &[data-callout="info"],
-  &[data-callout="todo"] {
-    --border: rgba(0, 184, 212, 0.4);
-    --bg: rgba(0, 184, 212, 0.1);
-  }
-  &[data-callout="tip"] {
-    --border: rgba(0, 191, 165, 0.4);
-    --bg: rgba(0, 191, 165, 0.1);
-  }
-  &[data-callout="success"] {
-    --border: rgba(9, 173, 122, 0.4);
-    --bg: rgba(9, 173, 122, 0.1);
-  }
-  &[data-callout="question"] {
-    --border: rgba(219, 166, 66, 0.4);
-    --bg: rgba(219, 166, 66, 0.1);
-  }
-  &[data-callout="warning"] {
-    --border: rgba(219, 137, 66, 0.4);
-    --bg: rgba(219, 137, 66, 0.1);
-  }
-  &[data-callout="failure"],
-  &[data-callout="danger"],
-  &[data-callout="bug"] {
-    --border: rgba(219, 66, 66, 0.4);
-    --bg: rgba(219, 66, 66, 0.1);
-  }
-  &[data-callout="example"] {
-    --border: rgba(122, 67, 181, 0.4);
-    --bg: rgba(122, 67, 181, 0.1);
-  }
-  &[data-callout="quote"] {
-    --border: rgba(158, 158, 158, 0.4);
-    --bg: rgba(158, 158, 158, 0.08);
-  }
-  // Custom Obsidian callout types used in this guide
-  &[data-callout="lore"] {
-    --color: #9e9e9e;
-    --border: rgba(158, 158, 158, 0.4);
-    --bg: rgba(158, 158, 158, 0.1);
-  }
-  &[data-callout="profile"] {
-    --color: #00b0ff;
-    --border: rgba(0, 176, 255, 0.4);
-    --bg: rgba(0, 176, 255, 0.1);
-  }
-  &[data-callout="item"] {
-    --color: #dba642;
-    --border: rgba(219, 166, 66, 0.4);
-    --bg: rgba(219, 166, 66, 0.1);
-  }
-  &[data-callout="combat"] {
-    --color: #db4242;
-    --border: rgba(219, 66, 66, 0.4);
-    --bg: rgba(219, 66, 66, 0.1);
-  }
-
-  // Collapsible content grid
-  & > .callout-content {
-    display: grid;
-    overflow: hidden;
-    transition: grid-template-rows 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
-  }
-
-  // Fold arrow icon for collapsible callouts
   .callout-title {
     display: flex;
     align-items: flex-start;
@@ -181,6 +104,10 @@ blockquote:not(.callout) {
     padding: 1rem 0;
     color: var(--color);
     --icon-size: 18px;
+
+    .callout-title-inner {
+      font-weight: 600;
+    }
 
     .callout-icon,
     .fold-callout-icon {
@@ -205,6 +132,13 @@ blockquote:not(.callout) {
     }
   }
 
+  // Collapsible content
+  & > .callout-content {
+    display: grid;
+    overflow: hidden;
+    transition: grid-template-rows 0.15s cubic-bezier(0.02, 0.01, 0.47, 1);
+  }
+
   &.is-collapsed {
     .callout-content > * {
       overflow-y: clip;
@@ -214,13 +148,153 @@ blockquote:not(.callout) {
       padding-top: 0;
       padding-bottom: 0;
       transition:
-        height 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
-        margin 0.1s cubic-bezier(0.02, 0.01, 0.47, 1),
-        padding 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
+        height 0.15s cubic-bezier(0.02, 0.01, 0.47, 1),
+        margin 0.15s cubic-bezier(0.02, 0.01, 0.47, 1),
+        padding 0.15s cubic-bezier(0.02, 0.01, 0.47, 1);
     }
 
     .callout-title .fold-callout-icon {
       transform: rotateZ(-90deg);
     }
+  }
+}
+
+// ============================================
+// Callouts: Standard types
+// ============================================
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  --color: #448aff;
+  --bg: rgba(68, 138, 255, 0.1);
+}
+
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --color: #00b0ff;
+  --bg: rgba(0, 176, 255, 0.1);
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --color: #db8942;
+  --bg: rgba(219, 137, 66, 0.1);
+}
+
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --color: #00bfa5;
+  --bg: rgba(0, 191, 165, 0.1);
+}
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --color: #09ad7a;
+  --bg: rgba(9, 173, 122, 0.1);
+}
+
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  --color: #dba642;
+  --bg: rgba(219, 166, 66, 0.1);
+}
+
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --color: #db4242;
+  --bg: rgba(219, 66, 66, 0.1);
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --color: #db4242;
+  --bg: rgba(219, 66, 66, 0.12);
+}
+
+.callout[data-callout="bug"] {
+  --color: #db4242;
+  --bg: rgba(219, 66, 66, 0.1);
+}
+
+.callout[data-callout="example"] {
+  --color: #7a43b5;
+  --bg: rgba(122, 67, 181, 0.1);
+}
+
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --color: #9e9e9e;
+  --bg: rgba(158, 158, 158, 0.08);
+}
+
+// ============================================
+// Callouts: Custom types
+// ============================================
+
+// Lore - scroll/book icon (gray)
+.callout[data-callout="lore"] {
+  --color: #9e9e9e;
+  --bg: rgba(158, 158, 158, 0.1);
+  --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"%3E%3C/path%3E%3Cpath d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"%3E%3C/path%3E%3C/svg%3E');
+}
+
+// Combat - crossed swords icon (red)
+.callout[data-callout="combat"] {
+  --color: #db4242;
+  --bg: rgba(219, 66, 66, 0.1);
+  --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M14.5 17.5L3 6V3h3l11.5 11.5"%3E%3C/path%3E%3Cpath d="M13 19l6-6"%3E%3C/path%3E%3Cpath d="M16 16l4 4"%3E%3C/path%3E%3Cpath d="M19 21l2-2"%3E%3C/path%3E%3Cpath d="M14.5 6.5L18 3h3v3l-3.5 3.5"%3E%3C/path%3E%3Cpath d="M5 14l4 4"%3E%3C/path%3E%3Cpath d="M7 17l-3 3"%3E%3C/path%3E%3C/svg%3E');
+}
+
+// Profile - person icon (blue)
+.callout[data-callout="profile"] {
+  --color: #00b0ff;
+  --bg: rgba(0, 176, 255, 0.1);
+  --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"%3E%3C/path%3E%3Ccircle cx="12" cy="7" r="4"%3E%3C/circle%3E%3C/svg%3E');
+}
+
+// Item - gem/treasure icon (gold)
+.callout[data-callout="item"] {
+  --color: #dba642;
+  --bg: rgba(219, 166, 66, 0.1);
+  --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M6 3h12l4 6-10 13L2 9z"%3E%3C/path%3E%3Cpath d="M2 9h20"%3E%3C/path%3E%3Cpath d="M12 22L6 9l3-6"%3E%3C/path%3E%3Cpath d="M12 22l6-13-3-6"%3E%3C/path%3E%3C/svg%3E');
+}
+
+// Design - pencil/drafting icon (purple)
+.callout[data-callout="design"] {
+  --color: #7a43b5;
+  --bg: rgba(122, 67, 181, 0.1);
+  --callout-icon: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M12 20h9"%3E%3C/path%3E%3Cpath d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"%3E%3C/path%3E%3C/svg%3E');
+}
+
+// ============================================
+// Responsive: Mobile (<800px)
+// ============================================
+@media (max-width: 800px) {
+  .sidebar.left {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+
+    > .spacer {
+      flex: 1 1 auto;
+    }
+
+    > .search {
+      flex-shrink: 0;
+    }
+
+    > .explorer {
+      flex-basis: 100%;
+    }
+  }
+
+  article {
+    font-size: 0.95rem;
   }
 }

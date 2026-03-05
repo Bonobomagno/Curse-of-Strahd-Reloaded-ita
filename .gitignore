@@ -2,3 +2,6 @@
 .DS_Store
 .idea/
 public/
+.claude/
+_bmad-output/
+_bmad/

@@ -47,11 +47,6 @@ jobs:
           cp .github/quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
           cp .github/quartz/custom.scss /tmp/quartz/quartz/styles/custom.scss
 
-      - name: Fetch Adrenaline theme
-        run: |
-          curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- adrenaline
-        working-directory: /tmp/quartz
-
       - name: Copy content
         run: |
           rm -rf /tmp/quartz/content
