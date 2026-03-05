@@ -27,24 +27,24 @@ The journey from the Gates of Barovia to [[#B3. Svalich Woods]] is one-quarter m
 
 This scene begins as described in <span class="citation">Svalich Woods (p. 34)</span>. However, when the players find the corpse of Dalvan Olensky, he is not holding a crumpled envelope, and his clothes appear to have been torn by brambles and thorns, rather than claw marks. He doesn't appear to have any visible wounds, but a successful DC 10 Wisdom (Medicine) check reveals that he died of exhaustion.
 
-Instead of the envelope, Dalvan is now holding an old, tarnished copper compass. While it remains close to the edge of the Barovian valley, its needle trembles strangely even when held still.
+Al posto della busta, Dalvan stringe ora una vecchia bussola di rame ossidato. Finché resta vicina al bordo della valle Baroviana, il suo ago trema stranamente anche quando viene tenuta ferma.
 
-Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears thirteen tally marks and an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
+La mano di Dalvan che stringe la bussola è tesa in direzione di un albero vicino, che porta tredici segni di conteggio e una freccia che punta più in profondità nel bosco, lungo quello che sembra un sentiero ben battuto.
 
-> [!lore]+ **What Happened to Dalvan?**
+> [!lore]+ **Che cosa è successo a Dalvan?**
 >
-> In the wake of Strahd's attack on the village of Barovia, one of the survivors—a young man named Dalvan Olensky—was overcome with terror and despair.
+> In seguito all'attacco di Strahd al villaggio di Barovia, uno dei sopravvissuti — un giovane di nome Dalvan Olensky — fu sopraffatto dal terrore e dalla disperazione.
 >
-> Determined to find a way free from Barovia, Dalvan traveled to the Vistani encampment at Tser Pool, seeking out the reputed Vistani seer Madam Eva. There, Madam Eva read his future in the Tarokka cards, and drew the Horseman—a card that predicted that he would die in the Barovian valley.
+> Determinato a trovare una via di fuga da Barovia, Dalvan si recò all'accampamento Vistani a Tser Pool, cercando la rinomata veggente Vistana Madam Eva. Là, Madam Eva lesse il suo futuro nelle carte dei Tarokka e pescò il Cavaliere — una carta che prediceva che sarebbe morto nella valle Baroviana.
 >
-> Panicked, Dalvan returned to the village of Barovia under cover of night, stole a horse and compass, and set off for the eastern road out of Barovia. When the Svalich Road seemed to end, Dalvan delved into the woods, crossing through the mist and reemerging on the opposite side of the road.
+> In preda al panico, Dalvan tornò al villaggio di Barovia sotto la copertura della notte, rubò un cavallo e una bussola, e si diresse verso la strada orientale fuori da Barovia. Quando la Strada di Svalich sembrò terminare, Dalvan si addentrò nei boschi, attraversando la nebbia e riemergendo dal lato opposto della strada.
 >
-> A terrified, desperate, and delirious Dalvan repeated the loop thirteen times, his stolen horse expiring from exhaustion halfway through. It wasn't long before Dalvan succumbed to the effects of the Barovian fog as well—though not before inscribing his own epitaph in the form of the carving on the fourth tree.
+> Un Dalvan terrorizzato, disperato e delirante ripeté il percorso tredici volte, con il cavallo rubato che spirò per extenuazione a metà strada. Non passò molto prima che anche Dalvan soccombesse agli effetti della nebbia Baroviana — non prima, tuttavia, di aver inciso il proprio epitaffio sotto forma dell'intaglio sul quarto albero.
 >
-> Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
+> Madam Eva rimpiange il destino di Dalvan — ma in quanto avatar della Cercatrice, è vincolata a leggere il futuro quando le viene chiesto, e sa che nessuno sforzo di fuga può disfare un futuro che ha previsto.
 
->[!info]+ **Dalvan's Compass**
->Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc S - A Sword of Sunlight]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+>[!info]+ **La Bussola di Dalvan**
+>Come tutte le bussole a Barovia, la bussola di Dalvan si comporta in modo strano quando si avvicina ai confini della valle Baroviana — come presso Yester Hill in [[Arc J - The Stolen Gem]] o verso la cima del Monte Ghakis in [[Arc S - A Sword of Sunlight]]. Poiché non esiste un vero "nord magnetico" oltre le Nebbie che circondano Barovia, l'ago di una bussola che si avvicina al bordo della valle inizia a tremare e infine a girare vorticosamente man mano che si avvicina. (Questo comportamento anomalo cessa quando la bussola viene allontanata dal bordo della valle.)
 
 If the players follow the footpath in the direction of the arrow, they soon come to a second tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. The edge of the footpath here bears the corpse of a **horse**, which is in a similar state of decay to Dalvan's.
 
@@ -797,23 +797,23 @@ Ismark and Ireena ascend the stairs a few moments later. A player with a passive
 If confronted, Ismark can reluctantly share the following information:
 
 * He no longer believes that Barovia, surrounded by suspicious neighbors and in the shadow of the Devil’s keep, is safe for Ireena.
-* Instead, Ismark intends for Ireena to travel to Vallaki, a fortified town to the west. St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead.
+* Ismark intende invece far viaggiare Ireena fino a Vallaki, una città fortificata a ovest. Si dice che la Chiesa di St. Andral a Vallaki sia terreno consacrato, in grado di proteggere i suoi fedeli dai vampiri e dagli altri non morti.
 
-When the player returns to their room, they can see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
-### Morning at the Mansion
-The players' rest at the mansion passes without incident. When they awaken the following morning shortly before dawn, they can find the burgomasters' corpse lying in a coffin in the living room as described in <span class="citation">E4. Burgomaster's Mansion (p. 44)</span>. Ismark and Ireena are in the dining room, quietly drinking tea.
+Quando il giocatore torna nella propria stanza, può vedere due **sciami di pipistrelli** — spie di Strahd — appollaiati sulle grondaie di una casa vicina, che osservano in silenzio dall’oscurità.
+### Mattina alla Dimora
+Il riposo dei giocatori alla dimora trascorre senza incidenti. Quando si risvegliano la mattina seguente poco prima dell’alba, trovano il corpo del borgomastro in una bara nel salotto, come descritto in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. Ismark e Ireena sono nella sala da pranzo, e bevono tè in silenzio.
 
-When the players descend to the main floor, Ireena greet them and insists on fixing them bowls of goat's milk porridge and cups of chamomile tea for breakfast. While Ireena busies herself in the kitchen, Ismark solemnly and apologetically asks the players for three favors.
+Quando i giocatori scendono al piano principale, Ireena li accoglie e insiste per preparare loro ciotole di porridge al latte di capra e tazze di tè alla camomilla per colazione. Mentre Ireena si affaccenda in cucina, Ismark chiede solennemente e con tono di scusa ai giocatori tre favori.
 
-***Escorting Ireena.*** Ismark first quietly notes that Ireena appears to have become a target for both the Devil and her fellow villagers, and that he no longer believes the village, which lies directly beneath the shadow of Castle Ravenloft, to be safe for her. 
+***Scortare Ireena.*** Ismark nota dapprima in tono sommesso che Ireena sembra essere diventata un bersaglio sia per il Diavolo sia per i suoi stessi compaesani, e che non crede più che il villaggio, che giace direttamente sotto l’ombra del Castello Ravenloft, sia un luogo sicuro per lei.
 
-Ismark shares the information regarding his desire to bring her to Vallaki as described in <span class="citation">Roleplaying Ismark (p. 43)</span>, and notes that St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Although he can't leave Barovia due to his duties as his father's successor, Ismark asks the players if they would be willing to bring her to St. Andral's Church in his stead. 
+Ismark condivide le informazioni riguardo al suo desiderio di portarla a Vallaki come descritto in <span class="citation">Roleplaying Ismark (p. 43)</span>, e nota che si dice che la Chiesa di St. Andral a Vallaki sia terreno consacrato, in grado di proteggere i suoi fedeli dai vampiri e dagli altri non morti. Pur non potendo lasciare Barovia a causa dei suoi doveri come successore del padre, Ismark chiede ai giocatori se sarebbero disposti a portarla alla Chiesa di St. Andral al suo posto.
 
-> [!warning]+ **Clarifying Expectations**
-> 
-> *Curse of Strahd: Reloaded* is a campaign about heroes. It's also a campaign about making allies, and the bonds and strength that grow from those alliances.
-> 
-> As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
+> [!warning]+ **Chiarire le Aspettative**
+>
+> *Curse of Strahd: Reloaded* è una campagna sugli eroi. È anche una campagna sulla costruzione di alleanze, e sui legami e la forza che da esse scaturiscono.
+>
+> Pertanto, sebbene Ireena non sia un PNG essenziale per la campagna, un gruppo che rifiuti la richiesta di Ismark probabilmente ha aspettative non allineate con il tipo di campagna che intendete condurre. Se i giocatori rifiutano di scortare Ireena a Vallaki, mettete in pausa il gioco e confrontatevi con loro per chiarire e confermare le aspettative. Se i giocatori sono ancora riluttanti a portare Ireena con sé, ponete domande e discutete ulteriormente la questione prima di riprendere il gioco.
 
 ***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
 
