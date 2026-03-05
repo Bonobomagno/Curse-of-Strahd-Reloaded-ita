@@ -1,15 +1,15 @@
-*An adventure for five 3rd-level characters.*
+*Un'avventura per cinque personaggi di 3° livello.*
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.
+In questo arco, i giocatori viaggiano verso il cupo villaggio di Barovia, devastato dalla morte e dalla disperazione in seguito al risveglio di Strahd. Quando i giocatori arrivano alle barricate, incontrano Ismark, il figlio maggiore del borgomastro del villaggio, recentemente ferito.
 
-At the Blood of the Vine Tavern, the players learn that the village has been under attack by Strahd’s undead horde each night for the past six nights—and that the horde is expected to return at dusk. In exchange for food, shelter, and information, Ismark asks the players to take up arms alongside the Barovians and prepare to defend the village’s fortifications against the onslaught of the dead.
+Alla Taverna del Sangue della Vite, i giocatori apprendono che il villaggio è stato sotto attacco dall’orda di non morti di Strahd ogni notte nelle ultime sei notti — e che l’orda dovrebbe tornare al calar del sole. In cambio di cibo, rifugio e informazioni, Ismark chiede ai giocatori di impugnare le armi al fianco dei Baroviani e prepararsi a difendere le fortificazioni del villaggio contro l’assalto dei morti.
 
-After successfully defending the barricades, the players learn that Strahd has personally invaded the burgomaster’s mansion, killing Ismark’s father and biting his sister, Ireena. With the village’s burgomaster dead, Strahd formally withdraws the horde from the village, allowing Ismark, Ireena, and the players to pick up the pieces.
+Dopo aver difeso con successo le barricate, i giocatori scoprono che Strahd ha personalmente invaso la dimora del borgomastro, uccidendo il padre di Ismark e mordendo sua sorella, Ireena. Con il borgomastro del villaggio morto, Strahd ritira formalmente l’orda dal villaggio, permettendo a Ismark, Ireena e ai giocatori di raccogliere i cocci.
 
-The following morning, Ismark asks the players to help bring their father’s remains to the local church for burial, escort Ireena to Vallaki, and ask the Vistani seer Madam Eva how Strahd can be defeated. Upon delivering the Burgomaster's coffin to the church the following dawn, the players can meet Doru, Father Donavich's son, who Strahd transformed into a vampire spawn as punishment for his rebellion. The players then face a choice: Will they destroy Doru, as Father Donavich requests—or spare him?
+La mattina seguente, Ismark chiede ai giocatori di aiutare a portare le spoglie del padre alla chiesa locale per la sepoltura, scortare Ireena a Vallaki e chiedere alla veggente Vistana Madam Eva come sconfiggere Strahd. Consegnando la bara del Borgomastro alla chiesa all’alba seguente, i giocatori possono incontrare Doru, il figlio di Padre Donavich, che Strahd ha trasformato in un vampire spawn come punizione per la sua ribellione. I giocatori si trovano quindi di fronte a una scelta: distruggeranno Doru, come chiede Padre Donavich — o lo risparmieranno?
 
-> [!design]+ **Design Note: Arrival in Barovia**
-> The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
+> [!design]+ **Nota di Design: Arrivo a Barovia**
+> L’arrivo dei giocatori nel villaggio di Barovia è stato sostanzialmente rielaborato per creare un forte incidente scatenante per la campagna, assicurando che abbiano una ragione immediata e concreta per cercare la lettura dei Tarokka di Madam Eva, un’opportunità di stringere relazioni con gli abitanti del villaggio di Barovia e motivazioni personali nel vedere Strahd sconfitto.
 # B1. Old Svalich Road
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
@@ -815,15 +815,15 @@ Ismark condivide le informazioni riguardo al suo desiderio di portarla a Vallaki
 >
 > Pertanto, sebbene Ireena non sia un PNG essenziale per la campagna, un gruppo che rifiuti la richiesta di Ismark probabilmente ha aspettative non allineate con il tipo di campagna che intendete condurre. Se i giocatori rifiutano di scortare Ireena a Vallaki, mettete in pausa il gioco e confrontatevi con loro per chiarire e confermare le aspettative. Se i giocatori sono ancora riluttanti a portare Ireena con sé, ponete domande e discutete ulteriormente la questione prima di riprendere il gioco.
 
-***Seeking Madam Eva.*** Strahd's attack on the village has only strengthened Ismark's belief that the Barovians must find some way of escaping the vampire's tyranny. "We can't go on living like this," he croaks, his knuckles whitening as he stares into his mug. "I've heard how terrible things were a hundred years ago, before he went to sleep. Vampires lurking in every shadow. Parents and their children disappearing in the night. Rats and wolves and bats reporting our every move to the castle. Even if the Devil goes dormant again in fifty or sixty years' time, who would we be if we condemned our children and grandchildren to that same fate?"
+***Cercare Madam Eva.*** L'attacco di Strahd al villaggio ha solo rafforzato la convinzione di Ismark che i Baroviani debbano trovare un modo per sfuggire alla tirannia del vampiro. "Non possiamo continuare a vivere così," gracchia, le nocche che sbiancano mentre fissa la sua tazza. "Ho sentito quanto fossero terribili le cose cento anni fa, prima che lui cadesse nel sonno. Vampiri in agguato in ogni ombra. Genitori e figli che scomparivano nella notte. Ratti, lupi e pipistrelli che riferivano ogni nostro movimento al castello. Anche se il Diavolo tornasse a dormire fra cinquanta o sessant'anni, chi saremmo noi se condannassimo i nostri figli e nipoti allo stesso destino?"
 
-Although he asks them to be discreet in doing so, so as to avoid drawing Strahd's wrath back down upon the village, Ismark asks the players to seek the wisdom of Madam Eva, a Vistani seer and sage who dwells at Tser Pool. "If anyone might know how the Devil can be destroyed and our people freed," he murmurs, "it's her."
+Pur chiedendo loro di agire con discrezione, per evitare di attirare nuovamente l'ira di Strahd sul villaggio, Ismark chiede ai giocatori di cercare la saggezza di Madam Eva, una veggente e saggia Vistani che dimora al Tser Pool. "Se qualcuno sa come il Diavolo possa essere distrutto e il nostro popolo liberato," mormora, "è lei."
 
-If the players agree to do so, the player with the highest passive Wisdom (Perception) score notices a **rat**—one of Strahd's spies—watching them with rapt, malevolent, and intelligent interest from beneath a nearby piece of furniture. Once noticed, the rat immediately dashes toward the kitchen in a clear attempt to escape.
+Se i giocatori accettano, il giocatore con il punteggio passivo di Saggezza (Percezione) più alto nota un **ratto** — una delle spie di Strahd — che li osserva con rapace, malevolo e intelligente interesse da sotto un mobile vicino. Una volta notato, il ratto si lancia immediatamente verso la cucina in un chiaro tentativo di fuga.
 
-The players have one round to kill the rat as it scurries toward a large hole in the kitchen wall. If they fail to do so, Ireena skewers it with her rapier before it can do so, recognizing it as one of Strahd's spies.
+I giocatori hanno un round per uccidere il ratto mentre si precipita verso un grosso buco nel muro della cucina. Se non ci riescono, Ireena lo trafigge con il suo stocco prima che possa fuggire, riconoscendolo come una delle spie di Strahd.
 
-***Delivering the Coffin.*** After asking his first two favors, Ismark asks the players to assist him and Ireena in carrying Kolyan's coffin to the church. If they do, the two siblings accompany the players to the church.
+***Consegnare la Bara.*** Dopo aver chiesto i primi due favori, Ismark chiede ai giocatori di aiutare lui e Ireena a trasportare la bara di Kolyan alla chiesa. Se accettano, i due fratelli accompagnano i giocatori alla chiesa.
 ## B5i. The Barovian Church
 <span class="citation"><em>This scene takes place in Chapter 3: Area E5.</em></span>
 
