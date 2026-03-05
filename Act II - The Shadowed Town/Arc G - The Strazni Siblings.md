@@ -1,163 +1,163 @@
-_An adventure for five 4th-level characters._
+_Un'avventura per cinque personaggi di 4° livello._
 
-In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 
+In questo arco narrativo, poco dopo aver visto Ireena Kolyana, Izek Strazni comprende che ella è — letteralmente — la donna dei suoi sogni.
 
-After learning from his spies that Ireena has most recently resided at the Blue Water Inn, Izek visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around Vallaki offering a reward for information regarding Ireena’s location.
+Dopo aver appreso dalle sue spie che Ireena ha soggiornato più di recente presso la Locanda dell'Acqua Azzurra, Izek si reca personalmente alla locanda nel tentativo di scoprire dove si trovi. Se il suo sforzo non ha successo, ordina alla guardia cittadina di affiggere manifesti RICERCATA in tutta Vallaki, offrendo una ricompensa per informazioni riguardanti la posizione di Ireena.
 
-If the players neither stop Izek nor take extraordinary measures to keep Ireena concealed, Izek finds and kidnaps Ireena two days later, imprisoning her in his room at the Baron’s mansion. Can the players free Ireena from Izek’s clutches—or will they perish in the attempt?
+Se i giocatori non fermano Izek né prendono misure straordinarie per tenere Ireena nascosta, Izek la trova e la rapisce due giorni dopo, imprigionandola nella sua stanza presso la dimora del Barone. Riusciranno i giocatori a liberare Ireena dalle grinfie di Izek — o periranno nel tentativo?
 
-> [!abstract]+ **Lady Wachter's Request**
-> If the players kill Izek without accepting Lady Wachter's mission in [[Arc F - Lady Wachter's Wish]], Lady Wachter sends Ernst Larnak the following morning to invite them to tea at Wachterhaus that afternoon "in light of their recent accomplishments." If the players decline Ernst's invitation, Lady Wachter visits the Blue Water Inn in person that evening wearing a deep blue hooded cloak and asks to speak with them in private.
-> 
-> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing Vallaki of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Burgomaster from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
-> 
-> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's burgomaster holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the Mists," she concedes, "but in Barovia, the burgomaster is a town's administrator—not its ruler."
-> 
-> "I would pay the salaries of the town's guard, yes," she says, "but they are Morninglord-fearing folk—they would not hesitate to depose me if they felt my ordinances harmful to their neighbors." She adds wryly, "I assure you: I have no wish to *rule* Vallaki. My aspirations, clerical as they are, are far more dull than that." 
-> 
-> If the players still appear suspicious of the possibility that she might betray them to Strahd, she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
-# G1. The Blue Water Inn
-## G1a. Izek’s Visit
-Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
-
-Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
-
-While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
-
-If Ireena is currently staying at the inn, Urwin quietly directs Brom and Bray to retrieve and conceal her in <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> while he and Danika keep Izek distracted in <span class="citation">N2f. Stable (p. 101)</span>. To keep Izek busy, Danika allows him to search <span class="citation">N2h. Ravens' Loft (p. 101)</span>, allowing him to find the locked chest buried in the hay. Urwin reluctantly complies with Izek's demands to open the chest, and Izek confiscates the 140 ep and 70 pp as "unpaid taxes."
-
-After rummaging through each room of the inn—including Rictavio’s suite—Izek breaks a table, two chairs, and a window in a fit of rage and storms out of the inn.
-## G1b. The Players Return
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2c.</em></span>
-
-The next time that the players return to the Blue Water Inn, they find that the inn is closed to non-guests for the evening, with all of its shutters and doors closed to the public. 
-
-The debris from the broken table and chairs have been placed outside by the shed just outside of the inn’s front door, and the glass from the broken window has been swept into a neat pile, though a cold draft is seeping in through the shutters. 
-
-[[Non-Player Characters#Urwin Martikov|Urwin]], who is holding a broom and dustpan as he gathers splinters and shards from the taproom floor, greets the players wearily upon their return. He can provide the players with the following information:
-
-* Izek Strazni, the baron’s enforcer and captain of the guard, visited the Blue Water Inn earlier that day and demanded the location of a woman matching the description of the players’ companion.
-* Izek tore apart the inn in an effort to find her, but was ultimately unsuccessful. In the process, he damaged some of the inn’s property and ransacked the inn’s guest rooms. 
-* If Izek took the coins from the Martikovs’ locked chest, Urwin notes that he also took some items with him, but that thankfully no one was harmed. If asked, Urwin dismisses the confiscated coins as “some savings of ours,” but reiterates his relief that Ireena and the players are safe.
-
-Urwin sincerely apologizes to the players for the damage to their rooms, and promises that he and [[Non-Player Characters#Danika Dorakova|Danika]] are working hard to ensure that they will be cleaned up and ready for the players to sleep in that night.
-
-If the players indicate an interest in attacking Izek for his transgressions or to stop him from finding Ireena, Urwin warns them that Izek is a powerful and dangerous foe, protected by the town guard at nearly all hours of the day. Should the players challenge him outright, it shall surely be suicide. 
-
-If the players appear dead-set on challenging Izek, Urwin reluctantly advises them to seek the counsel of Lady Fiona Wachter, who is known to be a steadfast enemy of the Baron. He also offers to uncover details regarding Izek’s schedule and activities in order to assist the players’ efforts. 
-
-Urwin declines to reveal his sources, but notes only that some “friends” of his are adept at finding information without being detected.
-## G1c. Ireena’s Aftermath
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2e.</em></span>
-
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arrived, [[Non-Player Characters#Urwin Martikov|Urwin]] further informs the players that [[Non-Player Characters#Danika Dorakova|Danika]] is comforting her in <span class="citation">N2e. Kitchen (p. 101)</span> while brewing a batch of hot mulled wine to steady her nerves. (Brom and Bray have been sent to their room for the night—not as a punishment, but to keep them safe should Izek return. Urwin has promised both new toys as a reward for their selflessness and bravery.)
-
-Ireena is shaken, confused, and disturbed by Izek’s visit, but deeply grateful to the Martikovs for their efforts to keep her from harm. (If asked, she can inform the players of the existence of the inn’s secret corridor and staircase, but asks them to promise to keep the Martikovs’ secrets safe.) 
-
-If Ireena was at St. Andral's Church when Izek visited the inn, she visits the inn the following morning and sees the aftermath herself.
-
-***Ireena's Choice.*** Whether Ireena was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. Ireena doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
-
-If the players insist that she remain at the inn, Ireena asks if they truly believe her to be "helpless and incompetent." "Am I a piece of porcelain, to be sealed away so that it can never be chipped?" she demands furiously. "Am I a princess, to be locked away in a tower so that no dragon can snatch me? Did you forget that my father and brother trained me to wield a sword? Or do you mean to take this decision from me, just as Strazni and the Devil do?"
-
-Ireena, determined and stubborn, can't be convinced to remain at the inn or church, and insists on accompanying the players if they attempt to leave without her. Players can keep her from attempting to join them only by succeeding on a DC 16 Charisma (Deception) check to deceive her or by succeeding on a DC 14 Dexterity (Stealth) check to slip away when she's distracted.
-
-> [!abstract]+ **Urwin's Aid**
+> [!abstract]+ **La richiesta di Lady Wachter**
+> Se i giocatori uccidono Izek senza aver accettato la missione di Lady Wachter in [[Arc F - Lady Wachter's Wish]], Lady Wachter invia Ernst Larnak la mattina seguente per invitarli a prendere il tè a Wachterhaus quel pomeriggio «alla luce delle loro recenti imprese». Se i giocatori declinano l'invito di Ernst, Lady Wachter si presenta di persona alla Locanda dell'Acqua Azzurra quella sera stessa, indossando un mantello con cappuccio blu scuro, e chiede di parlare con loro in privato.
 >
-> If the players request Urwin’s aid in tracking Izek, Urwin meets them in the taproom the following morning to share the following information, though he politely declines to reveal his sources:
-> 
-> - Izek is accompanied for most of the day by two Vallakian **guards**. The guards keep a close eye on his surroundings, making it difficult to ambush him. However, Izek usually dismisses the guards and retires to one of several preferred haunts to drink around dusk.
-> - Izek’s day-to-day schedule varies, but he reliably takes his midday meal in Vallaki’s town square, delivered by the Baron’s cook. He returns every night to Baron Vallakovich’s mansion to sleep.
-> - Strange figures have been seen going in and out of Wachterhaus, the home of Lady Fiona Wachter, one of the Baron’s fiercest political enemies. Rumor has it that one of her servants has been shadowing Izek around town for the past two weeks. She might have aid to offer.
-> 
-> If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc F - Lady Wachter's Wish]].
-
-# G2. The Streets of Vallaki
-One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron’s mansion.
-# G3. The Kidnapping
-At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
-
-The next time that Ireena and the players are apart that day, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
-
-* ***Blue Water Inn.*** If Ireena is still at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin]] and [[Non-Player Characters#Danika Dorakova|Danika]], alerted by a **wereraven** about Izek’s approach, swiftly move once to hide her in the hidden staircase. However, Izek notices a strand of Ireena’s hair caught in the secret door and forces the door open, finding her. As he hauls Ireena away, he commands the guards to place Urwin in the town stocks. He uses his ***hurl flame*** ability to set fire to the Blue Water Inn, causing severe property damage before Danika and six **wereraven** members of the Keepers of the Feather are able to extinguish it using water from the inn’s well.
-* ***St. Andral’s Church.*** If Ireena has been moved to St. Andral’s Church, Izek interrupts [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] in the middle of a sermon and demands to know Ireena’s location. Despite Father Petrovich’s protests, Izek finds Ireena in the priest’s office (which Father Petrovich and Yeska have converted into a makeshift third bedroom) and seizes her. Izek coldly vows that he will return to punish the church for hiding Ireena from him, but departs without causing further harm.
-
-If Izek is successful, he then takes Ireena by force to his room in the Baron’s mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and remains there until the dawn of the Festival of the Blazing Sun.
-
-> [!lore]+ **Izek's Sacrifice**
-> Shortly after Izek brings Ireena to the mansion, Ireena demands to know the reason for her kidnapping. If Ireena is unaware of her relationship to Izek, Izek then reveals it; otherwise, Izek demands to know why she kept away from him despite knowing.
-> 
-> In either case, Ireena is disturbed by the depth of Izek's psychopathy and obsession, and her loyalty to her adoptive family and village anger Izek, who deems her a "fake" sent to deceive him. Spiraling into madness, Izek decides that he must sacrifice Ireena in flames to bring his "real" sister back to him. 
-> 
-> At dawn on the morning of the Festival of the Blazing Sun, Izek removes the offerings to the Morninglord—incense, salted meats, wooden carvings, and jewelry—from the hollow interior of the wicker sun, dumps them on the floor of his bedroom, and secretly replaces them with a bound and gagged Ireena. Izek then insists on personally guarding and escorting the wicker sun to the Festival. 
-> 
-> If the players fail to rescue Ireena, the wicker sun is brought to the town square at nine o'clock in the morning, and burned at noon at the height of the "festivities," killing Ireena.
-
-# G4. The Rescue
-The players can rescue Ireena from Izek’s clutches by first gaining access to his bedroom in the Baron’s mansion. They can do so by infiltrating the mansion or openly storming it.
-
-In either case, if the players are found in a place where they’re not supposed to be, an occupant of the mansion can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later. 
-
-The NPCs in the mansion ordinarily behave as follows:
-
-* Baron Vallakovich can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she raises the alarm unless they agree to leave.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
-
-[[Non-Player Characters#Izek Strazni|Izek]] remains in his bedroom with Ireena at all times and refuses to allow anyone else to enter, including the Baron and the household staff. If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an amber shard of Seriach, the Hell Hound Whisperer. (See the **Amber Shard** appendix for more information about amber shards.)
-
-> [!info]+ **Don't Wake Izek**
+> Indipendentemente da come lei e i giocatori si incontrino, Lady Wachter si congratula con loro per aver liberato Vallaki dalla tirannia e dalla crudeltà di Izek, e chiede francamente la loro benedizione per aspirare alla carica di Borgomastro, sottraendola al Barone Vallakovich. È lieta di accettare l'aiuto dei giocatori se offerto, ma per il resto li rassicura che ritiene possibile persuaderlo ad abdicare pacificamente.
 >
-> When the players first arrive at Izek’s bedroom, roll 1d20 to determine if he is asleep, with advantage if it is nighttime. Izek is asleep in his chair on a roll of 15 or higher.
+> Se i giocatori sono diffidenti all'idea di concedere a Lady Wachter il «potere» della carica, ella li rassicura che il borgomastro di Vallaki non detiene alcun potere intrinseco se non quello concesso dai cittadini. «Confesso di non conoscere i poteri di regine e duchesse al di là delle Nebbie» ammette, «ma in Barovia il borgomastro è l'amministratore di una cittadina, non il suo sovrano.»
 >
-> If a player attempts to sneak into the room while Izek is asleep, they find it impossible to reach the bed without passing near Izek’s chair. As they do so, he clumsily wraps a hand around their wrist while snoring, forcing the player to make a successful DC 12 Dexterity (Sleight of Hand) check to extricate themselves without awakening him.
+> «Pagherei gli stipendi della guardia cittadina, sì» prosegue, «ma sono gente timorata del Signore del Mattino — non esiterebbero a depormi se ritenessero le mie ordinanze dannose per i loro vicini.» Aggiunge con ironia: «Vi assicuro: non ho alcun desiderio di *governare* Vallaki. Le mie aspirazioni, burocratiche come sono, sono assai più noiose di così.»
 >
-> If the players free Ireena and move to exit from the room with her, one of the floorboards creaks loudly, briefly stirring Izek from his deep slumber. With his eyes still closed, he drowsily reaches as if to grab for an object in front of him, murmuring, “Ireena.” If handed one of his dolls, he clutches it to his chest and falls back asleep. Otherwise, he awakens on the following round.
+> Se i giocatori appaiono ancora sospettosi della possibilità che ella possa tradirli consegnandoli a Strahd, Lady Wachter ride sprezzante e fa notare che i giocatori hanno ucciso Izek — a cui lei stessa non poteva neppure avvicinarsi. «Se qualcuno dovrebbe avere paura, quella sono io» dice, ridendo in modo leggermente isterico. «Una banda di forestieri armati e potenti è giunta nella mia piccola cittadina e ha ucciso la creatura più potente entro le sue mura. Sono qui solo perché ho fede nella vostra buona volontà e nel vostro amore per i miei concittadini.»)
+# G1. La Locanda dell'Acqua Azzurra
+## G1a. La visita di Izek
+Poco più di un giorno dopo aver intravisto Ireena Kolyana per la prima volta — nella strada davanti alla Locanda dell'Acqua Azzurra, nella piazza della cittadina di Vallaki, o in qualche altro luogo — Izek Strazni la riconosce come la donna che ha visto ripetutamente nei suoi sogni e si determina a trovarla.
 
-> [!info]+ **Fire in the Mansion!**
+Izek giunge presto a credere che Ireena sia un'ospite della Locanda dell'Acqua Azzurra — vuoi perché l'ha osservata nei pressi della locanda la prima mattina dei giocatori a Vallaki, vuoi perché, a meno che i giocatori non l'abbiano camuffata al loro ingresso in città, ha appreso del suo recente arrivo dalle guardie alle porte. (Se Izek non ha visto Ireena nei pressi della Locanda dell'Acqua Azzurra e i giocatori l'hanno tenuta camuffata al loro ingresso a Vallaki, Izek viene a conoscenza della posizione di Ireena da una delle sue spie un giorno dopo, a meno che i giocatori non abbiano preso misure straordinarie per tenerla nascosta.)
+
+Mentre i giocatori sono assenti — e preferibilmente durante la cena dei giocatori con Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] — Izek si presenta alla Locanda dell'Acqua Azzurra e pretende di sapere dove si trovi Ireena, descrivendola per aspetto fisico. Urwin e Danika negano di conoscere la sua attuale posizione e insistono che non è una loro ospite. Izek esige di entrare in ogni stanza della locanda per cercarla, cosa che Urwin e Danika acconsentono a malincuore.
+
+Se Ireena sta soggiornando presso la locanda, Urwin ordina sommessamente a Brom e Bray di recuperarla e nasconderla in <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> mentre lui e Danika tengono Izek impegnato in <span class="citation">N2f. Stable (p. 101)</span>. Per tenere occupato Izek, Danika gli consente di perquisire <span class="citation">N2h. Ravens' Loft (p. 101)</span>, permettendogli di trovare il baule chiuso a chiave sepolto nel fieno. Urwin acconsente a malincuore alle richieste di Izek di aprire il baule, e Izek confisca le 140 me e 70 mp come «tasse non pagate».
+
+Dopo aver rovistato in ogni stanza della locanda — compresa la suite di Rictavio — Izek rompe un tavolo, due sedie e una finestra in un accesso di rabbia e se ne va furioso dalla locanda.
+## G1b. Il ritorno dei giocatori
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N2c.</em></span>
+
+La volta successiva in cui i giocatori tornano alla Locanda dell'Acqua Azzurra, trovano la locanda chiusa ai non ospiti per la serata, con tutte le imposte e le porte serrate al pubblico.
+
+I resti del tavolo e delle sedie rotte sono stati posti all'esterno, presso il capanno appena fuori dalla porta principale della locanda, e i vetri della finestra rotta sono stati spazzati in un mucchio ordinato, benché uno spiffero gelido filtri attraverso le imposte.
+
+[[Non-Player Characters#Urwin Martikov|Urwin]], che impugna scopa e paletta mentre raccoglie schegge e frammenti dal pavimento della sala comune, accoglie i giocatori con aria stanca al loro ritorno. Può fornire loro le seguenti informazioni:
+
+* Izek Strazni, il braccio destro del Barone e capitano della guardia, ha fatto visita alla Locanda dell'Acqua Azzurra quel giorno stesso e ha preteso di sapere dove si trovasse una donna corrispondente alla descrizione della compagna dei giocatori.
+* Izek ha messo sottosopra la locanda nel tentativo di trovarla, ma alla fine senza successo. Nel processo ha danneggiato parte delle proprietà della locanda e ha rovistato le stanze degli ospiti.
+* Se Izek ha preso le monete dal baule chiuso a chiave dei Martikov, Urwin nota che ha anche portato via alcuni oggetti, ma che fortunatamente nessuno è rimasto ferito. Se interrogato, Urwin liquida le monete confiscate come «alcuni nostri risparmi», ma ribadisce il suo sollievo che Ireena e i giocatori siano al sicuro.
+
+Urwin si scusa sinceramente con i giocatori per i danni alle loro stanze e promette che lui e [[Non-Player Characters#Danika Dorakova|Danika]] stanno lavorando alacremente per assicurarsi che siano in ordine e pronte per la notte.
+
+Se i giocatori manifestano l'intenzione di attaccare Izek per le sue malefatte o per impedirgli di trovare Ireena, Urwin li avverte che Izek è un nemico potente e pericoloso, protetto dalla guardia cittadina quasi a ogni ora del giorno. Se i giocatori dovessero sfidarlo apertamente, sarebbe certamente un suicidio.
+
+Se i giocatori appaiono fermamente decisi a sfidare Izek, Urwin consiglia loro a malincuore di cercare il consiglio di Lady Fiona Wachter, nota per essere una risoluta nemica del Barone. Si offre inoltre di scoprire dettagli riguardo agli spostamenti e alle attività di Izek per assistere gli sforzi dei giocatori.
+
+Urwin rifiuta di rivelare le sue fonti, ma osserva soltanto che alcuni suoi «amici» sono abili nel reperire informazioni senza essere scoperti.
+## G1c. Il seguito per Ireena
+<span class="citation"><em>Questa scena si svolge nel Capitolo 5: Area N2e.</em></span>
+
+Se [[Non-Player Characters#Ireena Kolyana|Ireena]] si trovava alla locanda quando Izek è arrivato, [[Non-Player Characters#Urwin Martikov|Urwin]] informa inoltre i giocatori che [[Non-Player Characters#Danika Dorakova|Danika]] la sta confortando in <span class="citation">N2e. Kitchen (p. 101)</span> mentre prepara una caraffa di vin brulé per calmarle i nervi. (Brom e Bray sono stati mandati nella loro stanza per la notte — non come punizione, ma per tenerli al sicuro nel caso Izek tornasse. Urwin ha promesso a entrambi nuovi giocattoli come ricompensa per il loro altruismo e coraggio.)
+
+Ireena è scossa, confusa e turbata dalla visita di Izek, ma profondamente grata ai Martikov per i loro sforzi nel tenerla al sicuro. (Se interrogata, può informare i giocatori dell'esistenza del corridoio e della scala segreta della locanda, ma chiede loro di promettere di custodire i segreti dei Martikov.)
+
+Se Ireena si trovava presso la Chiesa di Sant'Andral quando Izek ha visitato la locanda, ella si reca alla locanda la mattina seguente e vede di persona le conseguenze.
+
+***La scelta di Ireena.*** Che Ireena si trovasse alla locanda o alla chiesa durante l'attacco di Izek, ella è colma di senso di colpa, rabbia e frustrazione nell'apprendere l'accaduto. Con un tremito nella voce, esige che i giocatori le permettano di accompagnarli qualora decidano di porre fine alla furia di Izek. A Ireena non interessa la motivazione di Izek; vuole semplicemente che gli altri smettano di soffrire per la loro decisione di proteggerla.
+
+Se i giocatori insistono affinché ella rimanga alla locanda, Ireena domanda se davvero la ritengano «indifesa e incompetente». «Sono forse un pezzo di porcellana, da sigillare perché non si scheggino mai?» chiede furiosa. «Sono una principessa, da rinchiudere in una torre perché nessun drago possa ghermirmi? Avete dimenticato che mio padre e mio fratello mi hanno addestrata all'uso della spada? O intendete togliermi questa decisione, proprio come fanno Strazni e il Diavolo?»
+
+Ireena, determinata e ostinata, non può essere convinta a restare alla locanda o alla chiesa, e insiste per accompagnare i giocatori se tentano di partire senza di lei. I giocatori possono impedirle di tentare di unirsi a loro solo superando una prova di Carisma (Inganno) con CD 16 per ingannarla, oppure superando una prova di Destrezza (Furtività) con CD 14 per sgattaiolare via quando è distratta.
+
+> [!abstract]+ **L'aiuto di Urwin**
 >
-> Izek’s fire-based abilities are likely to set the wooden floors and paneling of the mansion aflame. If they do, apply the following rules:
+> Se i giocatori richiedono l'aiuto di Urwin per rintracciare Izek, Urwin li incontra nella sala comune la mattina seguente per condividere le seguenti informazioni, pur declinando cortesemente di rivelare le sue fonti:
 >
-> * Each contiguous collection of ignited squares counts as a single **fire**. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.)
-> * When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet.
-> * A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage.
-> * All squares within 10 feet of a **fire** are heavily obscured by smoke. A creature other than Izek that starts its turn in the smoke must make a DC 10 Constitution saving throw or be **poisoned** until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
+> - Izek è accompagnato per la maggior parte della giornata da due **guardie** di Vallaki. Le guardie tengono d'occhio i dintorni, rendendo difficile tendergli un'imboscata. Tuttavia, Izek di solito congeda le guardie e si ritira in uno dei suoi rifugi preferiti per bere intorno al crepuscolo.
+> - Il programma quotidiano di Izek varia, ma egli consuma puntualmente il pasto di mezzogiorno nella piazza della cittadina di Vallaki, portatogli dal cuoco del Barone. Ogni notte fa ritorno alla dimora del Barone Vallakovich per dormire.
+> - Strane figure sono state viste entrare e uscire da Wachterhaus, la dimora di Lady Fiona Wachter, una delle più acerrime nemiche politiche del Barone. Si vocifera che uno dei suoi servitori abbia pedinato Izek in giro per la cittadina nelle ultime due settimane. Potrebbe avere aiuto da offrire.
 >
-> One minute after the first fires ignite, Victor Vallakovich descends to the battlefield if able and commands all combatants to move behind him. He then casts _cone of cold_ to extinguish all burning squares.
+> Se i giocatori si recano alla tenuta di Lady Wachter per cercare la sua assistenza, ha inizio [[Arc F - Lady Wachter's Wish]].
 
-## G4a. Infiltrating the Manor
-If the players infiltrate the manor and successfully make their way to Izek’s bedroom, the door is locked as described in <span class="citation">N3j. Izek's Bedroom (p. 107)</span>. If the players attempt to pick the lock and [[Non-Player Characters#Izek Strazni|Izek]] is awake (see ***Don’t Wake Izek*** below), they must also succeed on a DC 13 Dexterity (Stealth) check to do so without alerting him.
+# G2. Le strade di Vallaki
+Un giorno dopo la sua visita alla Locanda dell'Acqua Azzurra, Izek ordina alle guardie cittadine di cominciare ad affiggere manifesti che richiedono informazioni riguardo alla posizione di una donna corrispondente alla descrizione di Ireena. Ogni manifesto include un ritratto che corrisponde approssimativamente all'aspetto di Ireena e offre una ricompensa di cinque monete d'oro per informazioni consegnate a Izek Strazni presso la dimora del Barone.
+# G3. Il rapimento
+All'alba del quarto giorno dopo l'arrivo dei giocatori a Vallaki, a meno che i giocatori non abbiano preso sufficienti precauzioni per assicurarsi che Ireena rimanga completamente nascosta al pubblico, un abitante di Vallaki consegna una soffiata alla dimora del Borgomastro riguardo alla sua attuale posizione.
 
-> [!warning]+ **Surprising Izek**
-> Don't forget that Izek, even if surprised, can still use his reactions after the end of his first turn in combat. See <span class="citation">Surprise (<em>Player's Handbook</em>, p. 189)</span> for more information.
+La volta successiva in cui Ireena e i giocatori si separano quel giorno, [[Non-Player Characters#Izek Strazni|Izek]], accompagnato da quattro **guardie**, irrompe nell'attuale rifugio di Ireena e tenta di rapirla. [[Non-Player Characters#Ireena Kolyana|Ireena]] gli stacca a morsi l'orecchio sinistro nel processo, conferendogli permanentemente svantaggio a tutte le prove di Saggezza (Percezione) che coinvolgono l'udito.
 
-The players will find it difficult to lure Izek from his bedroom while Ireena is present, but can do so with sufficiently creative and provocative efforts—assuming, of course, they roll sufficiently high. Otherwise, Izek draws his silvered battleaxe and fights at the slightest provocation.
+* ***Locanda dell'Acqua Azzurra.*** Se Ireena si trova ancora alla Locanda dell'Acqua Azzurra, [[Non-Player Characters#Urwin Martikov|Urwin]] e [[Non-Player Characters#Danika Dorakova|Danika]], allertati da un **lupo mannaro corvo** dell'avvicinarsi di Izek, agiscono prontamente un'altra volta per nasconderla nella scala segreta. Tuttavia, Izek nota una ciocca dei capelli di Ireena impigliata nella porta segreta e la forza ad aprirsi, trovandola. Mentre trascina via Ireena, ordina alle guardie di mettere Urwin alla gogna. Usa la sua abilità ***scagliare fiamme*** per dare fuoco alla Locanda dell'Acqua Azzurra, causando gravi danni alla proprietà prima che Danika e sei membri **lupi mannari corvo** dei Custodi della Piuma riescano a spegnerlo usando l'acqua del pozzo della locanda.
+* ***Chiesa di Sant'Andral.*** Se Ireena è stata trasferita alla Chiesa di Sant'Andral, Izek interrompe [[Non-Player Characters#Father Lucian Petrovich|Padre Petrovich]] nel mezzo di un sermone e pretende di sapere dove si trovi Ireena. Nonostante le proteste di Padre Petrovich, Izek trova Ireena nell'ufficio del prete (che Padre Petrovich e Yeska hanno convertito in una terza camera di fortuna) e la afferra. Izek giura freddamente che tornerà a punire la chiesa per aver nascosto Ireena, ma se ne va senza causare ulteriori danni.
 
-During the battle, Izek can break through one of the interior walls of the Baron’s manor by expending 15 feet of his movement. If he does, he takes 7 (2d6) bludgeoning damage.
+Se Izek ha successo, porta quindi Ireena con la forza nella sua stanza nella dimora del Barone (descritta in **N3j. Izek's Bedroom**, p. 107), dove la lega con una corda, la imbavaglia e la pone sul suo letto. Poi prende una sedia e diverse bottiglie di vino dal piano terra, colloca la sedia nella sua stanza accanto al letto e vi rimane fino all'alba del Festival del Sole Ardente.
 
-If conscious, Ireena uses a dagger concealed in her boot to cut herself free from Izek's restraints on her first turn in combat. She then joins the battle on the second round of combat. 
+> [!lore]+ **Il sacrificio di Izek**
+> Poco dopo che Izek porta Ireena alla dimora, Ireena esige di conoscere la ragione del suo rapimento. Se Ireena non è a conoscenza della sua parentela con Izek, egli gliela rivela; altrimenti, Izek pretende di sapere perché ella si sia tenuta lontana da lui pur sapendo.
+>
+> In entrambi i casi, Ireena è turbata dalla profondità della psicopatia e dell'ossessione di Izek, e la sua lealtà verso la famiglia adottiva e il villaggio fanno adirare Izek, che la bolla come una «falsa» inviata per ingannarlo. Sprofondando nella follia, Izek decide che deve sacrificare Ireena nelle fiamme per riportare a sé la sua «vera» sorella.
+>
+> All'alba del mattino del Festival del Sole Ardente, Izek rimuove le offerte al Signore del Mattino — incenso, carni salate, intagli di legno e gioielli — dall'interno cavo del sole di vimini, li riversa sul pavimento della sua camera da letto e li sostituisce segretamente con una Ireena legata e imbavagliata. Izek insiste quindi per sorvegliare e scortare personalmente il sole di vimini fino al Festival.
+>
+> Se i giocatori non riescono a salvare Ireena, il sole di vimini viene portato nella piazza della cittadina alle nove del mattino e bruciato a mezzogiorno al culmine delle «festività», uccidendo Ireena.
+
+# G4. Il salvataggio
+I giocatori possono salvare Ireena dalle grinfie di Izek raggiungendo prima la sua camera da letto nella dimora del Barone. Possono farlo infiltrandosi nella dimora o assaltandola apertamente.
+
+In entrambi i casi, se i giocatori vengono scoperti in un luogo dove non dovrebbero trovarsi, un occupante della dimora può dare l'allarme gridando aiuto. Se l'allarme viene dato, dodici **guardie** giungono alla dimora due minuti dopo.
+
+I PNG nella dimora si comportano normalmente come segue:
+
+* Il Barone Vallakovich si trova generalmente in <span class="citation">N3l. Library (p. 107)</span> durante il giorno e in <span class="citation">N3o. Master Bedroom (p. 108)</span> di notte. È accompagnato dai suoi due **mastini**, Zanna e Artiglio, in ogni momento. Se trova i giocatori a introdursi furtivamente, aizza Zanna e Artiglio contro di loro, ma dà l'allarme se i cani vengono sconfitti.
+* La Baronessa Lydia Petrovna si trova generalmente in <span class="citation">N3c. Dining Room (p. 106)</span> durante il giorno e in <span class="citation">N3o. Master Bedroom (p. 108)</span> di notte. Se trova i giocatori a introdursi furtivamente durante il giorno, presume che siano ospiti di suo marito Vargas e li saluta di conseguenza; altrimenti, lancia un urlo e poi sviene.
+* [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] si trova generalmente in <span class="citation">N3t. Victor's Workroom (p. 109)</span> sia di giorno che di notte. Se trova i giocatori a introdursi furtivamente, li saluta con diffidenza e pretende di conoscere i loro nomi e le loro intenzioni. (Non darà l'allarme se la sua curiosità viene soddisfatta.)
+* Tereska, la cuoca, si trova generalmente in <span class="citation">N3g. Kitchen (p. 106)</span> durante il giorno e in <span class="citation">N3f. Servants' Quarters (p. 106)</span> di notte. Se trova i giocatori a introdursi furtivamente, dà l'allarme a meno che non accettino di andarsene.
+* Clavdia, la cameriera, si trova generalmente al secondo piano durante la mattina, al primo piano durante il pomeriggio, e in <span class="citation">N3f. Servants' Quarters (p. 106)</span> di notte. Se trova i giocatori a introdursi furtivamente, dà immediatamente l'allarme.
+
+[[Non-Player Characters#Izek Strazni|Izek]] rimane nella sua camera da letto con Ireena in ogni momento e si rifiuta di permettere a chiunque altro di entrare, compreso il Barone e il personale della casa. Se i giocatori perquisiscono il corpo di Izek dopo la sua morte, possono recuperare la sua ascia da battaglia argentata, una borsa contenente 35 mo e una scheggia d'ambra di Seriach, il Sussurratore di Segugi Infernali. (Consultate l'appendice **Scheggia d'Ambra** per maggiori informazioni sulle schegge d'ambra.)
+
+> [!info]+ **Non svegliate Izek**
+>
+> Quando i giocatori giungono per la prima volta alla camera da letto di Izek, tirate 1d20 per determinare se è addormentato, con vantaggio se è notte. Izek è addormentato con un risultato di 15 o superiore.
+>
+> Se un giocatore tenta di intrufolarsi nella stanza mentre Izek è addormentato, scopre che è impossibile raggiungere il letto senza passare vicino alla sedia di Izek. Nel farlo, Izek avvolge goffamente una mano intorno al suo polso mentre russa, costringendo il giocatore a superare una prova di Destrezza (Rapidità di Mano) con CD 12 per liberarsi senza svegliarlo.
+>
+> Se i giocatori liberano Ireena e si muovono per uscire dalla stanza con lei, un'asse del pavimento scricchiola sonoramente, facendo brevemente agitare Izek nel suo sonno profondo. Con gli occhi ancora chiusi, egli allunga sonnolento la mano come per afferrare un oggetto di fronte a sé, mormorando «Ireena». Se gli viene data una delle sue bambole, la stringe al petto e ripiomba nel sonno. In caso contrario, si sveglia al round successivo.
+
+> [!info]+ **Fuoco nella dimora!**
+>
+> È probabile che le abilità basate sul fuoco di Izek diano fuoco ai pavimenti e ai rivestimenti in legno della dimora. In tal caso, applicate le seguenti regole:
+>
+> * Ogni insieme contiguo di quadretti incendiati conta come un singolo **incendio**. Al conteggio di iniziativa 20 di ogni round, per ogni incendio, tirate un numero di d4 pari al numero di quadretti in quell'incendio. Per ogni 4 ottenuto, anche un quadretto adiacente all'incendio prende fuoco (a vostra scelta), unendosi all'incendio. I quadretti incendiati possono includere sia pavimenti che muri. (Un muro incendiato è avvolto dalle fiamme su entrambi i lati.)
+> * Quando l'incendio si propaga, ogni creatura nella sua area deve effettuare un tiro salvezza su Destrezza con CD 10. Con un successo, la creatura può spostarsi immediatamente in un quadretto adiacente non occupato entro 1,5 metri.
+> * Una creatura che entra nell'incendio o vi inizia il proprio turno per la prima volta in un turno subisce 1d8 danni da fuoco.
+> * Tutti i quadretti entro 3 metri da un **incendio** sono pesantemente oscurati dal fumo. Una creatura diversa da Izek che inizia il proprio turno nel fumo deve effettuare un tiro salvezza su Costituzione con CD 10 o è **avvelenata** fino all'inizio del suo turno successivo. Non morti e costrutti superano automaticamente il tiro salvezza.
+>
+> Un minuto dopo che i primi incendi si accendono, Victor Vallakovich scende sul campo di battaglia se possibile e ordina a tutti i combattenti di mettersi dietro di lui. Lancia quindi _cono di freddo_ per estinguere tutti i quadretti in fiamme.
+
+## G4a. Infiltrarsi nella dimora
+Se i giocatori si infiltrano nella dimora e raggiungono con successo la camera da letto di Izek, la porta è chiusa a chiave come descritto in <span class="citation">N3j. Izek's Bedroom (p. 107)</span>. Se i giocatori tentano di scassinare la serratura e [[Non-Player Characters#Izek Strazni|Izek]] è sveglio (vedi ***Non svegliate Izek*** sopra), devono anche superare una prova di Destrezza (Furtività) con CD 13 per farlo senza allertarlo.
+
+> [!warning]+ **Sorprendere Izek**
+> Non dimenticate che Izek, anche se sorpreso, può comunque usare le sue reazioni dopo la fine del suo primo turno in combattimento. Consultate <span class="citation">Sorpresa (<em>Manuale del Giocatore</em>, p. 189)</span> per maggiori informazioni.
+
+I giocatori troveranno difficile attirare Izek fuori dalla sua camera da letto mentre Ireena è presente, ma possono riuscirci con sforzi sufficientemente creativi e provocatori — a patto, naturalmente, che i tiri siano sufficientemente alti. In caso contrario, Izek impugna la sua ascia da battaglia argentata e combatte alla minima provocazione.
+
+Durante la battaglia, Izek può sfondare uno dei muri interni della dimora del Barone spendendo 4,5 metri del suo movimento. Se lo fa, subisce 7 (2d6) danni contundenti.
+
+Se cosciente, Ireena usa un pugnale nascosto nel suo stivale per liberarsi dai legami di Izek durante il suo primo turno in combattimento. Si unisce quindi alla battaglia al secondo round di combattimento.
 
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 1ª Forma</h2>
+<em>Umanoide medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -172,51 +172,51 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Resistances</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Abilità</strong> Atletica +8, Intimidire +5, Percezione +2<br>
+<strong>Resistenze ai Danni</strong> fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 6 o 5 se avvelenato<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Izek doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
-<p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<p><strong><em>Combattente ravvicinato.</em></strong> Izek non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 metri da una creatura ostile.</p>
+<p><strong><em>Seconda fase.</em></strong> Quando Izek viene ridotto a 0 punti ferita, le sue braccia e la sua ascia vengono avvolte dalle fiamme, gli aculei sul suo braccio immondo crescono più lunghi e affilati, e la sua pelle diventa rossa e comincia a fumare. Le sue statistiche vengono quindi sostituite istantaneamente dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla nuova forma, ma egli conserva tutte le condizioni della forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Attacco multiplo.</em></strong> Izek effettua due attacchi.</p>
+<p><strong><em>Ascia da battaglia argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 11 (1d10 + 5) danni taglienti e Izek può spingere il bersaglio fino a 1,5 m indietro.</p>
+<p><strong><em>Scagliare fiamme.</em></strong> <em>Attacco magico a distanza:</em> +5 al tiro per colpire, gittata 18 m, un bersaglio. <em>Colpito:</em> 7 (2d6) danni da fuoco.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Vortice tagliente.</em></strong> Izek rotea la sua ascia da battaglia intorno a sé. Ogni creatura entro un raggio di 1,5 metri deve superare un tiro salvezza su Destrezza con CD 16 o subire 5 (2d4) danni taglienti e cadere prona. Una creatura che supera il tiro salvezza subisce metà dei danni e non cade prona.</p>
+<p><strong><em>Raffica di fiamme.</em></strong> Izek evoca una raffica di sfere infuocate che piovono su un punto entro 18 m che egli può vedere. Ogni creatura entro 3 m da quel punto deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma soltanto una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Izek può ripetere il tiro salvezza contro un effetto o una condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Ritirata forzata.</em></strong> In risposta a danni subiti da un attacco in mischia, Izek effettua un attacco di spinta contro l'attaccante. Può quindi spostarsi immediatamente fino a 4,5 m dall'attaccante senza provocare attacchi di opportunità.</p>
+<p><strong><em>Colpo vendicativo.</em></strong> In risposta a danni subiti da un attacco o un incantesimo, Izek può muoversi fino a 4,5 m verso l'attaccante senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco contro quella creatura con la sua ascia da battaglia.</p>
 </div>
 
 <br>
 
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 2ª Forma</h2>
+<em>Umanoide medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -231,64 +231,64 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Immunities</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Abilità</strong> Atletica +8, Intimidire +5, Percezione +2<br>
+<strong>Immunità ai Danni</strong> fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Sfida</strong> 6 o 5 se avvelenato<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
-<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<h3>Azioni</h3>
+<p><strong><em>Attacco multiplo.</em></strong> Izek effettua due attacchi in mischia.</p>
+<p><strong><em>Ascia da battaglia argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 10 (1d8 + 5) danni taglienti più 2 (1d4) danni da fuoco.</p>
+<p><strong><em>Pugno ardente.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 8 (1d4 + 5) danni contundenti più 2 (1d4) danni da fuoco, e Izek può spingere il bersaglio fino a 1,5 m indietro. Con un colpo critico, il bersaglio deve anche superare un tiro salvezza su Costituzione con CD 16 o essere frastornato fino all'inizio del turno successivo di Izek. (La creatura può muoversi o effettuare un'azione nel suo turno, non entrambe. Non può inoltre effettuare azioni bonus o reazioni.)</p>
+<p><strong><em>Ondata fiammeggiante.</em></strong> Un'ondata di fiamme si propaga da Izek in una linea lunga 18 metri e larga 1,5 metri. Ogni creatura nella linea deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 11 (2d10) danni da fuoco. Il fuoco incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Azioni bonus</h3>
+<p><strong><em>Eruzione di fiamme.</em></strong> Izek sbatte la sua ascia da battaglia al suolo, facendo turbinare un torrente di fiamme intorno a sé. Ogni creatura entro 1,5 metri deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<p><strong><em>Esplosione dirompente.</em></strong> Una striscia luminosa sfreccia dalla mano artigliata di Izek verso un punto a sua scelta entro 27 metri e poi sboccia con un rombo sommesso in un'esplosione di fiamme. Ogni creatura in una sfera di 1,5 metri di raggio centrata su quel punto deve effettuare un tiro salvezza su Destrezza con CD 13. Un bersaglio subisce 7 (2d6) danni da fuoco con un fallimento, o la metà dei danni con un successo. Un bersaglio che fallisce il tiro salvezza cade anche prono. Il fuoco si propaga dietro gli angoli. Incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma soltanto una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Izek può ripetere il tiro salvezza contro un effetto o una condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Inseguimento ardente.</em></strong> In risposta a danni subiti da un attacco o un incantesimo, Izek si proietta in avanti con un getto di fiamme crepitanti, muovendosi fino a 9 metri senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>pugno ardente</em></strong> contro una creatura entro portata.</p>
+<p><strong><em>Scintille di brace.</em></strong> In risposta a danni subiti da un attacco in mischia, Izek fa esplodere l'aria intorno a sé in un turbine di braci. L'attaccante deve superare un tiro salvezza su Costituzione con CD 13 o subire 2 (1d4) danni da fuoco ed essere accecato fino alla fine del suo turno successivo.</p>
+<p><strong><em>Bruciatura di rappresaglia (1/round).</em></strong> In risposta a danni subiti da un attacco in mischia effettuato con un'arma metallica, Izek fa arroventare l'oggetto fino all'inizio del suo turno successivo. Qualsiasi creatura in contatto fisico con l'arma subisce immediatamente 4 (1d8) danni da fuoco e deve superare un tiro salvezza su Costituzione con CD 13 o lasciare cadere l'arma se può. Se non la lascia cadere, ha svantaggio ai tiri per colpire e alle prove di caratteristica fino all'inizio del turno successivo di Izek.</p>
 </div>
 
-> [!combat]- **Combat - The Brute**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 4
-> **Allies:** Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 31% (first phase), and 31% (second phase) for a total of 62%
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> [!combat]- **Combattimento - Il bruto**
+> **Livello di combattimento**: Impegnativo (prima fase), Impegnativo (seconda fase)
+> **Livello atteso dei personaggi**: 4
+> **Alleati:** Ireena Kolyana (GS 2)
+> **Consumo di PF atteso:** 31% (prima fase) e 31% (seconda fase) per un totale del 62%
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage. |
-> | 4 | Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage. |
-> | 6 | Increase Izek’s hit points to 128 in each phase. For his first phase, increase his silvered battleaxe attack to 11 (1d12+5) damage and his slicing whirl bonus action to 6 (1d12) damage. For his second phase, increase his silvered battleaxe attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his burning punch attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his flaming wave action to 13 (2d12) damage, and his retaliatory burn reaction to 5 (1d10) fire damage. |
+> | 3 | Riducete i punti ferita di Izek a 75 in ciascuna fase. Per la sua prima fase, riducete l'attacco con ascia da battaglia argentata a 7 (1d8+3) danni, il suo attacco scagliare fiamme e l'azione bonus raffica di fiamme a 4 (1d8) danni, e la sua azione bonus vortice tagliente a 3 (1d6) danni. Per la sua seconda fase, riducete l'attacco con ascia da battaglia argentata a 6 (1d6+3) danni taglienti più 1 danno da fuoco, l'attacco pugno ardente a 5 (1d4+3) danni contundenti più 1 danno da fuoco, l'azione ondata fiammeggiante a 7 (2d6) danni, le azioni bonus eruzione di fiamme ed esplosione dirompente a 4 (1d8) danni, la reazione bruciatura di rappresaglia a 2 (1d4) danni da fuoco, e la reazione scintille di brace a 1 danno da fuoco. |
+> | 4 | Riducete i punti ferita di Izek a 92 in ciascuna fase. Per la sua prima fase, riducete l'attacco con ascia da battaglia argentata a 9 (1d8+5) danni, il suo attacco scagliare fiamme e l'azione bonus raffica di fiamme a 5 (1d10) danni, e la sua azione bonus vortice tagliente a 4 (1d8) danni. Per la sua seconda fase, riducete l'attacco con ascia da battaglia argentata a 8 (1d6+5) danni taglienti più 1 danno da fuoco, l'attacco pugno ardente a 7 (1d4+5) danni contundenti più 1 danno da fuoco, l'azione ondata fiammeggiante a 9 (2d8) danni, le azioni bonus eruzione di fiamme ed esplosione dirompente a 6 (1d12) danni, la reazione bruciatura di rappresaglia a 3 (1d6) danni da fuoco, e la reazione scintille di brace a 1 danno da fuoco. |
+> | 6 | Aumentate i punti ferita di Izek a 128 in ciascuna fase. Per la sua prima fase, aumentate l'attacco con ascia da battaglia argentata a 11 (1d12+5) danni e la sua azione bonus vortice tagliente a 6 (1d12) danni. Per la sua seconda fase, aumentate l'attacco con ascia da battaglia argentata a 10 (1d10+5) danni taglienti più 2 (1d4) danni da fuoco, l'attacco pugno ardente a 9 (1d8+5) danni contundenti più 2 (1d4) danni da fuoco, l'azione ondata fiammeggiante a 13 (2d12) danni, e la reazione bruciatura di rappresaglia a 5 (1d10) danni da fuoco. |
 
 
-## G4b. Storming the Manor
-If the players cause a ruckus at the front door or on the first floor of the manor, [[Non-Player Characters#Izek Strazni|Izek]] overhears them and exits his bedroom, bringing his silvered battleaxe in case of battle. He fights at the slightest provocation.
-## G4c. Ireena's Gratitude
-[[Non-Player Characters#Ireena Kolyana|Ireena]] is deeply disturbed by Izek's obsession with her. If the players inform her that she is Izek's sister, she mourns the child she once must have known, but not the man that he became. She reaffirms that, no matter who believes otherwise, she is and chooses to be Ireena Kolyana—not Ireena Strazni, or anyone else.
+## G4b. Assaltare la dimora
+Se i giocatori causano trambusto alla porta principale o al primo piano della dimora, [[Non-Player Characters#Izek Strazni|Izek]] li sente e esce dalla sua camera da letto, portando con sé la sua ascia da battaglia argentata in caso di battaglia. Combatte alla minima provocazione.
+## G4c. La gratitudine di Ireena
+[[Non-Player Characters#Ireena Kolyana|Ireena]] è profondamente turbata dall'ossessione di Izek nei suoi confronti. Se i giocatori la informano di essere la sorella di Izek, ella piange il bambino che un tempo doveva aver conosciuto, ma non l'uomo che è diventato. Riafferma che, indipendentemente da ciò che chiunque altro creda, ella è e sceglie di essere Ireena Kolyana — non Ireena Strazni, né alcun'altra.
 
-***Milestone.*** Rescuing Ireena from Izek's clutches completes a story milestone. When Ireena is escorted to safety, award each player 750 XP, or 1,500 XP instead if Izek was defeated.
+***Traguardo.*** Salvare Ireena dalle grinfie di Izek completa un traguardo narrativo. Quando Ireena viene scortata in salvo, assegnate a ogni giocatore 750 PE, oppure 1.500 PE se Izek è stato sconfitto.
 
-> [!info]+ **No Double-Counting**
-> The players can earn a maximum of 1,500 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]. Parties that rescue Ireena then later kill Izek will earn 750 XP for the former and an additional 750 XP for the latter.
-# Design Notes: The Strazni Siblings
-This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
+> [!info]+ **Niente doppio conteggio**
+> I giocatori possono guadagnare un massimo di 1.500 PE per il completamento di [[Arc F - Lady Wachter's Wish]] e/o [[Arc G - The Strazni Siblings]]. I gruppi che salvano Ireena e poi uccidono Izek in seguito guadagneranno 750 PE per il primo obiettivo e ulteriori 750 PE per il secondo.
+# Note di progettazione: I fratelli Strazni
+Questo arco narrativo è stato ampliato per fornire un più esplicito «orologio a tempo» che spinga i giocatori al conflitto con Izek Strazni, e come incidente scatenante che sproni Ireena a viaggiare con i giocatori e ad assumere un ruolo attivo nella sua lotta contro Strahd.
 
-***The Blue Water Inn.*** Izek's attack on the Blue Water Inn has been added to provide the players with an additional motivation to seek his death—especially if they are mistrustful of Lady Wachter's motives or doubtful of the benefits of removing her obstacles to power. 
+***La Locanda dell'Acqua Azzurra.*** L'attacco di Izek alla Locanda dell'Acqua Azzurra è stato aggiunto per fornire ai giocatori un'ulteriore motivazione a cercare la sua morte — specialmente se diffidano delle motivazioni di Lady Wachter o dubitano dei benefici della rimozione degli ostacoli al suo potere.
 
-Izek's attack also serves to motivate Ireena to join the players in defeating him, developing her character arc as she moves from passivity to agency and laying the foundations for her ultimate decision to journey with the players at the beginning of **Act III: The Broken Land.**
+L'attacco di Izek serve inoltre a motivare Ireena a unirsi ai giocatori per sconfiggerlo, sviluppando il suo arco narrativo nel passaggio dalla passività all'iniziativa e ponendo le basi per la sua decisione finale di viaggiare con i giocatori all'inizio dell'**Atto III: La Terra Spezzata.**
 
-Urwin's aid has been added to discourage the players from fighting Izek directly (i.e., in a fair fight), to direct them toward Lady Wachter (and therefore serve as a backup hook to [[Arc F - Lady Wachter's Wish]]), and to foreshadow his involvement with the Keepers of the Feather, who the players will learn more about in [[Arc J - The Stolen Gem]].
+L'aiuto di Urwin è stato aggiunto per scoraggiare i giocatori dal combattere Izek direttamente (cioè in un combattimento leale), per indirizzarli verso Lady Wachter (fungendo quindi da aggancio di riserva per [[Arc F - Lady Wachter's Wish]]), e per prefigurare il suo coinvolgimento con i Custodi della Piuma, di cui i giocatori sapranno di più in [[Arc J - The Stolen Gem]].
 
-***The Kidnapping.*** Izek's kidnapping of Ireena has been implemented as a failsafe penalty if the players decline to take any action to defeat him before this date (which will most likely be on or about the players' fourth full day in Vallaki).
+***Il rapimento.*** Il rapimento di Ireena da parte di Izek è stato implementato come penalità di sicurezza nel caso in cui i giocatori rifiutino di intraprendere qualsiasi azione per sconfiggerlo prima di questa data (che molto probabilmente cadrà intorno al quarto giorno completo dei giocatori a Vallaki).
 
-***The Rescue.*** Izek's ability to break through the interior walls of the mansion has been added to create a more dynamic environment in what would otherwise be a cramped, closed-quarters space.
+***Il salvataggio.*** La capacità di Izek di sfondare i muri interni della dimora è stata aggiunta per creare un ambiente più dinamico in quello che sarebbe altrimenti uno spazio angusto e chiuso.
