@@ -30,6 +30,9 @@ jobs:
         with:
           source: .
           page_title: "Curse of Strahd: Reloaded (ITA)"
+          quartz_config: .github/quartz/quartz.config.ts
+          quartz_layout: .github/quartz/quartz.layout.ts
+          quartz_custom_css: .github/quartz/custom.scss
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

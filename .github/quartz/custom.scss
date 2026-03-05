@@ -1,0 +1,78 @@
+// Custom styles to match Obsidian Publish look & feel
+
+// Page title styling
+.page-title {
+  font-size: 1.75rem;
+}
+
+// Explorer styling - match Obsidian's file tree
+.explorer {
+  .folder-title,
+  .folder-title > a {
+    font-weight: 600;
+  }
+}
+
+// Content area
+.center {
+  max-width: 750px;
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+}
+
+// Callouts - Obsidian Publish style with rounded corners
+.callout {
+  border-radius: 8px;
+  overflow: hidden;
+
+  .callout-title {
+    font-weight: 600;
+  }
+}
+
+// Graph view - slightly larger
+.graph > .graph-outer {
+  min-height: 250px;
+}
+
+// Table of contents
+.toc {
+  .depth-1 {
+    font-weight: 600;
+  }
+}
+
+// Popover previews - match Obsidian hover style
+.popover {
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+// Dark mode adjustments
+[saved-theme="dark"] {
+  .popover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  }
+}
+
+// Breadcrumbs
+.breadcrumb-container {
+  opacity: 0.7;
+  font-size: 0.85em;
+}
+
+// Footer
+footer {
+  opacity: 0.6;
+  font-size: 0.85em;
+}
+
+// Embedded / transcluded content
+.transclude {
+  border-left: 3px solid var(--secondary);
+  padding-left: 1em;
+  margin: 1em 0;
+}
