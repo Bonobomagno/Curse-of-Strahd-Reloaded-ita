@@ -20,36 +20,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          fetch-depth: 0
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - uses: actions/configure-pages@v5
 
-      - name: Prepare docs directory
-        run: |
-          mkdir -p docs
-          cp -r Introduction docs/
-          cp -r "Chapter 1 - Beginning the Campaign" docs/
-          cp -r "Chapter 2 - The Land of Barovia" docs/
-          cp -r "Chapter 3 - Running the Game" docs/
-          cp -r "Act I - Into the Mists" docs/
-          cp -r "Act II - The Shadowed Town" docs/
-          cp -r "Act III - The Broken Land" docs/
-          cp -r "Act IV - Secrets of the Ancient" docs/
-          cp -r Appendices docs/
-          cp -r images docs/
-          cp publish.css docs/
-
-      - name: Build site
-        run: mkdocs build
+      - name: Build with Quartz
+        uses: konstfish/quartz-build-action@v7
+        with:
+          source: .
+          page_title: "Curse of Strahd: Reloaded (ITA)"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
 
   deploy:
     environment:

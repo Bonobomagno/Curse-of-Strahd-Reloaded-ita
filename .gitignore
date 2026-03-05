@@ -1,5 +1,4 @@
 .obsidian/*.json
 .DS_Store
 .idea/
-site/
-docs/
+public/
