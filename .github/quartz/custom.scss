@@ -59,15 +59,31 @@ blockquote:not(.callout) {
   display: block !important;
 }
 
-// Ensure the left sidebar header row (Search + Darkmode + ReaderMode)
-// stays horizontal, not stacked in columns
+// On mobile, the left sidebar becomes a top header bar.
+// Make PageTitle + Spacer + Flex(Search/Darkmode/ReaderMode) stay in one row.
 .page > div#quartz-body div.sidebar.left {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+
+  // The Spacer fills space between title and toolbar (pushed by MobileOnly)
+  > .spacer {
+    flex: 1 1 auto;
+  }
+
+  // Toolbar: Search + Darkmode + ReaderMode
   > .flex {
     display: flex !important;
     flex-direction: row !important;
     align-items: center;
     gap: 0.5rem;
-    width: 100%;
+    flex-shrink: 0;
+  }
+
+  // Explorer takes full width below the header row
+  > .explorer {
+    flex-basis: 100%;
   }
 }
 
