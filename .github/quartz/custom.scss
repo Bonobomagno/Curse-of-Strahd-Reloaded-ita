@@ -1,1 +1,50 @@
 @use "./themes";
+
+// ============================================
+// Fix Adrenaline theme compatibility with Quartz
+// Adrenaline uses CSS light-dark() which requires
+// color-scheme property. Quartz uses [saved-theme]
+// attributes instead, so we override with Quartz vars.
+// ============================================
+
+// Enable color-scheme so light-dark() works
+:root {
+  color-scheme: light;
+}
+:root[saved-theme="dark"] {
+  color-scheme: dark;
+}
+
+// Fix sidebar backgrounds (light-dark fallback)
+[saved-theme="light"] {
+  .page > div#quartz-body div.sidebar,
+  .page > div#quartz-body div.sidebar.left,
+  .page > div#quartz-body div.sidebar.right,
+  .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
+    background-color: rgb(246, 246, 246);
+  }
+
+  blockquote {
+    background-color: rgb(244, 244, 246);
+  }
+}
+
+[saved-theme="dark"] {
+  .page > div#quartz-body div.sidebar,
+  .page > div#quartz-body div.sidebar.left,
+  .page > div#quartz-body div.sidebar.right,
+  .page > div#quartz-body div.sidebar.left .explorer .explorer-content {
+    background-color: rgb(38, 38, 38);
+  }
+
+  blockquote {
+    background-color: rgb(38, 38, 39);
+  }
+}
+
+// Fix blockquote border visibility
+blockquote {
+  border-left: 2px solid rgb(138, 92, 245);
+  padding: 0.5em 1em;
+  margin-inline-start: 0;
+}
