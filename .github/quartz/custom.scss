@@ -54,7 +54,9 @@ blockquote:not(.callout) {
 // Restore callout styling overridden by Adrenaline
 // ============================================
 .callout {
-  // Ensure callouts use their colored background/border
+  // Override Adrenaline's --callout-border-width: 0px
+  --callout-border-width: 1px !important;
+  --callout-border-opacity: 1 !important;
   border: 1px solid var(--border) !important;
   background-color: var(--bg) !important;
   border-radius: 5px;
