@@ -508,19 +508,19 @@ Questa stanza è in gran parte come descritta in <span class="citation">Attic Ha
 
 La porta conduce alla [[#Spare Bedroom]].
 ### Spare Bedroom
-<span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
+<span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 17.</em></span>
 
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
+Questa stanza è in gran parte come descritta in <span class="citation">Spare Bedroom (p. 215)</span>. La bambola dalla Children’s Room (p. 215-16) si trova qui. Quando i giocatori vi entrano per la prima volta, leggete:
 
 <div class="description">
-<p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
+<p>Questa stanza fredda e soffocata dalla polvere contiene un letto sottile, un comodino, una piccola stufa di ferro, una scrivania con uno sgabello, un armadio vuoto e una sedia a dondolo. Una bambola dall'espressione accigliata in un vestito di pizzo giallo siede nel vano della finestra settentrionale accanto a un vecchio carillon ossidato, drappeggiata di ragnatele come un velo nuziale.</p>
 </div>
 
-The players can recognize the doll as the same doll that Thorn was holding in the family portrait in the Main Hall.
+I giocatori possono riconoscere la bambola come la stessa che Thorn teneva nel ritratto di famiglia nella Sala Principale.
 
-The music box contains a rusted, bloodstained skinning knife as well as the key to the padlock on Rose and Thorn's bedroom door.
+Il carillon contiene un coltello da scuoiamento arrugginito e macchiato di sangue, oltre alla chiave del lucchetto sulla porta della camera di Rose e Thorn.
 
-The music box also contains two curled-up pieces of parchment. The first parchment shows a basic floor plan split into three rectangles labeled QUARTERS, SHRINE, and ALTAR. QUARTERS and SHRINE are connected at the top by a single line, and at the bottom by a double line, which connects both to ALTAR. The second parchment contains a list of unfamiliar names beneath the word RECRUITMENT.
+Il carillon contiene anche due pezzi di pergamena arrotolati. La prima pergamena mostra una planimetria di base suddivisa in tre rettangoli etichettati QUARTERS, SHRINE e ALTAR. QUARTERS e SHRINE sono collegati in alto da una singola linea, e in basso da una doppia linea, che li collega entrambi ad ALTAR. La seconda pergamena contiene un elenco di nomi sconosciuti sotto la parola RECRUITMENT.
 
 ![[Death House Dungeon Map.png]]
 <span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -841,33 +841,33 @@ Questa stanza è in gran parte come descritta in <span class="citation">Darklord
 <p>La stanza ha uscite a ovest e a nord. Si ode un canto provenire da nord.</p>
 </div>
 
-A player that approaches the orb can hear many voices whispering the following phrases:
+Un giocatore che si avvicina al globo può udire molte voci sussurrare le seguenti frasi:
 
-* “His gaze burns upon us.”
-* “The Darklord’s eyes are always watching.”
+* “Il suo sguardo ci brucia.”
+* “Gli occhi del Signore Oscuro osservano sempre.”
 
-Additionally, that player’s shadow begins to writhe and twist, its edges growing tattered and blurred as it lashes erratically across the floor. A player who touches the orb feels as though a “dark, ancient evil” has suddenly turned its eye upon them. 
+Inoltre, l’ombra di quel giocatore inizia a contorcersi e torcersi, i suoi bordi diventano laceri e sfocati mentre si agita erraticamente sul pavimento. Un giocatore che tocca il globo avverte la sensazione che un “male oscuro e antico” abbia improvvisamente rivolto il suo occhio su di lui.
 
-If the orb is removed from its position, the ashen **shadows** upon the walls begin to stir. Each round, up to two of the shadows “awaken,” swooping across the walls. As they awaken, they murmur and moan the following phrases:
+Se il globo viene rimosso dalla sua posizione, le **ombre** cinerea sulle pareti iniziano ad agitarsi. Ogni round, fino a due ombre si “risvegliano,” volteggiando lungo le pareti. Mentre si risvegliano, mormorano e gemono le seguenti frasi:
 
-* “Begone from this place!”
-* “Look not upon us.”
-* “Return the Darklord’s offering!”
+* “Andatevene da questo luogo!”
+* “Non posate lo sguardo su di noi.”
+* “Restituite l’offerta del Signore Oscuro!”
 
-Once all shadows have awoken, they attack, with each shadow preferring to target a different player. If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+Una volta che tutte le ombre si sono risvegliate, attaccano, con ciascuna ombra che preferisce prendere di mira un giocatore diverso. Se il globo viene riposizionato sulla statua, le ombre tornano alle loro posizioni originali e diventano nuovamente dormienti.
 
-The shadows gain the following additional feature:
+Le ombre ottengono la seguente caratteristica aggiuntiva:
 
-***Light Sensitivity.*** The shadow is immune to acid, cold, fire, lightning, and thunder damage, as well as bludgeoning, piercing, and slashing damage, while in darkness. The shadow is resistant to those damage types while in dim light, and is damaged by those damage types normally while in bright light.
+***Sensibilità alla Luce.*** L’ombra è immune ai danni da acido, freddo, fuoco, fulmine e tuono, così come ai danni contundenti, perforanti e taglienti, mentre si trova nell’oscurità. L’ombra è resistente a questi tipi di danno in luce fioca, e subisce normalmente questi tipi di danno in luce intensa.
 
-> [!combat]- **Combat - Shadows**
-> **Combat Level**: Crushing
-> **Expected Character Level**: 2
-> **Expected HP Consumption:** 131%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - Ombre**
+> **Livello di Combattimento**: Schiacciante
+> **Livello Personaggio Previsto**: 2
+> **Consumo PF Previsto:** 131%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
 > | Shadow | 3 | 4 | 5 | 6 |
 
