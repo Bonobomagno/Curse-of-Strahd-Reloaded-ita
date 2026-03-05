@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/add-github-pages-sSXQi
 
 permissions:
   contents: read
