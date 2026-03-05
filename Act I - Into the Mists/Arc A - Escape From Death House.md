@@ -1204,13 +1204,13 @@ Con grande sorpresa, i giocatori si trovano ora in una radura buia nella foresta
 
 La casa quindi crolla nella terra, lasciando dietro di sé una fossa oscura e senza fondo. Se i giocatori lo possiedono ancora, il frammento d'ambra di Elisabeth Durst si sgretola in polvere. La fossa svanisce la prima volta che i giocatori lasciano la radura.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+Se stanno ancora possedendo i giocatori, gli spiriti di [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] e [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] pongono fine alle loro possessioni. I bambini osservano che i boschi assomigliano ai Boschi di Svalich, che un tempo circondavano la loro casa—Barovia. Tuttavia, i bambini aggiungono che questi particolari boschi sono a loro sconosciuti, e che sembrano essere lontani dal villaggio originario della loro famiglia.
 
 Mentre i giocatori esplorano i dintorni, possono rapidamente scorgere la cima di una vecchia torre di pietra in rovina che spunta sopra le cime degli alberi. L'architettura della torre è come descritta in <span class="citation">Fuoco Fatuo (p. 33)</span>, ma l'interno non è terreno profanato, non c'è un baule di legno al suolo, e non ci sono **zombi** o **fuochi fatui** all'interno o attorno alla torre.
 
 I giocatori possono facilmente dedurre che questa rovina sembra essere un luogo sicuro per trascorrere la notte. Rose e Thorn si offrono di fare da sentinelle mentre i giocatori riposano, sorvegliando i boschi e svegliando i giocatori nel caso emergano minacce.
 
-The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
+La notte trascorre senza problemi. Quando i giocatori si svegliano la mattina seguente, Rose e Thorn chiedono ai giocatori se possono seppellire i loro resti prima di proseguire oltre, così da poter finalmente riposare. (Gli spiriti dei bambini non proseguiranno oltre in Barovia, supplicando invece i giocatori di lasciarli riposare.) Se i giocatori seppelliscono i loro resti qui, gli spiriti dei bambini li ringraziano prima di svanire.
 
 I giocatori possono trovare l'inizio della Vecchia Strada di Svalich poco distante attraverso i boschi dalla torre. Inizia quindi [[Act I - Into the Mists/Arc B - Welcome to Barovia]].
 
