@@ -23,19 +23,49 @@ jobs:
         with:
           fetch-depth: 0
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - uses: actions/configure-pages@v5
 
-      - name: Build with Quartz
-        uses: konstfish/quartz-build-action@v7
-        with:
-          source: .
-          page_title: "Curse of Strahd: Reloaded (ITA)"
-          quartz_config: .github/quartz/quartz.config.ts
-          quartz_layout: .github/quartz/quartz.layout.ts
-          quartz_custom_css: .github/quartz/custom.scss
+      - name: Clone Quartz
+        run: |
+          git clone --depth 1 --branch v4 https://github.com/jackyzha0/quartz.git /tmp/quartz
+
+      - name: Install Quartz dependencies
+        run: npm ci
+        working-directory: /tmp/quartz
+
+      - name: Initialize Quartz project
+        run: npx quartz create -X new -l shortest
+        working-directory: /tmp/quartz
+
+      - name: Apply custom config files
+        run: |
+          cp .github/quartz/quartz.config.ts /tmp/quartz/quartz.config.ts
+          cp .github/quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
+          cp .github/quartz/custom.scss /tmp/quartz/quartz/styles/custom.scss
+
+      - name: Fetch Adrenaline theme
+        run: |
+          curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- adrenaline
+        working-directory: /tmp/quartz
+
+      - name: Copy content
+        run: |
+          rm -rf /tmp/quartz/content
+          cp -r . /tmp/quartz/content
+          rm -rf /tmp/quartz/content/.git /tmp/quartz/content/.github
+
+      - name: Build Quartz
+        run: npx quartz build -o /tmp/quartz/_site -v
+        working-directory: /tmp/quartz
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/quartz/_site
 
   deploy:
     environment:
