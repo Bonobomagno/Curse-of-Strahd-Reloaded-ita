@@ -1,454 +1,491 @@
-_An adventure for five 4th, 5th, or 6th-level characters._
+_Un'avventura per cinque personaggi di 4°, 5° o 6° livello._
 
-In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
+In questo arco, giunti alla dimora di Argynvostholt come suggerito dai redivivi alle Cascate di Tser o al Crocevia del Fiume dei Corvi, i giocatori incontrano Sir Godfrey Gwilym, un antico **redivivo** cavaliere dell'Ordine del Drago Argenteo.
 
-Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.
+Godfrey comunica solennemente ai giocatori che, essendo vincolato alla volontà del suo comandante, Vladimir Horngaard, non può offrire loro alcun aiuto nella lotta contro Strahd. Può tuttavia rivelare che lo spirito sopito del drago argenteo Argynvost — il defunto capo dell'Ordine — si è destato nelle ultime settimane, e che il drago è alla ricerca di eroi disposti a opporsi a Strahd, sebbene Godfrey non sappia a quale scopo.
 
-Though Godfrey cannot hear the voice of Argynvost himself, he encourages the players to explore the mansion and seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion—though he warns them to avoid the audience hall of Commander Horngaard himself. 
+Sebbene Godfrey non riesca a udire la voce di Argynvost in prima persona, incoraggia i giocatori a esplorare la dimora e cercare le tracce lasciate dallo spirito del drago parlando con gli altri fantasmi che vi dimorano — avvertendoli tuttavia di evitare la sala delle udienze del Comandante Horngaard.
 
-Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders. Should the players wish to protect themselves from those spirits, Godfrey advises them to travel to a mass grave north of Berez, where the players can obtain paraphernalia bearing the insignia of the Order of the Silver Dragon.
+Godfrey mette inoltre in guardia i giocatori dagli spiriti maledetti che ancora infestano i corridoi della dimora: soldati caduti in difesa del maniero contro gli eserciti di Strahd in un'epoca remota, che non hanno mai smesso di combattere contro gli invasori. Qualora i giocatori desiderino proteggersi da quegli spiriti, Godfrey li consiglia di recarsi a una fossa comune a nord di Berez, dove potranno trovare oggetti recanti l'insegna dell'Ordine del Drago Argenteo.
 
-As the players explore Argynvostholt, they can encounter Zorya, the spirit of Argynvost's late **pseudodragon** familiar; Minodora, the spirit of a former clerk of the Order of the Silver Dragon; and Brother Marek, the spirit of the Order's former chaplain. The spirits' guidance will bring the players to Argynvost's beacon, where Argynvost's spirit lurks within a silver dragon gargoyle.
+Mentre i giocatori esplorano Argynvostholt, possono incontrare Zorya, lo spirito dello scomparso famiglio **pseudodrago** di Argynvost; Minodora, lo spirito di un'ex archivista dell'Ordine del Drago Argenteo; e Fratello Marek, lo spirito dell'ex cappellano dell'Ordine. Le indicazioni degli spiriti condurranno i giocatori al faro di Argynvost, dove lo spirito del drago dimora in una gargolla di drago argenteo.
 
-To invoke Argynvost's spirit, however, the players must obtain and speak aloud the oath of the Order of the Silver Dragon and light the gargoyle's brazier with silver flames obtained from Zorya or Argynvost's tomb. However, Vladimir Horngaard himself stands watch over the mansion's high beacon. If the players wish to learn Argynvost's will, they must first reassure Horngaard that they pose no threat to him or Strahd—or else defeat Horngaard in battle.
+Per evocare lo spirito di Argynvost, i giocatori devono tuttavia procurarsi il giuramento dell'Ordine del Drago Argenteo e pronunciarlo ad alta voce, quindi accendere il braciere della gargolla con fiamme argentee ottenute da Zorya o dalla tomba di Argynvost. Vladimir Horngaard in persona fa la guardia all'alto faro della dimora. Se i giocatori vogliono apprendere la volontà di Argynvost, devono prima rassicurare Horngaard di non rappresentare alcuna minaccia per lui o per Strahd — oppure sconfiggerlo in battaglia.
 
-From the gargoyle, the players can obtain a cryptic prophecy directing them to return Argynvost's bones to their rightful place in his crypt. To do so, however, they must first retrieve his remains from the depths of Castle Ravenloft.
+Dalla gargolla, i giocatori ricevono una profezia criptica che li esorta a riportare le ossa di Argynvost nel loro legittimo luogo nella cripta. Per farlo, devono tuttavia prima recuperare i suoi resti dalle profondità di Castello Ravenloft.
 
-If the players return to Argynvostholt after successfully retrieving Argynvost’s skull, they must fight their way past Vladimir and his **phantom warrior** bodyguards in order to return the dragon’s remains to their rightful place. Should they succeed, Argynvost’s spirit lights the beacon atop the darkened mansion, bringing light and hope to all corners of Barovia, and allowing the knights of the Order of the Silver Dragon to find rest and blessed peace.
+Se i giocatori tornano ad Argynvostholt dopo aver recuperato con successo il teschio di Argynvost, devono farsi strada combattendo contro Vladimir e le sue guardie del corpo **guerriere fantasma** per riportare le spoglie del drago nel luogo che è loro. Se ci riescono, lo spirito di Argynvost accende il faro sulla cima del maniero in rovina, portando luce e speranza in ogni angolo della Barovia e permettendo ai cavalieri dell'Ordine del Drago Argenteo di trovare riposo e pace benedetta.
 
-> [!warning]+ **Impossible Encounters**
-> Two combat encounters in this arc—the battle with the **phantom warriors** and the potential battle with **Vladimir Horngaard**—have been balanced for a party of five 6th-level players plus Ezmerelda and Ireena. Parties without Ezmerelda and/or below 6th level will likely be unable to overcome these encounters. Accordingly, all players have been given a noncombat route to bypassing the **phantom warriors**, a social route to bypassing Vladimir Horngaard, and a "failing forward" failsafe in the event of a TPK to Vladimir Horngaard.
+> [!warning]+ **Scontri Impossibili**
+> Due scontri di combattimento in questo arco — la battaglia con i **guerrieri fantasma** e il potenziale scontro con **Vladimir Horngaard** — sono stati bilanciati per un gruppo di cinque giocatori di 6° livello con Ezmerelda e Ireena. I gruppi privi di Ezmerelda e/o al di sotto del 6° livello probabilmente non saranno in grado di superare questi scontri. Di conseguenza, a tutti i giocatori è stata concessa una via non combattiva per aggirare i **guerrieri fantasma**, una via diplomatica per evitare Vladimir Horngaard, e una via di "fallimento produttivo" in caso di azzeramento totale del gruppo per mano di Vladimir Horngaard.
 
-# M1. Road to Argynvostholt
-When the players arrive at the path from the Old Svalich Road to Argynvostholt, read:
+# M1. La Strada per Argynvostholt
+
+Quando i giocatori giungono al sentiero che si dirama dall'Antica Via di Svalich verso Argynvostholt, leggi:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>Un sentiero di terra si stacca dall'Antica Via di Svalich e serpeggia verso sud lungo uno sperone di montagna brullo e scosceso. Il suolo del sentiero è battuto e compatto, di un grigio-marrone pallido che richiama la cenere fredda. Gli alberi ai lati si ergono silenziosi e stoici, le foglie d'un verde sbiadito. Mentre il sentiero si inerpica verso l'alto, viene infine inghiottito dalle ombre profonde del versante boscoso della montagna, dissolvendosi nella tenebra dei boschi oltre.</p>
 </div>
 
-The journey from the Old Svalich Road to Argynvostholt is two miles long and takes forty minutes. Approximately halfway down the path, the players are met by a **revenant** knight of the Order of the Silver Dragon standing watch in the woods. Read:
+Il tragitto dall'Antica Via di Svalich ad Argynvostholt è lungo due miglia e richiede quaranta minuti. Circa a metà del percorso, i giocatori vengono fermati da un cavaliere **redivivo** dell'Ordine del Drago Argenteo che monta la guardia nel bosco. Leggi:
 
 <div class="description">
-<p>Something stirs amidst the tree line, and a figure clad in rusted armor steps forth from the underbrush.</p>
+<p>Qualcosa si muove ai margini degli alberi, e una figura rivestita di armatura arrugginita emerge dai cespugli.</p>
 </div>
 
-The figure is recognizably similar to the **revenants** standing guard at Tser Falls and the Raven River Crossroads.
+La figura è riconoscibilmente simile ai **redivivi** che fanno la guardia alle Cascate di Tser e al Crocevia del Fiume dei Corvi.
 
-The revenant hails the players and asks them to identify themselves and their business. If informed that they have come seeking Sir Godfrey Gwilym, it closes its eyes and murmurs gratefully, “So there are still those who oppose Zarovich’s reign. Good." 
+Il redivivo saluta i giocatori e chiede loro di presentarsi e di dichiarare il proprio scopo. Se informato che sono venuti in cerca di Sir Godfrey Gwilym, chiude gli occhi e mormora con gratitudine: «Dunque vi sono ancora coloro che si oppongono al regno di Zarovich. Bene.»
 
-The revenant can inform the players that Sir Godfrey awaits visitors in the Chapel of Morning, at the eastern side of the first floor of the mansion of Argynvostholt. It warns them, however, that many unquiet spirits haunt the ruined manor, and to be wary should they explore its crumbling halls. 
+Il redivivo può informare i giocatori che Sir Godfrey attende i visitatori nella Cappella del Mattino, sul lato orientale del primo piano della dimora di Argynvostholt. Li avverte tuttavia che molti spiriti inquieti infestano il maniero in rovina, e di procedere con cautela qualora si avventurino nei suoi corridoi cadenti.
 
-Should the players request directions to the chapel, the revenant advises them to enter the foyer through the main entrance, then proceed eastward into the dining hall. There, the revenant tells them, “the doors to the chapel stand ever-open to those who seek a brighter dawn."
+Se i giocatori chiedono indicazioni per la cappella, il redivivo consiglia loro di entrare nell'atrio attraverso l'ingresso principale, poi di procedere verso est nella sala da pranzo. Lì, li informa, «le porte della cappella sono sempre aperte a chi cerca un'alba più luminosa».
 
-If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
-# M2. Approaching the Mansion
-This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
-## M2a. Dragon Statue
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
+Se i giocatori chiedono al redivivo di scortarli alla dimora, questi declina, rilevando gravemente di essere stato bandito dai suoi terreni e dalla sua proprietà «per aver alzato la voce contro il mio comandante, Vladimir Horngaard, quando il mio giuramento non riusciva più a soffocare la mia coscienza». Si rifiuta di spiegarsi ulteriormente, esortando i giocatori a parlare con Sir Godfrey.
 
-This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
-## M2b. Main Entrance
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
+# M2. Avvicinandosi alla Dimora
 
-This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
+Questa scena è come descritta in <span class="citation">Avvicinandosi alla Dimora (p. 130).</span>
 
-> [!info]+ **Scale of the Map**
-> If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
-# M3. Entering the Mansion
-## M3a. Foyer
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
+## M2a. La Statua del Drago
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
-## M3b. Dining Hall
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q1.</em></span>
 
-This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
-## M3c. Chapel of Morning
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
+Quest'area è per lo più come descritta in <span class="citation">Q1. Statua del Drago (p. 130).</span> Tuttavia, la statua è rivolta verso ovest, lontano dalla dimora, e non emana alcun'aura magica.
 
-This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
+## M2b. Ingresso Principale
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q2.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q2. Ingresso Principale (p. 130).</span> Tuttavia, nessuna trappola si attiva mentre i giocatori salgono le scale o mettono piede sul pianerottolo.
+
+> [!info]+ **Scala della Mappa**
+> Se stai conducendo l'esplorazione di Argynvostholt su una mappa di battaglia, ricorda che ogni quadrato nella mappa ufficiale misura 10 piedi di lato, anziché 5.
+
+# M3. Entrando nella Dimora
+
+## M3a. Atrio
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q3.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q3. Atrio del Drago (p. 132).</span> Tuttavia, l'ombra draconica passa nella <span class="citation">Q12. Sala da Pranzo (p. 132)</span> prima di svanire.
+
+## M3b. Sala da Pranzo
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q12.</em></span>
+
+Quest'area è come descritta in <span class="citation">Q12. Sala da Pranzo (p. 132).</span>
+
+## M3c. La Cappella del Mattino
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q13.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q13. Cappella del Mattino (p. 134).</span> Tuttavia, i pilastri sono di pietra anziché di legno, e i tre redivivi inginocchiati non sono presenti. Aggiungere invece il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A rusted, wrought-iron lantern hangs from each of the six pillars, each lantern’s glass panels fogged with age. Cold, ethereal lights flicker and writhe within them, and faint whispers seem to emanate from their depths.</p>
-<p>A knight stands between two of the furthest pillars, his arms outstretched like a haunting mockery of a scarecrow. Strands of black wire ensnare his chest in a macabre web, with additional strands looping down and around his biceps and rusted gauntlets before stretching across to the stone pillars on either side.</p>
-<p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
+<p>Da ciascuno dei sei pilastri pende una lanterna arrugginita di ferro battuto, i pannelli di vetro appannati dall'età. Luci fredde ed eteree guizzano e si contorcono al loro interno, e tênui sussurri sembrano emanare dalle loro profondità.</p>
+<p>Un cavaliere si erge tra i due pilastri più lontani, le braccia aperte come il simulacro sinistro di uno spaventapasseri. Fili di filo nero ne imprigionano il petto in una rete macabra, con altri fili che si avvolgono lungo i bicipiti e i guanti arrugginiti prima di distendersi fino ai pilastri di pietra ai lati.</p>
+<p>La cotta di maglia del cavaliere è opaca e corrosa dall'età, l'elmo argenteo incrinato e annerito. Sotto di esso, ciocche di capelli grigio-argento gli ricadono limp sulla faccia esangue e scarnita. La sua carne è grigia e pallida, la pelle tesa sui zigomi acuti e scheletrici, e la testa gli pende in avanti verso il suolo.</p>
 </div>
 
-This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span> If the players approach, interact with, or otherwise make themselves known to him, read:
+Questi è il **redivivo** Sir Godfrey Gwilym, come descritto in <span class="citation">Q37. Cavalieri dell'Ordine (p. 139).</span> Se i giocatori si avvicinano, interagiscono con lui o si manifestano in altro modo, leggi:
 
 <div class="description">
-<p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
-<p>"Welcome, travelers," he rasps. “I must ask that you forgive my rudeness. I am ill-disposed to greet you properly."</p>
+<p>Il cavaliere alza la testa, rivelando occhi rossi che brillano d'una quieta intensità. Le sue braccia sembrano tendersi, quasi istintivamente, contro i legami di filo nero — ed è allora che notate che ogni filo è ricoperto di minuscole punte acuminate come rasoi, molte delle quali affondano nell'armatura e nella carne.</p>
+<p>«Benvenuti, viandanti», raschia. «Devo chiedervi perdono per la mia maleducazione. Mi trovo nella scomoda condizione di non potervi accogliere come si conviene.»</p>
 </div>
 
 ![[Godfrey_trans.png]]
-<span class="credit">"Sir Godfrey Gwilym" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Sir Godfrey Gwilym" di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!info]+ **Godfrey’s Bindings**
-> Because the revenants of the Order of the Silver Dragon were raised and bound by the hatred of Commander Vladimir Horngaard, they are magically bound in undeath by the oaths they made in life to obey and serve him. A revenant that contemplates violating one of Horngaard’s orders is ensnared by strands of black razor wire, which burrow into and restrain them to prevent such violation. (For example, a revenant that attempts to raise arms against Commander Horngaard may find their sword-arm bound, while a revenant that attempts to reveal Commander Horngaard’s secrets may find its jaw or tongue ensnared in razor wire.)
+> [!info]+ **I Legami di Godfrey**
+> Poiché i redivivi dell'Ordine del Drago Argenteo furono evocati e vincolati dall'odio del Comandante Vladimir Horngaard, essi sono magicamente incatenati nell'inquietudine dai giuramenti prestati in vita di obbedire e servire il loro comandante. Un redivivo che mediti di violare un ordine di Horngaard viene imprigionato da fili di filo spinato nero che gli si conficcano nel corpo per trattenerlo. (Ad esempio, un redivivo che tenti di alzare le armi contro il Comandante Horngaard potrebbe trovarsi il braccio della spada bloccato, mentre uno che tenti di rivelare i suoi segreti potrebbe trovarsi la mascella o la lingua imprigionate nel filo spinato.)
 >
-> The wire disappears when the revenant relinquishes its intentions to violate Horngaard’s command, leaving no wound or other trace. Until such a point, the wires have immunity to all damage and cannot be removed by any means.
+> Il filo scompare quando il redivivo rinuncia all'intenzione di violare il comando di Horngaard, senza lasciare ferite né altre tracce. Fino a quel momento, i fili sono immuni a tutti i danni e non possono essere rimossi con alcun mezzo.
 
-> [!abstract]+ **The Lanterns**
-> A player who inspects the lanterns realizes that the lights are not flames, but blurred and writhing spectral figures wearing armor and horned helmets. A successful DC 13 Wisdom (Perception) check reveals the words of their whispers, repeated in a maddened refrain: “Free us," “Forgive us," and “Where is the light?"
+> [!abstract]+ **Le Lanterne**
+> Un giocatore che ispeziona le lanterne si rende conto che le luci non sono fiamme, bensì figure spettrali sfocate che indossano armature ed elmi con le corna. Una prova di Saggezza (Percezione) con CD 13 riuscita rivela le parole dei loro sussurri, ripetute in un ritornello ossessivo: «Liberateci», «Perdonateci» e «Dov'è la luce?»
 >
-> If asked, Godfrey can inform the players that the spirits belong to soldiers of Strahd’s army—the same soldiers who slew Argynvost and died in Argynvostholt’s bloodstained halls on the final day of the war. Commander Horngaard, Godfrey shares, ordered that their spirits be imprisoned to suffer here for all eternity, without hope of rest or reincarnation. 
+> Se interrogato, Godfrey può informare i giocatori che gli spiriti appartengono ai soldati dell'esercito di Strahd — gli stessi soldati che uccisero Argynvost e morirono nei corridoi insanguinati di Argynvostholt nell'ultimo giorno della guerra. Il Comandante Horngaard, riferisce Godfrey, ordinò che i loro spiriti fossero imprigionati a soffrire qui per l'eternità, senza speranza di riposo o reincarnazione.
 >
-> Godfrey pities the spirits, having relinquished all hatred for them long ago. “Many were but children themselves," he murmurs, “fighting for mere coin to feed themselves or their families. They share not the blame for the hubris of their masters." Neither he nor the other knights of the Order can release the spirits against Horngaard’s orders, but he makes no protest if the players move to do so, and treats such a decision warmly.
+> Godfrey prova pietà per gli spiriti, avendo da tempo rinunciato a qualsiasi rancore nei loro confronti. «Molti erano essi stessi ancora bambini», mormora, «che combattevano per un misero soldo per nutrire se stessi o le proprie famiglie. Non condividono la colpa dell'arroganza dei loro signori.» Né lui né gli altri cavalieri dell'Ordine possono liberare gli spiriti contro gli ordini di Horngaard, ma non si oppone se i giocatori si muovono per farlo, e accoglie con calore tale decisione.
 >
-> The players can release a spirit from its lantern by opening the lantern’s glass door. A spirit released from its lantern thanks the players for their mercy before dissipating into mist.
+> I giocatori possono liberare uno spirito dalla sua lanterna aprendo lo sportello di vetro. Uno spirito liberato dalla lanterna ringrazia i giocatori per la loro misericordia prima di dissolversi in nebbia.
 
-Godfrey introduces himself as Sir Godfrey Gwilym, knight of the Order of the Silver Dragon. If told the reason for the players’ arrival, he can confirm that the revenants at Tser Falls and the Raven River Crossroads invited the players to Argynvostholt on his orders, “for the hour is dire, and I have need of your aid."
-### What Godfrey Knows
-At the players’ request, Godfrey can share the following information regarding the Order of the Silver Dragon and his current predicament.
+Godfrey si presenta come Sir Godfrey Gwilym, cavaliere dell'Ordine del Drago Argenteo. Se informato del motivo dell'arrivo dei giocatori, può confermare che i redivivi alle Cascate di Tser e al Crocevia del Fiume dei Corvi li hanno invitati ad Argynvostholt per suo ordine, «poiché l'ora è grave, e ho bisogno del vostro aiuto».
 
-* Long ago, before the Mists descended upon the valley, the Order of the Silver Dragon was an order of knights dedicated to justice and the protection of the weak. The order was founded by Lord Argynvost—a man of great wealth, kindness, and valor. Only Godfrey and the remainder of Argynvost’s most trusted knights knew Argynvost’s deepest secret: that he was, in truth, a **silver dragon** in disguise.
-* Not ten years after the Order first settled at Argynvostholt, Strahd von Zarovich brought war to the lands surrounding the valley. The Order ranged far afield to defend against Zarovich’s invading armies and shelter those made refugees by the violence, but ultimately found itself driven back to the valley and, ultimately, the mansion of Argynvostholt.
+### Ciò che Godfrey Sa
 
-> [!abstract]+ **The Dragon's Scale**
-> If a player in possession of the [[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
+Su richiesta dei giocatori, Godfrey può condividere le seguenti informazioni riguardo all'Ordine del Drago Argenteo e alla sua situazione attuale.
 
-Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
+* Molto tempo fa, prima che le Nebbie scendessero sulla valle, l'Ordine del Drago Argenteo era un ordine di cavalieri dediti alla giustizia e alla protezione dei deboli. L'ordine fu fondato da Lord Argynvost — un uomo di grande ricchezza, bontà e valore. Solo Godfrey e i cavalieri più fidati di Argynvost conoscevano il segreto più profondo di quest'ultimo: che era, in verità, un **drago argenteo** in sembianze umane.
+* Non dieci anni dopo che l'Ordine si stabilì ad Argynvostholt, Strahd von Zarovich portò la guerra nelle terre circostanti la valle. L'Ordine si spinse lontano per difendersi dagli eserciti invasori di Zarovich e dare rifugio a chi era diventato profugo per via della violenza, ma si trovò infine ricacciato verso la valle e, da ultimo, verso la dimora di Argynvostholt.
 
-* A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir Horngaard, led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was Rahadin, the current chamberlain of Castle Ravenloft.)
-* Several years thereafter, Godfrey felt Commander Horngaard’s rage pull his soul from beyond the grave, and found himself and the other knights of the Order returned to life as undead revenants. He learned that Zarovich had desecrated Argynvost’s remains, burning the dragon's bones and taking his skull as a trophy to the new Castle Ravenloft—an act so foul it had stirred Horngaard to vengeful hatred even in death.
-* The revenant knights renewed the fight against Strahd, waging war for months—until the Mists descended upon Barovia. The knights marched on Castle Ravenloft, where the Vistani crone Madam Eva met them at the castle gates. She told them Strahd had died and been reborn, and that he and all Barovia were now captives of the Mists.
+> [!abstract]+ **La Scaglia del Drago**
+> Se un giocatore in possesso della [[Character Creation#Eredità — La Scaglia del Drago|Scaglia del Drago]] la mostra a Godfrey, il cavaliere è brevemente sopraffatto dall'emozione e chiede con voce roca di poterla vedere più da vicino. La riconosce ad alta voce come una delle scaglie di Argynvost, e chiede al giocatore come sia entrato in possesso. Se il giocatore tratta la scaglia e il lascito di Argynvost con riverenza e rispetto, ha vantaggio alle prove di Carisma nei confronti di Godfrey, a meno che questi non diventi ostile.
 
-Godfrey then asks the players if there is anyone that they hate—within or beyond the valley. He then asks if they would condemn all those they love to death and despair, if only to ensure that the one they hate would suffer the same fate for eternity. If he is satisfied that any of the players would choose love over vengeance, he informs them that they “stand amidst the ruin of one who made a different choice," then proceeds:
+Godfrey chiede poi ai giocatori se tradirebbero e abbandonerebbero i propri compagni qualora fossero costretti a combattere una battaglia impossibile, o se combatterebbero al loro fianco fino alla morte. Se è soddisfatto che almeno alcuni dei giocatori sceglierebbero la lealtà sull'egoismo, rimprovera con delicatezza quelli che farebbero il contrario, poi prosegue:
 
-* Commander Horngaard and the knights returned to Argynvostholt. There, Commander Horngaard, his heart still clutched by hate, forbade the members of the Order from fighting Zarovich, who Commander Horngaard believed deserved to suffer in his prison for all eternity. Later, Commander Horngaard expanded his interdiction to Strahd’s servants and creatures as well, believing that Strahd’s dark dominion would only drive him to deeper levels of pain and misery—for what was a conqueror without anything left to conquer?
-* The knights of the Order reluctantly obeyed Horngaard’s order, even as they watched the people of Barovia sink deeper into despair. As Strahd slumbered in his tomb, many among them came to believe that the Barovians’ nightmare may one day lift—until a knight came bearing news of a failed rebellion from the village of Barovia to the southeast, and Strahd’s threat to wipe the village and its people from the valley.
-* A great quarrel erupted, as the knights demanded the right to defend the village from Strahd’s vengeance. Commander Horngaard, angered by their defiance, banished the other knights from the mansion. Only Godfrey, restrained by his bindings, did Horngaard allow to remain.
+* Una grande battaglia si svolse sulla pianura alluvionale a est della dimora, e molti dei cavalieri dell'Ordine furono massacrati. Mentre Godfrey e il suo comandante, Vladimir Horngaard, guidavano un'ultima sortita contro l'accampamento del generale nemico, entrambi furono uccisi — il Comandante Horngaard da Zarovich in persona, e Godfrey dal luogotenente di Zarovich: un elfo crepuscolare dagli occhi crudeli che impugnava due scimitarre. (Se interrogato, Godfrey può confermare che l'elfo era Rahadin, l'attuale ciambellano di Castello Ravenloft.)
+* Alcuni anni dopo, Godfrey sentì la rabbia del Comandante Horngaard richiamare la sua anima dall'aldilà, e si trovò lui e gli altri cavalieri dell'Ordine ridestati come redivivi non-morti. Apprese che Zarovich aveva profanato le spoglie di Argynvost, bruciando le ossa del drago e portando il suo teschio come trofeo nel nuovo Castello Ravenloft — un atto così infame da aver spinto Horngaard a un odio vendicativo persino nella morte.
+* I cavalieri redivivi ripresero la lotta contro Strahd, conducendo una guerra per mesi — finché le Nebbie non scesero sulla Barovia. I cavalieri marciarono su Castello Ravenloft, dove la fattucchiera Vistana Madama Eva li accolse ai cancelli del castello. Disse loro che Strahd era morto e rinato, e che lui e tutta la Barovia erano ora prigionieri delle Nebbie.
 
-If asked about his bindings, Godfrey chuckles quietly, and explains that neither Commander Horngaard nor any of Strahd’s servants bound him here. “They are forged of my oath to Horngaard and the Order," he rumbles, “corrupted by the curse of undeath. They bind me against the defiance that burns in my heart." So long as he intends harm against Strahd, he tells them—a vow he will not and cannot forsake following Strahd’s crimes against the Barovians—they shall remain to restrain him.
+Godfrey chiede poi ai giocatori se vi sia qualcuno che odiano — all'interno o al di fuori della valle. Chiede poi se condannerebbero tutti coloro che amano alla morte e alla disperazione, pur di garantire che colui che odiano subisca la stessa sorte per l'eternità. Se è soddisfatto che almeno alcuni dei giocatori sceglierebbero l'amore sulla vendetta, li informa che «vi trovate in mezzo alle rovine di chi fece una scelta diversa», poi prosegue:
 
-If asked why he has summoned the players to Argynvostholt, Godfrey can share the following additional information:
+* Il Comandante Horngaard e i cavalieri tornarono ad Argynvostholt. Lì, il Comandante Horngaard, il cuore ancora stretto dall'odio, proibì ai membri dell'Ordine di combattere Zarovich, che il Comandante Horngaard riteneva meritasse di soffrire nella sua prigione per l'eternità. Successivamente, il Comandante Horngaard estese il suo divieto anche ai servitori e alle creature di Strahd, ritenendo che il tetro dominio di Strahd non avrebbe fatto che spingerlo a livelli sempre più profondi di dolore e miseria — poiché cos'era un conquistatore senza nulla rimasto da conquistare?
+* I cavalieri dell'Ordine obbedirono a malincuore all'ordine di Horngaard, anche mentre osservavano il popolo della Barovia sprofondare nella disperazione. Mentre Strahd giaceva nella sua tomba nel sonno, molti tra loro giunsero a credere che il tormento dei Baroviani potesse un giorno cessare — finché un cavaliere arrivò con la notizia di una rivolta fallita nel villaggio di Barovia a sudest, e della minaccia di Strahd di cancellare il villaggio e il suo popolo dalla valle.
+* Scoppiò una grande lite, mentre i cavalieri rivendicavano il diritto di difendere il villaggio dalla vendetta di Strahd. Il Comandante Horngaard, adirato per la loro insubordinazione, bandì gli altri cavalieri dalla dimora. Solo Godfrey, trattenuto dai suoi legami, Horngaard lasciò restare.
 
-* Argynvost may have fallen in the war against Strahd, but his spirit still lingers at Argynvostholt. In the decades after the Mists first descended, the dragon’s spirit appeared to Commander Horngaard in flickering visions, urging him away from his path of hatred and vengeance. However, Horngaard never turned from his path, and Argynvost’s spirit gradually fell quiet, sinking into a silent, dormant slumber.
-* Shortly after Strahd awoke from his hibernation, Argynvost’s spirit began to stir again, though Godfrey doesn’t know why. The dragon’s spirit is too old and weak to manifest directly, but several of the other ghosts that haunt the mansion’s halls claim to have heard him whispering in his ethereal slumber, murmuring of a new generation of heroes, and a new and final front in the fight against darkness. 
-* When the knights of the order were banished from Argynvostholt, Godfrey sent them to seek out those who Argynvost might be searching for, and direct them toward the manor.
+Se interrogato riguardo ai suoi legami, Godfrey ride sommessamente e spiega che né il Comandante Horngaard né alcuno dei servitori di Strahd lo hanno legato qui. «Sono forgiati dal mio giuramento a Horngaard e all'Ordine», rumoreggia, «corrotti dalla maledizione dell'inquietudine. Mi trattengono contro la ribellione che arde nel mio cuore.» Finché nutre propositi ostili verso Strahd — un voto che non potrà né vorrà mai rinnegare a seguito dei crimini di Strahd contro i Baroviani — essi resteranno a trattenerlo.
 
-“Perhaps you are the ones who he has been waiting for," Godfrey says. If any of the players are carrying an amber shard, he pauses, then fixes his gaze on that player. (If no player is carrying an amber shard, he instead looks toward whichever player most recently touched an amber shard, such as the one belonging to Elisabeth Durst or the one worn by Izek Strazni.) Godfrey then frowns and rasps, “Or perhaps not. I feel the chill of amber upon you. If you are pilgrims to the Amber Temple, then begone—I shall have no dealings with those who seek out its corruption."
-### Godfrey & the Amber Shards
-Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
+Se interrogato sul perché abbia convocato i giocatori ad Argynvostholt, Godfrey può condividere le seguenti informazioni aggiuntive:
 
-* A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
-* A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
+* Argynvost sarà pure caduto nella guerra contro Strahd, ma il suo spirito aleggia ancora ad Argynvostholt. Nei decenni successivi alla prima discesa delle Nebbie, lo spirito del drago apparve al Comandante Horngaard in visioni guizzanti, esortandolo ad abbandonare il suo cammino di odio e vendetta. Tuttavia, Horngaard non si allontanò mai da quel cammino, e lo spirito di Argynvost gradualmente si acquietò, sprofondando in un sopore silenzioso e dormiente.
+* Poco dopo che Strahd si ridestò dal suo lungo sonno, lo spirito di Argynvost ricominciò a manifestarsi, sebbene Godfrey non sappia perché. Lo spirito del drago è troppo antico e fiacco per manifestarsi direttamente, ma alcuni degli altri fantasmi che infestano i corridoi della dimora affermano di averlo udito sussurrare nel suo sonno etereo, mormorando di una nuova generazione di eroi, e di un nuovo e definitivo fronte nella lotta contro le tenebre.
+* Quando i cavalieri dell'ordine furono banditi da Argynvostholt, Godfrey li mandò a cercare coloro che Argynvost potrebbe stare cercando, e a indirizzarli verso il maniero.
 
-If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
+«Forse siete voi quelli che stava aspettando», dice Godfrey. Se uno qualsiasi dei giocatori porta con sé un frammento d'ambra, si ferma e fissa lo sguardo su quel giocatore. (Se nessun giocatore porta un frammento d'ambra, guarda invece verso il giocatore che per ultimo ha toccato un frammento d'ambra, come quello appartenuto a Elisabetta Durst o quello indossato da Izek Strazni.) Godfrey si corruga poi e raschia: «O forse no. Sento su di voi il gelo dell'ambra. Se siete pellegrini del Tempio d'Ambra, andate — non ho nulla da spartire con coloro che ne cercano la corruzione.»
 
-If a player possessing a shard fails to reassure Godfrey, he asks them gravely why they feel they *need* its power. "There is no shame in confessing fear or uncertainty," he says, his expression softening. "It is only when we allow those demons to cloud our judgment that we step wrongly."
+### Godfrey e i Frammenti d'Ambra
 
-If the player admits to desiring the shard's power for understandable—if not sympathetic—reasons, Godfrey assures them that they are no lesser for their struggles. "You are stronger than you know," he insists. "Embrace the power within you—not the lies and illusions these shards may promise. There is always a chance to turn away from the darkness, no matter how far we may feel we have fallen."
+Godfrey è disposto a continuare a trattare con i giocatori se viene assicurato che non cercano i doni oscuri del Tempio d'Ambra. I giocatori possono assicurarglielo come segue:
 
-If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 14 Charisma (Deception) check to convince him.)
+* Un giocatore senza un frammento d'ambra può automaticamente convincere Godfrey di essere libero dall'influsso di qualsiasi frammento.
+* Un giocatore al Primo o al Secondo Stadio della corruzione di un frammento d'ambra (si veda l'appendice [[Frammenti d'Ambra]]) può convincere Godfrey di non avere intenzione di perseguire i doni del vestigio con una prova di Carisma (Inganno) con CD 14 se mente, e automaticamente in caso contrario.
+* Un giocatore al Terzo Stadio della corruzione di un frammento d'ambra con segni visibili di tale corruzione può convincere Godfrey di pentirsi di aver accettato il dono del frammento con una prova di Carisma (Inganno) o Carisma (Persuasione) con CD 14 (a seconda che dica la verità o meno).
 
-If asked about the Amber Temple, Godfrey is willing to share that the Amber Temple is a place of corruption and evil—and that the Order of the Silver Dragon’s first and secret purpose was to defend the Amber Temple from those who would seek out its power.
+Se Godfrey ritiene che uno qualsiasi dei giocatori cerchi i doni oscuri del Tempio d'Ambra o dei suoi frammenti, esige che quei giocatori spieghino il loro inseguimento della corruzione. «I suoi doni non sono doni», avverte, «bensì catene che legano l'anima alle tenebre. Ho visto le volontà più forti sgretolarsi sotto la sua influenza. Il tempio non concede potere, ma consuma l'anima che lo ha cercato, lasciando dietro di sé soltanto un guscio vuoto.»
 
-Godfrey is willing to share no more information than that. However, should the players express an interest in visiting the Amber Temple—such as to obtain the *Sunsword* or decode the mysteries of the *Tome of Strahd*—he laughs quietly and promises that he shall tell them of the Amber Temple if they first prove their character and will by uncovering and carrying out Argynvost’s final mission.
-### Godfrey’s Request
-Due to his restraints, Godfrey asks the players to explore the mansion of Argynvostholt on his behalf, investigating the spirits that lurk within to uncover their knowledge of Argynvost’s whispers.
+Se un giocatore che possiede un frammento non riesce a rassicurare Godfrey, questi gli chiede gravemente perché senta di aver *bisogno* del suo potere. «Non vi è vergogna nel confessare la paura o l'incertezza», dice, con l'espressione che si addolcisce. «È solo quando permettiamo a questi demoni di offuscare il nostro giudizio che compiamo passi falsi.»
 
-If the players accept his request, Godfrey warns them to be wary of Commander Vladimir Horngaard, who yet stands vigil among the upper halls of the manor. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter." 
+Se il giocatore ammette di desiderare il potere del frammento per ragioni comprensibili — sebbene non necessariamente apprezzabili — Godfrey lo assicura che non è meno degno per le sue lotte. «Sei più forte di quanto tu sappia», insiste. «Abbraccia il potere che è in te — non le menzogne e le illusioni che questi frammenti possono prometterti. Vi è sempre la possibilità di voltare le spalle alle tenebre, non importa quanto lontani ci sentiamo di essere caduti.»
 
-Godfrey warns the players to avoid mentioning his name should they meet with Commander Horngaard. "He does not look fondly upon me now, I fear," he mourns. "Should he believe I hold your sympathies, his suspicions shall only grow."
+Se un giocatore che possiede un frammento si mantiene fermo nella sua decisione di ricercarne il potere o non riesce comunque a rassicurare Godfrey, questi esige che i giocatori promettano di disfarsi del frammento — nel Lago Zarovich, nel Lago Baratok, o altrove — una volta lasciata Argynvostholt. Godfrey si rifiuta di proseguire il colloquio a meno che non facciano tale promessa. (Se i giocatori mentono, devono anche superare una prova di gruppo di Carisma (Inganno) con CD 14 per convincerlo.)
 
-Sir Godfrey further warns the players that not all of the mansion's restless spirits are friendly. "Some among us never left the moments of our deaths," he warns. "Damned to relive the final days of the war, they attack all outsiders on sight, determined to defend these halls for eternity." 
+Se interrogato riguardo al Tempio d'Ambra, Godfrey è disposto a rivelare che si tratta di un luogo di corruzione e malvagità — e che il primo e segreto scopo dell'Ordine del Drago Argenteo era difendere il Tempio d'Ambra da coloro che ne avrebbero cercato il potere.
 
-Godfrey notes that these warlike spirits cannot be dissuaded from their mad crusade, and that few weapons or spells can harm their incorporeal forms. "Of all the creatures in this manor," he notes, "only the arachnids that haunt the Ethereal realm give them pause." (Godfrey is referring to the mated pair of **phase spiders** residing in [[#M4c. Spiders’ Ballroom]].) He adds that, even if the players were capable of harming the spirits of the manor, all were fearsome warriors in life. Only warriors with great strength of arms, he shares, may be able to overcome them.
+Godfrey non è disposto a condividere ulteriori informazioni. Tuttavia, se i giocatori esprimono interesse a visitare il Tempio d'Ambra — ad esempio per ottenere la *Lama del Sole* o decifrare i misteri del *Tomo di Strahd* — ride sommessamente e promette che parlerà loro del Tempio d'Ambra se prima dimostreranno il loro carattere e la loro volontà scoprendo e portando a termine la missione finale di Argynvost.
 
-> [!abstract]+ **Harming the Incorporeal**
-> A player who attempts to recall information about harming spirits and succeeds on a DC 16 Intelligence (Arcana) check learns the following information:
-> 
-> * Spirits and other incorporeal undead are generally immune to elemental and natural forces, including acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage dealt by nonmagical attacks.
-> * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
-> * Some creatures have developed natural means of counteracting these immunities. For example, the fangs and venom of a **phase spider** are capable of harming spirits on both the Material and Ethereal Plane. 
-> * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
-> * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
->   
-> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+### La Richiesta di Godfrey
 
-Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
+A causa dei suoi legami, Godfrey chiede ai giocatori di esplorare la dimora di Argynvostholt per suo conto, indagando gli spiriti che vi dimorano per scoprire quanto sanno dei sussurri di Argynvost.
 
-"Find an ancient stone slab where the river meets the lake," he directs them. "Two hundred paces west from there, a wide river-rock marks the final resting place of nearly one thousand souls. Some among them may still bear the liveries of the Order. Should you clothe yourselves in their garments, the maddened spirits that haunt these halls shall allow you to come and go in peace." (Godfrey warns, however, that Vladimir himself will not be fooled by any such tricks.)
+Se i giocatori accettano la sua richiesta, Godfrey li avverte di guardarsi dal Comandante Vladimir Horngaard, che fa ancora la guardia nei piani superiori del maniero. «Non dovete permettergli di vedervi o sentirvi, né incitare la sua ira qualora accada», insiste. «Non è benevolo verso gli estranei, e ancor meno verso coloro che ritiene cerchino la distruzione di Zarovich. In vita era il migliore di noi; nella morte, la sua forza non ha fatto che accrescersi — e ora non può essere ucciso da spada, artiglio o incantesimo. La sua inquietudine è eterna; anche se Zarovich stesso lo abbattesse, Horngaard tornerebbe presto a inseguire la sua preda — un cacciatore ostinato e inesorabile.»
 
-> [!abstract]+ **The Stone Slab**
-> Godfrey isn't sure what the stone slab symbolizes, and knows only that it was placed there by the land's indigenous inhabitants millennia before the Order of the Silver Dragon ever arrived in the valley. "We dealt little with them aside from the occasional trade," he recalls. "Their religion is one of wild places—a faith of beast and root and sky, rather than the dawn of the Morninglord or the shade of Mother Night."
+Godfrey avverte i giocatori di evitare di menzionare il suo nome qualora incontrino il Comandante Horngaard. «Temo che non mi veda di buon occhio, ormai», lamenta. «Qualora credesse che io abbia le vostre simpatie, i suoi sospetti non farebbero che crescere.»
 
-Should the players express interest in retrieving those garments, Godfrey asks only that they treat any uncovered remains with respect and take no more than necessary. "In burying our own dead," he shares, "it was customary to remark: '*May the day's last light guide you home*.' Such sentiment may be still appreciated, even in such a cold and forsaken place."
+Sir Godfrey avverte inoltre i giocatori che non tutti gli spiriti irrequieti della dimora sono amichevoli. «Alcuni di noi non hanno mai lasciato i momenti della propria morte», avverte. «Condannati a rivivere gli ultimi giorni della guerra, attaccano chiunque a vista, determinati a difendere questi corridoi per l'eternità.»
 
-If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
-### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian <span class="citation">N9. Vistani Camp (p. 119)</span>, or borrow from Burgomaster Dmitri Krezkov of Krezk.
+Godfrey osserva che questi spiriti bellicosi non possono essere dissuasi dalla loro crociata folle, e che poche armi o incantesimi possono ferire le loro forme incorporee. «Di tutte le creature in questo maniero», nota, «solo i ragni aracnidi che infestano il Piano Etereo li danno tregua.» (Godfrey si riferisce alla coppia di **ragni di fase** che risiede in [[#M4c. La Sala da Ballo dei Ragni]].) Aggiunge che, anche se i giocatori fossero in grado di ferire gli spiriti del maniero, tutti erano guerrieri formidabili in vita. Solo guerrieri di grande abilità delle armi, condivide, potrebbero riuscire a sconfiggerli.
 
-As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
+> [!abstract]+ **Ferire gli Incorporei**
+> Un giocatore che tenta di richiamare informazioni su come ferire gli spiriti e supera una prova di Intelligenza (Arcana) con CD 16 apprende le seguenti informazioni:
+>
+> * Gli spiriti e altri non-morti incorporei sono generalmente immuni alle forze elementali e naturali, compresi i danni da acido, freddo, fuoco, fulmine, tuono e veleno, nonché i danni contundenti, perforanti e taglienti inflitti da attacchi non magici.
+> * Tali spiriti perdono queste immunità ai danni quando entrano nel Piano Etereo, dove esistono come esseri corporei.
+> * Alcune creature hanno sviluppato mezzi naturali per contrastare tali immunità. Ad esempio, le zanne e il veleno di un **ragno di fase** sono in grado di ferire gli spiriti sia sul Piano Materiale sia su quello Etereo.
+> * Un incantatore può infliggere danni normalmente a uno spirito incorporeo usando una zanna di ragno di fase come componente materiale aggiuntiva per lanciare i propri incantesimi. (La zanna non viene consumata in questo modo.)
+> * Un combattente marziale può anche infliggere danni normalmente a uno spirito incorporeo rivestendo un'arma o fino a tre munizioni con veleno di ragno di fase o *acqua santa*. Se applicato in questo modo, il veleno o l'*acqua santa* agisce come un veleno da contatto che annulla l'immunità dello spirito all'arma rivestita, salvo che il rivestimento resta efficace per 10 minuti e non viene reso inefficace dal contatto con una creatura incorporea.
+>
+> I giocatori possono anche apprendere queste informazioni automaticamente consultando il libro *Entità Eteree* (si veda [[Arc E - The Missing Vistana]] o [[Arc H - The Lost Soul]]), chiedendo al dottor Rudolph van Richten dopo aver rivelato la sua vera identità (si veda [[Arc E - The Missing Vistana]]), o chiedendo a Ezmerelda d'Avenir dopo averla reclutata (si veda [[Arc K - The Fallen Abbey]]).
 
-<div class="description">
-<p>Leaving the crossroads behind, you set a southern course alongside the Luna River. It's not long, however, before a low-lying fog bank swallows up the path, leaving no sign of the river but the muffled echo of its drifting currents.</p>
-<p>The canopy of the Svalich Wood looms oppressively on either side, each tree a gnarled ghost that whispers amidst the fog. Ahead, a strange, misshapen shadow lies unmoving across the road.</p>
-</div>
+Godfrey nota tuttavia che questi spiriti ostili *possono* essere ingannati. Se i giocatori ritengono di aver bisogno di protezione dagli spiriti ostili del maniero, Sir Godfrey li consiglia di dirigersi a sud dal Crocevia del Fiume Luna, fino a un punto dove il Fiume Luna diventa brevemente un piccolo lago con un'isola.
 
-The misshapen shadow is the corpse of a **dire wolf**. If the players approach it, read:
+«Trovate un'antica lastra di pietra dove il fiume incontra il lago», li istruisce. «Duecento passi a ovest da lì, una grande pietra fluviale segna il luogo di riposo definitivo di quasi mille anime. Alcune di loro potrebbero ancora recare le livree dell'Ordine. Se vi vestirete con i loro abiti, gli spiriti folli che infestano questi corridoi vi permetteranno di andare e venire in pace.» (Godfrey avverte tuttavia che Vladimir stesso non sarà ingannato da tali stratagemmi.)
 
-<div class="description">
-<p>The fog pulls away from the shadow, revealing the broken and battered corpse of an enormous wolf, easily six feet at the shoulder. The wolf's side bears several large puncture wounds, and its head and shoulders appear to have been crushed beneath an incredible weight.</p>
-</div>
+> [!abstract]+ **La Lastra di Pietra**
+> Godfrey non sa cosa simboleggi la lastra di pietra, e sa solo che fu posta lì dagli abitanti indigeni della terra millenni prima che l'Ordine del Drago Argenteo arrivasse nella valle. «Avevamo pochi rapporti con loro al di fuori dell'occasionale baratto», ricorda. «La loro religione è quella dei luoghi selvaggi — una fede di belve e radici e cielo, piuttosto che dell'alba del Signore del Mattino o dell'ombra di Madre Notte.»
 
-A DC 15 Intelligence (Investigation) check indicates that the wolf's side was punctured by an enormous pair of antlers—far larger than those belonging to an ordinary elk or deer—and that its head and shoulders were trampled by a similarly large set of hooves.
+Se i giocatori esprimono interesse nel recuperare quegli abiti, Godfrey chiede solo che trattino con rispetto eventuali resti scoperti e prendano solo il necessario. «Nel seppellire i nostri morti», condivide, «era consuetudine dire: "*Possa l'ultima luce del giorno guidarti a casa.*" Tale sentimento potrebbe essere ancora apprezzato, anche in un luogo così freddo e abbandonato.»
 
-When the players continue past the wolf corpse, read:
+Se i giocatori chiedono dell'origine dei resti sepolti, Godfrey li informa solennemente che l'Ordine del Drago Argenteo compì lì la sua ultima resistenza.
+
+### Ottenere gli Abiti
+
+Se i giocatori scelgono di recuperare gli abiti dei soldati dalla fossa comune sul Fiume Luna, dovranno prima procurarsi delle pale per scavare il sito, che possono acquistare al Deposito Arasek a Vallaki, prendere in prestito dagli elfi crepuscolari del <span class="citation">N9. Accampamento Vistana (p. 119)</span> di Vallaki, o prendere in prestito dal borgomastro Dmitri Krezkov di Krezk.
+
+Quando i giocatori si dirigono a sud dal Crocevia del Fiume Luna dopo aver ottenuto una o più pale, leggi:
 
 <div class="description">
-<p>Several minutes pass before the forest's edge pulls away, and the river's current quiets to the gentle lapping of distant waves.</p>
-<p>The path continues south here, away from the water's edge. A few feet ahead, a trail of dark blood vanishes into the eastern fog, heading toward the shore.</p>
+<p>Lasciato il crocevia alle spalle, prendete la direzione sud lungo il Fiume Luna. Non passa molto, tuttavia, prima che una bassa coltre di nebbia inghiotta il sentiero, non lasciando traccia del fiume se non l'eco attutita delle sue correnti che scorrono lente.</p>
+<p>La volta del Bosco di Svalich sovrasta oppressivamente da entrambi i lati, ogni albero un fantasma contorti che sussurra tra la nebbia. Più avanti, una strana ombra informe giace immobile sulla strada.</p>
 </div>
 
-A DC 10 Wisdom (Medicine) check reveals that the trail of blood is quite recent—no older than an hour. A DC 5 Wisdom (Survival) check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 15 Intelligence (Nature) check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
-
-If the players follow the trail of blood, read:
+L'ombra informe è il cadavere di un **lupo terribile**. Se i giocatori si avvicinano, leggi:
 
 <div class="description">
-<p>The blood leads to a small peninsula that juts out into the water, the lake's grey waves lapping softly against its shores. In the distance, the shadow of a forlorn isle stands amidst the fog, the silhouettes of tall trees jutting up from its surface like needles.</p>
-<p>A mossy stone slab stands near the edge of the peninsula, just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some sort of carving. A raven sits perched atop the slab, its head bowed in silent vigil.</p>
-<p>Beside it, lying sprawled along the peninsula with its rear body half-submerged in the lake, is an enormous elk, easily twelve feet tall at the shoulder. Its coat is matted with mud and blood, and its right eye has been torn from the socket, leaving a dark, crimson void behind.</p>
-<p>The elk's hind right leg, the one closest to the water, is a horrifying sight. Cuts the width of a human fist have sliced the muscle from the haunches to the thigh, exposing the bone in places where the flesh has been torn away. The flesh around the wound is tinged with sickly shades of black and green, leaking a slow drip of pus and blood into the water below.</p>
-<p>The elk's chest rises and falls with shallow, labored breaths, its remaining eye staring blankly into the mists. Above it, the raven croaks softly, the somber sound echoing through the blanket of fog.</p>
+<p>La nebbia si ritira dall'ombra, rivelando il cadavere spezzato e devastato di un lupo enorme, alto facilmente sei piedi al garrese. Il fianco del lupo reca diverse grandi ferite da puntura, e la testa e le spalle sembrano essere state schiacciate sotto un peso incredibile.</p>
 </div>
 
-The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit point and five levels of exhaustion. A DC 12 Wisdom (Medicine) check reveals that the wound is infected and gangrenous, and that the elk is close to death. The infected wound can't be healed by any magical means short of a *regeneration* spell.
+Una prova di Intelligenza (Indagare) con CD 15 riuscita indica che il fianco del lupo è stato trafitto da un'enorme coppia di palchi — assai più grandi di quelli di un comune cervo o alce — e che testa e spalle sono state calpestate da un altrettanto grande paio di zoccoli.
 
-> [!info]+ **The Raven & the Elk**
-> The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the hit points, proficiency bonus, and saving throw proficiencies of a **roc**.
-> 
-> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing.
-
-> [!abstract]+ **The Stone Slab**
-> If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.)
-#### The Witch's Harvest
-If the players linger by the elk's side, read:
+Quando i giocatori proseguono oltre il cadavere del lupo, leggi:
 
 <div class="description">
-<p>From the river to the east, a short distance from the water's edge, approaches the hazy silhouette of a humanoid figure astride a bestial shadow as tall as a horse, both obscured beneath the thick, swirling fog. You hear the soft splashing of water, and a distant, resonant rumble.</p>
+<p>Passano diversi minuti prima che il margine del bosco si ritiri, e la corrente del fiume si quieti nel lieve sciabordio di onde lontane.</p>
+<p>Il sentiero prosegue verso sud, allontanandosi dalla riva. Pochi passi più avanti, una scia di sangue scuro svanisce nella nebbia orientale, dirigendosi verso la riva.</p>
 </div>
 
-A player who succeeds on a DC 13 Wisdom (Perception) check discerns that the "steed" has the approximate size and proportions of a **dire wolf**, with the rumble resembling a dire wolf's growl.
+Una prova di Saggezza (Medicina) con CD 10 rivela che la scia di sangue è piuttosto recente — non più vecchia di un'ora. Una prova di Saggezza (Sopravvivenza) con CD 5 scopre un'unica enorme impronta di zoccolo di oltre trenta centimetri che procede verso est accanto alla scia di sangue. (Una prova di Intelligenza (Natura) con CD 15 identifica l'impronta come appartenente a un alce, sebbene un alce assai più grande di qualsiasi bestia ordinaria.)
 
-If the players allow the figure to approach, read:
+Se i giocatori seguono la scia di sangue, leggi:
 
 <div class="description">
-<p>The fog parts faintly, and a woman cloaked in mud-splattered robes emerges from its depths. She wears a tattered shawl across her shoulders, a pair of red stones upon her ears, and a carved wooden talisman around her neck. A reed-woven basket sits nestled in the crook of her left arm, covered with a coarse, earth-stained rag. Her right hand, clad in an old, crinkled leather glove, holds a rusted, wicked-looking knife.</p>
-<p>The woman rides an enormous dire wolf—but not a living one. The beast's flesh has begun to rot, its side pierced with gaping, bloody wounds, and some of the meat has been stripped away from its front left leg, revealing the white bone underneath. From its perch atop the stone slab, the raven emits a rumbling, guttural croak, its feathers bristling as the undead wolf steps forward.</p>
-<p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
+<p>Il sangue conduce a una piccola penisola che si protende nell'acqua, le onde grigie del lago che lambiscono dolcemente le sue rive. In lontananza, l'ombra di una solitudine isola si erge nella nebbia, le sagome di alberi alti che puntano verso l'alto dalla sua superficie come aghi.</p>
+<p>Una lastra di pietra muscosa si erge vicino al bordo della penisola, alta quasi due metri. Poggia su un antico cerchio di pietra incrinato, e sembra recare una sorta d'incisione. Un corvo siede appollaiato in cima alla lastra, la testa china in silenziosa veglia.</p>
+<p>Accanto a essa, disteso lungo la penisola con il corpo posteriore mezzo sommerso nel lago, giace un enorme alce, alto facilmente quattro metri al garrese. Il manto è intriso di fango e sangue, e l'occhio destro è stato strappato dall'orbita, lasciando un buio vuoto cremisi al suo posto.</p>
+<p>La zampa posteriore destra dell'alce, quella più vicina all'acqua, è uno spettacolo orribile. Tagli larghi quanto un pugno umano hanno affettato il muscolo dai fianchi alla coscia, esponendo l'osso nei punti in cui la carne è stata lacerata. La carne attorno alla ferita è tinta di sfumature livide di nero e verde, con un lento gocciolio di pus e sangue che cola nell'acqua sottostante.</p>
+<p>Il petto dell'alce si alza e si abbassa con respiri corti e affannosi, l'occhio superstite che fissa senza espressione le nebbie. Sopra di esso, il corvo gracchia sommessamente, il suono cupo che riecheggia attraverso la coltre di nebbia.</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+L'alce è un **alce terribile** (usare le statistiche di un **alce gigante**) con 1 punto ferita e cinque livelli di stanchezza. Una prova di Saggezza (Medicina) con CD 12 riuscita rivela che la ferita è infetta e gangrenosa, e che l'alce è prossima alla morte. La ferita infetta non può essere guarita con alcun mezzo magico al di sotto dell'incantesimo *rigenerazione*.
 
-> [!info]+ **Wensencia and Her Steed**
-> Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
-> 
-> * Cantrips (at will): mage hand, prestidigitation, ray of frost
-> * 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter
-> * 2nd level (3 slots): enlarge/reduce, invisibility, misty step
-> * 3rd level (1 slot remaining): animate dead, gaseous form
->   
-> Wensencia's steed has the statistics of a **dire wolf**, but has a **zombie**'s ***undead fortitude*** feature instead of a dire wolf's ***pack tactics*** feature. It obey's Wensencia's spoken commands, and Wensencia can use a bonus action on her turn to mentally command it if it is within 60 feet of her.
+> [!info]+ **Il Corvo e l'Alce**
+> Il corvo è il Roc del Monte Ghakis sotto mentite spoglie. In questa forma, il roc usa le statistiche di un **corvo** ordinario, eccetto che ha un punteggio di Intelligenza di 15 (+2), un punteggio di Saggezza di 20 (+5), un punteggio di Carisma di 14 (+2), e i punti ferita, il bonus di competenza e le competenze nei tiri salvezza di un **roc**.
+>
+> L'**alce terribile** è una delle creature più rare della Barovia, e una bestia un tempo sacra alla Cacciatrice delle Tre Signore. Se i giocatori parlano al corvo usando l'incantesimo *parlare con gli animali* o magia simile, si presenta solennemente come Turul, e rivela solo di essere venuto a fare la guardia all'alce e a piangerne il trapasso.
 
-> [!profile]+ **Wensencia, Swamp Witch**
-> Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
+> [!abstract]+ **La Lastra di Pietra**
+> Se i giocatori scelgono di esaminare la lastra, trovano che reca un'incisione di un ragno sopra una stella a tre punte incisa, le scanalature rivestite di licheni e muschio. (La lastra è un antico monumento alla Tessitrice, e la stella a tre punte il simbolo delle Tre Signore.)
 
-If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+#### Il Raccolto della Strega
 
-* She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
-* She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
-
-Wensencia intends to harvest the dire elk's antlers, heart, and liver for use in Baba Lysaga's alchemical potions and spellwork. Upon arriving, she dismounts her undead dire wolf, grasps her rusted knife more firmly in her gloved hand, and approaches the elk, instructing the players to step away if they're standing in its vicinity. As she does, the raven caws desperately, fluttering its wings and clacking its beak in obvious distress.
-
-If her path forward is clear, she then kneels before the elk's throat and feels for its pulse, remarking that "the beast's heartbeat is impressively strong, even in its final hour." She then shakes her head and leans forward, steadying her grip on the knife and adding, "Still, hopeless defiance is hopeless all the same." Unless prevented by the players, Wensencia then slashes the dire elk's throat with her rusted knife, killing it immediately, and moves to begin harvesting its antlers.
-
-If the players challenge or move to obstruct her, Wensencia is annoyed and slightly perplexed. "The beast is already as good as dead," she notes, coldly. "Why not put it to use? It's no good to anyone wheezing and bleeding on the shore."
-
-Wensencia can't be persuaded to spare the elk's life on its own merits. If the players insist that she allow the elk time to die in its own time, she sniffs that "the beast could take hours to die—and the organs are best harvested while the heart is still beating, regardless."
-
-The players can dissuade Wensencia from harvesting the elk by offering a gift of reasonable value and succeeding on a successful DC 15 Charisma (Persuasion) check. If the players threaten Wensencia in an attempt to dissuade her, she asks, in bafflement, why they would care so deeply about a "dumb, dying animal." 
-
-Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 10 Charisma (Intimidation) check. If the players attack her, she uses her first turn in combat to cast *gaseous form*, vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
-
-As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
-
-If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its remaining eye slowly drifting closed as the wound overtakes it.
-#### The Mass Grave
-When the players depart the stone slab for the grave site, read:
+Se i giocatori si attardano accanto all'alce, leggi:
 
 <div class="description">
-<p>You proceed west from the peninsula, treading across soft, loamy soil and through tall, yellowed grasses that whisper against your boots. As you count your paces, it's not long before a wide, grey-brown boulder emerges from the mist, its edges worn smooth from water and wind. It stands alone atop the grassland, a silent sentinel amidst the fog.</p>
+<p>Dal fiume a est, a breve distanza dalla riva, si avvicina la sagoma nebbiosa di una figura umanoide in groppa a un'ombra bestiale alta quanto un cavallo, entrambe oscurate dalla nebbia densa e vorticante. Udite il soffice sciabordio dell'acqua, e un lontano ruggito risonante.</p>
 </div>
 
-The soldiers' remains are located in a one-hundred foot radius area of earth around the boulder, buried an average of five feet beneath the surface. For each thirty minutes the players dig, roll on the table below to determine what they uncover:
+Un giocatore che supera una prova di Saggezza (Percezione) con CD 13 distingue che la «cavalcatura» ha all'incirca le dimensioni e le proporzioni di un **lupo terribile**, con il ruggito che somiglia al ringhio di un lupo terribile.
 
-| 1d20 | Remains |
+Se i giocatori permettono alla figura di avvicinarsi, leggi:
+
+<div class="description">
+<p>La nebbia si apre lievemente, e una donna avvolta in vesti sporche di fango emerge dalle sue profondità. Porta uno scialle sfilacciato sulle spalle, un paio di pietre rosse alle orecchie, e un talismano di legno intagliato al collo. Un cesto intrecciato di canne è annidato nell'incavo del suo braccio sinistro, coperto da un panno grezzo e macchiato di terra. La mano destra, guantata in un vecchio cuoio grinzoso, stringe un coltello arrugginito dall'aspetto sinistro.</p>
+<p>La donna cavalca un enorme lupo terribile — ma non uno vivo. La carne della bestia ha cominciato a decomporsi, il fianco trafitto da ferite aperte e sanguinanti, e parte della carne è stata strappata dalla zampa anteriore sinistra, rivelando l'osso bianco sottostante. Dal suo posto in cima alla lastra di pietra, il corvo emette un gracchio gutturale e rimbombante, le piume irte mentre il lupo non-morto avanza.</p>
+<p>«Pensavo che le ferite di questo sembrassero fatte da palchi di alce terribile», mormora la donna, sbirciando oltre le orecchie del lupo verso l'alce. «Questo è davvero un giorno fortunato.»</p>
+</div>
+
+La donna è Wensencia, una studentessa di Baba Lysaga. (I giocatori che l'hanno già incontrata in [[Arc I - The Walls of Krezk]] la riconoscono immediatamente.) Il talismano è il suo focus arcano. Se il panno viene rimosso, rivela un mucchio di circa sei mandragole — radici spesse, ramificate e erette con una vaga e inquietante somiglianza a una forma umana.
+
+> [!info]+ **Wensencia e la sua Cavalcatura**
+> Wensencia è una **strega baroviana** con 33 punti ferita, un bonus di competenza di +3 e i seguenti incantesimi preparati:
+>
+> * Trucchetti (a volontà): mano magica, prestidigitazione, raggio di gelo
+> * 1° livello (4 slot): raggio di malattia, sonno, risata isterica di Tasha
+> * 2° livello (3 slot): ingrandire/ridurre, invisibilità, passo velato
+> * 3° livello (1 slot rimanente): animare i morti, forma gassosa
+>
+> La cavalcatura di Wensencia ha le statistiche di un **lupo terribile**, ma possiede la caratteristica ***fortezza dei non-morti*** di uno **zombie** invece di quella di ***tattiche di branco*** del lupo terribile. Obbedisce ai comandi verbali di Wensencia, e Wensencia può usare un'azione bonus nel suo turno per comandarla mentalmente se si trova entro 18 metri da lei.
+
+> [!profile]+ **Wensencia, Strega delle Paludi**
+> Wensencia, come le altre quattro attuali studentesse di Baba Lysaga, ha visto il risveglio di Strahd come l'avvento di un messia oscuro, e ha cercato la strega delle paludi su consiglio della sposa vampirica di Strahd, Ludmilla Vilisevic. Dovrebbe far sentire i giocatori irritati, a disagio, incuriositi e insultati, e si sente più spesso annoiata, disinteressata, curiosa, riflessiva, compiaciuta o malinconica.
+
+Se i giocatori l'hanno già incontrata in [[Arc I - The Walls of Krezk]], Wensencia li saluta con sorpresa e fastidio smorzati. Wensencia può condividere le seguenti informazioni con i giocatori, ma solo se specificamente interrogata:
+
+* È Wensencia, una studentessa di Madre Lysaga di Berez. (Se i giocatori si riferiscono a Baba Lysaga come «la strega delle paludi», Wensencia storce la bocca e li istruisce a «riferirsi a Madre Lysaga con rispetto».)
+* Stava raccogliendo radici di mandragola (come ingredienti alchemici) sulla riva orientale del Fiume Luna quando ha trovato il cadavere di un **lupo terribile**, evidentemente ucciso da un alce terribile. Affascinata dalla rara prospettiva di trovare il cadavere intero e fresco di un lupo terribile, lo ha rianimato e si è messa a seguire le sue tracce, sperando che l'alce fosse ancora nei paraggi.
+
+Wensencia intende raccogliere i palchi, il cuore e il fegato dell'alce terribile da usare nelle pozioni alchemiche e negli incantesimi di Baba Lysaga. All'arrivo, smonta dal suo lupo terribile non-morto, stringe più fermamente il coltello arrugginito nella mano guantata e si avvicina all'alce, intimando ai giocatori di farsi da parte se si trovano nelle sue vicinanze. Nel farlo, il corvo gracchia disperatamente, battendo le ali e schioccando il becco in evidente angoscia.
+
+Se la strada è libera, si inginocchia quindi alla gola dell'alce e ne cerca il polso, osservando che «il battito cardiaco della bestia è impressionante anche nella sua ora finale». Poi scuote la testa e si sporge in avanti, stringendo il coltello e aggiungendo: «Eppure, la resistenza senza speranza è pur sempre senza speranza.» A meno che i giocatori non la impediscano, Wensencia taglia quindi la gola all'alce con il suo coltello arrugginito, uccidendola immediatamente, e si prepara a raccogliere i palchi.
+
+Se i giocatori la sfidano o tentano di ostacolarla, Wensencia è infastidita e leggermente perplessa. «La bestia è già praticamente morta», nota, con freddezza. «Perché non metterla a frutto? Non serve a nessuno ansimando e sanguinando sulla riva.»
+
+Wensencia non può essere persuasa a risparmiare la vita all'alce per il suo stesso bene. Se i giocatori insistono perché lasci morire l'alce per conto suo, sbuffa che «la bestia potrebbe impiegare ore a morire — e gli organi si raccolgono meglio mentre il cuore batte ancora, comunque».
+
+I giocatori possono dissuadere Wensencia dal raccogliere l'alce offrendo un dono di valore ragionevole e superando una prova di Carisma (Persuasione) con CD 15 riuscita. Se i giocatori minacciano Wensencia nel tentativo di dissuaderla, chiede, perplessa, perché si preoccupino così tanto di un «animale stupido e moribondo».
+
+In definitiva, i giocatori possono anche dissuadere Wensencia dal raccogliere l'alce superando una prova di Carisma (Intimidire) con CD 10. Se i giocatori la attaccano, usa il suo primo turno in combattimento per lanciare *forma gassosa*, svanendo nella nebbia prima di tornare a Berez. (Il lupo terribile non-morto, costretto a difenderla, combatte i giocatori fino alla morte.)
+
+Mentre Wensencia si allontana, se i giocatori l'hanno trattata cordialmente, li avverte di guardarsi dalle creature che si nascondono tra il buio delle vicine balze e dei boschi. «Questo prato è un luogo di morte antica», dice, «e tali creature vi sono attratte come falene alla fiamma. Non indugiare a lungo, o rischiate di attirare la loro attenzione — e il loro appetito.» (Wensencia si riferisce ai **ghoul** che dimorano tra le scogliere delle montagne vicine, descritti in maggior dettaglio di seguito.)
+
+Se i giocatori riescono a dissuadere o scacciare Wensencia, il corvo chioccia con gratitudine e china solennemente la testa in segno di rispetto. Se i giocatori si attardano altri cinque minuti, l'alce terribile si spegne, il suo unico occhio rimasto che si chiude lentamente mentre la ferita ha la meglio su di lei.
+
+#### La Fossa Comune
+
+Quando i giocatori lasciano la lastra di pietra per il sito della fossa, leggi:
+
+<div class="description">
+<p>Procedete verso ovest dalla penisola, calpestando terreno morbido e limoso e attraversando alte erbe ingiallite che frusciarono contro gli stivali. Contando i passi, non tarda a emergere dalla nebbia un masso largo e grigio-marrone, i bordi levigati dall'acqua e dal vento. Se ne sta solo in cima alla prateria, sentinella silenziosa nel mezzo della caligine.</p>
+</div>
+
+I resti dei soldati si trovano in un'area di terra di trenta metri di raggio attorno al masso, sepolti in media a un metro e mezzo di profondità. Per ogni trenta minuti che i giocatori scavano, tirare sulla tabella sottostante per determinare cosa portano alla luce:
+
+| 1d20 | Resti |
 | :--: | ---- |
-| 1-7 | Old, scattered bones |
-| 8-10 | A full or partial human skeleton |
-| 11-15 | An iron shield engraved with the sigil of the Order of the Silver Dragon |
-| 16-17 | An iron helm engraved with the sigil of the Order of the Silver Dragon |
-| 18 | A silver medallion engraved with the sigil of the Order of the Silver Dragon |
-| 19 | A breastplate engraved with the sigil of the Order of the Silver Dragon |
-| 20 | Roll twice, ignoring a result of 20. |
+| 1-7 | Ossa vecchie e sparse |
+| 8-10 | Uno scheletro umano intero o parziale |
+| 11-15 | Uno scudo di ferro inciso con il sigillo dell'Ordine del Drago Argenteo |
+| 16-17 | Un elmo di ferro inciso con il sigillo dell'Ordine del Drago Argenteo |
+| 18 | Un medaglione d'argento inciso con il sigillo dell'Ordine del Drago Argenteo |
+| 19 | Un corsaletto inciso con il sigillo dell'Ordine del Drago Argenteo |
+| 20 | Tirare due volte, ignorando un risultato di 20. |
 
-When the players have uncovered—but not yet retrieved—the final piece of gear necessary to disguise themselves from the hostile spirits of Argynvostholt, read:
-
-<div class="description">
-<p>A damp, easterly wind stirs the swirling fog—bringing with it the thick, rotting stench of death.</p>
-</div>
-
-A player with a passive Wisdom (Perception) score of 13 or greater also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
-
-The stench and silhouettes belong to a pack of five **ghouls**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
+Quando i giocatori hanno portato alla luce — ma non ancora recuperato — l'ultimo pezzo di equipaggiamento necessario per travestirsi dagli spiriti ostili di Argynvostholt, leggi:
 
 <div class="description">
-<p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
+<p>Un vento umido proveniente da est agita la nebbia vorticante — portando con sé il denso e putrido odore della morte.</p>
 </div>
 
-> [!combat]- **Combat - The Mass Grave**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 14%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 13 nota anche diverse sagome curve che si avvicinano furtivamente alla loro posizione — due da est e tre da ovest.
+
+La puzza e le sagome appartengono a un branco di cinque **ghoul**, che hanno fiutato l'odore della terra di tomba smossa e sono venuti barcollando a cercarne la fonte. Se i giocatori indugiamo o tentano di fuggire, i ghoul attaccano. Leggi:
+
+<div class="description">
+<p>Cinque creature umanoidi emaciante, vestite di stracci, si lanciano fuori dalla nebbia, gli artigli macchiati di sangue tesi e i denti gialli e scheggiati scoperti in una fame disperata.</p>
+</div>
+
+> [!combat]- **Combattimento - La Fossa Comune**
+> **Livello di Combattimento**: Impegnativo
+> **Livello di Personaggio Previsto**: 5
+> **Alleati:** Ireena Kolyana (GS 2)
+> **Consumo di PE Previsto:** 14%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Ghouls | 4 | 4 | 5 | 6 |
+> | Ghoul | 4 | 4 | 5 | 6 |
 
-When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **ghouls** with its **talons** attack and departing. Read:
-
-<div class="description">
-<p>A sudden gale of wind roars in your ears, the fog swirling violently around you. A monstrous silhouette, taller than the trees of the Svalich Wood and with a wingspan twice as wide, descends from the sky above—and so too does a gargantuan set of talons, emerging from the fog toward one of the ghouls like the fingers of a vengeful deity.</p>
-<p>Before the ghoul can even react, claws large enough to pluck an elephant from the earth have lashed around it, lifting it effortlessly into the sky. A single shriek bursts from the ghoul's throat—and then the shadowed behemoth is gone, vanishing into the foggy abyss overhead.</p>
-</div>
-
-When four of the ghouls have been slain, the fifth throws itself to the ground, bowing before the players and babbling for mercy in broken Common from the "nice, kind masters" in exchange for information. The ghoul, which refers to itself as Nim, promises that "Nim knows many things—many secrets!"
-
-Nim, who occasionally eyes the players' fleshy extremities with hungry interest, should make the players feel disturbed, uncomfortable, or darkly amused, and most often feels hungry, obsessed, sniveling, paranoid, or enraged. Nim is willing to share the following information if the players allow it to leave in peace:
-
-* Long ago, the "hissing water" was much smaller, and the "drowned earth" near here dry and beautiful.
-* Then, as now, an old circle of stones stood on the far bank of the "hissing water" by the village, marked with the sigil of the spider. Though Nim didn't see it itself, someone once told it that "the Dark Master" had claimed the stones from their old master. If asked how, Nim shares that the "Dark Master" claimed the stones with the aid of "the wood-people, and their horns and claws." (Nim is referring to the Forest Folk who helped Strahd first desecrate the Swamp Fane. Although Nim doesn't remember it, Nim—then a villager of Berez called Nimira—learned the story from its grandmother, who spied upon the druids' first meeting with Strahd at the Fane.)
-*  On "the day the earth drowned," the circle of stones shook, and a great wave burst from the mountains across the river. "Nim ran away," Nim hisses. "Dark things in the water. Didn't dare stay." She adds, weeping, "But so *hungry*." (A player with a passive Wisdom (Insight) score of 8 or more then notices that Nim's tears are false, and that Nim is eyeing the players' flesh through its fingers with conniving, hopeful interest.)
-* Recently, the "Dark Master" has begun to visit the circle of stones once again—and each time he does, the circle trembles, though more quietly than it did long ago. The "swamp woman"—Baba Lysaga—has begun visiting it as well, and Nim has observed strange lights and sounds each time she does. (Nim doesn't know what Baba Lysaga is doing there.)
-
-If the **roc** appeared during the fight, Nim can identify it as "the Great Raven," which dwells atop the "cold mountain." Nim isn't sure why it might have attacked.
-
-If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanishing into the mist.
-# M4. The First Floor
-## M4a. Cemetery
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
-
-The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
+Quando il combattimento ha inizio, se i giocatori hanno protetto l'alce terribile da Wensencia, tirare segretamente l'iniziativa anche per il **roc del Monte Ghakis**. Nel suo turno, il roc usa un'azione bonus per assumere la sua forma di **roc** gargantuesco prima di usare la sua azione per agguantare uno dei **ghoul** con il suo attacco **artigli** e allontanarsi. Leggi:
 
 <div class="description">
-<p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
+<p>Un improvviso turbine di vento vi rimbomba nelle orecchie, la nebbia che turbina violentemente attorno a voi. Una sagoma mostruosa, più alta degli alberi del Bosco di Svalich e con un'apertura alare doppia rispetto alla loro larghezza, scende dal cielo sovrastante — e così anche un gargantuesco paio di artigli, che emerge dalla nebbia verso uno dei ghoul come le dita di una divinità vendicatrice.</p>
+<p>Prima che il ghoul possa anche solo reagire, artigli abbastanza grandi da sollevare un elefante da terra si sono serrati attorno a lui, sollevandolo senza sforzo verso il cielo. Un solo grido scoppia dalla gola del ghoul — e poi il colosso in ombra è scomparso, dileguandosi nell'abisso nebuloso sovrastante.</p>
 </div>
 
-## M4b. Steward’s Wing
-### Kitchen
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
+Quando quattro dei ghoul sono stati uccisi, il quinto si getta a terra, prostrandosi davanti ai giocatori e balbettando in un Comune stentato la richiesta di misericordia ai «bei padroni gentili» in cambio di informazioni. Il ghoul, che si chiama Nim, promette che «Nim conosce molte cose — molti segreti!»
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+Nim, che di tanto in tanto guarda con interesse affamato gli arti carnosi dei giocatori, dovrebbe far sentire i giocatori a disagio, turbati, o cupamente divertiti, e si sente più spesso affamato, ossessionato, piagnucoloso, paranoico o in preda alla rabbia. Nim è disposto a condividere le seguenti informazioni se i giocatori gli permettono di andarsene in pace:
 
-If a player approaches or crosses in front of the fireplace, read:
+* Molto tempo fa, l'«acqua sibilante» era molto più piccola, e la «terra annegata» nei dintorni era arida e bellissima.
+* Allora come ora, un antico cerchio di pietre si ergeva sulla riva opposta dell'«acqua sibilante» vicino al villaggio, contrassegnato con il sigillo del ragno. Sebbene Nim non l'abbia visto di persona, qualcuno le ha raccontato che «il Maestro Oscuro» aveva rivendicato le pietre dal loro vecchio padrone. Se interrogata su come, Nim rivela che il «Maestro Oscuro» ha reclamato le pietre con l'aiuto della «gente-del-bosco, e dei loro corni e artigli». (Nim si riferisce al Popolo della Foresta che aiutò Strahd a dissacrare per la prima volta il Fane della Palude. Sebbene Nim non se lo ricordi, Nim — allora una villica di Berez di nome Nimira — aveva appreso la storia dalla nonna, che aveva spiato il primo incontro dei druidi con Strahd al Fane.)
+* «Il giorno in cui la terra annegò», il cerchio di pietre tremò, e una grande onda esplose dalle montagne attraverso il fiume. «Nim scappò», sibila Nim. «Cose oscure nell'acqua. Non osava restare.» Aggiunge, piangendo: «Ma così *affamata*.» (Un giocatore con un punteggio passivo di Saggezza (Perspicacia) pari o superiore a 8 nota che le lacrime di Nim sono false, e che Nim sta guardando la carne dei giocatori attraverso le dita con interesse calcolatore e speranzoso.)
+* Di recente, il «Maestro Oscuro» ha ricominciato a visitare il cerchio di pietre — e ogni volta che lo fa, il cerchio trema, sebbene più quietamente di quanto facesse in passato. Anche la «donna della palude» — Baba Lysaga — ha cominciato a visitarlo, e Nim ha osservato strane luci e rumori ogni volta che lo fa. (Nim non sa cosa stia facendo Baba Lysaga.)
+
+Se il **roc** è apparso durante il combattimento, Nim può identificarlo come il «Grande Corvo», che dimora sulla «fredda montagna». Nim non sa perché potrebbe aver attaccato.
+
+Se gli è permesso di andarsene, Nim sibila euforico e scappa a quattro zampe, svanendo nella nebbia.
+
+# M4. Il Primo Piano
+
+## M4a. Il Cimitero
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q15 e Q16.</em></span>
+
+Il cimitero e il mausoleo sono per lo più come descritti in <span class="citation">Q15. Cimitero (p. 134)</span> e <span class="citation">Q16. Mausoleo del Drago (p. 134)</span>. Tuttavia, aggiungere il seguente testo alla fine della descrizione dell'interno del mausoleo:
 
 <div class="description">
-<p>An alien sense of anticipation and childlike excitement suddenly grips you. It’s only after a moment that you realize that the sensation isn’t coming from you, but from something brushing against your mind.</p>
+<p>Due torce spente riposano in portatorce arrugginiti lungo la parete di fondo, ai lati del verso.</p>
 </div>
 
-The emotions are a telepathic communication sent by the spirit of Zorya, Argynvost’s deceased **pseudodragon** familiar, which is hiding in the pot over the fireplace instead of a bat. The sensations fade if the player moves away from the fireplace, and grow stronger if the player moves closer.
+## M4b. L'Ala dello Steward
 
-> [!lore]+ **Argynvost’s Familiar**
+### La Cucina
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q10.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q10. Cucina (p. 133).</span> Tuttavia, la pentola di ferro ha un coperchio e non trema quando i giocatori entrano per la prima volta nella stanza. Al contrario, la stanza è notevolmente più fredda delle stanze circostanti, sebbene non al punto di gelo.
+
+Se un giocatore si avvicina o attraversa davanti al camino, leggi:
+
+<div class="description">
+<p>Un'estranea sensazione di attesa e gioia infantile vi stringe all'improvviso. Solo dopo un momento vi rendete conto che la sensazione non proviene da voi, ma da qualcosa che sfiorò la vostra mente.</p>
+</div>
+
+Le emozioni sono una comunicazione telepatica inviata dallo spirito di Zorya, il defunto famiglio **pseudodrago** di Argynvost, che si nasconde nella pentola sopra il camino invece di un pipistrello. Le sensazioni svaniscono se il giocatore si allontana dal camino, e si intensificano se si avvicina.
+
+> [!lore]+ **Il Famiglio di Argynvost**
 >
-> When he came to Barovia, Argynvost brought with him Zorya, a rare silver-scaled **pseudodragon** he had found in the forests of a distant land. An intelligent, if mischievous creature, Zorya served as Argynvost’s loyal companion until her death on the day of Argynvostholt’s fall. In death, she is a shy, if playful spirit, though she mourns Argynvost’s death and subsequent silence.
+> Quando venne in Barovia, Argynvost portò con sé Zorya, un raro **pseudodrago** dalle scaglie argentate che aveva trovato nelle foreste di una terra lontana. Creatura intelligente, sebbene dispettosa, Zorya servì come fedele compagna di Argynvost fino alla sua morte il giorno della caduta di Argynvostholt. Nella morte, è uno spirito timido, sebbene giocherellone, che piange la morte di Argynvost e il suo successivo silenzio.
 >
-> If found by the players, Zorya attempts to engage them in her favorite game—hide-and-seek—using her ***limited telepathy*** feature to communicate basic emotions, images, and ideas as the game unfolds. Each time the players find her, the following events occur unless the players prevent them:
+> Se trovata dai giocatori, Zorya tenta di coinvolgerli nel suo gioco preferito — nascondino — usando la sua caratteristica ***telepatia limitata*** per comunicare emozioni, immagini e idee di base mentre il gioco si svolge. Ogni volta che i giocatori la trovano, si verificano i seguenti eventi a meno che i giocatori non li impediscano:
 >
-> * Any sensations of anticipation and excitement vanish, to be replaced by sensations of amusement and delight. 
-> * Zorya flees into the next chamber and hides herself there.
-> * The temperature in the players’ current room returns to normal, and the temperature in Zorya’s new hiding place plummets.
-> * The sensations of amusement and delight fade, to be replaced by muted sensations of anticipation and excitement.
+> * Tutte le sensazioni di attesa ed eccitazione svaniscono, sostituite da sensazioni di divertimento e gioia.
+> * Zorya fugge nella stanza successiva e vi si nasconde.
+> * La temperatura nella stanza attuale dei giocatori torna alla normalità, e la temperatura nel nuovo nascondiglio di Zorya precipita.
+> * Le sensazioni di divertimento e gioia svaniscono, sostituite da attenuate sensazioni di attesa ed eccitazione.
 
-If a player moves within reach of the iron pot, read:
+Se un giocatore si avvicina a portata della pentola di ferro, leggi:
 
 <div class="description">
-<p>The iron pot suddenly begins to tremble, rattling on its hook and bobbing up and down as though something is inside it. The alien emotions intensify to a nervous, yet excitable giddiness.</p>
+<p>La pentola di ferro comincia improvvisamente a tremare, scuotendosi sul gancio e sobbalzando su e giù come se ci fosse qualcosa dentro. Le emozioni estranee si intensificano fino a diventare un'agitazione nervosa ma eccitabile.</p>
 </div>
 
-If a player removes the pot’s lid, Zorya—in the form of a wisp of silvery mist—bursts forth from the pot’s interior with a sound like chiming crystal and flees into [[#Servants’ Quarters]]. When she does, the players feel a muted sense of hopeful longing in addition to any other emotions.
-### Servants’ Quarters
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q9.</em></span>
+Se un giocatore toglie il coperchio della pentola, Zorya — sotto forma di un soffio di nebbia argentea — scatta fuori dall'interno della pentola con un suono simile a cristallo che tintinna e fugge negli [[#Alloggi della Servitù]]. Quando lo fa, i giocatori avvertono una smorzata sensazione di nostalgia speranzosa in aggiunta alle altre emozioni.
 
-This area is as described in <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
+### Gli Alloggi della Servitù
 
-If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q9.</em></span>
 
-If a player moves within reach of Zorya’s bed, a player with a passive Wisdom (Perception) score of 15 or greater notices the motheaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
+Quest'area è come descritta in <span class="citation">Q9. Alloggi della Servitù (p. 133).</span>
 
-If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Parlor]]. When she does, the players feel a diminished sense of longing and a small sense of satisfaction in addition to any other emotions.
-### Parlor
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
+Se i giocatori hanno già incontrato Zorya in [[#La Cucina]], la temperatura della stanza è notevolmente inferiore alle stanze vicine e Zorya si nasconde sotto il telaio del letto nordorientale.
 
-This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
+Se un giocatore si avvicina a portata del letto di Zorya, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 nota che le gonne tarlate del letto sotto il telaio cominciano a saltellare ed agitarsi eccitate, le sensazioni di attesa ed eccitazione che si intensificano nella mente del giocatore. (Un giocatore che controlla il letto di Zorya nota automaticamente le gonne in movimento.)
 
-If the players have previously encountered Zorya in the [[#Servants’ Quarters]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding behind the drapes of the western window.
+Se un giocatore sposta le gonne del letto per rivelare il nascondiglio di Zorya, Zorya — sotto forma di una nuvola di nebbia argentea con caratteristiche notevolmente rettiliane — scatta fuori con un suono simile a cristallo che tintinna e fugge nel [[#Salotto]]. Quando lo fa, i giocatori avvertono una diminuita sensazione di nostalgia e una piccola sensazione di soddisfazione in aggiunta alle altre emozioni.
 
-If a player moves within reach of Zorya’s window, a player with a passive Wisdom (Perception) score of 15 or greater notices the tattered drapes shift and rustle quietly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s window notices the moving drapes automatically.)
+### Il Salotto
 
-If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Dragon’s Den]]. When she does, the players feel a swelling sense of satisfaction in addition to any other emotions.
-### Dragon’s Den
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q7.</em></span>
 
-This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
+Quest'area è come descritta in <span class="citation">Q7. Salotto (p. 133).</span>
 
-If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
+Se i giocatori hanno già incontrato Zorya negli [[#Gli Alloggi della Servitù]], la temperatura della stanza è notevolmente inferiore alle stanze vicine e Zorya si nasconde dietro le tende della finestra occidentale.
 
-If a player moves within reach of Zorya’s decanter, a player with a passive Wisdom (Perception) score of 15 or greater notices a small, winged shadow fidgeting impatiently behind the glass, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s decanter notices the moving shadow automatically.)
+Se un giocatore si avvicina a portata della finestra di Zorya, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 nota che le tende sfilacciate si muovono e frusciamo sommessamente, le sensazioni di attesa ed eccitazione che si intensificano nella mente del giocatore. (Un giocatore che controlla la finestra di Zorya nota automaticamente le tende in movimento.)
 
-If a player unstops the decanter to reveal Zorya’s hiding place, she bursts forth with a trill of delight and plunges into the fireplace. Read:
+Se un giocatore sposta le tende per rivelare il nascondiglio di Zorya, Zorya — di nuovo sotto forma di una nuvola di nebbia argentea con caratteristiche notevolmente rettiliane — scatta fuori con un suono simile a cristallo che tintinna e fugge nel [[#Il Covo del Drago]]. Quando lo fa, i giocatori avvertono un crescente senso di soddisfazione in aggiunta alle altre emozioni.
+
+### Il Covo del Drago
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q6.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q6. Covo del Drago (p. 132).</span> Tuttavia, il fuoco vivente non appare mentre i giocatori si avvicinano al camino.
+
+Se i giocatori hanno già incontrato Zorya nel [[#Il Salotto]], la temperatura della stanza è notevolmente inferiore alle stanze vicine e Zorya si nasconde all'interno del sarcofago-dispensa del vino, celata in una caraffa di vetro smerigliato.
+
+Se un giocatore si avvicina a portata della caraffa di Zorya, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 nota una piccola ombra alata che si agita impazientemente dietro il vetro, le sensazioni di attesa ed eccitazione che si intensificano nella mente del giocatore. (Un giocatore che controlla la caraffa di Zorya nota automaticamente l'ombra in movimento.)
+
+Se un giocatore stappa la caraffa per rivelare il nascondiglio di Zorya, lei scatta fuori con un trillo di gioia e si tuffa nel camino. Leggi:
 
 <div class="description">
-<p>A fire of silver flames erupts in the dead hearth and assumes a draconic form. It hisses and crackles - and then yawns, stretches, and unfurls its smoky wings as a familiar sound like chiming crystal pours forth from its tiny throat.</p>
+<p>Un fuoco di fiamme argentee erutta nel focolare spento e assume una forma draconica. Sibila e crepita — poi sbadiglia, si stiracchia e dispiega le ali fumose mentre un suono familiare simile a cristallo che tintinna scaturisce dalla sua minuta gola.</p>
 </div>
 
 ![[Zorya.png]]
-<span class="credit">"Zorya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Zorya" di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-If the players don’t immediately respond, Zorya chirps happily and flutters up into the air before attempting to settle on the shoulder of whichever player most befriended her during the game. (Though made of fire, Zorya’s body is cold to the touch, not hot.) 
+Se i giocatori non reagiscono immediatamente, Zorya cinguetta felice e si solleva nell'aria prima di tentare di posarsi sulla spalla del giocatore che si è maggiormente amichevolmente con lei durante il gioco. (Sebbene composta di fuoco, il corpo di Zorya è freddo al tatto, non caldo.)
 
-Once befriended in this way, Zorya remains with the players while they remain within Argynvostholt unless driven away. The revenants and spirits of Argynvostholt won’t attack Zorya, though she aids the players in battle where possible.
+Una volta conquistata la sua amicizia in questo modo, Zorya rimane con i giocatori finché restano ad Argynvostholt, a meno che non venga scacciata. I redivivi e gli spiriti di Argynvostholt non attaccheranno Zorya, sebbene lei aiuti i giocatori in battaglia ove possibile.
 
-> [!abstract]+ **Zorya's Assistance**
-> If the players convey to Zorya their intent to seek out the insight of other spirits in the mansion, Zorya guides the players beneath one of the den's rotted divans, where a small brass key has fallen between one of the divan's legs and the wall. (The key unlocks the doors to the [[#Knights’ Quarters]].)
-> 
-> If asked which door the key unlocks, Zorya is happy to guide the players to the [[#Knights’ Quarters]], though she responds with obvious distress and surprise should the **phantom warriors** there attack.
+> [!abstract]+ **L'Aiuto di Zorya**
+> Se i giocatori comunicano a Zorya l'intenzione di cercare l'intuizione degli altri spiriti nella dimora, Zorya li guida sotto uno dei divani marciti del covo, dove una piccola chiave di ottone è caduta tra una delle gambe del divano e la parete. (La chiave sblocca le porte degli [[#Gli Alloggi dei Cavalieri]].)
+>
+> Se interrogata su quale porta apra la chiave, Zorya è felice di guidare i giocatori agli [[#Gli Alloggi dei Cavalieri]], sebbene risponda con evidente angoscia e sorpresa qualora i **guerrieri fantasma** presenti attacchino.
 
 <div class="statblock">
-<h2>Zorya, Pseudodragon Spirit</h2>
-<em>Tiny Undead, Neutral Good</em>
+<h2>Zorya, Spirito Pseudodrago</h2>
+<em>Non-morto Minuscolo, Neutrale Buono</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 7 (2d4 + 2)
+<strong>Punti Ferita</strong> 7 (2d4 + 2)
 <br>
-<strong>Speed</strong> 15 ft., fly (hover) 60 ft.
+<strong>Velocità</strong> 5 m, volo (librarsi) 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -463,572 +500,620 @@ Once befriended in this way, Zorya remains with the players while they remain wi
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Perception +3, Stealth +4<br>
-<strong>Damage Immunities</strong> acid, cold, fire, lightning, thunder, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
-<strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> understands Common and Draconic but can't speak<br>
-<strong>Challenge</strong> 1/4<br>
+<strong>Competenze</strong> Percezione +3, Furtività +4<br>
+<strong>Immunità ai Danni</strong> acido, freddo, fuoco, fulmine, tuono, veleno; danni contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Immunità alle Condizioni</strong> affascinato, stanchezza, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br>
+<strong>Sensi</strong> Vista cieca 3 m, scurovisione 18 m, Percezione passiva 13<br>
+<strong>Lingue</strong> comprende il Comune e il Draconico ma non può parlare<br>
+<strong>Grado di Sfida</strong> 1/4<br>
 <hr>
-<p><strong><em>Keen Senses.</em></strong> Zorya has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>
-<p><strong><em>Limited Telepathy.</em></strong> Zorya can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.</p>
-<p><strong><em>Magic Resistance.</em></strong> Zorya has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> Zorya can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</p>
-<p><strong><em>Ghostfire.</em></strong> Any damage Zorya deals with her <strong><em>breath weapon</em></strong> to incorporeal creatures ignores immunity to cold damage.</p>
-<p><strong><em>Ethereal Escape (1/day)</em></strong>. If Zorya would be reduced to 0 hit points, she is instead reduced to 1 hit point and flees into the Ethereal Plane, returning to the Material Plane after 1 minute.</p>
-<h3>Actions</h3>
-<p><strong><em>Breath Weapon (Recharge 5-6).</em></strong> Zorya exhales an icy blast of silver fire in a 10-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p><strong><em>Misty Step.</em></strong> In response to Zorya or a creature within 5 feet of her being hit or missed by an attack, Zorya casts <em>misty step</em>, bringing along up to one willing creature within 5 feet of her. A creature teleported in this way takes half damage from the triggering attack.</p>
+<p><strong><em>Sensi Acuti.</em></strong> Zorya ha vantaggio alle prove di Saggezza (Percezione) che si basano sulla vista, sull'udito o sull'olfatto.</p>
+<p><strong><em>Telepatia Limitata.</em></strong> Zorya può comunicare magicamente idee semplici, emozioni e immagini in via telepatica con qualsiasi creatura entro 30 metri da lei che possa comprendere una lingua.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> Zorya ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Zorya può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.</p>
+<p><strong><em>Fuoco Fantasma.</em></strong> Qualsiasi danno che Zorya infligge con la sua <strong><em>arma del respiro</em></strong> alle creature incorporee ignora l'immunità ai danni da freddo.</p>
+<p><strong><em>Fuga Eterea (1/giorno).</em></strong> Se Zorya verrebbe ridotta a 0 punti ferita, è invece ridotta a 1 punto ferita e fugge nel Piano Etereo, tornando al Piano Materiale dopo 1 minuto.</p>
+<h3>Azioni</h3>
+<p><strong><em>Arma del Respiro (Ricarica 5-6).</em></strong> Zorya emette un getto di fuoco argenteo ghiacciato in un cono di 3 metri. Ogni creatura in quell'area deve effettuare un tiro salvezza di Costituzione con CD 11, subendo 5 (2d4) danni da freddo se fallisce, o la metà dei danni se riesce.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Passo Velato.</em></strong> In risposta a Zorya o a una creatura entro 1,5 metri da lei che viene colpita o mancata da un attacco, Zorya lancia <em>passo velato</em>, portando con sé fino a una creatura consenziente entro 1,5 metri da lei. Una creatura teletrasportata in questo modo subisce la metà dei danni dall'attacco scatenante.</p>
 </div>
 
-### Wine Storage
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
+### Il Deposito del Vino
 
-This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q11.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q11. Deposito del Vino (p. 133).</span> Tuttavia, l'elfo crepuscolare Savid non è presente. Aggiungere invece il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
-</div> 
+<p>Una vecchia macchia viola copre gran parte della metà distante del pavimento di pietra, sbiadita e scolorita con l'età. Una spranga arrugginita è appoggiata alla parete poco distante.</p>
+</div>
 
-A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
+Un giocatore che ispeziona la macchia e supera una prova di Intelligenza (Indagare) con CD 12 determina che sembra aver avuto origine dalla botte nordorientale.
 
-The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this until the end of days" engraved around the inside of the ring.
+La botte nordorientale sembra essere vuota. Tuttavia, un giocatore che usa la spranga o un altro attrezzo per aprirla trova all'interno una piccola borsa di cotta di maglia. La borsa contiene due anelli d'argento. Ogni anello è una semplice fascia d'argento con le parole «Da questo fino alla fine dei giorni» incise all'interno dell'anello.
 
-> [!lore]+ **The Rings**
-> The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life. 
-> 
-> If shown the rings, Godfrey notes only, with mild interest, that the rings' engraving appears to be excerpted from the oath of the Order of the Silver Dragon, which is described further in [[#Knights of the Order]].
-## M4c. Spiders’ Ballroom
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
+> [!lore]+ **Gli Anelli**
+> I due anelli sono fedi nuziali, e appartenevano a Vladimir Horngaard e Sir Godfrey Gwilym. Vladimir e Godfrey nascosero questi anelli qui la notte prima della loro morte, decisi a non permettere a Strahd di saccheggiarli e giurando di tornare a recuperarli se fossero stati vittoriosi. Tuttavia, l'inquietudine ha privato entrambi gli uomini del ricordo degli anelli, così come dell'amore che condividevano in vita.
+>
+> Se mostrati gli anelli, Godfrey osserva solo, con lieve interesse, che l'incisione degli anelli sembra essere tratta dal giuramento dell'Ordine del Drago Argenteo, descritto ulteriormente in [[#I Cavalieri dell'Ordine]].
 
-This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+## M4c. La Sala da Ballo dei Ragni
 
-> [!combat]- **Combat - The Spiders' Ballroom**  
-> **Combat Level**: Bruising (first wave), Mild (second wave)
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 30% (first wave), 7% (second wave), for a total of 37%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q4.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q4. Sala da Ballo dei Ragni (p. 132).</span> Tuttavia, sostituire due dei **ragni giganti** con una coppia di **ragni di fase** in agguato nel Piano Etereo, che emergono nel Piano Materiale e attaccano quando tutti i **ragni giganti** sono stati sconfitti.
+
+> [!combat]- **Combattimento - La Sala da Ballo dei Ragni**
+> **Livello di Combattimento**: Impegnativo (prima ondata), Lieve (seconda ondata)
+> **Livello di Personaggio Previsto**: 6
+> **Alleati:** Zorya (GS 1/4), Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo di PE Previsto:** 30% (prima ondata), 7% (seconda ondata), per un totale del 37%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Giant Spider | 5 | 6 | 7 | 8 |
-> | Phase Spider | 2 | 2 | 2 | 2 |
+> | Ragno Gigante | 5 | 6 | 7 | 8 |
+> | Ragno di Fase | 2 | 2 | 2 | 2 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica l'incontro nei seguenti modi:
 >
-> | Number of Players | Modification |
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the number of giant spiders in the first wave to five. Have the phase spiders appear in waves—first one, then the other. |
-> | 4 | Reduce the number of giant spiders in the first wave to six. |
-> | 6 | Increase the number of giant spiders in the first wave to eight. |
+> | 3 | Riduci il numero di ragni giganti nella prima ondata a cinque. Fai apparire i ragni di fase a ondate — prima uno, poi l'altro. |
+> | 4 | Riduci il numero di ragni giganti nella prima ondata a sei. |
+> | 6 | Aumenta il numero di ragni giganti nella prima ondata a otto. |
 
-> [!info]+ **Phase Spider Harvesting**
-> A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
-> 
-> If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
-> 
-> * **DC 14.** The character harvests one vial of venom.
-> * **DC 16.** The character harvests two vials of venom.
-> * **DC 18.** The character harvests three vials of venom.
+> [!info]+ **Raccogliere il Veleno del Ragno di Fase**
+> Un singolo **ragno di fase** adulto possiede due zanne grandi, ognuna delle quali può produrre fino a tre fiale di veleno. Un personaggio può raccogliere con successo una singola zanna superando una prova di Destrezza (Natura) con CD 12. (In caso di fallimento, la zanna è spezzata e inutilizzabile.)
+>
+> Se è disponibile una fiala di vetro o materiale non reattivo simile, un personaggio può raccogliere una o più fiale di veleno superando una prova di Destrezza (Natura) e raggiungendo una delle seguenti CD:
+>
+> * **CD 14.** Il personaggio raccoglie una fiala di veleno.
+> * **CD 16.** Il personaggio raccoglie due fiale di veleno.
+> * **CD 18.** Il personaggio raccoglie tre fiale di veleno.
 
-> [!item]+ **Phase Spider Fang**
-> While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
+> [!item]+ **Zanna di Ragno di Fase**
+> Mentre si usa questa zanna come componente materiale aggiuntiva per i propri incantesimi, i danni da acido, freddo, fuoco, fulmine, tuono o veleno inflitti dagli incantesimi ai non-morti incorporei ignorano l'immunità a quel tipo di danno. (La zanna non viene consumata in questo modo.)
 
-> [!item]+ **Vial of Phase Spider Venom**
-> You can use the venom in this vial to coat one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
+> [!item]+ **Fiala di Veleno di Ragno di Fase**
+> Puoi usare il veleno in questa fiala per rivestire un'arma o fino a tre munizioni. Applicare il veleno richiede un'azione. I danni inflitti ai non-morti incorporei da un'arma o munizione rivestita ignorano l'immunità a quel tipo di danno. Una volta applicato, il veleno mantiene la sua potenza per 10 minuti prima di seccarsi.
 
-A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
+Un giocatore che supera una prova di Saggezza (Percezione) con CD 14 in questa stanza nota una vecchia borsa di cuoio intrappolata nelle ragnatele nell'angolo nordovest superiore della stanza, vicino al soffitto. (Un giocatore che si prende un minuto per esaminare la stanza trova automaticamente la borsa.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+La borsa, che sembra aver avuto la sua cinghia di cuoio strappata con forza, contiene due fiale di *acqua santa* e un libro intitolato *Il Giuramento Celestiale*, come descritto in <span class="citation">Q40. Studio di Argynvost (p. 140)</span>. Un semplice segnalibro di cuoio inciso con il sigillo del Signore del Mattino — un sole nascente — segna il posto di un brano nel libro intitolato *Preghiera per i Defunti*. Recita come segue:
 
 <div class="description">
-<p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
+<p>Benedetto Signore del Mattino, arrecatore dell'alba, onoriamo coloro che hanno intrapreso il viaggio verso il tuo regno di radiosità eterna. Nella tua luce, concedi loro pace, da questo fino alla fine dei giorni.</p>
 </div>
 
-## M4d. Exterior
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
+## M4d. Esterno
 
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
-# M5. Second Floor
-## M5a. Central Hall
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q5 e Q8.</em></span>
 
-The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
+Queste aree sono come descritte in <span class="citation">Q5. Stalla in Rovina (p. 132)</span> e <span class="citation">Q8. Cancello di Ferro (p. 133).</span>
 
-However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
-## M5b. Northern Chambers
-### Guest Rooms
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
+# M5. Il Secondo Piano
 
-These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
-### Trapped Hallway
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
+## M5a. Corridoio Centrale
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q17, Q18, Q20, Q21, Q22 e Q23.</em></span>
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Le scale occidentali, i balconi, l'alcova sud, l'alcova nord, il bagno e il ripostiglio sono per lo più come descritti in <span class="citation">Q17. Scale Occidentali (p. 135)</span>, <span class="citation">Q18. Balconi (p. 135)</span>, <span class="citation">Q20. Alcova Sud (p. 135)</span>, <span class="citation">Q21. Alcova Nord (p. 135)</span>, <span class="citation">Q22. Bagno (p. 135)</span> e <span class="citation">Q23. Ripostiglio (p. 135)</span>.
 
-* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
-* Each **phantom warrior** gains a fly (hover) speed of 30 feet.
-* Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
-* Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
-  
-> [!combat]- **Combat - The Trapped Hallway**  
-> **Combat Level**: Bloody
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 45%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+Tuttavia, nessuna illusione appare in <span class="citation">Q20. Alcova Sud (p. 135)</span>. Inoltre, invece di un busto di alabastro raffigurante un essere umano, il tessuto copre una scultura di alabastro di un piccolo drago che regge un braciere riempito di "fiamme" di alabastro.
+
+## M5b. Le Camere Settentrionali
+
+### Le Camere degli Ospiti
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q26 e Q29.</em></span>
+
+Queste aree sono per lo più come descritte in <span class="citation">Q26. Camera degli Ospiti Nordest (p. 136)</span> e <span class="citation">Q29. Camera degli Ospiti Nordovest (p. 136)</span>. Tuttavia, nessun drago appare nel camino quando i giocatori si avvicinano.
+
+### Il Corridoio con le Trappole
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q25.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q25. Corridoio con le Trappole (p. 136)</span>. Tuttavia, il corridoio è notevolmente più freddo delle aree circostanti. Inoltre, nessun **guerriero fantasma** risiede in <span class="citation">Q27. Alloggi dei Cavalieri (p. 136)</span> e <span class="citation">Q28. Alloggi dei Cavalieri (p. 136)</span>, le cui porte restano chiuse a chiave. Infine, non vi è alcuna trappola *muro di pietra*.
+
+Al contrario, quando i giocatori tentano per la prima volta di aprire una delle porte che conducono a <span class="citation">Q27. Alloggi dei Cavalieri (p. 136)</span> o <span class="citation">Q28. Alloggi dei Cavalieri (p. 136)</span>, cinque **guerrieri fantasma** usano la loro caratteristica ***etereità*** per emergere dal Piano Etereo, tre che salgono dal pavimento alle spalle dei giocatori e due che passano attraverso la superficie della porta che i giocatori tentavano di aprire. Modificare le statistiche dei guerrieri fantasma come segue:
+
+* Aumentare i punti ferita di ciascun **guerriero fantasma** a 75 (10d8 + 30).
+* Ciascun **guerriero fantasma** acquisisce una velocità di volo (librarsi) di 9 metri.
+* Ciascun **guerriero fantasma** ha immunità ai danni da acido, freddo, fuoco, fulmine, tuono e veleno, nonché ai danni contundenti, perforanti e taglienti da attacchi non magici. (Il guerriero non ha immunità ai danni necrotici.)
+* Ciascun **guerriero fantasma** acquisisce la seguente caratteristica: ***Vincolato all'Etere.*** Mentre si trova nel Piano Etereo, il guerriero fantasma perde le sue resistenze ai danni e non può usare la sua caratteristica ***movimento incorporeo***.
+
+> [!combat]- **Combattimento - Il Corridoio con le Trappole**
+> **Livello di Combattimento**: Sanguinoso
+> **Livello di Personaggio Previsto**: 6
+> **Alleati:** Zorya (GS 1/4), Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo di PE Previsto:** 45%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Phantom Warrior | 4 | 4 | 5 | 6 |
+> | Guerriero Fantasma | 4 | 4 | 5 | 6 |
 
-Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
+Si noti che, in combattimento, un **guerriero fantasma** può attaccare dall'alto un giocatore usando la sua velocità di volo (librarsi), ma non può attaccare attraverso i muri.
 
-If all players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, either illusory or obtained from [[#The Mass Grave]], the warriors silently nod and vanish once more into the Ethereal Plane, allowing the players to pass in peace.
+Se tutti i giocatori sembrano indossare abiti o equipaggiamento recanti l'insegna dell'Ordine del Drago Argenteo, reale o ottenuto dalla [[#La Fossa Comune]], i guerrieri annuiscono in silenzio e svaniscono di nuovo nel Piano Etereo, permettendo ai giocatori di passare in pace.
 
-If some, but not all of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, one of the phantom warriors tightens her grip upon her sword and asks the players to explain why they have allowed outsiders to enter Argynvostholt. "The Devil's forces are at our gates," the spirit growls. "Do you not understand that a single infiltrator could bring our resistance to its knees?" 
+Se solo alcuni dei giocatori sembrano indossare abiti o equipaggiamento recanti l'insegna dell'Ordine del Drago Argenteo, uno dei guerrieri fantasma stringe con più forza la spada e chiede ai giocatori di spiegare perché abbiano permesso agli estranei di entrare in Argynvostholt. «Le forze del Diavolo sono ai nostri cancelli», ringhia lo spirito. «Non capite che un singolo infiltratore potrebbe spezzare la nostra resistenza?»
 
-The players can convince the spirit to allow any "outsiders" to pass with a successful DC 20 Charisma (Persuasion or Deception) check. Otherwise, the phantom warriors deem the players potential traitors and attack.
+I giocatori possono convincere lo spirito a lasciar passare qualsiasi «estraneo» con una prova di Carisma (Persuasione o Inganno) con CD 20 riuscita. In caso contrario, i guerrieri fantasma ritengono i giocatori potenziali traditori e attaccano.
 
-If none of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, the phantom warriors immediately attack. 
+Se nessuno dei giocatori sembra indossare abiti o equipaggiamento recanti l'insegna dell'Ordine del Drago Argenteo, i guerrieri fantasma attaccano immediatamente.
 
-On initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#M3c. Chapel of Morning]], up to two of those spirits manifest as **specters** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***life drain***, each specter gains the following attack:
+Al conteggio di iniziativa 20 del primo round di combattimento, se i giocatori hanno liberato alcuni degli spiriti intrappolati dei soldati di Strahd in [[#M3c. La Cappella del Mattino]], fino a due di quegli spiriti si manifestano come **spettri** recanti lance ed elmi con le corna per difendere i giocatori in segno di gratitudine. Invece del loro ***prosciugamento vitale***, ciascuno spettro acquisisce il seguente attacco:
 
-* ***Spectral Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) force damage.
+* ***Lancia Spettrale.*** *Attacco con Arma da Mischia:* +4 al tiro per colpire, gittata 1,5 m., un bersaglio. *Colpito:* 5 (1d6 + 2) danni da forza.
 
-In battle, the **phantom warriors** shout “Death to the invaders!", “For Argynvost!", and “Remember Horngaard!" The phantom warriors are spirits of soldiers who fell defending the mansion against Strahd’s armies. Cursed to relive the memory of that day while Vladimir Horngaard’s hatred binds them to Barovia, they can’t be stopped or reasoned with.
+In battaglia, i **guerrieri fantasma** gridano «Morte agli invasori!», «Per Argynvost!» e «Ricordate Horngaard!» I guerrieri fantasma sono spiriti di soldati caduti difendendo la dimora contro gli eserciti di Strahd. Maledetti a rivivere il ricordo di quel giorno finché l'odio di Vladimir Horngaard li vincola alla Barovia, non possono essere fermati né ragionati.
 
-When the **phantom warriors** are defeated, any surviving **specters** warmly nod to the players, then vanish. The temperature in the corridor then returns to normal.
-### Knights’ Quarters
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
+Quando i **guerrieri fantasma** vengono sconfitti, gli eventuali **spettri** sopravvissuti annuiscono calorosamente ai giocatori, poi svaniscono. La temperatura nel corridoio torna quindi alla normalità.
 
-These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+### Gli Alloggi dei Cavalieri
 
-In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q27 e Q28.</em></span>
+
+Queste aree sono per lo più come descritte in <span class="citation">Q27. Alloggi dei Cavalieri (p. 136)</span> e <span class="citation">Q28. Alloggi dei Cavalieri (p. 136)</span>. Tuttavia, le quattro *pozioni di invulnerabilità* in <span class="citation">Q28. Alloggi dei Cavalieri (p. 136)</span> sono invece *pozioni di guarigione maggiore* (<span class="citation">Manuale del Dungeon Master, p. 187</span>).
+
+Inoltre, <span class="citation">Q27. Alloggi dei Cavalieri (p. 136)</span> è infestata dallo spirito di Minodora Taltos, un **poltergeist** che un tempo servì come archivista dell'Ordine del Drago Argenteo durante la guerra contro Strahd. Quando i giocatori entrano per la prima volta in questa stanza, leggi:
 
 <div class="description">
-<p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
+<p>La temperatura precipita innaturalmente oltre la soglia, il respiro che vi esce dalla bocca in piccole nuvole di vapore che indugiamo un momento prima di dissiparsi. Un sottile strato di brina smorza la luce grigia che filtra dalle vecchie finestre incrinate, e un gelo profondo sembra pervadere la stanza.</p>
 </div>
 
-When one or more players fully enter this room for the first time, read:
+Quando uno o più giocatori entrano completamente in questa stanza per la prima volta, leggi:
 
 <div class="description">
-<p>Four of the room’s five windows abruptly slam open, and a cold wind howls through the room. Large letters begin to emerge in the frost on the still-closed eastern window, each one meticulously and neatly formed: “IF YOU BE SERVANTS OF THE DEVIL, BEGONE."</p>
+<p>Quattro delle cinque finestre della stanza si spalancano di colpo, e un vento gelido ululante percorre la stanza. Grandi lettere cominciano a emergere nella brina sull'unica finestra ancora chiusa, quella orientale, ciascuna formata con meticolosa precisione: «SE SIETE SERVITORI DEL DIAVOLO, VIA.»</p>
 </div>
 
-The words are a warning sent by Minodora. The players can convince her that they aren’t Strahd’s soldiers with a successful DC 5 Charisma (Persuasion) check, succeeding automatically if they inform her of their relationship with Sir Godfrey or their purpose in the mansion.
+Le parole sono un avvertimento inviato da Minodora. I giocatori possono convincerla che non sono soldati di Strahd con una prova di Carisma (Persuasione) con CD 5 riuscita, riuscendo automaticamente se la informano della loro relazione con Sir Godfrey o del loro scopo nella dimora.
 
-Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window:
+Minodora è uno spirito solenne, sebbene dall'umorismo nero. Se i giocatori si guadagnano la sua amicizia, può condividere le seguenti informazioni tramite parole disegnate nella brina sulla finestra orientale:
 
-* In life, she served as a clerk to the Order of the Silver Dragon during the wars against Strahd. She died on the day Strahd’s forces broke into Argynvostholt, just a day after Commander Vladimir Horngaard and Sir Godfrey Gwilym perished in an assault on Strahd’s camp.
-* The **phantom warriors** in the mansion are the spirits of soldiers who died to Strahd’s attack, cursed to relive their memories of that day for eternity. (Minodora doesn’t know why they’re cursed.)
-* She doesn’t know anything about Argynvost’s whisperings. However, she knows that the spirit of Brother Marek, the Order’s former chaplain, keeps an ear and eye out for everything that happens in the spiritual realm of Argynvostholt.
+* In vita, servì come archivista dell'Ordine del Drago Argenteo durante le guerre contro Strahd. Morì il giorno in cui le forze di Strahd sfondarono ad Argynvostholt, appena un giorno dopo che il Comandante Vladimir Horngaard e Sir Godfrey Gwilym perirono nell'assalto all'accampamento di Strahd.
+* I **guerrieri fantasma** nella dimora sono spiriti di soldati morti nell'attacco di Strahd, maledetti a rivivere il ricordo di quel giorno per l'eternità. (Minodora non sa perché siano maledetti.)
+* Non sa nulla dei sussurri di Argynvost. Sa tuttavia che lo spirito di Fratello Marek, l'ex cappellano dell'Ordine, tiene occhi e orecchi aperti su tutto ciò che accade nel regno spirituale di Argynvostholt.
 
-> [!info]+ **Roleplaying Minodora**
-> Minodora prefers to use short, sparse messages of one to four words each wherever possible, and won't volunteer information unless specifically asked for it. For example, she might begin a conversation with the players as follows:
-> 
-> **Q. Who are you?**
-> A. Minodora.
-> 
-> **Q. Who were you in life? Were you a member of the Order of the Silver Dragon?**
-> A. Somewhat.
-> 
-> **Q. Were you a knight?**
-> A. No.
-> 
-> **Q. What did you do with the Order?**
-> A. I was a clerk.
-> 
-> **Q. How did you die?**
-> A. Invaders.
+> [!info]+ **Interpretare Minodora**
+> Minodora preferisce usare messaggi brevi e scarni di una o quattro parole ciascuno ove possibile, e non fornisce informazioni a meno che non venga specificamente interrogata. Ad esempio, potrebbe iniziare una conversazione con i giocatori come segue:
+>
+> **D. Chi sei?**
+> R. Minodora.
+>
+> **D. Chi eri in vita? Eri membro dell'Ordine del Drago Argenteo?**
+> R. In un certo senso.
+>
+> **D. Eri una cavaliera?**
+> R. No.
+>
+> **D. Cosa facevi per l'Ordine?**
+> R. Ero un'archivista.
+>
+> **D. Come sei morta?**
+> R. Gli invasori.
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
-## M5c. Southern Chambers
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
+Minodora è lieta di fornire ai giocatori indicazioni per il luogo preferito di Fratello Marek, <span class="citation">Q35. Galleria al Piano Superiore (p. 138)</span>. Li avverte tuttavia che Fratello Marek preferisce restare nel Piano Etereo ove possibile. Per attirare la sua attenzione, suggerisce, i giocatori potrebbero voler recuperare il suo libro di preghiere — che teneva in una borsa di cuoio nella sua camera da letto nella stanza occidentale di <span class="citation">Q19. Camere da Letto in Rovina (p. 135)</span> — e leggerne ad alta voce una delle preghiere.
 
-This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
+## M5c. Le Camere Meridionali
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q19.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q19. Camere da Letto in Rovina (p. 135)</span>. Tuttavia, aggiungere il seguente testo alla fine della descrizione della stanza occidentale:
 
 <div class="description">
-<p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
+<p>Lunghe e spesse ragnatele si estendono dalla parete orientale, giù attraverso il pavimento crollato fino allo spazio sottostante. Sembra che qualcosa sporga dalla parete oltre le ragnatele.</p>
 </div>
 
-If the players haven't yet defeated the spiders in [[#M4c. Spiders’ Ballroom]], add the following text to the end of each room’s description:
+Se i giocatori non hanno ancora sconfitto i ragni in [[#M4c. La Sala da Ballo dei Ragni]], aggiungere il seguente testo alla fine della descrizione di ciascuna stanza:
 
 <div class="description">
-<p>As you survey the room, you hear a faint, irregular clicking from the space beneath the floor, followed by the soft scratching of something unseen.</p>
+<p>Mentre osservate la stanza, udite un faint crepitio irregolare dallo spazio sotto il pavimento, seguito dal soffice raschio di qualcosa di invisibile.</p>
 </div>
 
-The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#M4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
+L'oggetto che sporge dalla parete nella stanza occidentale è un gancio di ferro arrugginito che reca una cinghia di cuoio strappata. (La cinghia un tempo apparteneva alla borsa di cuoio in [[#M4c. La Sala da Ballo dei Ragni]], ma fu strappata quando un **ragno gigante** prese la borsa e il suo contenuto come trofeo.) Sia il gancio che la cinghia sono ricoperti di ragnatele spesse e non possono essere identificati senza avvicinarsi.
 
-A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
-## M5d. Upper Chapel
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
+Una creatura deve superare una prova di Destrezza (Furtività) con CD 11, effettuata con svantaggio a causa del pavimento scricchiolante, per attraversare il pavimento senza allertare i ragni sottostanti. Una creatura che fallisce questa prova, o che taglia, danneggia o disturba in altro modo le ragnatele, attira un singolo **ragno gigante** da [[#M4c. La Sala da Ballo dei Ragni]], che striscia nella stanza e attacca. (Gli altri sei **ragni giganti** restano nella sala da ballo sottostante.)
 
-These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
-# M6. Third Floor
-## M6a. Halls of the Order
-#### Knights of the Order
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
+## M5d. La Cappella Superiore
 
-These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q14 e Q24.</em></span>
+
+Queste aree sono come descritte in <span class="citation">Q14. Scale della Cappella (p. 134)</span> e <span class="citation">Q24. Balcone della Cappella (p. 136)</span>. Tuttavia, la cappella sottostante è come descritta in [[#M3c. La Cappella del Mattino]].
+
+# M6. Il Terzo Piano
+
+## M6a. Le Sale dell'Ordine
+
+#### I Cavalieri dell'Ordine
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q37 e Q38 (p. 139).</em></span>
+
+Queste aree sono per lo più come descritte in <span class="citation">Q37. Cavalieri dell'Ordine (p. 139)</span> e <span class="citation">Q38. Ripostiglio (p. 139)</span>. Tuttavia, rimuovere l'ultima frase della descrizione dell'area. (Nessun **redivivo** siede sulle sedie attorno al tavolo.) Aggiungere invece quanto segue alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>An inscription appears to be carved into the wood around the circumference of the table.</p>
+<p>Un'iscrizione sembra essere incisa nel legno lungo la circonferenza del tavolo.</p>
 </div>
 
-The inscription is written in elegant calligraphy and interwoven with aged, intricate carvings of dragons and knights. It reads as follows:
+L'iscrizione è scritta in calligrafia elegante e intrecciata con antiche e intricate incisioni di draghi e cavalieri. Recita come segue:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
+<p>Giuro solennemente di difendere le virtù dell'Ordine del Drago Argenteo, con l'onore come scudo e la verità come guida.</p>
+<p>Nell'ombra del male, sarò la luce; di fronte alla disperazione, il faro della speranza. Nessuna sfida scrollerà la mia determinazione; nessuna sconfitta sopirà il mio cuore. Con spada e spirito, mi leverò contro le tenebre e forgerò un'alba più luminosa.</p>
+<p>Così giuro nel nome del Drago Argenteo, da questo fino alla fine dei giorni.</p>
 </div>
 
-#### Vladimir’s Bedroom
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
+#### La Camera di Vladimir
 
-This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q39.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q39. Camera di Vladimir (p. 140)</span>. Tuttavia, rimuovere le quattro frasi che descrivono l'orso, il lupo terribile e il forziere vuoto. Aggiungere invece il seguente testo alla fine della descrizione dell'area:
 
 <div class="description">
-<p>An old portrait hangs on the wall above the bed.</p>
+<p>Un vecchio ritratto è appeso alla parete sopra il letto.</p>
 </div>
 
-If a player inspects the portrait, read:
+Se un giocatore ispeziona il ritratto, leggi:
 
 <div class="description">
-<p>The portrait, its once-vibrant canvas faded and tearing, depicts two men in fine clothes standing side-by-side. Gleaming longswords hang from their hips, and their gloved hands are tightly clasped together. One man is tall and silver-haired, the other dark-haired and stocky, but both of their faces are featureless, bearing only smooth, unblemished skin.</p>
+<p>Il ritratto, la tela un tempo vivace ora sbiadita e lacerata, raffigura due uomini in abiti eleganti fianco a fianco. Spade lunghe lucenti pendono dai loro fianchi, e le mani guantate sono strette l'una nell'altra. Un uomo è alto e dai capelli argentei, l'altro dai capelli scuri e tarchiato, ma entrambi hanno i volti privi di tratti, recando solo pelle liscia e immacolata.</p>
 </div>
 
-A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) check recognizes that the men’s builds are recognizably similar to those of Sir Godfrey Gwilym and (if they have met him) Commander Vladimir Horngaard.
+Un giocatore che studia il ritratto e supera una prova di Saggezza (Percezione) con CD 15 riconosce che le corporature degli uomini sono riconoscibilmente simili a quelle di Sir Godfrey Gwilym e (se lo ha già incontrato) del Comandante Vladimir Horngaard.
 
-> [!lore]+ **The Portrait**
-> The portrait once depicted Commander Vladimir Horngaard and his husband, Sir Godfrey Gwilym. However, their faces vanished from the portrait after the Order’s resurrection, Vladimir’s blinding hatred for Strahd causing both knights to forget the love they shared in life.
-#### Argynvost’s Study
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
+> [!lore]+ **Il Ritratto**
+> Il ritratto raffigurava un tempo il Comandante Vladimir Horngaard e suo marito, Sir Godfrey Gwilym. Tuttavia, i loro volti svanirono dal ritratto dopo la resurrezione dell'Ordine, poiché il cieco odio di Vladimir per Strahd causò a entrambi i cavalieri di dimenticare l'amore che condividevano in vita.
 
-These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+#### Lo Studio di Argynvost
 
-Revise Argynvost’s journal page to read as follows:
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q40 e Q41.</em></span>
+
+Queste aree sono per lo più come descritte in <span class="citation">Q40. Studio di Argynvost (p. 140)</span> e <span class="citation">Q41. Caveau del Drago (p. 140)</span>. Tuttavia, la copia de *Il Giuramento Celestiale* non è più presente. Inoltre, il quadro squarciato è non magico e ripararlo non ha effetti aggiuntivi.
+
+Riscrivere la pagina del diario di Argynvost come segue:
 
 <div class="description">
-<p>My knights have fallen, and this land is lost. The armies of my enemy will not be stopped by sword or spell, claw or fang. Today I will die, not avenging those who have fallen, but defending that which I love—this valley, this home, and the ideals of the Order of the Silver Dragon.</p>
-<p>The evil surrounds me. The time has come to throw off this guise and show these heathens my true fearsome form. Let it spark terror in their hearts! Let them tell their stories of dark triumph against the protector of the Balinok Mountains! Let Argynvost be remembered as a dragon of honor and valor.</p>
-<p>I do not fear death. I have laid down my trappings beneath the tower's watchful gaze, so that others may carry my legacy in my stead. Though my body will die, my spirit will live on where the oath and fire of the Silver Dragon survive. Let it serve as a beacon of light against the darkness. Let it bring hope to a land fraught with despair.</p>
-<p>Now, to battle!</p>
+<p>I miei cavalieri sono caduti, e questa terra è perduta. Gli eserciti del mio nemico non possono essere fermati da spada né da incantesimo, da artiglio né da zanna. Oggi morirò, non vendicando coloro che sono caduti, ma difendendo ciò che amo — questa valle, questa dimora e gli ideali dell'Ordine del Drago Argenteo.</p>
+<p>Il male mi circonda. È giunto il momento di abbandonare queste spoglie e mostrare a questi profani la mia vera e terrificante forma. Possa essa far nascere terrore nei loro cuori! Che narrino le loro storie di tenebrosa vittoria contro il protettore dei Monti Balinok! Che Argynvost sia ricordato come un drago d'onore e di valore.</p>
+<p>Non temo la morte. Ho deposto i miei ornamenti sotto lo sguardo vigile della torre, affinché altri possano portare il mio lascito al mio posto. Sebbene il mio corpo muoia, il mio spirito sopravviverà là dove il giuramento e il fuoco del Drago Argenteo permangono. Possa esso servire da faro di luce contro le tenebre. Possa esso portare speranza in una terra gravata dalla disperazione.</p>
+<p>Ora, alla battaglia!</p>
 <p>A</p>
 </div>
 <br>
 
 ![[Argynvost_Journal_RRL.jpg]]
-<span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Il Diario di Argynvost" di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
+Se i giocatori ispezionano il quadro squarciato, riscrivere la prima frase della sua descrizione come segue:
 
 <div class="description">
-<p>The picture hangs askew in its place on the wall. It shows the mansion in better days, under clear winter skies with snow-capped mountains in the background.</p>
+<p>Il quadro è appeso storto al suo posto sulla parete. Mostra il maniero in tempi più felici, sotto cieli invernali sereni con montagne innevate sullo sfondo.</p>
 </div>
 
-The space behind the image of the chapel in the picture radiates three magical auras under the scrutiny of a *detect magic* spell. Two of the auras belong to the school of abjuration. (The third aura has no school of magic.)
+Lo spazio dietro l'immagine della cappella nel quadro irradia tre aure magiche sotto lo scrutinio di un incantesimo *individuazione del magico*. Due delle aure appartengono alla scuola dell'abiurazione. (La terza aura non ha una scuola di magia.)
 
-Removing the picture from the wall reveals a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner.  In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
+Rimuovere il quadro dalla parete rivela una mensola di pietra nascosta contenente un rotolo di pergamena, un braccialetto d'argento, un piccolo blocco di pietra bianca, una tavoletta d'argento e un'insegna. Inoltre, l'elsa d'argento di uno stocco è annidato contro un piccolo foro nella malta sul fondo del vano, sebbene la lama sembri essere nascosta nella parete.
 
-The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
+Il braccialetto è intagliato per assomigliare a un drago che si morde la coda, ed è un *braccialetto di protezione*. Il blocco di pietra bianca, che reca l'intaglio di una testa di drago ed è montato su un cordino di cuoio, è un *amuleto del passaggio dei cavalieri*. Lo stocco, che ha una lama argentata e un'elsa intagliata con le immagini di piccoli draghi, ha le proprietà di uno *stocco toccato dalla luna* (<span class="citation">Guida di Xanathar a Tutto il Resto, p. 138</span>).
 
-> [!item]+ **Bracelet of Warding**
-> *Wondrous item, rare*
+> [!item]+ **Braccialetto di Protezione**
+> *Oggetto meraviglioso, raro*
 >
-> This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
+> Questo braccialetto ha 3 cariche. Mentre lo indossi, puoi usare un'azione bonus per spendere 1 delle sue cariche per lanciare l'incantesimo *santuario* (CD 15), o 2 delle sue cariche per lanciare l'incantesimo *legame protettivo* con una gittata di 9 metri.
 >
-> You can cast one of these spells as a reaction in response to an enemy attacking a creature within range. If you do, you must spend an additional charge, and the spell must target the attacked creature. When cast in this way, the spell's effects end at the start of your next turn.
+> Puoi lanciare uno di questi incantesimi come reazione in risposta a un nemico che attacca una creatura entro gittata. Se lo fai, devi spendere una carica aggiuntiva, e l'incantesimo deve avere come bersaglio la creatura attaccata. Se lanciato in questo modo, gli effetti dell'incantesimo terminano all'inizio del tuo turno successivo.
 >
-> The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
+> Il braccialetto recupera 1 carica spesa ogni giorno all'alba. Se esaurisci l'ultima carica del braccialetto, tira un d20. Con un risultato di 1, il braccialetto perde le sue proprietà magiche.
 
-> [!item]+ **Amulet of Knight’s Passage**
-> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in <span class="citation">T2. Demon Statues (p. 157)</span> don’t animate or attack.
-> 
-> The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
+> [!item]+ **Amuleto del Passaggio dei Cavalieri**
+> Questo blocco intagliato di pietra bianca è una chiave che consente il passaggio attraverso il guardiaportone al Valico di Tsolenka. Se una creatura presenta la pietra alla <span class="citation">T3. Cortina di Fiamma Verde (p. 157)</span>, la cortina viene soppressa per 1 minuto. Mentre la cortina è soppressa in questo modo, i **vrock** pietrificati descritti in <span class="citation">T2. Statue dei Demoni (p. 157)</span> non si animano né attaccano.
+>
+> Lo scrutinio di un incantesimo *identificare* rivela solo che il blocco è una chiave di qualche tipo, ma non per cosa.
 
-The tablet, which bears a copy of the oath of the Order of the Silver Dragon, reads as follows:
+La tavoletta, che reca una copia del giuramento dell'Ordine del Drago Argenteo, recita come segue:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
+<p>Giuro solennemente di difendere le virtù dell'Ordine del Drago Argenteo, con l'onore come scudo e la verità come guida.</p>
+<p>Nell'ombra del male, sarò la luce; di fronte alla disperazione, il faro della speranza. Nessuna sfida scrollerà la mia determinazione; nessuna sconfitta sopirà il mio cuore. Con spada e spirito, mi leverò contro le tenebre e forgerò un'alba più luminosa.</p>
+<p>Così giuro nel nome del Drago Argenteo, da questo fino alla fine dei giorni.</p>
 </div>
 
-When a player inspects the banner, read:
+Quando un giocatore ispeziona l'insegna, leggi:
 
 <div class="description">
-<p>Silver tassels fringe the edges of this dark-colored banner, the fabric a rich azure that mirrors the twilight sky. Dominating the center is a beautifully detailed silver dragon outlined in intricate silver thread, its wings unfurled in mid-flight.</p>
+<p>Nappe argentee ornano i bordi di questa insegna dai colori scuri, il tessuto di un ricco azzurro che rispecchia il cielo al crepuscolo. Al centro domina un drago argenteo dai dettagli bellissimi, delineato in intricato filo argento, le ali spiegate in pieno volo.</p>
 </div>
 
-The scroll is a letter and reads as follows:
+Il rotolo è una lettera e recita come segue:
 
 <div class="description">
-<p>To Lord Argynvost, Protector of the Balinok Mountains and Founder of the Order of the Silver Dragon,</p>
-<p>You have stood as a bulwark against the darkness—a shining example of righteousness and courage. Yet I write to you today with a heavy heart and a burdened soul, fearful that Markovia's counsel will lead your Order down a path that ends in darkness and devastation.</p>
-<p>I confess that Lord Von Zarovich is imperfect, as all men inevitably are. Yet his leadership has brought stability and order to a land fraught with chaos, and restored songs of prayer to halls once consigned to madness.</p>
-<p>It is therefore with great humility and respect that I implore you and your knights to lay down their arms and make peace. Further bloodshed will tear this land asunder, bringing suffering to the innocent and guilty alike. But with the aid of your wisdom and grace, I do not doubt that we may together forge a brighter dawn.</p>
-<p>Faithfully yours,</p>
+<p>A Lord Argynvost, Protettore dei Monti Balinok e Fondatore dell'Ordine del Drago Argenteo,</p>
+<p>Ti sei eretto come baluardo contro le tenebre — un luminoso esempio di rettitudine e coraggio. Tuttavia, ti scrivo oggi con il cuore pesante e l'anima gravata, timoroso che i consigli di Markovia conducano il tuo Ordine su un cammino che termina nelle tenebre e nella rovina.</p>
+<p>Confesso che Lord Von Zarovich è imperfetto, come inevitabilmente lo sono tutti gli uomini. Eppure la sua guida ha portato stabilità e ordine in una terra gravata dal caos, e ha restituito i canti di preghiera a sale un tempo consegnate alla follia.</p>
+<p>È quindi con grande umiltà e rispetto che ti supplico, te e i tuoi cavalieri, di deporre le armi e fare pace. Ulteriore spargimento di sangue non farà che lacerarà questa terra, portando sofferenza agli innocenti e ai colpevoli allo stesso modo. Ma con l'aiuto della tua saggezza e della tua grazia, non dubito che possiamo insieme forgiare un'alba più luminosa.</p>
+<p>Con devota fedeltà,</p>
 <p>Andral</p>
 </div>
 <br>
 
 ![[Andral_Scroll_RRL.jpg]]
-<span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-#### Argynvost’s Bedroom
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
+<span class="credit">"La Lettera di Sant'Andral" di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
+#### La Camera da Letto di Argynvost
 
-<div class="description">
-<p>Several empty stone shelves dot the walls between the windows.</p>
-</div>
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q42.</em></span>
 
-> [!lore]+ **The Empty Shelves**
-> These empty shelves once held a few dozen trinkets, oddities, and valuables that Argynvost found particularly interesting or endearing. All were looted long ago.
-## M6b. Collapsed Ceiling & Audience Hall
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
-
-These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
-## M6c. Upstairs Gallery
-### East Staircases
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
-
-This area is as described in <span class="citation">Q31. East Staircases.</span>
-### Ruined Antechamber
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
-
-This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. When the players enter this room, read:
+Quest'area è per lo più come descritta in <span class="citation">Q42. Camera da Letto di Argynvost (p. 140)</span>. Tuttavia, aggiungere il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>This room has a wooden floor warped and scuffed with age. Rusted blades hang between torn banners bearing the emblem of a silver dragon, the dragon's eyes seeming to gaze mournfully upon the broken furnishings below. A torn curtain hangs in an open doorway in the center of the east wall.</p>
+<p>Diversi scaffali di pietra vuoti costellano le pareti tra le finestre.</p>
 </div>
 
-### Upstairs Gallery
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
+> [!lore]+ **Gli Scaffali Vuoti**
+> Questi scaffali vuoti contenevano un tempo alcune dozzine di ninnoli, oggetti curiosi e oggetti di valore che Argynvost trovava particolarmente interessanti o cari. Tutti furono saccheggiati molto tempo fa.
 
-This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
+## M6b. Soffitto Crollato e Sala delle Udienze
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q33 e Q36.</em></span>
+
+Queste aree sono per lo più come descritte in <span class="citation">Q33. Soffitto Crollato (p. 138)</span> e <span class="citation">Q36. Sala delle Udienze del Drago (p. 138)</span>. Tuttavia, Vladimir Horngaard non è sul trono in <span class="citation">Q36. Sala delle Udienze del Drago</span>, e nessun **guerriero fantasma** vi indugia.
+
+## M6c. Galleria al Piano Superiore
+
+### Le Scale Orientali
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q31.</em></span>
+
+Quest'area è come descritta in <span class="citation">Q31. Scale Orientali.</span>
+
+### L'Anticamera in Rovina
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q34 (p. 138).</em></span>
+
+Quest'area sostituisce <span class="citation">Q34. Bagno in Rovina (p. 138)</span>. Quando i giocatori entrano in questa stanza, leggi:
 
 <div class="description">
-<p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
+<p>Questa stanza ha un pavimento di legno deformato e segnato dall'età. Lame arrugginite pendono tra insegne strappate recanti l'emblema di un drago argenteo, gli occhi del drago che sembrano posarsi mestamente sui mobili rotti sottostanti. Una tenda strappata pende in un vano porta aperto al centro della parete orientale.</p>
 </div>
 
-Any player who’s previously met the Abbot of the Abbey of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player with a passive Wisdom (Insight) score of 15 or greater notices that the man’s gaze appears to be envious, rather than reverent.
+### La Galleria al Piano Superiore
 
-> [!lore]+ **The Stained-Glass Windows**
-> The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q35.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q35. Galleria al Piano Superiore (p. 138)</span>. Tuttavia, aggiungere il seguente testo alla fine della descrizione di quest'area:
+
+<div class="description">
+<p>Le finestre di sinistra e di destra raffigurano due umani — un uomo anziano e una donna più giovane — inginocchiati in atto di supplica, mentre la finestra centrale raffigura un bell'angelo maschio che scende dai cieli tra loro. L'uomo guarda con occhi reverenti mentre l'angelo affida una piccola statuetta argentea alla donna, i cui occhi sono chiusi in evidente preghiera. La statuetta sembra brillare della stessa luce solare che irradia il capo dell'angelo.</p>
+</div>
+
+Qualsiasi giocatore che abbia già incontrato l'Abate dell'Abbazia di Santa Markovia riconosce un'inquietante somiglianza tra l'Abate e la figura nella finestra centrale. Un giocatore con un punteggio passivo di Saggezza (Perspicacia) pari o superiore a 15 nota che lo sguardo dell'uomo sembra invidioso, piuttosto che reverente.
+
+> [!lore]+ **Le Vetrate**
+> Le vetrate raffigurano l'unzione di Santa Markovia come profetessa da parte di Ithuriel, il **deva** del Signore del Mattino ora noto come l'Abate. L'evento fu presieduto da Sant'Andral, il Sommo Sacerdote della chiesa del Signore del Mattino al tempo della scelta di Markovia, e rivale invidioso di Markovia per il titolo di profeta del Signore del Mattino.
 >
-> The statuette is the *Icon of Dawn's Grace*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> La statuetta è l'*Icona dell'Alba Radiosa*, che appare come descritta in <span class="citation">Icona di Ravenloft (p. 222)</span>. Il bagliore della statuetta è una rappresentazione simbolica del frammento della divinità dell'Abate che vi dimora all'interno.
 
-If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
+Se i giocatori sono accompagnati dallo spirito **pseudodrago** Zorya, Zorya soffia fuoco argenteo su due antiche torce che fiancheggiano le vetrate, accendendole con fredde fiamme argentee che bagnano la stanza in una luce eterea e gelida.
 
-If the players read aloud a prayer from [[#M4c. Spiders’ Ballroom|The Oath Celestial]], the spirit of Brother Marek speaks to them through the stained-glass form of Saint Andral. Read:
+Se i giocatori leggono ad alta voce una preghiera da [[#M4c. La Sala da Ballo dei Ragni|Il Giuramento Celestiale]], lo spirito di Fratello Marek parla loro attraverso la forma in vetro colorato di Sant'Andral. Leggi:
 
 <div class="description">
-<p>The figure in the left stained-glass window begins to stir, hues of orange and azure tracing the lines of its form. The man’s arms raise, the glass of his fingers seeming to flex and twitch within the confines of the window. He slowly rises to his feet, his gaze turning to meet yours with a quiet, somber solemnity.</p>
-<p>When the stained-glass man speaks, his voice is distant and echoing, and the window’s glass seems to rattle and tremble in resonance. “This husk is as cold as I recall," he murmurs. “Why do you fill its broken halls with benedictions it forsook?"</p>
+<p>La figura nella vetrata di sinistra comincia ad agitarsi, tinte di arancione e azzurro che tracciano le linee della sua forma. Le braccia dell'uomo si sollevano, il vetro delle dita che sembra flettersi e fremere nei confini della finestra. Si alza lentamente in piedi, il suo sguardo che si volge a incontrare il vostro con una quieta e solenne gravità.</p>
+<p>Quando l'uomo di vetro colorato parla, la sua voce è distante ed echeggiante, e il vetro della finestra sembra vibrare e tremare in risonanza. «Questo involucro è freddo come lo ricordavo», mormora. «Perché riempite i suoi corridoi rotti con benedizioni che ha rinnegato?»</p>
 </div>
 
-> [!profile]+ **Brother Marek**
-> In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
+> [!profile]+ **Fratello Marek**
+> Nella morte, Fratello Marek è un guscio freddo e apatico di uomo. La sua allegria un tempo gioviale si è indurita in un cinico sarcasmo inaridito, e vede il destino dell'Ordine come una dannazione per i loro fallimenti. Non è tuttavia privo di compassione, e augura sinceramente ai giocatori solo il meglio — purché abbandonino i loro sciocchi tentativi di agitare gli spiriti di Argynvostholt. Lo spirito di Fratello Marek dovrebbe far sentire i giocatori irritati, insultati e provare simpatia per lui, e si sente più spesso melanconico, infastidito, scettico, amaro, rassegnato, divertito o disapprovante.
 
-The stained-glass man can identify himself as the spirit of Brother Marek. He can share the following information if asked:
+L'uomo di vetro colorato può presentarsi come lo spirito di Fratello Marek. Può condividere le seguenti informazioni se interrogato:
 
-* In life, he was the chaplain of the Order of the Silver Dragon. He perished defending the third-floor corridor when the forces of Strahd von Zarovich assaulted the mansion on the final day of the war.
-* The stained-glass figure he is possessing is a depiction of Saint Andral, once the Moste High Priest of the Church of the Morninglord. The other two stained-glass figures are the angel Ithuriel and Saint Markovia, respectively. The stained-glass windows depict Saint Markovia’s anointment as a prophet of the Morninglord, in which Ithuriel placed a shard of his divinity in the icon he bestowed upon her. 
-* If the players note Saint Andral’s apparent envy, Brother Marek agrees that many rumors once suggested that Saint Andral, who reinvigorated the Church’s power and reach after bestowing the crown of Old Zarovia upon King Barov von Zarovich II, was not pleased with the Morninglord’s decision to anoint Markovia instead of himself. (If asked, Brother Marek can share that King Barov von Zarovich II was named for King Barov I, the ancient founder of the kingdom of Old Zarovia, and that Strahd von Zarovich was the son of King Barov II.)
+* In vita, era il cappellano dell'Ordine del Drago Argenteo. Perì difendendo il corridoio del terzo piano quando le forze di Strahd von Zarovich assaltarono il maniero nell'ultimo giorno della guerra.
+* La figura in vetro colorato che sta possedendo è una raffigurazione di Sant'Andral, un tempo il Sommo Sacerdote della Chiesa del Signore del Mattino. Le altre due figure in vetro colorato sono rispettivamente l'angelo Ithuriel e Santa Markovia. Le vetrate raffigurano l'unzione di Santa Markovia come profetessa del Signore del Mattino, in cui Ithuriel pose un frammento della sua divinità nell'icona che le consegnò.
+* Se i giocatori fanno notare l'apparente invidia di Sant'Andral, Fratello Marek concorda che molte voci suggerivano un tempo che Sant'Andral, che aveva rivitalizzato il potere e la portata della Chiesa dopo aver consegnato la corona della Vecchia Zarovia al Re Barov von Zarovich II, non fu lieto della decisione del Signore del Mattino di ungere Markovia invece di lui. (Se interrogato, Fratello Marek può condividere che il Re Barov von Zarovich II prese il nome dal Re Barov I, l'antico fondatore del regno della Vecchia Zarovia, e che Strahd von Zarovich era il figlio del Re Barov II.)
 
-Brother Marek is reluctant to share information regarding Argynvost’s spirit with the players, believing that the old dragon has “earned his rest," and that further contact with the living will only torment his ghost.
+Fratello Marek è riluttante a condividere informazioni riguardo allo spirito di Argynvost con i giocatori, ritenendo che il vecchio drago abbia «guadagnato il suo riposo», e che ulteriori contatti con i vivi non faranno che tormentare il suo fantasma.
 
-Brother Marek is glad to share his belief that the Order’s fate is damnation for their failure to defend the valley from evil—Strahd’s invasion—and that no force can ever return light and hope to the valley. If the players push back, he replies, bitterly and intensely: “I have stood knee deep in mud and bone, and filled my lungs with pyres’ ash. I have seen knights of valor fall, oaths shattered with their bodies and blades. I have dug trenches for the refugees; I have prayed for their deliverance, and waited for salvation that never came. Hope? Hope is but a lie on the wind—a worm that devours the hearts of men. There is no escape from this Hell while Strahd von Zarovich yet lives."[^1]
+Fratello Marek è lieto di condividere la sua convinzione che il destino dell'Ordine sia la dannazione per il loro fallimento nel difendere la valle dal male — l'invasione di Strahd — e che nessuna forza possa mai restituire luce e speranza alla valle. Se i giocatori replicano, risponde, con amarezza e intensità: «Ho stazionato con il fango e le ossa fino al ginocchio, e ho riempito i polmoni della cenere dei roghi. Ho visto cavalieri valorosi cadere, giuramenti spezzati insieme ai loro corpi e alle loro lame. Ho scavato trincee per i profughi; ho pregato per la loro liberazione, e ho atteso una salvezza che non è mai venuta. Speranza? La speranza non è che una menzogna sul vento — un verme che divora i cuori degli uomini. Non vi è fuga da questo Inferno finché Strahd von Zarovich è in vita.»
 
-[^1]: Inspired by *Amnesia: A Machine for Pigs*
+Se i giocatori insistono di avere intenzione di distruggere Strahd von Zarovich, Fratello Marek emette una risata amara. «Guerrieri migliori di voi hanno marciato su Castello Ravenloft», osserva, «eppure il loro lavoro non ha fatto che ingrossare le file dei morti, mentre il vampiro governa ancora dalle sue torri in ombra. Quando i morti dell'Ordine marciarono su Castello Ravenloft quattro secoli fa, la veggente Madama Eva disse loro che questa terra era diventata una prigione eterna, vincolata per sempre nelle Nebbie. Quale speranza avete voi, dove tanti hanno fallito?»
 
-If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
+I giocatori possono convincere Fratello Marek a dar loro l'opportunità di parlare con Argynvost superando una prova di Carisma (Persuasione) con CD 15, con vantaggio se menzionano la richiesta di Godfrey o la loro sconfitta di Volenta Popofsky in [[Arc D - St. Andral's Feast]] o di Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. La prova riesce automaticamente anche se i giocatori fanno riferimento a qualsiasi parte della lettura dei Tarocchi di Madama Eva, come il possesso del *Tomo di Strahd* o la profezia di Madama Eva sulla *Lama del Sole* e la sua ubicazione.
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
-
-> [!abstract]+ **Legacy of the Sunsword**
-> If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
+> [!abstract]+ **L'Eredità della Lama del Sole**
+> Se informato della profezia sulla *Lama del Sole*, Fratello Marek si muove sorpreso. Può informare i giocatori di aver sentito parlare un tempo di una spada simile — la *Lama Radiosа* del Re Barov II, una spada incantata che brillava della luce del sole. «Strahd von Zarovich non la usò mai in battaglia contro di noi», dice, pensieroso. «Avevo sentito voci che fosse stata tramandata al figlio minore di Barov, poi voci che fosse stata distrutta. Se esiste ancora, potrebbe essere una delle poche armi in grado di distruggere la bestia in cui Zarovich si è trasformato.»
 >
-> If told of the “amber doors" referenced in the *Sunsword*’s foretelling, Brother Marek’s eyes widen. The players can convince him to share the existence of the Amber Temple with a DC 15 Charisma (Persuasion) check, though Brother Marek—who never visited the temple himself—knows only that it once served as a prison for terrible evils, and that it can be found somewhere on Mount Ghakis. He doesn’t know how the *Sunsword* may have arrived there, nor where it may be found within.
-#### Marek is Convinced
-If convinced by the players to aid them in speaking with Argynvost, Brother Marek advises them: “Seek out the younger of the twin dragons above. Reignite the silver flame it once wielded, and remind it of the oath it once served. Do this, and the memory of the Silver Dragon may return to fill it once more." He then bids the players farewell and good luck and returns the stained-glass figure to its original kneeling position. Brother Marek’s spirit then departs, freezing the figure in place.
+> Se informato delle «porte d'ambra» citate nella profezia della *Lama del Sole*, gli occhi di Fratello Marek si spalancano. I giocatori possono convincerlo a condividere l'esistenza del Tempio d'Ambra con una prova di Carisma (Persuasione) con CD 15, sebbene Fratello Marek — che non ha mai visitato il tempio di persona — sappia solo che serviva un tempo da prigione per orribili malvagità, e che può essere trovato da qualche parte sul Monte Ghakis. Non sa come la *Lama del Sole* possa essere finita lì, né dove possa trovarsi all'interno.
 
-> [!abstract]+ **Zorya's Flames**
-> If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
+#### Marek è Convinto
 
-> [!info]+ **The Younger Dragon**
-> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
-#### Marek is Unconvinced
-If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
+Se convinto dai giocatori ad aiutarli a parlare con Argynvost, Fratello Marek li consiglia: «Cercate il più giovane dei draghi gemelli in cima. Riaccendete la fiamma argentea che brandiva un tempo, e ricordategli il giuramento che serviva. Fate questo, e il ricordo del Drago Argenteo può tornare a riempirlo ancora.» Poi saluta i giocatori e augura loro buona fortuna e fa tornare la figura in vetro alla sua posizione originale inginocchiata. Lo spirito di Fratello Marek si congeda, congelando la figura al suo posto.
 
-If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+> [!abstract]+ **Le Fiamme di Zorya**
+> Se i giocatori non sono accompagnati dal famiglio di Argynvost, lo **pseudodrago** fantasma Zorya, modificare la prima frase di Fratello Marek in: «Cercate l'ombra del drago argenteo di sotto, e il più giovane dei draghi gemelli in cima.»
 
-* **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
-* **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
-* **Argynvost Strongly Approves.** The torches ignite with cold, roaring silver fire and gain the effects of a _continual flame_ spell.
+> [!info]+ **Il Drago Più Giovane**
+> Il riferimento di Marek ai «draghi gemelli» riguarda le gargolla draconica che sovrastano il tetto del maniero, una delle quali si trova ora in <span class="citation">Q53. Faro di Argynvostholt (p. 142)</span>.
 
-Each torch can be easily removed from its mount. If the players return to the [[#Upstairs Gallery]] and show an ignited torch to Brother Marek, he emerges once more from his stained-glass window to provide them with the guidance in [[#Marek is Convinced]] above before disappearing.
-## M6d. Southern Chambers
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
+#### Marek non è Convinto
 
-These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
-# M7. Fourth Floor
-## M7a. Rooftop
-<span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
+Se i giocatori non riescono a convincere Fratello Marek a permettere loro di parlare con Argynvost, sbuffa, ma offre loro un'ultima possibilità. «La tomba di Lord Argynvost giace vuota nel cimitero sottostante», li informa. «Se dovesse udire le vostre parole, potrebbe concedervi un pegno della sua benevolenza. Portatemi la prova di tale benevolenza, e vi darò la guida che cercate.»
 
-When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
+Se i giocatori scendono successivamente a <span class="citation">Q16. Mausoleo del Drago (p. 134)</span>, è come descritto in [[#M4a. Il Cimitero]] sopra. Per ottenere un pegno della benevolenza di Argynvost, uno o più giocatori devono pronunciare un discorso coraggioso, veritiero e onorevole riguardo alla loro intenzione di sconfiggere Strahd e liberare la Barovia. Per incoraggiarli a farlo, lo spirito di Argynvost accende le torce all'interno del mausoleo come segue:
+
+* **Argynvost Approva in Parte.** Le torce guizzano brevemente con fredde braci argentee, che si spengono rapidamente.
+* **Argynvost Approva.** Le torce si accendono brevemente con freddo fuoco argenteo, che poi si affievolisce nel nulla.
+* **Argynvost Approva Pienamente.** Le torce si accendono con un freddo e ruggente fuoco argenteo e acquisiscono gli effetti di un incantesimo *fiamma perenne*.
+
+Ciascuna torcia può essere facilmente rimossa dal suo supporto. Se i giocatori tornano alla [[#La Galleria al Piano Superiore]] e mostrano a Fratello Marek una torcia accesa, questi emerge di nuovo dalla sua vetrata per fornire loro la guida in [[#Marek è Convinto]] sopra, prima di scomparire.
+
+## M6d. Le Camere Meridionali
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q32.</em></span>
+
+Queste aree sono come descritte in <span class="citation">Q32. Camere da Letto in Rovina (p. 138)</span>.
+
+# M7. Il Quarto Piano
+
+## M7a. Il Tetto
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Aree Q43, Q44, Q45, Q46, Q47, Q48 e Q49.</em></span>
+
+Quando i giocatori escono per la prima volta dalle <span class="citation">Q31. Scale Orientali (p. 138)</span> per emergere sul tetto, leggi:
 
 <div class="description">
-<p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
+<p>Mentre la vecchia porta di legno cigola aprendosi, una luce grigia inonda il pianerottolo buio — e una freccia eterea e luccicante trafigge il pavimento di pietra dinanzi a voi. I vostri occhi ne tracciano la traiettoria verso l'alto, e colgono un fugace bagliore di una figura spettrale nella finestra di una torre superiore — prima che si chini e svanisca alla vista.</p>
 </div>
 
-The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+La torre è una delle <span class="citation">Q52. Torrette del Faro (p. 141)</span>. La figura spettrale è uno dei due **guerrieri fantasma** che occupano le torrette.
 
-The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+Il tetto è per lo più come descritto in <span class="citation">Q43. Buco nel Tetto (p. 140)</span>, <span class="citation">Q44. Gargolla Draconica (p. 141)</span>, <span class="citation">Q45. Ballista Antica (p. 141)</span>, <span class="citation">Q46. Ballista Distrutta (p. 141)</span>, <span class="citation">Q47. Torrette del Tetto (p. 141)</span>, <span class="citation">Q48. Bordo del Tetto (p. 141)</span> e <span class="citation">Q49. Porta della Torre del Faro (p. 141)</span>.
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+Tuttavia, la gargolla draconica non è magica, e non sussurra ad alta voce quando i giocatori le passano davanti. Inoltre, un giocatore che si avvicina o ispeziona la <span class="citation">Q46. Ballista Distrutta (p. 141)</span> nota che sembra essere stata puntata verso <span class="citation">Q53. Faro di Argynvostholt (p. 142)</span> prima della sua distruzione. (Un giocatore che supera una prova di Saggezza (Percezione) con CD 15 nota che la pietra della torre verso cui è puntata la ballista distrutta è rotta e schiacciata, come se fosse stata incisa da un enorme paio di artigli.)
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+Se i giocatori, mentre indossano tutti abiti o equipaggiamento recanti l'insegna dell'Ordine del Drago Argenteo, si identificano come membri o soldati dell'Ordine e superano una prova di Carisma (Inganno) con CD 11, i due **guerrieri fantasma** nelle <span class="citation">Q52. Torrette del Faro (p. 141)</span> esigono che i giocatori pronuncino la parola d'ordine del Comandante Horngaard prima di permettere loro di avvicinarsi alla <span class="citation">Q49. Porta della Torre del Faro (p. 141)</span>.
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
+Se i giocatori non riescono a pronunciare la parola d'ordine («Da questo fino alla fine dei giorni»), o se uno qualsiasi dei giocatori visibili non indossa abiti o equipaggiamento recanti l'insegna dell'Ordine, i guerrieri fantasma attaccano i giocatori a vista, effettuando attacchi ***arco lungo spettrale*** contro qualsiasi personaggio vivente nel loro campo visivo. (I **guerrieri fantasma** hanno Destrezza 16 (+3), e i loro attacchi ***arco lungo spettrale*** hanno +5 al tiro per colpire e infliggono 7 (1d8 + 3) danni da forza al colpire.) Un personaggio può sottrarsi al loro campo visivo prendendo copertura dietro il tetto centrale del maniero, le torrette che contengono le <span class="citation">Q31. Scale Orientali (p. 138)</span> o le <span class="citation">Q47. Torrette del Tetto (p. 141)</span>.
 
-The interior of the beacon’s tower is largely as described in <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>, and <span class="citation">Q52. Beacon Turrets (p. 141)</span>, except for the changes to the **phantom warriors** described above. 
+L'interno della torre del faro è per lo più come descritto in <span class="citation">Q50. Faro, Pianerottolo Inferiore (p. 141)</span>, <span class="citation">Q51. Faro, Pianerottolo Superiore (p. 141)</span> e <span class="citation">Q52. Torrette del Faro (p. 141)</span>, eccetto per le modifiche ai **guerrieri fantasma** descritte sopra.
 
-In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> and <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
+Inoltre, se alcuni personaggi entrano con successo nella torre, i **guerrieri fantasma** escono dalle torrette del faro e si scontrano con i personaggi sulle scale che collegano il <span class="citation">Q50. Faro, Pianerottolo Inferiore (p. 141)</span> e il <span class="citation">Q51. Faro, Pianerottolo Superiore (p. 141)</span>. Quando lo fanno, acquisiscono la seguente reazione aggiuntiva, che usano nel tentativo di attirare i giocatori sul pianerottolo con la trappola in <span class="citation">Q51. Faro, Pianerottolo Superiore (p. 141)</span>:
 
-* ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
+* ***Perno.*** In risposta a un nemico che manca un attacco contro di esso, il guerriero fantasma si sposta fino a 3 metri senza provocare attacchi di opportunità.
 
-As they fight in melee, the phantom warriors shout: “Begone, soldiers of the Devil!", “We will die proudly," and “Argynvostholt will never be yours."
-## M7b. Beacon
-<span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
+Mentre combattono in mischia, i guerrieri fantasma gridano: «Via di qui, soldati del Diavolo!», «Moriremo con orgoglio» e «Argynvostholt non sarà mai vostro.»
 
-This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
+## M7b. Il Faro
+
+<span class="citation"><em>Questa scena si svolge nel Capitolo 7, Area Q53.</em></span>
+
+Quest'area è per lo più come descritta in <span class="citation">Q53. Faro di Argynvostholt (p. 142)</span>. Tuttavia, rimuovere la frase che descrive i corvi dalla descrizione dell'area. (Nessun corvo nidifica qui.) Aggiungere invece il seguente testo alla fine della descrizione dell'area:
 
 <div class="description">
-<p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
+<p>Una piccola gargolla placcata d'argento, modellata come un cucciolo di drago che stringe un braciere annerito tra le zampe, è accovacciata sul pavimento proprio accanto al pianerottolo della scala, le ali arrovolate strettamente verso di sé. Non lontano, un cavaliere in vecchia armatura arrugginita è in piedi vicino alla finestra occidentale, lo sguardo perso sul paesaggio nebbiato in lontananza. La lama di una grande spada alta e lucente poggia a terra accanto a lui, con uno dei guanti di ferro arrugginito del cavaliere posato sull'impugnatura.</p>
 </div>
 
-The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
-### Meeting Vladimir Horngaard
-The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
+La gargolla è metà della dimensione della <span class="citation">Q44. Gargolla Draconica (p. 141)</span>. Il cavaliere è Vladimir Horngaard, come descritto in <span class="citation">Q36. Sala delle Udienze del Drago (p. 138)</span>.
+
+### Incontro con Vladimir Horngaard
+
+I giocatori devono superare una prova di Destrezza (Furtività) con CD 14 per salire la scala senza allertare Vladimir della loro presenza. Se i giocatori non si avvicinano furtivamente, falliscono la prova di Destrezza (Furtività), si avvicinano alla gargolla draconica, o hanno combattuto i **guerrieri fantasma** nelle torrette sottostanti, Vladimir viene allertato. Leggi:
 
 <div class="description">
-<p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
+<p>La mano guantata stringe più saldamente l'impugnatura della grande spada, e la voce rauca e profonda del cavaliere trafigge il silenzio. «Chi va là?» intima. «Siate avvertiti — se siete ladri o assassini, sappiate che presto raggiungerete le vostre prede nella morte.»</p>
 </div>
 
 ![[Vladimir Horngaard.png]]
-<span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Comandante Vladimir Horngaard" di Caleb Cleveland. Sostienilo su <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Vladimir Horngaard**
-> **Roleplaying Information**
-> ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
-> 
-> ***Emotions.*** Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
-> 
-> ***Motivations.*** Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
-> 
-> ***Inspirations.*** When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, Vladimir is a cruel, apathetic, and self-righteous creature consumed by vengeance and hatred.
-> 
-> ***Morale.*** In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
-> 
-> ***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
-
-Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 10 Charisma (Persuasion) check or DC 14 Charisma (Deception) check, automatically succeeding on a Charisma (Persuasion) check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
-
-If the players convince Vladimir that they are neither thieves nor assassins, Vladimir turns to face them. Read:
-
-<div class="description">
-<p>The terrible sound of scraping metal fills the air, and the knight turns to face you, revealing a pale-skinned corpse with burning red eyes in a sunken, skeletal face.</p>
-<p>"Neither thieves nor assassins—and yet, you are here." He narrows his eyes, and the blade of his greatsword glints dangerously. “Tell me, then, why the living have come to disturb the dead."
-</div>
-
-If asked, Vladimir can share the following information:
-
-* His name is Vladimir Horngaard. In life, he was the commander of the Order of the Silver Dragon, the “valiant order" to which he devoted his life. He perished defending this valley from evil over four centuries ago; because of his failure, he is forever doomed.
-* There is no monster Vladimir hates more than Strahd von Zarovich, an invader and tyrant who slew Argynvost and destroyed the Order of the Silver Dragon.
-* Vladimir has forbidden his knights from killing Strahd or aiding his defeat because he believes Strahd must suffer eternally for his sins in a hell of his own creation, from which Strahd can never escape. “He sacrificed everything for his empire—faith, love, and youth," Vladimir growls. “Now, everything he ever wanted and everything he ever won is locked away beyond the mists, leaving him trapped in this land of ghosts." (Vladimir doesn’t know who or what the Dark Powers are, but believes that “dark powers" far greater than Strahd have seen fit to punish him for his crimes—a sentence that Vladimir is proud to uphold.)
-* Because Strahd, a conqueror, craves adversaries to overcome, Vladimir has also forbidden his knights from slaying Strahd’s minions and creatures, a decision he believes will drive Strahd mad with boredom and despair. (If challenged with the suffering of the Barovian people, Vladimir snarls:  “I would let a thousand nations burn if Strahd von Zarovich would choke on the ashes.")
-
-> [!abstract]+ **Vladimir & Godfrey**
-> Vladimir can’t remember the love he shared with Sir Godfrey Gwilym in life, and angrily denies any insinuations otherwise. If confronted with the rings from [[#Wine Storage]] or the portrait from [[#Vladimir’s Bedroom]], Vladimir is obviously disturbed and thrown off balance. However, he insists that such things prove nothing, and that the players mock him and the Order with their lies. “There is no room for love in the war we fight," he snarls. “We are knights, born only to die in the battle against evil. This is how it has always been, and how it will always be."
-
-> [!lore] **Vladimir and Argynvost**
-> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
-
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
-
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
-### Vladimir’s Anger
-If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
-
-<div class="description">
-<p>The knight’s face curls into a terrible snarl, and the greatsword’s sharpened edge grinds against the broken stone floor. The temperature in the room seems to plummet, even as his red eyes burn with a haunting intensity.</p>
-<p>"Perhaps you have encountered the vampire Strahd von Zarovich," he rasps. “Now, you look upon his jailer. If you seek to end his torment, then I shall strike you down—unless you swear an oath to me, upon this cursed blade, to cast aside this foolish mission."</p>
-</div>
-
-Once he believes the players seek Strahd’s destruction, Vladimir won’t allow them to leave peacefully unless each of them swears an oath upon his sword to raise no hand against Strahd von Zarovich. A character who does so is subject to the effects of Vladimir’s ***oathbind*** feature (see below).
-
-If any of the players refuse to swear Vladimir’s oath, read:
-
-<div class="description">
-<p>The undead knight raises his greatsword into the air and clasps it with both hands, the mighty blade glinting wickedly in the dim light. You see now that the hilt is sculpted to resemble silver dragon wings, its pommel shaped like a silver dragon’s head clutching a black opal between its teeth. Long, thin shadows emerge from the opal to entwine the blade, each shadow lined with the silhouettes of razor-sharp spikes.</p>
-<p>"If I cannot convince you to obey," he rasps, “then I shall compel you instead."</p>
-</div>
-
-> [!info]+ **Oathbound**
-> If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
-
-> [!info]+ **Room Dimensions**
-> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
-
-> [!combat]- **Combat - The Commander**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 39% (first phase), 39% (second phase), for a total of 78%
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> [!profile]+ **Profilo: Vladimir Horngaard**
+> **Informazioni per l'Interpretazione**
+> ***Risonanza.*** Vladimir dovrebbe suscitare disagio e turbamento con i suoi sospetti e la sua paranoia, (contenuta) rabbia per la sua apatia nei confronti della sorte del popolo baroviano, e pietà per i modi in cui la sua ira e il suo dolore lo hanno accecato.
 >
-> | Number of Players | Modification |
-> |-|-|
-> | 3 | Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 fire damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 fire and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. |
-> | 4 | Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 fire damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 fire and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. |
-> | 6 | Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 fire damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** fire and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4. |
+> ***Emozioni.*** Vladimir si sente più spesso sospettoso, furioso, irritato, placido, stoico o apatico.
+>
+> ***Motivazioni.*** Vladimir vuole preservare la prigione di Strahd nelle Nebbie per vendicare la profanazione del cadavere di Argynvost e la distruzione dell'Ordine del Drago Argenteo.
+>
+> ***Ispirazioni.*** Nell'interpretare Vladimir, ispirarsi a Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*) e Rorschach (*Watchmen*).
+>
+> **Informazioni sul Personaggio**
+> ***Persona.*** Agli occhi del mondo, Vladimir è una creatura crudele, apatica e presuntuosa, consumata dalla vendetta e dall'odio.
+>
+> ***Morale.*** In uno scontro, Vladimir impugnerebbe volentieri le armi contro chiunque lo insulti, disobbedisca o lo minacci.
+>
+> ***Relazioni.*** Vladimir è il comandante dell'Ordine del Drago Argenteo, la fonte dell'inquietudine degli altri redivivi (tramite il giuramento che gli hanno prestato), e il marito di Sir Godfrey Gwilym (il cui legame con lui Vladimir ha dimenticato).
 
-> [!abstract]+ **The Players Flee**
-> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
+Vladimir mira a interrogare i giocatori sufficientemente per confermare il loro scopo e scoprire eventuali incongruenze nella loro storia. In definitiva, i giocatori possono convincere Vladimir di non essere né ladri né assassini con una prova di Carisma (Persuasione) con CD 10 riuscita o una prova di Carisma (Inganno) con CD 14, riuscendo automaticamente alla prova di Carisma (Persuasione) se informano veritieramente Vladimir di stare indagando sulle manifestazioni dello spirito di Argynvost. In caso di fallimento, Vladimir li avverte di avere un'unica opportunità di fuggire dal maniero prima che li abbatta. Se i giocatori non riescono a difendere la propria causa o a partire, Vladimir attacca.
+
+Se i giocatori convincono Vladimir di non essere né ladri né assassini, Vladimir si volge a guardarli. Leggi:
+
+<div class="description">
+<p>Il terribile suono di metallo che raschia riempie l'aria, e il cavaliere si volta a fronteggiarli, rivelando un cadavere dalla pelle pallida con occhi rossi ardenti in un volto incavato e scheletrico.</p>
+<p>«Né ladri né assassini — eppure, siete qui.» Socchiude gli occhi, e la lama della sua grande spada brilla pericolosamente. «Ditemi allora perché i vivi sono venuti a disturbare i morti.»</p>
+</div>
+
+Se interrogato, Vladimir può condividere le seguenti informazioni:
+
+* Il suo nome è Vladimir Horngaard. In vita, era il comandante dell'Ordine del Drago Argenteo, il «valoroso ordine» al quale ha dedicato la vita. Perì difendendo questa valle dal male oltre quattro secoli fa; per via del suo fallimento, è condannato per sempre.
+* Non vi è mostro che Vladimir odi più di Strahd von Zarovich, un invasore e tiranno che uccise Argynvost e distrusse l'Ordine del Drago Argenteo.
+* Vladimir ha proibito ai suoi cavalieri di uccidere Strahd o di aiutare la sua sconfitta perché ritiene che Strahd debba soffrire eternamente per i suoi peccati in un inferno di sua creazione, dal quale Strahd non potrà mai fuggire. «Ha sacrificato tutto per il suo impero — fede, amore e giovinezza», ringhia Vladimir. «Ora, tutto ciò che ha mai desiderato e tutto ciò che ha mai conquistato è rinchiuso al di là delle nebbie, lasciandolo intrappolato in questa terra di fantasmi.» (Vladimir non sa chi o cosa siano le Potenze Oscure, ma crede che «potenze oscure» ben più grandi di Strahd abbiano ritenuto opportuno punirlo per i suoi crimini — una sentenza che Vladimir è orgoglioso di far rispettare.)
+* Poiché Strahd, un conquistatore, brama avversari da sconfiggere, Vladimir ha anche proibito ai suoi cavalieri di uccidere i servitori e le creature di Strahd, una decisione che ritiene lo farà impazzire di noia e disperazione. (Se sfidato con la sofferenza del popolo baroviano, Vladimir ringhia: «Lascierei bruciare mille nazioni se Strahd von Zarovich ne soffocasse nelle ceneri.»)
+
+> [!abstract]+ **Vladimir e Godfrey**
+> Vladimir non ricorda l'amore che condivideva con Sir Godfrey Gwilym in vita, e nega con rabbia qualsiasi insinuazione al riguardo. Se confrontato con gli anelli dal [[#Il Deposito del Vino]] o il ritratto dalla [[#La Camera di Vladimir]], Vladimir è visibilmente turbato e sbilanciato. Insiste tuttavia che tali cose non provano nulla, e che i giocatori lo scherniscono e scherniscono l'Ordine con le loro menzogne. «Non vi è posto per l'amore nella guerra che combattiamo», ringhia. «Siamo cavalieri, nati solo per morire nella battaglia contro il male. Così è sempre stato, e così sarà sempre.»
+
+> [!lore] **Vladimir e Argynvost**
+> La rabbia e l'odio di Vladimir gli impediscono di udire la voce di Argynvost. Se i giocatori menzionano qualcuno che comunica con lo spirito di Argynvost, afferma che mentono. (In quanto comandante di Argynvost, Vladimir è convinto che se lui non riesce a udire lo spirito di Argynvost, nessuno possa farlo, e non può essere persuaso altrimenti.)
+
+Se i giocatori menzionano un interesse nello spirito di Argynvost, Vladimir chiede loro freddamente se «lo sciocco nella cappella» li ha mandati in questa missione. Se i giocatori negano il coinvolgimento di Sir Godfrey e superano una prova di Carisma (Inganno) con CD 14, Vladimir li considera con freddezza, poi dichiara stancamente che il «vecchio drago» ha guadagnato il suo riposo e che gli spiriti antichi dovrebbero essere lasciati in pace. Ordina quindi ai giocatori di partire una volta soddisfatte le loro curiosità e scende la scala per tornare alla <span class="citation">Q36. Sala delle Udienze del Drago (p. 138)</span>.
+
+Se i giocatori condividono una storia convincente che non coinvolge Sir Godfrey o Argynvost e superano una prova di Carisma (Inganno) con CD 14, Vladimir ordina ai giocatori di partire una volta soddisfatte le loro curiosità. Poi scende la scala per tornare alla <span class="citation">Q36. Sala delle Udienze del Drago (p. 138)</span>.
+
+### L'Ira di Vladimir
+
+Se i giocatori informano Vladimir di essere venuti ad Argynvostholt su invito di Sir Godfrey o di aver comunque parlato con Sir Godfrey, chiede quietamente se «cercano di unirsi a quel traditore nella sua maledetta crociata contro il signore di Castello Ravenloft». I giocatori possono convincere Vladimir di non essere nemici di Strahd con una prova di Carisma (Inganno) con CD 14 riuscita. In caso di fallimento, o se i giocatori confessano di cercare la distruzione di Strahd, leggi:
+
+<div class="description">
+<p>Il volto del cavaliere si torce in un orribile ringhio, e il bordo affilato della grande spada striscia sul pavimento di pietra rotto. La temperatura nella stanza sembra precipitare, mentre i suoi occhi rossi ardono di una vividezza inquietante.</p>
+<p>«Forse avete incontrato il vampiro Strahd von Zarovich», raschia. «Ora, contemplate il suo carceriere. Se cercate di porre fine al suo tormento, vi abbatterò — a meno che non mi giuriate su questa lama maledetta di abbandonare questa missione folle.»</p>
+</div>
+
+Una volta convinto che i giocatori cerchino la distruzione di Strahd, Vladimir non permetterà loro di andarsene in pace a meno che ciascuno di loro non giuri sulla sua spada di non alzare mai la mano contro Strahd von Zarovich. Un personaggio che lo fa è soggetto agli effetti della caratteristica ***giuramento vincolante*** di Vladimir (si veda sotto).
+
+Se uno qualsiasi dei giocatori si rifiuta di prestare il giuramento di Vladimir, leggi:
+
+<div class="description">
+<p>Il cavaliere non-morto alza la grande spada in aria e la impugna con entrambe le mani, la poderosa lama che brilla minacciosa nella luce fioca. Notate ora che l'elsa è modellata per assomigliare ad ali di drago argenteo, il pomo a forma di testa di drago argenteo che stringe un opale nero tra i denti. Lunghe ombre sottili emergono dall'opale per avvolgersi attorno alla lama, ciascuna orlata dalle silhouette di punte acuminate come rasoi.</p>
+<p>«Se non riesco a convincervi a obbedire», raschia, «allora vi costringerò.»</p>
+</div>
+
+> [!info]+ **Vincolato dal Giuramento**
+> Se Vladimir usa la sua caratteristica ***giuramento vincolante*** per sottoporre un giocatore agli effetti di un incantesimo *geas*, sussurra il seguente comando vincolante: «Non alzerai mai la mano contro Strahd von Zarovich finché sei in vita.»
+
+> [!info]+ **Dimensioni della Stanza**
+> Quando ci si prepara a condurre il combattimento con Vladimir, ricordare che ogni quadrato della griglia di Argynvostholt misura 3 metri di lato, e che la <span class="citation">Q53. Faro di Argynvostholt (p. 142)</span> è larga ben 9 metri.
+
+> [!combat]- **Combattimento - Il Comandante**
+> **Livello di Combattimento**: Sanguinoso (prima fase), Sanguinoso (seconda fase)
+> **Livello di Personaggio Previsto**: 6
+> **Alleati:** Zorya (GS 1/4), Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4)
+> **Consumo di PE Previsto:** 39% (prima fase), 39% (seconda fase), per un totale del 78%
+>
+> ### **Bilanciamento:**
+> Se hai meno o più di 5 giocatori, modifica l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
+> |-|-|
+> | 3 | Riduci i PF di Vladimir in ciascuna fase a 169. Riduci la sua Grande Spada a una grande spada +1 (+11 al colpire, 2d6+6 danni taglienti), riduci i danni del suo ***Evocare Fantasmi*** a 1d8, riduci la sua ***Spazzata Devastante*** a 6d4 danni taglienti, riduci il suo ***Laccio Ombroso*** a 4d4 danni perforanti iniziali e 2d4 danni perforanti nel tentativo di fuggire dalla presa. Nella seconda fase, riduci la sua Grande Spada a +1 (+11 al colpire, 2d6+6 danni taglienti) e 1d4 danni perforanti aggiuntivi, riduci le sue ***Fiamme Nere*** a 2d4 danni da fuoco e 1d4 danni necrotici, riduci la sua ***Rogo della Tomba*** a 2d6 danni da fuoco e 2d6 danni necrotici, riduci la sua ***Ondata Distruttiva*** a 2d6 danni da tuono e 2d6 danni necrotici, e riduci il danno iniziale della sua ***Carica Vendicativa*** a 2d4. |
+> | 4 | Riduci i PF di Vladimir in ciascuna fase a 198. Riduci la sua Grande Spada a una grande spada +1 (+11 al colpire, 2d6+6 danni taglienti), riduci i danni del suo ***Evocare Fantasmi*** a 1d8+2, riduci la sua ***Spazzata Devastante*** a 7d4 danni taglienti, riduci il suo ***Laccio Ombroso*** a 2d12 danni perforanti iniziali e 1d12 danni perforanti nel tentativo di fuggire. Nella seconda fase, riduci la sua Grande Spada a +1 (+11 al colpire, 2d6+6 danni taglienti) e 1d4 danni perforanti aggiuntivi, riduci le sue ***Fiamme Nere*** a 1d12 danni da fuoco e 1d6 danni necrotici, riduci la sua ***Rogo della Tomba*** a 2d8 danni da fuoco e 2d8 danni necrotici, riduci la sua ***Ondata Distruttiva*** a 2d8 danni da tuono e 2d8 danni necrotici, e riduci il danno iniziale della sua ***Carica Vendicativa*** a 1d12. |
+> | 6 | Aumenta i PF di Vladimir in ciascuna fase a 258. Aumenta la sua Grande Spada a una grande spada +3 (+13 al colpire, 2d6+8 danni taglienti), aumenta i danni del suo ***Evocare Fantasmi*** a 1d10+3, aumenta la sua ***Spazzata Devastante*** a 4d10 danni taglienti, aumenta il suo ***Laccio Ombroso*** a 6d4 danni perforanti iniziali e 3d4 danni perforanti nel tentativo di fuggire. Nella seconda fase, aumenta la sua Grande Spada a +3 (+13 al colpire, 2d6+8 danni taglienti) e 1d6 danni perforanti aggiuntivi, aumenta le sue ***Fiamme Nere*** a 3d4 danni da fuoco e 1d6 danni necrotici, aumenta la sua ***Rogo della Tomba*** a 2d10 danni da fuoco e 2d10 danni necrotici, aumenta la sua ***Ondata Distruttiva*** a 2d10 danni da tuono e 2d10 danni necrotici, e aumenta il danno iniziale della sua ***Carica Vendicativa*** a 3d4. |
+
+> [!abstract]+ **I Giocatori Fuggono**
+> Se uno qualsiasi dei giocatori tenta di fuggire giù per le scale, Vladimir balza dalla finestra occidentale del faro e atterra sul tetto accanto alla <span class="citation">Q49. Porta della Torre del Faro (p. 141)</span> per bloccare la loro fuga.
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Vengeful Revenant</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Redivivo Vendicativo</h2>
+<em>Non-morto Medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
+<strong>Classe Armatura</strong> 17 (armatura semi-piastra)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1043,53 +1128,53 @@ If any of the players refuse to swear Vladimir’s oath, read:
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Competenze</strong> Atletica +10, Storia +6, Intimidire +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotico, psichico<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, stanchezza, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
+<strong>Lingue</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5
 <hr>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<p><strong><em>Burning Hatred.</em></strong> When Vladimir is reduced to 0 hit points, black flames erupt along the hilt of his greatsword and the shadows encircling its blade become spiked black wires. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two attacks with his <strong><em>+2 greatsword</em></strong>. He can replace one of those attacks with one use of his <strong><em>conjure phantoms</em></strong> action.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage, and Vladimir can push the target up to 5 ft. away. Instead of pushing the target, Vladimir can force the target to make a DC 18 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Conjure Phantoms.</em></strong> Vladimir summons a pair of <strong>phantom warriors</strong>, which appear next to a hostile creature that Vladimir can see. Each warrior makes a <strong><em>spectral longsword</em></strong> attack against that creature, then disappears. A creature that takes damage in this way can’t regain hit points until the start of Vladimir’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
-<p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
-<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
-<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an attack against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo turno successivo. Il corpo di Vladimir viene distrutto solo se inizia il turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Immunità alla Fuga.</em></strong> Vladimir è immune agli effetti che allontanano i non-morti.</p>
+<p><strong><em>Giuramento Vincolante.</em></strong> Se Vladimir infliggerebbe danni a una creatura morente con la sua <strong><em>grande spada +2</em></strong>, può invece scegliere di stabilizzarla e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura finché non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo turno successivo. Inoltre, il geas non può essere terminato o dissolto se non tramite gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per congedarlo.</p>
+<p><strong><em>Odio Ardente.</em></strong> Quando Vladimir viene ridotto a 0 punti ferita, fiamme nere eruttano lungo l'elsa della sua grande spada e le ombre che circondano la lama diventano fili spinati neri. Le sue statistiche vengono quindi istantaneamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono alla nuova forma, e non conserva nessuna delle condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> Vladimir effettua due attacchi con la sua <strong><em>grande spada +2</em></strong>. Può sostituire uno di quegli attacchi con un uso della sua azione <strong><em>evocare fantasmi</em></strong>.</p>
+<p><strong><em>Grande Spada +2.</em></strong> Attacco con Arma da Mischia: +12 al tiro per colpire, gittata 1,5 m., un bersaglio. Colpito: 14 (2d6 + 7) danni taglienti, e Vladimir può spingere il bersaglio fino a 1,5 m. lontano. Invece di spingere il bersaglio, Vladimir può costringerlo a effettuare un tiro salvezza di Forza con CD 18 o essere atterrato prono.</p>
+<p><strong><em>Evocare Fantasmi.</em></strong> Vladimir evoca una coppia di <strong>guerrieri fantasma</strong>, che appaiono accanto a una creatura ostile che Vladimir può vedere. Ogni guerriero effettua un attacco <strong><em>spada lunga spettrale</em></strong> contro quella creatura, poi scompare. Una creatura che subisce danni in questo modo non può recuperare punti ferita fino all'inizio del turno successivo di Vladimir.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Spazzata Devastante.</em></strong> Vladimir fa roteare la sua grande spada in un arco con forza tonante, creando un'onda d'urto che percorre un cono di 4,5 m davanti a lui. Ogni creatura in quell'area deve superare un tiro salvezza di Costituzione con CD 18 o subire 21 (6d6) danni taglienti ed essere spinta indietro di 1,5 m. Una creatura che supera il tiro salvezza subisce la metà dei danni e non viene spinta.</p>
+<p><strong><em>Laccio Ombroso.</em></strong> Fili spinati neri emergono dalla terra attorno a Vladimir in un raggio di 1,5 m. Ogni creatura in quell'area deve superare un tiro salvezza di Destrezza con CD 18 o subire 14 (4d6) danni perforanti ed essere afferrata dai fili (CD di fuga 19) fino all'inizio del turno successivo di Vladimir. Una creatura che supera il tiro salvezza subisce la metà dei danni e non viene afferrata. Una creatura che tenta di fuggire dalla presa subisce immediatamente 7 (2d6) danni perforanti aggiuntivi, sia che riesca sia che fallisca.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedisse di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Vladimir può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce attualmente. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Ritorsione Giurata (1/round).</em></strong> In risposta a subire danni da una creatura che può vedere, Vladimir segna quella creatura fino alla fine del suo turno successivo. Mentre quella creatura è segnata, Vladimir non provoca attacchi di opportunità quando si muove direttamente verso di essa, ha vantaggio al primo attacco da mischia che effettua contro quella creatura ogni turno e i suoi attacchi con armi contro quella creatura ottengono un colpo critico con un risultato di 19-20.</p>
+<p><strong><em>Comando Fantasma.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir evoca un soldato fantasma per scudarlo, riducendo i danni subiti della metà (arrotondando per eccesso). Questa abilità non può ridurre i danni subiti da Vladimir di più di 10.</p>
+<p><strong><em>Rappresaglia Marziale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir si muove fino a metà della sua velocità verso l'attaccante o lanciatore e effettua un attacco contro di esso con la sua <strong><em>grande spada +2</em></strong> se è a portata.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Knight of Death</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Cavaliere della Morte</h2>
+<em>Non-morto Medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
+<strong>Classe Armatura</strong> 17 (armatura semi-piastra)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1104,68 +1189,70 @@ If any of the players refuse to swear Vladimir’s oath, read:
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Competenze</strong> Atletica +10, Storia +6, Intimidire +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotico, psichico<br>
+<strong>Immunità ai Danni</strong> veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, stanchezza, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
+<strong>Lingue</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Vladimir doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would kill a creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) fire damage. (The flames can’t be doused by nonmagical means.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
-<p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
-<p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
+<p><strong><em>Combattente a Distanza Ravvicinata.</em></strong> Vladimir non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir recupera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radianti, questa caratteristica non funziona all'inizio del suo turno successivo. Il corpo di Vladimir viene distrutto solo se inizia il turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Ringiovanimento.</em></strong> Quando il corpo di Vladimir viene distrutto, la sua anima persiste. Dopo 24 ore, l'anima abita e anima un altro cadavere sullo stesso piano di esistenza e recupera tutti i suoi punti ferita. Mentre l'anima è senza corpo, un incantesimo <em>desiderio</em> può essere usato per costringerla ad andare nell'aldilà e non tornare.</p>
+<p><strong><em>Immunità alla Fuga.</em></strong> Vladimir è immune agli effetti che allontanano i non-morti.</p>
+<p><strong><em>Giuramento Vincolante.</em></strong> Se Vladimir ucciderebbe una creatura con la sua <strong><em>grande spada +2</em></strong>, può invece scegliere di stabilizzarla e sottoporla agli effetti di un incantesimo <em>geas</em>. Questo geas dura finché non viene dissolto e può danneggiare il suo portatore un numero qualsiasi di volte ogni giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo turno successivo. Inoltre, il geas non può essere terminato o dissolto se non tramite gli effetti di un incantesimo <em>restaurazione superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per congedarlo.</p>
+<h3>Azioni</h3>
+<p><strong><em>Attacco Multiplo.</em></strong> Vladimir effettua due attacchi da mischia. Può sostituire uno di quegli attacchi con un attacco <strong><em>fiamme nere</em></strong>.</p>
+<p><strong><em>Grande Spada +2.</em></strong> Attacco con Arma da Mischia: +12 al tiro per colpire, gittata 1,5 m., un bersaglio. Colpito: 14 (2d6 + 7) danni taglienti più 3 (1d6) danni perforanti, e il bersaglio deve effettuare un tiro salvezza di Saggezza con CD 18. In caso di fallimento, ha svantaggio al primo tiro per colpire o alla prima prova di abilità che effettua entro la fine del suo turno successivo.</p>
+<p><strong><em>Fiamme Nere.</em></strong> Attacco con Incantesimo a Distanza: +10 al tiro per colpire, gittata 9 m., un bersaglio. Colpito: 7 (2d6) danni da fuoco più 3 (1d6) danni necrotici, e il bersaglio si incendia di fiamme nere. All'inizio del suo turno successivo, il bersaglio e ogni creatura entro 1,5 m da esso devono effettuare un tiro salvezza di Costituzione con CD 17 o subire 7 (2d6) danni da fuoco aggiuntivi. (Le fiamme non possono essere spente con mezzi non magici.)</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Rogo della Tomba.</em></strong> Vladimir scaglia una sfera magica di fiamme nere che esplode in un punto che può vedere entro 36 m da lui. Ogni creatura in una sfera di 3 m di raggio centrata su quel punto deve effettuare un tiro salvezza di Destrezza con CD 17. La sfera si espande attorno agli angoli. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici in caso di fallimento, o la metà in caso di successo. In caso di fallimento, una creatura ha anche svantaggio al prossimo attacco che effettua prima dell'inizio del turno successivo di Vladimir.</p>
+<p><strong><em>Ondata Distruttiva.</em></strong> Vladimir colpisce il suolo con la sua grande spada, creando una scarica di energia distruttiva che si irradia da lui. Ogni creatura entro 3 m da lui deve superare un tiro salvezza di Costituzione con CD 18 o subire 10 (3d6) danni da tuono più 10 (3d6) danni necrotici ed essere atterrata prona. Una creatura che supera il tiro salvezza subisce la metà dei danni e non viene atterrata.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedisce di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Vladimir può ripetere il tiro salvezza contro un effetto o una condizione che lo colpisce attualmente. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Carica Vendicativa.</em></strong> In risposta a un nemico che lo colpisce o manca con un attacco, Vladimir carica verso di esso, spostandosi fino a 4,5 m in linea retta verso di esso senza provocare attacchi di opportunità. Se Vladimir termina il suo movimento entro 1,5 m da quel nemico, può costringerlo a effettuare un tiro salvezza di Forza con CD 18. In caso di fallimento, il bersaglio subisce 2d6 danni contundenti e Vladimir e il bersaglio si spostano fino a 3 m aggiuntivi nella stessa direzione senza provocare attacchi di opportunità. Se il bersaglio non può spostarsi per l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non percorso.</p>
+<p><strong><em>Sguardo Vendicativo.</em></strong> In risposta a subire danni da un nemico entro 9 m, Vladimir costringe quella creatura a effettuare un tiro salvezza di Saggezza con CD 17. In caso di fallimento, la creatura è spaventata da Vladimir finché Vladimir non le infligge danni o fino alla fine del turno successivo di Vladimir. Se la creatura fallisce il tiro salvezza di 5 o più, è invece paralizzata.</p>
+<p><strong><em>Colpo della Sentinella.</em></strong> In risposta a una creatura che tenta di uscire dalla sua portata senza prima effettuare l'azione Disimpegnarsi, Vladimir effettua un attacco contro di essa con la sua <strong><em>grande spada +2</em></strong>. In caso di colpire, la creatura non subisce danni dall'attacco, ma cade prona e la sua velocità diventa 0 per il resto del turno.</p>
 </div>
 
-While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
+Nella sua seconda forma, Vladimir tenta di usare la sua reazione ***carica vendicativa*** per spingere i giocatori contro le pareti della camera o fuori dalle finestre o oltre i corrimano. Se Vladimir tenta di spingere un giocatore fuori da una finestra o oltre un corrimano, quel giocatore deve superare un tiro salvezza di Forza aggiuntivo con CD 18 o essere spinto oltre il bordo. Quel giocatore è quindi soggetto a uno dei seguenti effetti:
 
-* If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* Se il giocatore è stato spinto fuori da una finestra, subisce 2 (1d4) danni taglienti dalle schegge di vetro appuntite e deve superare un tiro salvezza di Destrezza con CD 10. In caso di successo, si aggrappa a un risalto di pietra 3 metri sotto la finestra. In caso di fallimento, cade al suolo o sul tetto sottostante, a seconda della sua posizione.
+* Se il giocatore è stato spinto oltre un corrimano, subisce normalmente i danni da caduta, poi deve superare un tiro salvezza di Destrezza con CD 10. In caso di fallimento, cade poi in fondo alle scale, atterrando prono sul <span class="citation">Q51. Faro, Pianerottolo Superiore (p. 141)</span> e subendo 1d6 danni contundenti per ogni 3 metri di scale percorsi cadendo.
 
-> [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
-> 
-> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
-> 
-> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
-> 
-> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc P - Ravenloft Heist]].
+> [!warning]+ **Fallimento Produttivo**
+> Il combattimento con Vladimir finirà probabilmente in un azzeramento totale del gruppo se i giocatori non hanno ancora raggiunto il 6° livello o reclutato Ezmerelda d'Avenir in [[Arc K - The Fallen Abbey]]. Pertanto, assicurarsi di usare la capacità ***giuramento vincolante*** di Vladimir per «stabilizzare» i giocatori morenti ogniqualvolta possibile, stabilizzandoli e garantendo che un azzeramento totale non ponga fine alla campagna.
+>
+> Se Vladimir sconfigge i giocatori, li priva delle armi e lascia i loro corpi privi di sensi sull'Antica Via di Svalich vicino al sentiero per Argynvostholt. Poi seppellisce le loro armi in una delle tombe aperte nel <span class="citation">Q15. Cimitero (p. 134)</span> e torna al trono nella <span class="citation">Q36. Sala delle Udienze del Drago</span>.
+>
+> I giocatori possono scoprire che le loro armi sono state sepolte nel cimitero chiedendo a Sir Godfrey, e possono individuare la tomba specifica con una prova di Intelligenza (Indagare) con CD 5, o scavando tutte le tombe nel cimitero. Sir Godfrey si scusa profondamente per la violenza di Vladimir, ma rivela che Vladimir è recentemente tornato nella sua sala delle udienze, liberando la strada qualora i giocatori desiderino continuare a esplorare le parti superiori del maniero.
+>
+> Una volta tornato nella sala delle udienze dopo aver vincolato con successo i giocatori, Vladimir non li attacca di nuovo finché non recuperano il teschio di Argynvost in [[Arc P - Ravenloft Heist]].
 
-The first time Vladimir’s second form is reduced to 50 hit points or fewer, he snarls: “If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down."
+La prima volta che la seconda forma di Vladimir viene ridotta a 50 punti ferita o meno, ringhia: «Se distruggerete questo corpo, il mio spirito troverà un nuovo cadavere da abitare, e vi darò la caccia.»
 
-When Vladimir dies, he rasps, “You have won this battle, but you shall never win forever. You can outrun me, even outfight me, but you cannot outlast me. Sleep—and know that we will meet again." 
+Quando Vladimir muore, raschia: «Avete vinto questa battaglia, ma non vincerete mai per sempre. Potete superarmi, persino battermi in combattimento, ma non potete resistere più a lungo di me. Dormite — e sappiate che ci rincontreremo.»
 
-As Vladimir dies, his features fade, leaving behind the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist.
-### The Gargoyle’s Prophecy
-The dragon gargoyle’s brazier is freezing cold to the touch, and extinguishes any hot flame—magical or nonmagical—placed inside of it. However, if lit by Zorya’s breath weapon or one of the torches from [[#M4a. Cemetery|Argynvost’s mausoleum]], the brazier alights with a cold silver fire.
+Mentre Vladimir muore, i suoi tratti svaniscono, lasciando il cadavere irriconoscibile di un anonimo Baroviano. Allo stesso modo, la sua armatura e la sua *grande spada +2* si dissolvono, svanendo in nebbia.
 
-The players can summon an aspect of Argynvost’s spirit to briefly animate the gargoyle by lighting the brazier and reading aloud the oath of the Order of the Silver Dragon. If they do, read:
+### La Profezia della Gargolla
+
+Il braciere della gargolla draconica è gelido al tatto, e spegne qualsiasi fiamma calda — magica o non magica — posta al suo interno. Tuttavia, se acceso dal'arma del respiro di Zorya o da una delle torce del [[#M4a. Il Cimitero|mausoleo di Argynvost]], il braciere si accende con un freddo fuoco argenteo.
+
+I giocatori possono evocare un aspetto dello spirito di Argynvost per animare brevemente la gargolla accendendo il braciere e leggendo ad alta voce il giuramento dell'Ordine del Drago Argenteo. Se lo fanno, leggi:
 
 <div class="description">
-<p>A silver ember flickers within the metal wyrmling’s eyes. One of its claws twitches, then another. A low rumbling sound, like distant thunder, emanates from deep within it, as its silver wings flex and spread wide, the light in its eyes intensifying to a radiant, silver glow.</p>
-<p>Its mouth moves, its whispering hiss seeming to echo in the enclosed space.</p>
+<p>Una brace argentea guizza negli occhi del piccolo draghetto metallico. Una delle sue zampe si contrae, poi un'altra. Un suono di rombo basso, simile a tuono lontano, emana dalle sue profondità, mentre le ali argentee si flettono e si dispiegano ampie, la luce nei suoi occhi che si intensifica fino a un bagliore radioso e argenteo.</p>
+<p>La sua bocca si muove, il suo sibilo sussurrato che sembra echeggiare nello spazio ristretto.</p>
 </div>
 
-The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
+La gargolla sussurra poi il breve verso descritto in <span class="citation">Q44. Gargolla Draconica (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
+***Traguardo.*** Ricevere la missione di Argynvost completa un traguardo narrativo. Quando i giocatori ottengono la profezia della gargolla, assegnare a ciascun giocatore 2.500 PE.
 
-> [!info]+ **Returning the Skull**
-> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
+> [!info]+ **Restituire il Teschio**
+> I giocatori possono restituire il teschio di Argynvost alla sua cripta in [[Arc Q - A Shining Beacon]], che si svolge immediatamente dopo [[Arc P - Ravenloft Heist]].
