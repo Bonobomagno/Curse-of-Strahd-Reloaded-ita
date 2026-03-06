@@ -12,7 +12,7 @@ Durante la permanenza al Tser Pool, i giocatori ascoltano racconti Vistani sulla
 
 Se i giocatori hanno il compito di scortare Ireena alla Chiesa di St. Andral a Vallaki, o se hanno le proprie ragioni per farlo, tornano quindi sulla Vecchia Strada di Svalich passando per l’Incrocio del Fiume Ivlis, viaggiando verso ovest attraverso le montagne. Lungo il cammino, incontrano uno strano cavaliere scheletrico, un paio di tombe fresche, un revenant vigile, la **night hag** Morgantha nel suo travestimento da venditrice ambulante, due stormi di **corvi** amichevoli, e un **lupo mannaro** accompagnato dal suo branco di **lupi** famelici.
 
-Al loro arrivo a Vallaki, i giocatori possono trovare alloggio alla Locanda dell’Acqua Blu. Lì, possono incontrare una serie di personaggi pittoreschi, tra cui il direttore di circo Rictavio e i figli di Lady Fiona Wachter. Quando arriva il mattino, i giocatori possono anche avere un incontro fatale con il Barone Vargas Vallakovich e il suo brutale esecutore, Izek Strazni...
+Al loro arrivo a Vallaki, i giocatori possono trovare alloggio alla Locanda dell’Acqua Azzurra. Lì, possono incontrare una serie di personaggi pittoreschi, tra cui il direttore di circo Rictavio e i figli di Lady Fiona Wachter. Quando arriva il mattino, i giocatori possono anche avere un incontro fatale con il Barone Vargas Vallakovich e il suo brutale esecutore, Izek Strazni...
 
 > [!warning]+ **La Strada dal Tser Pool**
 >
@@ -27,8 +27,8 @@ Il viaggio dal villaggio di Barovia all’Incrocio del Fiume Ivlis è lungo tre 
 ## C1a. Gli Esploratori Baroviani
 Mentre i giocatori viaggiano, leggete:
 
-<div class=”description”><p>Vi mettete in marcia dal silenzioso villaggio di Barovia, la nebbia che striscia intorno ai vostri piedi mentre imboccate la Vecchia Strada di Svalich. Un mare di erbe alte, verde pallido, si estende davanti a voi su entrambi i lati della strada, fino al bordo del Fiume Ivlis. Il cielo sopra è di un grigio spento, le nuvole gravide della promessa di pioggia.</p>
-<p>Non passa molto prima che possiate scorgere in lontananza il vecchio ponte di pietra ad arco che attraversa il limpido fiume azzurro più avanti. Attraversandolo, vi ritrovate su una strada fangosa che si snoda tra gli alberi. L’aria è densa del profumo di terra umida e foglie in decomposizione, e gli alberi si stringono vicini, proiettando ombre profonde che scavano solchi scuri attraverso la strada.</p></div>
+<div class=”description”><p>Vi mettete in marcia dal silenzioso villaggio di Barovia, la nebbia che striscia intorno ai vostri piedi mentre imboccate la Vecchia Strada di Svalich. Un mare d’erbe alte, verde pallido, si distende su entrambi i lati della strada fino alle rive del Fiume Ivlis. Il cielo sopra è d’un grigio spento, le nuvole gravide della promessa di pioggia.</p>
+<p>Non passa molto prima che possiate scorgere in lontananza il vecchio ponte di pietra ad arco che attraversa il limpido fiume azzurro. Oltre il ponte, la strada fangosa si snoda tra gli alberi. L’aria è densa del profumo di terra umida e foglie in decomposizione, e gli alberi si stringono vicini, proiettando ombre profonde che scavano solchi scuri attraverso il cammino.</p></div>
 
 Se qualche giocatore ha un punteggio passivo di Saggezza (Percezione) di 16 o superiore, sente un fruscio e vede una sagoma accovacciata nel sottobosco nebbioso. Altrimenti, i giocatori sentono semplicemente una voce chiamare, attutita e diffusa nella nebbia: “Chi va là? Identificatevi.”
 
@@ -42,15 +42,15 @@ Poco dopo che i giocatori riprendono il cammino lungo la Vecchia Strada di Svali
 ## C1b. Il Deposito di Van Richten
 Mentre i giocatori proseguono lungo la strada, leggete:
 
-<div class=”description”><p>Viaggiate più in profondità nei boschi, la strada fangosa che vi guida sempre più lontano dalla civiltà. Quando la strada curva, il fiume vi sfiora nuovamente. Qui, il fiume è più largo, le sue acque scure e calme. Potete vedere il riflesso degli alberi e della nebbia sulla sua superficie. Il suono dell’acqua quieta e gorgogliante è accompagnato solo dal fruscio delle foglie e dalla pioggerella leggera. Nessun canto d’uccello spezza il silenzio che grava sui boschi.</p></div>
+<div class=”description”><p>Vi addentrate più a fondo nei boschi, la strada fangosa che vi guida sempre più lontano dalla civiltà. Quando la strada curva, il fiume vi sfiora nuovamente. Qui è più largo, le sue acque scure e calme; sulla superficie si specchiano gli alberi e la nebbia. Il gorgoglio quieto dell’acqua è accompagnato solo dal fruscio delle foglie e dalla pioggerella leggera. Nessun canto d’uccello spezza il silenzio che grava sui boschi.</p></div>
 
 Mentre attraversano questa sezione della Vecchia Strada di Svalich, i giocatori sono seguiti da una delle spie di Strahd: un **lupo**. (Vedete <span class=”citation”>Strahd’s Spies, pg. 29</span> per maggiori informazioni.)
 
 Se i giocatori hanno ricevuto la posizione del deposito di armi nascosto di Van Richten da Doru nella chiesa di Barovia, possono entrare nei boschi a sud per trovarlo. Se lo fanno, leggete:
 
 <div class=”description”>
-<p>Lasciate la strada e vi addentrate nei boschi, superando il limitare degli alberi mentre i vostri piedi affondano nel fango e nel terreno limaccioso. Volute di nebbia si arrotolano sulla terra intorno a voi, alberi nodosi che protendono le braccia in alto mentre una luce grigia filtra attraverso la volta arborea. Camminate per trecento passi, avanzando silenziosamente attraverso il pacciame e la nebbia fino a raggiungere una radura, dove il bosco si apre per fare spazio a un’alta e antica quercia il cui tronco nero e nodoso si erge ben al di sopra dei suoi simili.</p>
-<p>Presto vi rendete conto, tuttavia, di non essere soli. Cinque figure barcollano o stanno in piedi senza meta nella radura, i loro vestiti infangati e strappati e la loro carne che inizia appena a diventare pallida e grigia.</p>
+<p>Lasciate la strada e vi addentrate nei boschi, oltre il limitare degli alberi, mentre i piedi affondano nel fango e nel terreno limaccioso. Volute di nebbia si arrotolano sulla terra intorno a voi, e alberi nodosi protendono le braccia in alto mentre una luce grigia filtra attraverso la volta arborea. Camminate per trecento passi, avanzando in silenzio attraverso il pacciame e la foschia, fino a raggiungere una radura dove il bosco si apre per fare spazio a un’alta e antica quercia, il cui tronco nero e nodoso si erge ben al di sopra dei suoi simili.</p>
+<p>Ma presto vi rendete conto di non essere soli. Cinque figure barcollano o sostano senza meta nella radura, i vestiti infangati e strappati, la carne che ha già iniziato a farsi pallida e grigia.</p>
 </div>
 
 Le cinque figure sono **zombi**. Corrispondono anche alle descrizioni della famiglia Lansten fornite dagli esploratori — due genitori, una ragazzina e due ragazzini.
@@ -83,16 +83,16 @@ I giocatori possono vedere un cocchiere seduto a cassetta: il **vampire spawn** 
 La carrozza si ferma quindi. Leggete quanto segue, modificando il testo se necessario qualora Ireena non sia presente, e facendo una breve pausa dopo ogni paragrafo per concedere ai giocatori una breve opportunità di agire o reagire:
 
 <div class=”description”><p>Il cocchiere lascia le redini, scende dalla cassetta e si muove per aprire la portiera laterale della carrozza, inchinandosi profondamente. Passa un istante — e poi un uomo esce dalla carrozza.</p>
-<p>È alto, scarno, e vestito con eleganza degna di un uomo di rango aristocratico, persino regale. Un mantello nero è tirato con cura sulle sue spalle, legato al collo da una spilla rosso sangue. Una spada lunga riposa nel fodero al suo fianco, l’elsa lucida che brilla sotto la luce fioca. La sua tunica scarlatta è lavorata con disegni intricati, e i suoi capelli sono tirati indietro in un’attaccatura a punta vedova affilata e impeccabile.</p><p>I suoi occhi sono scuri, e mentre si muove per aggiustarsi il rubino al collo, vedete che le sue unghie formano lunghi ed eleganti artigli. È solo allora che vi rendete conto che la sua pelle è pallida — innaturalmente pallida — e che i suoi occhi brillano di una fame profonda e intelligente.</p></div>
+<p>È alto e scarno, vestito con un’eleganza degna di un uomo di rango aristocratico, persino regale. Un mantello nero è drappeggiato con cura sulle spalle, fermato al collo da una spilla rosso sangue. Una spada lunga riposa nel fodero al fianco, l’elsa lucida che brilla nella luce fioca. La tunica scarlatta è lavorata con disegni intricati, e i capelli tirati indietro rivelano un’attaccatura a punta vedova affilata e impeccabile.</p><p>I suoi occhi sono scuri, e mentre si aggiusta il rubino al collo, vedete che le unghie formano lunghi ed eleganti artigli. È solo allora che vi rendete conto che la pelle è pallida — innaturalmente pallida — e che quegli occhi brillano di una fame profonda e intelligente.</p></div>
 
 Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è con il gruppo, aggiungete:
 
-<div class=”description”><p>Ireena barcolla all’indietro, come se schiaffeggiata. Distoglie gli occhi dallo sguardo dell’uomo, tutto il suo corpo che si irrigidisce. “Non guardatelo negli occhi,” riesce a dire con voce strozzata.</p>
-<p>Lo sguardo dell’uomo si posa brevemente su Ireena, e sorride — sebbene nessun calore raggiunga i suoi occhi. “Lady Kolyana,” dice. “Che piacevole sorpresa.” Poi rivolge lo sguardo a voi.</p></div>
+<div class=”description”><p>Ireena barcolla indietro, come colpita da uno schiaffo. Distoglie gli occhi dallo sguardo dell’uomo, il corpo intero che si irrigidisce. «Non guardatelo negli occhi,» riesce a dire con voce strozzata.</p>
+<p>Lo sguardo dell’uomo si posa brevemente su Ireena, e sorride — sebbene nessun calore raggiunga quegli occhi. «Lady Kolyana,» dice. «Che piacevole sorpresa.» Poi rivolge lo sguardo a voi.</p></div>
 
 Che Ireena sia con il gruppo o meno, aggiungete:
 
-<div class=”description”><p>”Buongiorno,” dice. “Sono il Conte Strahd von Zarovich — ed è un piacere incontrare finalmente i nuovi arrivati nel mio dominio. I miei amici mi hanno detto tante cose su di voi.” I suoi occhi indugiano su ciascuno di voi a turno, osservandovi come un taglio di carne pesato al mercato, un ninnolo intrigante ma inanimato — una preda avvistata da un predatore tra i cespugli.</p></div>
+<div class=”description”><p>«Buongiorno,» dice. «Sono il Conte Strahd von Zarovich — ed è un piacere incontrare finalmente i nuovi arrivati nel mio dominio. I miei amici mi hanno detto tante cose su di voi.» I suoi occhi indugiano su ciascuno di voi a turno, soppesandovi come un taglio di carne al mercato, un ninnolo intrigante ma inanimato — una preda avvistata da un predatore tra i cespugli.</p></div>
 
 > [!lore]+ **La Profezia di Strahd**
 >
@@ -181,9 +181,9 @@ Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è presente, Strahd chiede qu
 
 (Non nega, tuttavia, il suo attacco al villaggio di Barovia, notando solo che la gente del villaggio lo ha sfidato in un atto di estremo tradimento. “Sono certo che converrete che la mia risposta è stata misurata,” dice. “Dopotutto, nessun signore potrebbe tollerare un insediamento che fomenta tale sedizione. La buona gente di Barovia aveva bisogno di una lezione. La loro disciplina è stata una gentilezza che pochi altri avrebbero concesso.”)
 
-Man mano che la conversazione prosegue, Strahd nota di aver sentito “cose così meravigliose” sulle imprese dei giocatori in “una certa vecchia casa ai confini del mio dominio.” Strahd fa quindi un breve riferimento alle azioni dei giocatori nella Death House, lodando sardonicamente il loro “fiero e ardente valore.”
+Man mano che la conversazione prosegue, Strahd nota di aver sentito “cose così meravigliose” sulle imprese dei giocatori in “una certa vecchia casa ai confini del mio dominio.” Strahd fa quindi un breve riferimento alle azioni dei giocatori nella Casa della Morte, lodando sardonicamente il loro “fiero e ardente valore.”
 
-Se i giocatori chiedono della natura della Death House, o del suo scopo nel condurli a Barovia, Strahd sorride freddamente e dice solo: “Le anime dei dannati sono cose tragicamente contorte. Non indugiato sulla loro follia.”
+Se i giocatori chiedono della natura della Casa della Morte, o del suo scopo nel condurli a Barovia, Strahd sorride freddamente e dice solo: “Le anime dei dannati sono cose tragicamente contorte. Non indugiato sulla loro follia.”
 
 Se i giocatori chiedono del cocchiere di Strahd, Strahd lo presenta come Escher, “il mio cocchiere e coppiere.” Escher non risponde alle domande o dichiarazioni dei giocatori e resta semplicemente in piedi con fare dimesso al fianco di Strahd.
 
@@ -196,7 +196,7 @@ Durante la conversazione, nei momenti in cui sembra naturale farlo, [[Strahd von
 * “Ho reclamato Ireena Kolyana, e l’ho marchiata come mia. Perché non dovrei portarla con me al Castello Ravenloft in questo istante?”
 * “Siete intrusi nelle mie terre, e l’ultimo straniero che è entrato a Barovia ha fomentato sedizione e tradimento. Perché non dovrei eliminarvi ora, per impedirvi di fare lo stesso?” (La domanda di Strahd si riferisce al Dr. Rudolph van Richten.)
 
-Se i giocatori hanno sepolto le ossa di Walter e hanno fatto riposare gli spiriti della Death House, Strahd pone una domanda aggiuntiva:
+Se i giocatori hanno sepolto le ossa di Walter e hanno fatto riposare gli spiriti della Casa della Morte, Strahd pone una domanda aggiuntiva:
 
 * “Immediatamente prima del vostro ingresso nelle mie terre, avete causato grandi danni a un gruppo di miei servitori — gli occupanti di una certa casa ai confini del mio dominio. Contavo su quei servitori per portarmi esemplari di interesse, ma le vostre attività li hanno lasciati indisposti a tempo indeterminato. Perché non dovrei punirvi per i vostri crimini contro di loro?”
 
@@ -209,13 +209,13 @@ I giocatori possono spingere Strahd a fare le seguenti concessioni:
 * Accetta di ignorare le trasgressioni di Ismark, a condizione che Ismark non lo sfidi né agisca contro la sua volontà di nuovo.
 * Accetta di permettere a Ireena di lasciare l’Incrocio del Fiume Ivlis in sicurezza. (Strahd non concederà un periodo di grazia più lungo di quello.)
 * Accetta di astenersi dal giudicare i giocatori a meno che non agiscano direttamente contro la sua persona.
-* Accetta di perdonare ai giocatori le loro trasgressioni contro il culto della Death House.
+* Accetta di perdonare ai giocatori le loro trasgressioni contro il culto della Casa della Morte.
 
 I giocatori potrebbero ottenere con successo queste concessioni utilizzando una varietà di argomentazioni, tra cui (ma non limitate a) le seguenti:
 
 * I giocatori hanno promesso a Ismark che scorteranno Ireena a Vallaki e devono poter mantenere la loro parola.
 * I giocatori non hanno intrapreso alcuna azione ostile contro Strahd e dovrebbe essere loro concessa la presunzione di innocenza.
-* Le azioni dei giocatori nella Death House sono state condotte per legittima difesa, e pertanto dovrebbero essere scusate.
+* Le azioni dei giocatori nella Casa della Morte sono state condotte per legittima difesa, e pertanto dovrebbero essere scusate.
 
 Se i giocatori sembrano dubitare della fedeltà di Strahd alle sue concessioni, [egli promette](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/): “Non temete, cari figlioli. Non sono un bugiardo. Entrambi sappiamo che l’inganno è per i deboli.”
 
@@ -327,7 +327,7 @@ Se salvata, Muriel rimane con i giocatori finché non riesce a discernere le lor
 <p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 1,5 m da Muriel con un attacco, ella può usare la sua reazione per subire il danno al suo posto.</p>
 </div>
 
-Se scopre che i giocatori intendono viaggiare a Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di affidarsi alla sicurezza del numero finché non potrà riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Blu. In nessuna circostanza Muriel rivela volontariamente la sua vera natura ai giocatori in questo momento.
+Se scopre che i giocatori intendono viaggiare a Vallaki, Muriel viaggia con loro mantenendo il suo travestimento da corvo, sperando di affidarsi alla sicurezza del numero finché non potrà riferire le sue scoperte a Urwin Martikov alla Locanda dell’Acqua Azzurra. In nessuna circostanza Muriel rivela volontariamente la sua vera natura ai giocatori in questo momento.
 
 > [!info]+ **Muriel in Incognito**
 > Mentre viaggia con i giocatori, Muriel cerca di mantenere un basso profilo mentre si ingrazia il gruppo. Mentre è in forma corvo, i giocatori possono comunicare con lei solo usando l’incantesimo *speak with animals*, sebbene neghi ogni conoscenza di Strahd o delle origini dello strix e finga di essere un corvo ordinario e sempliciotto, interessato solo al cibo e a evitare i predatori. Se le viene chiesto il nome, si presenta entusiasticamente come “Blu,” e diventa sempre più ostinata se interrogata.
@@ -496,13 +496,13 @@ Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro i
 ### Il Racconto di Eliza
 Dopo che uno dei giocatori è andato, Eliza condivide poi il seguente racconto:
 
-<div class="description"><p>"Si dice che dentro ogni corvo batta un'anima perduta, e che il canto di ogni corvo racconti una storia di ere passate. Sussurrano, quindi ascoltate attentamente."</p>
+<div class="description"><p>«Si dice che dentro ogni corvo batta un'anima perduta, e che il canto di ogni corvo racconti una storia di ere passate. Sussurrano, quindi ascoltate attentamente.»</p>
 <p>Fa un respiro profondo; quando parla di nuovo, la sua voce è sommessa, con una qualità inquietante e melodica.</p>
-<p>"Cantate, corvi, di Barovia, nata dalle nebbie e bagnata dal crepuscolo. Cantate di Lugdana, la paladina fedele del Signore del Mattino, nemica toccata dall'alba delle tenebre che si annidano in profondità. Il Holy Symbol of Ravenkind, il suo radioso testamento, il faro del guerriero di fedele determinazione.</p>
-<p>"Cantate, corvi, dell'ascesa di Chernovog, chiamato Dio Verde e Signore dei Demoni su Yester Hill. Lugdana, dai capelli grigi, stanca di battaglie, la sua spada lunga e il suo scudo ancora lucidati e pronti. Guidata attraverso le ombre, verso il sacro suolo, si scontrò con il demone, la loro danza simile a una tempesta.</p>
-<p>"Cantate, corvi, dell'ultima furia di Lugdana, del simbolo di Ravenkind ora fiammeggiante di luce. La marea della battaglia che si ribalta, il grido coraggioso di un'eroina, un assalto finale con la grazia della divinità. Il Signore dei Demoni bandito, la guerriera ora caduta, la ferita al suo fianco scavata troppo in profondità da sopportare.</p>
-<p>"Cantate, corvi, degli ultimi momenti di luce, un'ombra che discende dallo splendore celeste. Cantate dell'angelo, dalle piume nere e dal becco, l'angelo del Signore del Mattino che reclama il suo dono. Il Simbolo ripreso, tra gli artigli dei corvi custodito.</p>
-<p>"Cantate, corvi; voi siete i custodi, le sentinelle, i narratori di storie mai raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che si annidano, e degli eroi a venire."</p></div>
+<p>«Cantate, corvi, di Barovia, nata dalle nebbie e bagnata dal crepuscolo. Cantate di Lugdana, la paladina fedele del Signore del Mattino, nemica toccata dall'alba delle tenebre che si annidano in profondità. Il Sacro Simbolo di Ravenkind, il suo radioso testamento, il faro del guerriero di fedele determinazione.</p>
+<p>Cantate, corvi, dell'ascesa di Chernovog, chiamato Dio Verde e Signore dei Demoni su Yester Hill. Lugdana, dai capelli grigi, stanca di battaglie, la sua spada lunga e il suo scudo ancora lucidati e pronti. Guidata attraverso le ombre, verso il sacro suolo, si scontrò con il demone, la loro danza simile a una tempesta.</p>
+<p>Cantate, corvi, dell'ultima furia di Lugdana, del simbolo di Ravenkind ora fiammeggiante di luce. La marea della battaglia che si ribalta, il grido coraggioso di un'eroina, un assalto finale con la grazia della divinità. Il Signore dei Demoni bandito, la guerriera ora caduta, la ferita al suo fianco scavata troppo in profondità da sopportare.</p>
+<p>Cantate, corvi, degli ultimi momenti di luce, un'ombra che discende dallo splendore celeste. Cantate dell'angelo, dalle piume nere e dal becco, l'angelo del Signore del Mattino che reclama il suo dono. Il Simbolo ripreso, tra gli artigli dei corvi custodito.</p>
+<p>Cantate, corvi; voi siete i custodi, le sentinelle, i narratori di storie mai raccontate. Cantate, corvi, della memoria di Lugdana, delle ombre che si annidano, e degli eroi a venire.»</p></div>
 
 Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Stanimir e Arturi per ultimi, con Stanimir che vota "Vero" e Arturi che vota "Falso" — Eliza rivela che la sua storia era mezzo-vera.
 
@@ -522,12 +522,12 @@ Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro i
 ### Il Racconto di Ireena
 Dopo che tutti i giocatori sono andati, [[Non-Player Characters#Ireena Kolyana|Ireena]] (se presente) condivide poi il seguente racconto:
 
-<div class="description"><p>"Quando ero bambina, mio padre portò me e mio fratello a un vasto e tranquillo lago. Ricordo la sabbia sotto i miei piedi nudi, e il rumore delle onde sulla riva.</p>
-<p>"Ma poi, qualcosa ruppe il silenzio — un ringhio basso che echeggiò nel vento. Quando mi voltai, vidi una bestia emergere dalla nebbia: un lupo, molto più grande di qualsiasi altro avessi mai visto. Ricordo ancora i suoi occhi — gialli, freddi e affamati.</p>
-<p>"Mio padre urlò di correre. Mi lanciai verso i boschi, e il lupo mi seguì, i suoi ringhi che echeggiavano nel sottobosco. Ricordo i rami che mi sferzavano il viso, le spine che mi tagliavano i piedi mentre le mie gambe bruciavano e il mio respiro si faceva affannoso, ma la paura mi spingeva avanti.</p>
-<p>"Fu solo molto più tardi, quando il mio cuore si era calmato nel petto e i passi del lupo si erano dissolti nel silenzio, che finalmente mi permisi di fermarmi. A quel punto, però, i boschi mi erano estranei, e le grida di mio padre si erano affievolite.</p>
-<p>"Una nebbia pesante era scesa intorno a me, e forme oscure si annidavano in ogni angolo. Feci un passo avanti, una mano che si tendeva paurosa nella nebbia — e un lupo fatto di nebbia balzò fuori, le fauci spalancate per divorarmi. E poi — tutto divenne nero.</p>
-<p>"La cosa seguente che ricordo, mi svegliai nel mio letto, il canticchiare di mio padre che echeggiava dalla cucina. Non so come ci sono arrivata, o cosa ne fu del lupo, ma ricordo ancora i suoi denti chiaramente come sempre."</p></div>
+<div class="description"><p>«Quando ero bambina, mio padre portò me e mio fratello a un vasto e tranquillo lago. Ricordo la sabbia sotto i miei piedi nudi, e il rumore delle onde sulla riva.</p>
+<p>Ma poi, qualcosa ruppe il silenzio — un ringhio basso che echeggiò nel vento. Quando mi voltai, vidi una bestia emergere dalla nebbia: un lupo, molto più grande di qualsiasi altro avessi mai visto. Ricordo ancora i suoi occhi — gialli, freddi e affamati.</p>
+<p>Mio padre urlò di correre. Mi lanciai verso i boschi, e il lupo mi seguì, i suoi ringhi che echeggiavano nel sottobosco. Ricordo i rami che mi sferzavano il viso, le spine che mi tagliavano i piedi mentre le gambe bruciavano e il respiro si faceva affannoso, ma la paura mi spingeva avanti.</p>
+<p>Fu solo molto più tardi, quando il mio cuore si era calmato nel petto e i passi del lupo si erano dissolti nel silenzio, che finalmente mi permisi di fermarmi. A quel punto, però, i boschi mi erano estranei, e le grida di mio padre si erano affievolite.</p>
+<p>Una nebbia pesante era scesa intorno a me, e forme oscure si annidavano in ogni angolo. Feci un passo avanti, una mano che si tendeva paurosa nella nebbia — e un lupo fatto di nebbia balzò fuori, le fauci spalancate per divorarmi. E poi — tutto divenne nero.</p>
+<p>La cosa seguente che ricordo, mi svegliai nel mio letto, il canticchiare di mio padre che echeggiava dalla cucina. Non so come ci sono arrivata, o cosa ne fu del lupo, ma ricordo ancora i suoi denti chiaramente come sempre.»</p></div>
 
 Quando il suo racconto è terminato e tutti i partecipanti hanno fatto le loro ipotesi — Stanimir che vota "Vero" ed Eliza e Arturi che votano "Falso" — Ireena rivela che la sua storia era falsa. Con una risata sommessa, racconta che la storia è un sogno che ha avuto fin dall'infanzia, facendo notare che non ci sono laghi vicino al villaggio di Barovia e che non aveva mai visto un **dire wolf** fino a poco tempo fa.
 
@@ -551,8 +551,8 @@ Il viaggio dall'Accampamento del Tser Pool all'Incrocio del Fiume Ivlis è lungo
 Mentre i giocatori compiono il viaggio verso l'incrocio, leggete:
 
 <div class="description">
-<p>Una luna pallida pende bassa nel cielo, gettando un debole bagliore argenteo sul paesaggio avvolto dalla nebbia sottostante. Alberi antichi si stagliano su entrambi i lati della strada fangosa, i loro rami nodosi che si protendono come dita scheletriche.</p>
-<p>Mentre l'ora delle streghe si avvicina, una quiete inquietante discende. Persino le foglie cessano il loro frusciare, lasciando lo sciabordio dei vostri stivali nel fango come l'unico suono persistente.</p>
+<p>Una luna pallida pende bassa nel cielo, gettando un debole bagliore argenteo sul paesaggio avvolto dalla foschia. Alberi antichi si stagliano su entrambi i lati della strada fangosa, i rami nodosi che si protendono come dita scheletriche.</p>
+<p>Mentre l'ora delle streghe si avvicina, una quiete inquietante discende sulla terra. Persino le foglie cessano il loro fruscio, e lo sciabordio dei vostri stivali nel fango resta l'unico suono a rompere il silenzio.</p>
 </div>
 
 Se i giocatori non sono riusciti a nascondere la loro partenza, qualsiasi giocatore con un punteggio passivo di Wisdom (Perception) di 11 o superiore si rende conto di essere seguito. Leggete:
@@ -587,8 +587,8 @@ Mentre fugge attraverso i boschi, Eliza ha mezza copertura da qualsiasi giocator
 Quando i giocatori arrivano all'Incrocio del Fiume Ivlis, leggete:
 
 <div class="description">
-<p>Il sentiero ben battuto ritorna all'incrocio, ora illuminato sotto la luce pallida e malaticcia della luna. Dall'altro lato della strada, le lapidi avvolte dalla nebbia sembrano accovacciarsi nell'oscurità accanto alla vecchia forca di legno, la cui corda logora penzola senza vita nell'aria immobile.</p>
-<p>Una sagoma tozza e incappucciata sta accanto alla forca — in attesa.</p>
+<p>Il sentiero ben battuto vi riporta all'incrocio, ora illuminato dalla luce pallida e malaticcia della luna. Dall'altro lato della strada, le lapidi avvolte dalla nebbia paiono accovacciarsi nell'oscurità accanto alla vecchia forca di legno, la corda logora che penzola senza vita nell'aria immobile.</p>
+<p>Una sagoma tozza e incappucciata attende accanto alla forca.</p>
 </div>
 
 La sagoma è Madam Eva. Non risponde se chiamata, e attende che i giocatori si avvicinino a lei. Quando lo fanno, sussurra loro, la sua voce che raschia come un vento gelido: "*Cosa vi ho detto prima che lasciaste la mia tenda?*" Se i giocatori rispondono accuratamente, Madam Eva annuisce, rassicurata sulla loro identità.
@@ -633,39 +633,39 @@ Eva aggiunge, con un sorriso criptico, che i giocatori potrebbero apprezzare una
 
 Se i giocatori accettano il compito di Madam Eva, ella annuisce con approvazione. Poi inizia la lettura dei Tarokka. Leggete:
 
-<div class="description">
-<p>Madam Eva sets both decks upon the earth before her. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sound of the rustling trees begins to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
-<p>Slowly, reverently, the crone draws three cards from the top of the deck, laying them face down separately on the ground, with the second laid between and above its partners. She then moves to the smaller deck, drawing two more cards. The first, she places below the first three, forming a cross. The second, she places in the center.</p>
-<p>The shadows of the headstones around her sway like silhouettes, leaning in toward the cards like anxious watchers—yet the air in the cemetery is perfectly still. No light intrudes besides the light of the three candles; no voice rings out in the silence. Shadows and mist swirl beyond the graves, where the darkness of deepest night dwells—but here, at its center, light yet reigns.</p>
-<p>The crone then moves her wrinkled hand to the left-most card—the first. She closes her eyes and tilts her head, as if listening to an unspoken word. The arcane lights swirl and then shift, their colors changing to a deep, piercing blue.</p>
-<p>"This card tells of history. Knowledge of the ancient will help you better understand your enemy."</p>
-<p>She flips the card.</p>
-<p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
-<p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
-<p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</p>
-<p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
-<p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
-<p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
-<p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
-<p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
-<p>She flips the card.</p>
-<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See <span class="citation">Strahd’s Enemy, p. 15</span>, for this card’s foretelling.)</p>
-<p>Finally, she moves her hand to the fifth card—and nearly recoils, her brow furrowing until the wrinkles split her forehead like a trench. Behind her, shadows encircle the candlelight until the light is very nearly swallowed by the creeping dark. When next she speaks, Madam Eva's rasping voice is scarce above a whisper.</p>
-<p>"Your enemy is a creature of darkness, whose powers are beyond mortality. When the hour of judgment arrives, this card will lead you to him!"</p>
-<p>Her hand trembles above the card for a silent moment—and then deft, ancient fingers reveal its opposite side.</p>
-<p>In the darkness, the fifth and final illustration is only barely visible through the smoke and unnatural murk. Upon the card's surface dwells a depiction of a crowned, grinning emperor clad in royal finery and reaching for a goblet of wine—though his limbs are wooden puppet’s limbs, lashed to corded strings that disappear into the darkness overhead.</p>
-<p>Madam Eva slowly exhales. "The Marionette." (See <span class="citation">Strahd’s Location in the Castle, p. 17</span>, for this card’s foretelling.)</p>
-<p>As the last syllable passes her lips, the old woman freezes—and then rocks backwards, her eyes rolling until their whites gleam like pearls in the darkness—and then she snaps back, the candlelight burning down to its ordinary crimson glow.</p>
-<p>The sound of the natural world returns—the whispering of the wind through the trees, the distant hooting of an owl, and the faraway lapping of the Ivlis River against its banks. Silver moonlight once again pierces the cemetery's edge, and you feel yourselves breathe for the first time since the reading began.</p>
-<p>Madam Eva says nothing. She only regards you silently with dark, heavy eyes.</p></div>
+<div class=”description”>
+<p>Le vecchie mani muovendosi con destrezza, Madam Eva posa entrambi i mazzi sulla terra davanti a sé. Chiudendo gli occhi, pone la mano destra sulla superficie del mazzo più grande. Le fiamme cremisi si affievoliscono e vorticano in disegni arcani mentre le sue labbra si muovono in silenzio, e una tensione lontana si diffonde nell’aria. Il fruscio degli alberi comincia ad attenuarsi, il mondo esterno che si fa muto e inconsistente mentre lo spazio intorno a voi diventa più solido — più reale.</p>
+<p>Lentamente, con reverenza, la vecchia pesca tre carte dalla cima del mazzo, ponendole a faccia in giù sulla terra, con la seconda posata tra e sopra le sue compagne. Si sposta poi al mazzo più piccolo, pescando altre due carte. La prima, la colloca sotto le prime tre, formando una croce. La seconda, la pone al centro.</p>
+<p>Le ombre delle lapidi intorno a lei oscillano come silhouette, inclinandosi verso le carte come spettatori ansiosi — eppure l’aria nel cimitero è perfettamente immobile. Nessuna luce s’intrude oltre quella delle tre candele; nessuna voce risuona nel silenzio. Ombre e nebbia vorticano oltre le tombe, dove dimora la tenebra della notte più profonda — ma qui, al suo centro, la luce ancora regna.</p>
+<p>La vecchia muove la mano rugosa verso la carta più a sinistra — la prima. Chiude gli occhi e inclina il capo, come in ascolto di una parola non pronunciata. Le luci arcane vorticano e poi mutano, il loro colore che si tramuta in un blu profondo e penetrante.</p>
+<p>«Questa carta narra di storia. La conoscenza degli antichi vi aiuterà a comprendere meglio il vostro nemico.»</p>
+<p>Gira la carta.</p>
+<p>La luce cerulea danza sulla sua superficie, rivelando l’illustrazione di una guardia sogghignante che alza lo sguardo verso un sacerdote altezzoso, le dita accusatrici del prete a pochi centimetri dal suo naso, mentre la guardia prepara un pugnale crudelmente ricurvo dietro la schiena. «Il Nove di Glifi — il Traditore.» Le sue pupille scure si spostano da un lato all’altro, come leggendo da un testo invisibile. «Vedo l’antico nemico di una vecchia e nobile casata. L’anima perduta vi condurrà a lui.»</p>
+<p>Sposta la mano alla seconda carta, quella in cima alla croce. Mentre chiude gli occhi e ascolta ancora, la luce delle candele divampa, il colore che esplode in un giallo vivace e fiero.</p>
+<p>«Questa carta narra di una potente forza per il bene e la protezione, un simbolo sacro di grande speranza.» Gira la carta.</p>
+<p>Questa volta, la luce rivela una nuova illustrazione: un guerriero corazzato che stringe una spada di ferro incrinata e uno scudo di legno rivestito in cuoio, il volto celato da un pesante elmo di ferro. «Il Cinque di Spade — il Mirmidone.» I suoi occhi fissano le profondità della tenebra che si annida oltre la luce delle candele. (Consultate <span class=”citation”>Swords (Spades), p. 12</span>, per la profezia di questa carta.)</p>
+<p>Sposta la mano alla terza carta, sul braccio destro della croce, le palpebre che si chiudono come in trance, le labbra serrate in contemplazione silenziosa. La luce delle candele svanisce, per un battito di cuore — e poi ritorna in una nova di bianco ardente e fiero, così puro e forte e limpido che fa male a guardarlo, brucia a vederlo —</p>
+<p>Gli occhi di Madam Eva si spalancano di colpo, ardenti di fiera determinazione.</p>
+<p>«Questa è una carta di potere e forza. Narra di un’arma di vendetta: una spada di luce solare.» Gira la carta.</p>
+<p>La luce rivela una terza illustrazione: un uomo dal volto solenne in paramenti sacri, una mano che stringe la catena di un turibolo di bronzo dal quale si leva fumo denso e bruciante. «L’Otto di Glifi — il Vescovo.» La voce della vecchia è forte di proposito. «Ciò che cercate giace in una prigione d’ambra, dove il diavolo teme di avventurarsi,» intona, gli occhi che si socchiudono. «Quest’arma è celata da lungo tempo. La casata del drago caduto può condurvi là.»</p>
+<p>Si sposta alla quarta carta, in fondo alla croce, e ascolta ancora, tracciando piccoli cerchi sul dorso mentre canticchia una nota contemplativa. Le fiamme magiche guizzano e danzano sugli stoppini, ora scagliando braci viola vorticanti nell’aria mentre le tombe oltre risplendono di un bagliore crepuscolare.</p>
+<p>«Questa carta getta luce su colui che vi sarà di grande aiuto nella battaglia contro le tenebre.»</p>
+<p>Gira la carta.</p>
+<p>Questa volta, l’illustrazione rivelata è un cimitero silenzioso soffocato dalla nebbia, il suo ingresso sigillato da un’affilata cancellata di ferro. «Le Nebbie.» Madam Eva si sporge in avanti. (Consultate <span class=”citation”>Strahd’s Enemy, p. 15</span>, per la profezia di questa carta.)</p>
+<p>Infine, sposta la mano verso la quinta carta — e quasi si ritrae, la fronte che si corruga fino a spezzarsi in rughe profonde come trincee. Dietro di lei, le ombre circondano la luce delle candele finché la luce non è quasi inghiottita dalla tenebra strisciante. Quando parla di nuovo, la voce roca di Madam Eva è appena un sussurro.</p>
+<p>«Il vostro nemico è una creatura delle tenebre, i cui poteri trascendono la mortalità. Quando l’ora del giudizio giungerà, questa carta vi condurrà a lui!»</p>
+<p>La mano le trema sopra la carta per un istante silenzioso — e poi dita sapienti e antiche ne rivelano il lato opposto.</p>
+<p>Nell’oscurità, la quinta e ultima illustrazione è appena visibile attraverso il fumo e la caligine innaturale. Sulla superficie della carta dimora la raffigurazione di un imperatore coronato e sogghignante, vestito di fini abiti regali, che si protende verso un calice di vino — ma le sue membra sono quelle di una marionetta di legno, legate a fili che scompaiono nella tenebra sopra di lui.</p>
+<p>Madam Eva espira lentamente. «La Marionetta.» (Consultate <span class=”citation”>Strahd’s Location in the Castle, p. 17</span>, per la profezia di questa carta.)</p>
+<p>Mentre l’ultima sillaba le passa sulle labbra, la vecchia si blocca — poi oscilla all’indietro, gli occhi che ruotano finché il bianco non riluce come perle nella tenebra — e poi si riprende di scatto, la luce delle candele che torna al suo ordinario bagliore cremisi.</p>
+<p>I suoni del mondo naturale ritornano — il sussurro del vento tra gli alberi, il richiamo lontano di un gufo, e lo sciabordio distante del Fiume Ivlis contro le sue sponde. La luce argentea della luna torna a filtrare ai bordi del cimitero, e sentite voi stessi respirare per la prima volta da quando la lettura è iniziata.</p>
+<p>Madam Eva non dice nulla. Vi osserva in silenzio con occhi scuri e gravi.</p></div>
 
-Madam Eva refuses to elaborate on the players’ readings or provide any additional information or assistance. If asked to, she says only, “The threads of Fate cannot be beckoned like a servant or conjured like a magician’s trick. I see only what the cards show me, and no more.” 
+Madam Eva rifiuta di elaborare sulla lettura dei giocatori o di fornire qualsiasi informazione o assistenza aggiuntiva. Se le viene chiesto, dice soltanto: «I fili del Destino non possono essere evocati come un servitore né conjurati come un trucco da mago. Vedo solo ciò che le carte mi mostrano, e nulla di più.»
 
-Madam Eva dismisses the players from her presence once she has completed the Tarokka reading, instructing them to return to Tser Pool and to "tell no servant of Strahd of what they have just heard." 
+Madam Eva congeda i giocatori dalla sua presenza una volta completata la lettura dei Tarokka, ordinando loro di tornare al Tser Pool e di «non riferire a nessun servitore di Strahd ciò che hanno appena udito.»
 
-Madam Eva declines to return with the players, preferring instead to linger at the crossroads. If asked why, she shares only that the place holds "special memories" for her, and that she will return to Tser Pool when she is ready. "Fear not," she rasps, a twinkle of amusement in her eyes. "I have little to fear from the creatures that prowl these woods, I assure you." If the players depart the crossroads and later return, they find that Madam Eva has vanished.
+Madam Eva rifiuta di tornare con i giocatori, preferendo indugiare all’incrocio. Se le viene chiesto perché, condivide soltanto che il luogo conserva «ricordi speciali» per lei, e che tornerà al Tser Pool quando sarà pronta. «Non temete,» gracchia, con un luccichio di divertimento negli occhi. «Ho ben poco da temere dalle creature che si aggirano in questi boschi, ve lo assicuro.» Se i giocatori lasciano l’incrocio e in seguito vi fanno ritorno, scoprono che Madam Eva è svanita.
 
 > [!lore]+ **Why Madam Eva Remains**
 > Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
@@ -1050,7 +1050,7 @@ Tutti i giocatori che hanno fallito il tiro salvezza contro la maledizione della
 > Infine, finché le nebbie permangono, il ciclo lunare è accelerato a Barovia: la luna piena arriva ogni due settimane, anziché ogni quattro. **La prima luna piena che i giocatori sperimentano ha luogo il Neyavr 8 — la sesta notte dopo il loro primo arrivo a Vallaki.**
 
 > [!abstract]+ **Curare la Licantropia dei Giocatori**
-> I giocatori possono apprendere dai Martikov della Locanda dell'Acqua Blu, dal Dr. Rudolph van Richten, o da Kasimir Velikov dell'accampamento Vistani di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Con l'avvicinarsi della notte di luna piena, i giocatori infetti da licantropia sperimentano incubi di gravità crescente, nonché un appetito crescente per la carne cruda.
+> I giocatori possono apprendere dai Martikov della Locanda dell'Acqua Azzurra, dal Dr. Rudolph van Richten, o da Kasimir Velikov dell'accampamento Vistani di Vallaki che la prossima luna piena avrà luogo la sesta notte dopo il loro primo ingresso a Vallaki. Con l'avvicinarsi della notte di luna piena, i giocatori infetti da licantropia sperimentano incubi di gravità crescente, nonché un appetito crescente per la carne cruda.
 >
 > I giocatori infetti da licantropia da **werewolf** potranno cercare una cura in [[Arc I - The Walls of Krezk]] dopo aver incontrato il Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. I giocatori di una classe appropriata possono anche curare sé stessi e gli altri dalla licantropia lanciando *remove curse* una volta raggiunto il 5° livello. (Padre Lucian della Chiesa di St. Andral a Vallaki non può lanciare l'incantesimo e pertanto non può curare la licantropia.)
 
@@ -1092,7 +1092,7 @@ Le guardie richiedono quindi che ogni giocatore paghi 1 moneta d'oro come pedagg
 
 Se i giocatori pagano il pedaggio, le guardie insistono anche che ogni entrante apra la propria borsa (o equivalente) e consegni tutte le monete d'argento in suo possesso. (Se i giocatori protestano, le guardie assicurano che l'argento è necessario per produrre le armi argentate indispensabili per difendere la città dai lupi mannari.) In cambio delle monete d'argento cedute, i giocatori ricevono una quantità di monete di rame di pari valore — meno una tassa del dieci percento.
 
-Se viene chiesto di un alloggio, le guardie possono condividere informazioni sulla Locanda dell'Acqua Blu, come descritto in <span class="citation">Vallaki Lore (p. 96)</span>. Le guardie sono anche disposte a fornire indicazioni aggiuntive per altri luoghi di interesse nella città in cambio di una mancia di 1 moneta d'oro.
+Se viene chiesto di un alloggio, le guardie possono condividere informazioni sulla Locanda dell'Acqua Azzurra, come descritto in <span class="citation">Vallaki Lore (p. 96)</span>. Le guardie sono anche disposte a fornire indicazioni aggiuntive per altri luoghi di interesse nella città in cambio di una mancia di 1 moneta d'oro.
 
 Ogni volta che i giocatori passano attraverso i cancelli, inclusa la prima, le guardie annuiscono e intonano la frase preferita del Barone: "Tutto andrà bene."
 
@@ -1101,15 +1101,15 @@ Ogni volta che i giocatori passano attraverso i cancelli, inclusa la prima, le g
 ### Entrare in Città
 Quando i giocatori percorrono il viale principale di Vallaki, leggete:
 
-<div class="description"><p>Passate dalla strada sterrata alle strade lastricate, il fango che macchia i vostri stivali e l'orlo dei vostri pantaloni. Dietro di voi, i cancelli si chiudono con un tonfo, e potete vedere le guardie riprendere il loro posto. In lontananza, scorgete altre due figure armate di picche che pattugliano le mura, osservando la foresta contorta sottostante.</p>
-<p>Le gronde degli edifici sono adornate con vecchi stendardi e tessuti logori che sventolano e si attorcigliano nella brezza gelida. Gli stendardi sono dipinti con parole e illustrazioni sbiadite, ma il tempo li ha privati sia della leggibilità che di qualsiasi bellezza possano aver avuto un tempo.</p>
-<p>La luce tremolante delle candele indugia dietro le imposte chiuse delle case, e ombre umanoidi si muovono oltre le tende tirate. Lunghe ombre si annidano nei vicoli, dove l'erba cresce alta e contorta sotto il legno macchiato e cadente degli edifici sovrastanti. </p>
-<p>Le strade sono deserte, anche se potete scorgere una singola figura incappucciata che si allontana da voi lungo la strada centrale. In lontananza, oltre le mura, un lupo solitario ulula, e una raffica di vento gelido fende la notte come una lama.</p></div>
+<div class="description"><p>Passate dalla strada sterrata al selciato, il fango che macchia i vostri stivali e l'orlo dei vostri pantaloni. Alle vostre spalle, i cancelli si chiudono con un tonfo sordo, e potete vedere le guardie riprendere i loro posti. In lontananza, altre due figure armate di picche pattugliano le mura, gli sguardi rivolti alla foresta contorta sottostante.</p>
+<p>Le gronde degli edifici sono adornate con vecchi stendardi e tessuti logori che sventolano e si attorcigliano nella brezza gelida. Parole e illustrazioni sbiadite li decorano, ma il tempo li ha privati sia della leggibilità che di qualunque bellezza possano aver avuto un tempo.</p>
+<p>La luce tremolante delle candele indugia dietro le imposte chiuse, e ombre umanoidi si muovono oltre le tende tirate. Ombre lunghe si annidano nei vicoli, dove l'erba cresce alta e contorta sotto il legno macchiato e cadente degli edifici sovrastanti.</p>
+<p>Le strade sono deserte, sebbene possiate scorgere una singola figura incappucciata che si allontana da voi lungo la via centrale. In lontananza, oltre le mura, un lupo solitario ulula, e una raffica di vento gelido fende la notte come una lama.</p></div>
 
 La figura incappucciata è Willemina Rikalova, come descritto in <span class="citation">St. Andral's Church (p. 97)</span>. Si sta recando alla chiesa per pregare per la liberazione di suo figlio, Udo Lukovich.
 
 Mentre i personaggi attraversano le strade, vengono notati da Ernst Larnak, che li osserva attentamente — senza però seguirli — come descritto in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst non consegna ancora un invito a cenare con Lady Wachter, ma torna a <span class="citation">N4. Wachterhaus (p. 110)</span> per riferire a Lady Wachter quando i giocatori escono dal suo campo visivo.)
-## C12b. La Locanda dell'Acqua Blu
+## C12b. La Locanda dell'Acqua Azzurra
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
 Quest'area è in gran parte come descritta in <span class="citation">N2. Blue Water Inn (p. 98)</span>. Se Muriel è presente, saluta i giocatori con un trillo dolce e sentimentale, poi se ne va per unirsi agli altri corvi appollaiati sul tetto. (Se i giocatori tornano in seguito alla locanda per cercarla, non è presente.)
@@ -1141,7 +1141,7 @@ Quando i giocatori arrivano per la prima volta, la locanda ospita i seguenti PNG
 >
 > ***Morale.*** In un combattimento, Urwin tenterebbe immediatamente di disinnescare la situazione, e tenterebbe di fuggire in caso di insuccesso—non prima però di aver messo in salvo chiunque altro.
 >
-> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e l’amato fratello maggiore di Adrian, Elvir e Stefania Martikov. Oltre a essere comproprietario della Locanda dell’Acqua Blu, Urwin è il maestro di spie dei [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov e l’amato fratello maggiore di Adrian, Elvir e Stefania Martikov. Oltre a essere comproprietario della Locanda dell’Acqua Azzurra, Urwin è il maestro di spie dei [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
 
 > [!profile]+ **Profilo: Danika Dorakova**
 >
@@ -1159,12 +1159,12 @@ Quando i giocatori arrivano per la prima volta, la locanda ospita i seguenti PNG
 >
 > ***Morale.*** In un combattimento, Danika tenterebbe rapidamente di disinnescare la situazione, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
 >
-> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere comproprietaria della Locanda dell'Acqua Blu, Danika è un membro di alto rango dei [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+> ***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere comproprietaria della Locanda dell'Acqua Azzurra, Danika è un membro di alto rango dei [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entrare nella Locanda
 La sala comune è come descritta in <span class="citation">N2c. Taproom (p. 100)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>Quasi una dozzina di Vallakiani siedono sparsi ai vari tavoli, sorseggiando boccali di vino o ciotole di stufato sostanzioso. Lungo la scalinata, un uomo vestito in modo colorato che indossa un cappello a tesa larga con una piuma gesticola vivacemente a capotavola di un lungo tavolo, catturando l'attenzione rapita dei diversi avventori seduti lì. Sentite un'ondata di risate propagarsi nel gruppo, seguita da un leggero applauso.</p>
+<p>Quasi una dozzina di Vallakiani siedono sparsi ai vari tavoli, sorseggiando boccali di vino o ciotole di stufato sostanzioso. Lungo la scalinata, un uomo vestito in modo vivace — un cappello a tesa larga con una piuma in testa — gesticola con enfasi a capotavola di un lungo tavolo, catturando l'attenzione rapita dei diversi avventori seduti lì. Un'ondata di risate si propaga nel gruppo, seguita da un leggero applauso.</p>
 </div>
 
 L'uomo è il direttore di circo Rictavio, che è in gran parte come descritto in <span class="citation">Rictavio (p. 238)</span> e <span class="citation">N2c. Taproom (p. 100)</span>. Due dei cinque ascoltatori al suo tavolo sono Nikolai e Karl Wachter, che sono come descritti in <span class="citation">N2c. Taproom (p. 100)</span>.
@@ -1175,7 +1175,7 @@ Quando i giocatori entrano per la prima volta nella locanda, [[Non-Player Charac
 
 Se i personaggi si avvicinano al bancone, [[Non-Player Characters#Urwin Martikov|Urwin]] esce dalla cucina portando un vassoio di pane appena sfornato, stufato di barbabietole caldo e bistecche di lupo, che appoggia sul bancone. (Il cibo ha un profumo deliziosamente invitante.) Szoldar Szoldarovich e Yevgeni Krushkin sono anch'essi seduti al bancone, e sono come descritti in <span class="citation">N2c. Taproom (p. 100)</span>.
 
-Urwin saluta i giocatori calorosamente e dà loro il benvenuto alla Locanda dell'Acqua Blu. Se i giocatori non indirizzano la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
+Urwin saluta i giocatori calorosamente e dà loro il benvenuto alla Locanda dell'Acqua Azzurra. Se i giocatori non indirizzano la conversazione altrove, nota che sembrano viaggiatori e chiede se hanno bisogno di stanze per la notte.
 
 Prima che Urwin possa rispondere ai giocatori, Danika torna e si scusa con i giocatori per il ritardo. Presumendo che i giocatori non interrompano, la conversazione prosegue come segue:
 
@@ -1219,18 +1219,18 @@ Dopo essersi schiarito la voce, Rictavio racconta la seguente storia:
 <div class="description">
 <p>Il vampiro Conte Belasco teneva la sua bara, non in una cripta o una fortezza, ma nella cantina di una vecchia locanda fatiscente, gestita dal suo servitore, Igoron.</p>
 <p>Il povero Conte Belasco aveva un terribile segreto: nella sua età vetusta, il suo cuoio capelluto stava iniziando a marcire, e i suoi capelli cadevano in grossi ciuffi e nodi. Imbarazzato, ordinò a Igoron di acquistare una bella parrucca nero corvino, sperando di preservare il bell'uomo giovane che era stato un tempo.</p>
-<p>“Un bell'uomo davvero,” concordò una delle sue ospiti—un'anziana vedova quasi cieca di nome Olivenka—in una particolare notte di luna. La cara Olivenka se ne stava per conto suo, trascorrendo le giornate a ordinare e riordinare la collezione di pietre del suo defunto marito, che conservava amorevolmente nella sua borsa. Nonostante il comportamento strano e la pelle pallida del Conte, non sospettava nulla, la sua vecchia vista troppo offuscata per distinguere le zanne che spuntavano tra i suoi denti.</p>
-<p>Come sempre, il Conte sentì l'impulso di nutrirsi di lei—e sebbene le sue parole lusinghiere avessero placato il suo interesse, sentiva comunque la sete nelle sue zanne. “Igoron!” tuonò. “Portami il mantello—vado a caccia.”</p>
-<p>“Sì, sire,” ansimò Igoron. Tornando, gemette: “Meglio essere di ritorno prima dell'alba, mio signore. Stanotte pulisco le tende. Vi voglio bello al sicuro nella vostra bara prima dell'alba.”</p>
-<p>Il Conte Belasco sbuffò. “Non temere, semplice Igoron,” si vantò. “Conosco bene l'ora del mio nemico. Nulla potrebbe indurre il mio spirito a indugiare sotto i suoi terribili raggi.”</p>
+<p>«Un bell'uomo davvero,» concordò una delle sue ospiti—un'anziana vedova quasi cieca di nome Olivenka—in una particolare notte di luna. La cara Olivenka se ne stava per conto suo, trascorrendo le giornate a ordinare e riordinare la collezione di pietre del suo defunto marito, che conservava amorevolmente nella sua borsa. Nonostante il comportamento strano e la pelle pallida del Conte, non sospettava nulla, la sua vecchia vista troppo offuscata per distinguere le zanne che spuntavano tra i suoi denti.</p>
+<p>Come sempre, il Conte sentì l'impulso di nutrirsi di lei—e sebbene le sue parole lusinghiere avessero placato il suo interesse, sentiva comunque la sete nelle sue zanne. «Igoron!» tuonò. «Portami il mantello — vado a caccia.»</p>
+<p>«Sì, sire,» ansimò Igoron. Tornando, gemette: «Meglio essere di ritorno prima dell'alba, mio signore. Stanotte pulisco le tende. Vi voglio bello al sicuro nella vostra bara prima dell'alba.»</p>
+<p>Il Conte Belasco sbuffò. «Non temere, semplice Igoron,» si vantò. «Conosco bene l'ora del mio nemico. Nulla potrebbe indurre il mio spirito a indugiare sotto i suoi terribili raggi.»</p>
 <p>E così il Conte partì. Si aggirò nei vicoli e scivolò sui tetti—eppure non trovò un solo boccone per saziare la sua sete. Fu con sorpresa che il Conte affamato e sconfitto alzò finalmente lo sguardo verso il cielo di velluto e vide il grigio pervinca del mattino in avvicinamento.</p>
 <p>In preda al panico, volò attraverso le strade. Quattro isolati. Una striscia arancione iniziò a tagliare il cielo. Tre isolati. Due—</p>
 <p>—la porta della locanda si chiuse sbattendo alle sue spalle.</p>
-<p>“Santo cielo,” disse Olivenka, sbadigliando in cima alle scale. “Siete stato fuori tutta la notte?”</p>
-<p>In un batter d'occhio, la grande sagoma del Conte torreggiò molto al di sopra di lei. “Sì,” ringhiò. “Ma ho appena trovato quello che cercavo. Olivenka—<i>voglio succhiarti il sangue!</i>”</p>
+<p>«Santo cielo,» disse Olivenka, sbadigliando in cima alle scale. «Siete stato fuori tutta la notte?»</p>
+<p>In un batter d'occhio, la grande sagoma del Conte torreggiò molto al di sopra di lei. «Sì,» ringhiò. «Ma ho appena trovato quello che cercavo. Olivenka — <i>voglio succhiarti il sangue!</i>»</p>
 <p>Normalmente, una delle vittime del Conte Belasco avrebbe urlato, sarebbe fuggita o sarebbe svenuta—eppure aveva commesso un terribile errore.</p>
 <p>Aveva dimenticato che gli occhi afflitti da cataratta di Olivenka non riuscivano a vedere bene le sue zanne.</p>
-<p>“Uomo disgustoso!” strillò Olivenka, e scagliò diciotto anni di pietre rare e minerali direttamente verso la sua testa. Ci fu un tonfo terribile—e un terribile scricchiolio di legno—e il Conte Belasco rotolò giù al piano di sotto. Quando aprì gli occhi, vide Olivenka che fissava inorridita, non lui, ma la sua <i>testa</i>—la sua testa <i>nuda</i>.</p>
+<p>«Uomo disgustoso!» strillò Olivenka, e scagliò diciotto anni di pietre rare e minerali direttamente verso la sua testa. Ci fu un tonfo terribile—e un terribile scricchiolio di legno—e il Conte Belasco rotolò giù al piano di sotto. Quando aprì gli occhi, vide Olivenka che fissava inorridita, non lui, ma la sua <i>testa</i>—la sua testa <i>nuda</i>.</p>
 <p>Lì, proprio sotto la finestra orientale, giaceva la sua amata parrucca. Si tuffò verso di essa, artigli protesi—e un raggio di luce solare gli sfiorò la pelle.</p> 
 <p>Ci fu uno sfrigolio, un sibilo, e un'esplosione di fumo e fiamme. Olivenka, con la borsa stretta al petto, osservò sgomenta il Conte Belasco soccombere alla luce del mattino, finché tutto ciò che rimase fu un mucchio fumante di cenere e una parrucca carbonizzata e fumante.</p>
 </div>
@@ -1240,7 +1240,7 @@ Dopo essersi schiarito la voce, Rictavio racconta la seguente storia:
 Se interpellato, Rictavio è disposto a condividere le seguenti informazioni davanti a un drink:
 
 * È Rictavio, un direttore di circo mezzelfo che ha viaggiato a lungo e lontano in cerca di nuovi numeri per il suo circo. Non è del tutto sicuro di come sia finito a Barovia, ma sta cercando di sfruttare al meglio la situazione. (Questa è una bugia. Una prova di DC 16 Wisdom (Insight) rivela che le parole di Rictavio suonano un po' troppo fluide e studiate.)
-* È arrivato quella mattina stessa e si è stabilito nella suite privata della Locanda dell'Acqua Blu. "I buoni locandieri mi hanno generosamente permesso di restare in cambio di racconti e buonumore," nota, sorridendo.
+* È arrivato quella mattina stessa e si è stabilito nella suite privata della Locanda dell'Acqua Azzurra. "I buoni locandieri mi hanno generosamente permesso di restare in cambio di racconti e buonumore," nota, sorridendo.
 
 Durante la conversazione, Rictavio tenta sottilmente di apprendere più informazioni di quante ne riveli, sperando di carpire le identità, le capacità, le relazioni e le storie dei giocatori dentro e fuori Barovia. Se gli viene chiesto perché sembra essere così curioso, insiste con enfasi che è sempre alla ricerca di nuovi racconti da aggiungere al suo repertorio.
 
@@ -1316,7 +1316,7 @@ Mentre la conversazione di Urwin volge al termine, Rictavio scende le scale dall
 > [!abstract]+ **Cosa c'è nel Pacco?**
 > Se interrogato, Urwin può informare i giocatori che il pacco contiene semplicemente del cibo—alcune mele, qualche pagnotta e una forma di formaggio.
 ### Seguire il Direttore di Circo
-Se uno o più giocatori seguono Rictavio fuori dalla Locanda dell'Acqua Blu, possono seguirlo fino alla <span class="citation">N2f. Stable (p. 101)</span> senza difficoltà.
+Se uno o più giocatori seguono Rictavio fuori dalla Locanda dell'Acqua Azzurra, possono seguirlo fino alla <span class="citation">N2f. Stable (p. 101)</span> senza difficoltà.
 
 Una volta dentro, Rictavio rimuove il pacco dal suo mantello, prende due mele e procede a darle al suo cavallo, Drusilla. Una volta che Drusilla ha finito di mangiare, Rictavio controlla i dintorni, costringendo eventuali giocatori nascosti a riuscire in una prova di gruppo DC 18 Dexterity (Stealth) o essere individuati.
 
@@ -1346,9 +1346,9 @@ Rictavio rifiuta di condividere ulteriori informazioni per timore che gli agenti
 Se non riesce a individuare i giocatori, Rictavio usa il suo *hat of disguise* per assumere la forma di un comune cittadino di Vallaki qualsiasi, poi sgattaiola fuori dalla stalla sulla strada. Procede quindi a zigzagare per le strade e i vicoli di Vallaki in un tentativo paranoico di seminare eventuali inseguitori. Un giocatore che tenti di seguirlo deve riuscire in una prova di DC 18 Wisdom (Perception) o perderlo tra la folla. 
 
 > [!abstract]+ **Seguire Rictavio**
-> Una volta uscito dalla stalla della Locanda dell'Acqua Blu, Rictavio si dirige verso l'Arasek Stockyard, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre lei mangia, inginocchiandosi davanti al carro come descritto in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+> Una volta uscito dalla stalla della Locanda dell'Acqua Azzurra, Rictavio si dirige verso l'Arasek Stockyard, dove infila il pacco di cibo attraverso le fessure della porta posteriore del suo carro. Fornisce poi ad Arabelle un breve aggiornamento sulle attività della città mentre lei mangia, inginocchiandosi davanti al carro come descritto in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
 ### Uscire dalla Locanda
-Quando i giocatori lasciano la Locanda dell'Acqua Blu nella loro prima mattina a Vallaki, trovano la strada piena di cittadini. Presumendo che i giocatori non interferiscano, la seguente scena si svolge:
+Quando i giocatori lasciano la Locanda dell'Acqua Azzurra nella loro prima mattina a Vallaki, trovano la strada piena di cittadini. Presumendo che i giocatori non interferiscano, la seguente scena si svolge:
 
 * I giocatori sentono il suono di un cavallo che nitrisce più avanti nella strada—e i cittadini si immobilizzano e ammutoliscono. Una piccola processione si trova a sud: il Barone Vargas Vallakovich (come descritto in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) in sella al suo cavallo sauro, fiancheggiato dai suoi due **mastiffs** di nome Claw e Fang, e seguito da tre **guards**. Izek Strazni guida la processione. 
 * I giocatori possono vedere che una donna anziana dall’aspetto spaventato, vestita con abiti logori da popolana, è appena inciampata lontano dal cavallo ed è caduta in una pozzanghera di fango a pochi passi dal cavallo. Il cavallo si è fermato bruscamente e la processione si è fermata con esso. Il braccio diabolico di Izek è proteso, suggerendo che ha appena spinto—o scagliato—la vecchia donna nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich.)
@@ -1422,7 +1422,7 @@ Se interrogata, Ireena nota con incertezza che qualcosa in Izek le sembrava quas
 
 Se i giocatori hanno sfidato Vargas o Izek in qualsiasi modo, o hanno altrimenti assistito Willemina, Ernst Larnak riferisce le loro azioni a Lady Fiona Wachter a Wachterhaus. [[Arc F - Lady Wachter’s Wish]] inizia quindi.
 
-***Fine di un Atto.*** Quando i giocatori partono dalla Locanda dell’Acqua Blu per il loro primo giorno completo a Vallaki, l'**Atto I** termina e l'**Atto II** inizia.
+***Fine di un Atto.*** Quando i giocatori partono dalla Locanda dell’Acqua Azzurra per il loro primo giorno completo a Vallaki, l'**Atto I** termina e l'**Atto II** inizia.
 # Note di Design: Nella Valle
 ## Viaggio verso Vallaki
 ***La Famiglia Lansten.*** Gli incontri con gli esploratori Baroviani e la famiglia Lansten non-morta sono stati aggiunti per sottolineare la tragedia dell’assedio di Strahd al villaggio di Barovia, per introdurre le forze non-morte di Strahd e per prefigurare il piano finale di Strahd di trasformare i Baroviani in non-morti per forgiare il suo nuovo esercito dopo la fuga dalle Nebbie.
@@ -1467,6 +1467,6 @@ Il racconto di Stanimir indica la relazione tra Strahd e i Vistani, prefigurando
 
 ***La Tassa.*** La tassa delle guardie offre ai giocatori un ulteriore motivo per odiare il Barone Vallakovich. La tariffa sull’argento indica anche ai giocatori la ricchezza di armi argentate e munizioni che il Barone ha accumulato.
 
-***La Locanda dell’Acqua Blu.*** Questa sequenza è stata intenzionalmente strutturata per introdurre lentamente e in modo gestibile i giocatori a diversi personaggi chiave di Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il direttore di circo Rictavio. Il racconto di Rictavio è stato scritto per essere il più comico ragionevolmente possibile, al fine di scoraggiare i giocatori dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arc E - The Missing Vistana]].
+***La Locanda dell’Acqua Azzurra.*** Questa sequenza è stata intenzionalmente strutturata per introdurre lentamente e in modo gestibile i giocatori a diversi personaggi chiave di Vallaki: i Martikov, i Wachter, i cacciatori di lupi e il direttore di circo Rictavio. Il racconto di Rictavio è stato scritto per essere il più comico ragionevolmente possibile, al fine di scoraggiare i giocatori dal prenderlo sul serio fino alla rivelazione della sua identità in [[Arc E - The Missing Vistana]].
 
 ***Uscire dalla Locanda.*** L’incontro dei giocatori con il Barone Vallakovich e Izek per le strade di Vallaki è stato aggiunto per fornire ai giocatori un motivo immediato per detestarli, per presentare ai giocatori Padre Lucian Petrovich, per impostare la tensione drammatica centrale del governo tirannico del Barone su Vallaki, per avviare la ricerca di Ireena da parte di Izek, e per fornire a Lady Fiona Wachter un motivo concreto per invitare i giocatori nelle sue macchinazioni. **È essenziale che i giocatori *non* combattano Izek qui, e tutte le precauzioni ragionevoli sono state prese per assicurarlo.**

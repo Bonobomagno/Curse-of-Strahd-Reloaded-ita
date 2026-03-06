@@ -13,7 +13,7 @@ La mattina seguente, Ismark chiede ai giocatori di aiutare a portare le spoglie 
 # B1. Vecchia Strada di Svalich
 <span class="citation"><em>Questa scena si svolge nel Capitolo 2: Area A.</em></span>
 
-Il viaggio dalla [[Arc A - Escape From Death House#A3. Outside Death House|torre]] ai [[#B2. Cancelli di Barovia]] è lungo due miglia e richiede quaranta minuti.
+Il viaggio dalla [[Arc A - Escape From Casa della Morte#A3. Outside Casa della Morte|torre]] ai [[#B2. Cancelli di Barovia]] è lungo due miglia e richiede quaranta minuti.
 
 Questa scena si svolge come descritto in <span class="citation">Old Svalich Road (p. 33)</span>.
 # B2. Cancelli di Barovia
@@ -57,9 +57,9 @@ Se i giocatori seguono il sentiero attraverso la nebbia, emergono dopo 2d4 minut
 Emergendo dalla nebbia, i giocatori possono vedere un quarto albero, che porta altri tredici segni di conteggio e una freccia che punta più avanti lungo la direzione del sentiero. Inoltre, il quarto albero sembra portare un’incisione e ha un oggetto che sporge dal tronco. Se i giocatori lo esaminano, leggete:
 
 <div class="description">
-<p>Qualcuno ha conficcato un vecchio pugnale nel tronco di questo vecchio albero nodoso. Accanto c’è un’incisione rozza di una figura a cavallo, appena sopra due serie di parole grossolanamente scolpite: </p>
-<p>"IL CAVALIERE CAVALCA." </p>
-<p>"LA VEGGENTE HA DETTO IL VERO."</p>
+<p>Un vecchio pugnale è conficcato nel tronco dell’albero, la lama arrugginita e profonda nel legno. Accanto, una mano tremante ha inciso la figura rozza di un cavaliere, e sotto di essa due righe di lettere scavate a forza nella corteccia:</p>
+<p>«IL CAVALIERE CAVALCA.»</p>
+<p>«LA VEGGENTE HA DETTO IL VERO.»</p>
 </div>
 
 Se i giocatori seguono il sentiero nella direzione della freccia, scoprono che attraversa la Strada di Svalich prima di tornare al luogo del cadavere di Dalvan.
@@ -76,10 +76,10 @@ Se i giocatori lasciano il cadavere di Dalvan e tornano, scoprono che sia i suoi
 I giocatori emergono dai Boschi di Svalich un miglio e venti minuti dopo aver lasciato il cadavere di Dalvan. Quando lo fanno, leggete:
 
 <div class="description">
-<p>I boschi oscuri si aprono, rivelando una valle nebbiosa e cupa punteggiata da dense nubi di nebbia. </p>
-<p>Nubi temporalesche proiettano un velo grigio sulla terra sottostante, nessun sole visibile nella luce fredda e grigia. Alberi sempreverdi risalgono i fianchi delle montagne che racchiudono la valle. A nord si erge un monte roccioso con ciuffi d’alberi; a sud, una cima innevata dai pendii scoscesi si staglia con fare imperioso sopra la terra sottostante.</p>
-<p>La strada fangosa prosegue in avanti, attraversando erbe ingiallite e terreni coltivati fino a raggiungere un piccolo e umile insediamento rannicchiato nella terra. Lungo la strada, un fiume scorre limpido come un cielo invernale azzurro attraverso la valle. </p>
-<p>Ben al di sopra del villaggio incombe un castello oscuro e contorto, solitario sulla sommità di un pilastro di roccia a strapiombo. Per un istante, una lancia di fulmini lontana crepita, illuminando la torre imponente in luci e ombre aspre — e poi un denso banco di nebbia avanza, nascondendo il villaggio e il castello alla vista.</p>
+<p>I boschi oscuri si aprono, rivelando una valle nebbiosa e cupa, punteggiata da dense cortine di foschia.</p>
+<p>Nubi temporalesche proiettano un velo grigio sulla terra sottostante, e nessun sole è visibile nella luce fredda e spenta. Alberi sempreverdi risalgono i fianchi delle montagne che serrano la valle. A nord si erge un monte roccioso punteggiato di alberi; a sud, una cima innevata dai pendii scoscesi domina con cupa maestà la terra sottostante.</p>
+<p>La strada fangosa prosegue oltre, attraversando erbe ingiallite e terreni coltivati fino a raggiungere un piccolo e umile insediamento rannicchiato nella terra. Lungo il cammino, un fiume scorre limpido come un cielo invernale d’azzurro attraverso la valle.</p>
+<p>Ben al di sopra del villaggio incombe un castello oscuro e contorto, solitario sulla sommità d’un pilastro di roccia a strapiombo. Per un istante, una saetta lontana crepita, illuminando la torre imponente in luci e ombre aspre — e poi un denso banco di nebbia avanza, celando il villaggio e il castello alla vista.</p>
 </div>
 
 Il viaggio da qui ai margini del villaggio è lungo due miglia e richiede quaranta minuti.
@@ -91,9 +91,9 @@ Il viaggio da qui ai margini del villaggio è lungo due miglia e richiede quaran
 Questa scena si svolge in gran parte come descritto in <span class="citation">Approaching the Village (p. 41)</span>. Tuttavia, modificate la descrizione come segue:
 
 <div class="description">
-<p>Man mano che la mattina avanza, i cieli coperti si schiariscono fino a un grigio opaco e cupo, e i margini del villaggio diventano più visibili. Un ampio fossato di terra circonda l’insediamento, largo un metro e mezzo e altrettanto profondo, con centinaia di paletti di legno appuntiti che sporgono come denti frastagliati dalla terra al suo interno. Più avanti, accanto a un alto mucchio di legno carbonizzato, la strada prosegue su un ponte di legno improvvisato, il terreno fangoso oltre il quale lascia il posto a ciottoli scivolosi e bagnati.</p>
-<p>Barricate di legno si ergono disordinatamente lungo le strade. Le strutture intorno ad esse portano segni di bruciature e squarci, e diversi edifici mostrano tetti o muri parzialmente crollati, permettendo alla nebbia fredda e strisciante di infiltrarsi silenziosamente all’interno.</p>
-<p>Le sagome alte delle abitazioni del villaggio si stagliano sopra, emergendo dalla densa nebbia che si aggrappa alla terra. Figure armate di balestre pattugliano i vecchi tetti sopra di voi, mentre una mezza dozzina di abitanti dall’aspetto tormentato riparano una barricata lunga una decina di metri che blocca la via principale. Un uomo alto e dalle spalle larghe, con capelli biondi fino alle spalle e una mascella cesellata, guida i lavori, portando una vecchia spada lunga allacciata al fianco e un’armatura a scaglie sopra un cappotto col colletto. Un corvo dalle punte delle ali blu è appollaiato su uno dei tetti vicini, osservando le operazioni sottostanti con evidente interesse.</p>
+<p>Con l’avanzare del mattino, i cieli coperti si schiariscono appena, come una ferita che sbiadisce nel grigio. I margini del villaggio emergono dalla foschia: un ampio fossato di terra lo circonda, largo un metro e mezzo e altrettanto profondo, irto di centinaia di paletti appuntiti che sporgono dal fondo come denti spezzati. Più avanti, accanto a un alto cumulo di legno carbonizzato, la strada prosegue su un ponte improvvisato di assi, oltre il quale il fango cede il passo a ciottoli scivolosi e bagnati.</p>
+<p>Barricate di legno si ergono in disordine lungo le strade. Le strutture intorno portano segni di bruciature e squarci profondi, e diversi edifici mostrano tetti o muri parzialmente crollati, attraverso i quali la nebbia fredda si insinua silenziosa come un respiro.</p>
+<p>Le sagome cupe delle abitazioni si stagliano in alto, emergendo dalla foschia che si aggrappa alla terra. Figure armate di balestre pattugliano i vecchi tetti, mentre una mezza dozzina di abitanti dal volto segnato riparano una barricata lunga una decina di metri che sbarra la via principale. Un uomo alto e dalle spalle larghe, con capelli biondi fino alle spalle e una mascella cesellata, guida i lavori: porta una vecchia spada lunga allacciata al fianco e un’armatura a scaglie sopra un cappotto col colletto rialzato. Un corvo dalle punte delle ali blu è appollaiato su uno dei tetti vicini, e osserva le operazioni sottostanti con evidente interesse.</p>
 </div>
 
 ![[Ismark.png]]
@@ -164,7 +164,7 @@ Dopo essere entrato nella taverna, Ismark paga Arik per portare loro da bere. Qu
 Ismark può condividere le seguenti informazioni:
 
 * I giocatori sono entrati nella terra di Barovia, un reame circondato da nebbie mortali e governato da Strahd von Zarovich, un potente vampiro che dormiva nel Castello Ravenloft fino a poco tempo fa.
-* Gli stranieri vengono occasionalmente trascinati a Barovia dalle nebbie. (Ismark non sa nulla della Death House, ma ricorda vagamente racconti di modi non convenzionali con cui i viaggiatori sono giunti nella valle.) Non c’è fuga da Barovia una volta che uno straniero vi è entrato.
+* Gli stranieri vengono occasionalmente trascinati a Barovia dalle nebbie. (Ismark non sa nulla della Casa della Morte, ma ricorda vagamente racconti di modi non convenzionali con cui i viaggiatori sono giunti nella valle.) Non c’è fuga da Barovia una volta che uno straniero vi è entrato.
 * Poco più di tre mesi fa, un uomo di nome Doru, figlio del prete del villaggio, guidò una ribellione contro il castello, sperando di liberare la valle dalla sua prigione nelle nebbie. La loro rivolta fallì, risvegliando Strahd dal suo torpore e spingendo il vampiro a giurare vendetta sul villaggio sottostante.
 * Diverse dozzine di Baroviani fuggirono verso la città di Vallaki, quasi un giorno di viaggio a ovest. I restanti rimasero nel villaggio, determinati a difendere le proprie case e coloro che non erano in grado di affrontare il viaggio.
 * Sei notti fa, le forze non morte di Strahd iniziarono ad attaccare il paese. Ogni notte, i Baroviani respingono molteplici ondate di morti — e ogni notte, l’orda si avvicina sempre più a sfondare le difese del villaggio.
@@ -175,7 +175,7 @@ Ismark può condividere le seguenti informazioni:
 Poco dopo che Ismark inizia a rispondere alle domande dei giocatori, leggete:
 
 <div class="description">
-<p>Qualcosa sbatte contro un tavolo vicino — e il suono attira la vostra attenzione su un uomo seduto non lontano, il pugno serrato che vibra contro la superficie di legno del tavolo. È tarchiato, con capelli unti sale e pepe in ritirata e un cappotto rattoppato e logoro. Una smorfia deturpa il suo volto mentre rivolge i suoi occhi scuri verso il vostro gruppo. "È un'impresa da stolti riporre la vostra fiducia in Ismark il <em>Minore</em>," gracchia, lo sguardo che indugia su ciascuno di voi. "Meglio cercare compagnia migliore, se non volete finire sotto terra con gli ultimi sciocchi che si sono fidati di lui."</p>
+<p>Un pugno si abbatte su un tavolo vicino — e il colpo secco vi attira lo sguardo su un uomo seduto poco distante, le nocche serrate che vibrano contro il legno. È tarchiato, con capelli unti sale e pepe in ritirata e un cappotto rattoppato e logoro. Una smorfia gli deturpa il volto mentre posa i suoi occhi scuri sul vostro gruppo. «È un'impresa da stolti riporre la vostra fiducia in Ismark il <em>Minore</em>,» gracchia, lo sguardo che indugia su ciascuno di voi. «Meglio cercare compagnia migliore, se non volete finire sotto terra con gli ultimi sciocchi che si sono fidati di lui.»</p>
 </div>
 
 ![[Bildrath_transparent.png]]
@@ -305,7 +305,7 @@ Se i giocatori sono ancora presenti e non sono ancora intervenuti, Ireena implor
 
 Se i giocatori intervengono, Alenka, Kolyan e Ireena li accolgono con estraneità e sorpresa, sebbene Alenka sospetti che possano essere spie del “Diavolo Strahd.” (Se viene menzionato il nome di Ismark, Ireena e Kolyan sono rassicurati, sebbene Alenka sputi per terra e maledica sottovoce “Ismark il Minore.”)
 
-I giocatori possono disperdere la folla avanzando un argomento ragionevole e superando una prova di Carisma (Persuasione) con CD 10, effettuata con vantaggio se i giocatori indagano sui familiari scomparsi di Alenka e le mostrano simpatia. I giocatori possono anche disperdere la folla brandendo le armi o la magia e superando una prova di Carisma (Intimidazione) con CD 10, effettuata con vantaggio se menzionano i loro recenti combattimenti nella Death House.
+I giocatori possono disperdere la folla avanzando un argomento ragionevole e superando una prova di Carisma (Persuasione) con CD 10, effettuata con vantaggio se i giocatori indagano sui familiari scomparsi di Alenka e le mostrano simpatia. I giocatori possono anche disperdere la folla brandendo le armi o la magia e superando una prova di Carisma (Intimidazione) con CD 10, effettuata con vantaggio se menzionano i loro recenti combattimenti nella Casa della Morte.
 
 Se i giocatori sembrano pronti ad attaccare la folla senza provocazione, Kolyan li implora di evitare la violenza. “Sono confusi,” dice con voce rauca, “ma sono Baroviani, in ogni caso.”
 
@@ -421,7 +421,7 @@ Poco dopo essere tornati alla barricata all'ingresso orientale del villaggio, i 
 Quando i giocatori incontrano Parriwimple per la prima volta, leggete:
 
 <div class="description">
-<p>Una figura massiccia si erge al fianco di Bildrath — un giovane uomo, alto e muscoloso. I suoi capelli castani arruffati gli cadono disordinatamente sul viso, e i suoi denti storti brillano nella luce grigia. Sebbene i muscoli guizzino sotto la sua tunica, c’è una leggerezza e un’immaturità nella sua postura che smentiscono la sua forza e la sua stazza. Giocherella con l’orlo della tunica quando i vostri occhi cadono su di lui.</p>
+<p>Una figura massiccia si erge al fianco di Bildrath — un giovane uomo, alto e muscoloso. I capelli castani arruffati gli ricadono disordinati sul viso, e i denti storti brillano nella luce grigia. Sebbene i muscoli guizzino sotto la tunica, c’è una leggerezza e un’ingenuità nella sua postura che smentiscono la forza e la stazza. Giocherella con l’orlo della tunica quando i vostri occhi si posano su di lui.</p>
 </div>
 
 Bildrath accoglie i giocatori calorosamente o freddamente, a seconda della loro interazione alla Taverna del Sangue della Vite e (se l’hanno visitato lì) al Mercantile di Bildrath. Indipendentemente dalla disposizione di Bildrath, Parriwimple è felice di conoscere nuovi amici.
@@ -459,8 +459,8 @@ Se qualcuno dei giocatori lo ha trattato con gentilezza alla Taverna del Sangue 
 Il crepuscolo cala poco dopo che i giocatori completano i loro preparativi. Leggete:
 
 <div class="description">
-<p>Mentre le ultime sfumature di luce svaniscono dal cielo, un silenzio inquietante discende sul villaggio. Un vento gelido sussurra attraverso le strade, portando con sé il debole odore di decomposizione mentre le foglie dei Boschi di Svalich frusciato in lontananza.</p>
-<p>Un ululato agghiacciante squarcia la notte, seguito da un secondo — e poi da un terzo. La cacofonia di urla e gemiti disumani si fa più forte, echeggiando attraverso la conca da tutte le direzioni mentre la foresta lontana sembra prendere vita.</p>
+<p>Mentre le ultime sfumature di luce svaniscono dal cielo, un silenzio inquietante discende sul villaggio. Un vento gelido sussurra attraverso le strade, recando con sé il debole tanfo della decomposizione, mentre le foglie dei Boschi di Svalich frusciato in lontananza.</p>
+<p>Un ululato agghiacciante squarcia la notte, seguito da un secondo — e poi da un terzo. Una cacofonia di urla e gemiti disumani si fa sempre più forte, rimbombando nella conca da ogni direzione, mentre la foresta lontana pare destarsi alla vita.</p>
 </div>
 
 Se è presente, il volto di Bildrath si fa cupo, e stringe saldamente la balestra. "Comincia," mormora, mentre il frastuono svanisce ancora una volta nella notte fredda. Parriwimple annuisce con determinazione, stringendo la lancia più vicina al petto.
@@ -504,7 +504,7 @@ Se è presente, il volto di Bildrath si fa cupo, e stringe saldamente la balestr
 ***La Prima Ondata.*** Non molto dopo il calare dell'oscurità, sei **zombi** emergono dalle tenebre e si avvicinano alla barricata. Leggete:
 
 <div class="description">
-<p>Sei figure avanzano barcollando verso la barricata, il bianco dei loro occhi che luccica alla luce delle torce. I loro gemiti bassi e gutturali echeggiano nella notte, le braccia putrefatte protese verso di voi.</p>
+<p>Sei figure avanzano barcollando dalla tenebra, il bianco degli occhi che luccica alla luce delle torce. I loro gemiti bassi e gutturali echeggiano nella notte, mentre le braccia putrefatte si protendono verso di voi come rami secchi mossi dal vento.</p>
 </div>
 
 In combattimento, gli zombi concentrano i loro attacchi sulla barricata, tentando di abbatterla con i loro attacchi di ***schianto***. Una volta che gli zombi hanno aperto una breccia nella barricata, tentano di riversarsi attraverso di essa, attaccando qualsiasi difensore che si trovi sulla loro strada.
@@ -512,7 +512,7 @@ In combattimento, gli zombi concentrano i loro attacchi sulla barricata, tentand
 ***La Seconda Ondata.*** All'inizio del terzo round di combattimento dopo l'arrivo della prima ondata, due ulteriori **zombi** emergono dalle tenebre, accompagnati da due **ghoul**. Leggete:
 
 <div class="description">
-<p>Due altri zombi sbucano dalla foschia, affiancati da una coppia di creature umanoidi scarne e ferali con artigli affilati come rasoi e occhi affamati e luminescenti. Questi ghoul si muovono con grazia predatoria, le loro bocche senza labbra che rivelano file di denti appuntiti mentre emettono urla stridenti che echeggiano nella notte.</p>
+<p>Due altri zombi sbucano dalla foschia, ma non sono soli: ai loro fianchi avanzano due creature umanoidi scarne e ferali, con artigli affilati come rasoi e occhi affamati, luminescenti. Si muovono con grazia predatoria, le bocche senza labbra scoperte su file di denti appuntiti, mentre dalle loro gole sale un urlo stridulo che fende la notte.</p>
 </div>
 
 Gli zombi tentano nuovamente di abbattere la barricata, mentre i ghoul tentano di scalarla usando i loro artigli.
@@ -520,7 +520,7 @@ Gli zombi tentano nuovamente di abbattere la barricata, mentre i ghoul tentano d
 ***La Terza Ondata.*** All'inizio del settimo round di combattimento dopo l'arrivo della prima ondata, un **wight** e uno **zombi spargipestilenza** <span class="citation">(<em>Van Richten’s Guide to Ravenloft</em>, p. 255)</span> si avvicinano alla barricata. Leggete:
 
 <div class="description">
-<p>Un non morto solitario avanza lentamente dalle tenebre, i suoi occhi bianchi che fissano opacamente oltre la luce tremolante delle torce. La sua carne, sebbene in decomposizione, è liscia e di un bianco malsano, la pelle percorsa da vene cremisi in rilievo. Una debole nube di nebbia rossastra fuoriesce continuamente dalla sua bocca e cade sulla terra macchiata di sangue prima di dissiparsi nell'aria.</p>
+<p>Un non morto solitario avanza lento dalle tenebre, gli occhi bianchi che fissano opachi oltre il tremolare delle torce. La sua carne, pur in decomposizione, è liscia e d'un pallore malsano, percorsa da vene cremisi in rilievo come radici sotto la pelle. Dalla bocca spalancata fuoriesce una nube sottile di nebbia rossastra, che ricade sulla terra macchiata di sangue e si dissolve nell'aria della notte.</p>
 </div>
 
 > [!info]+ **Lo Spargipestilenza**
@@ -536,22 +536,22 @@ Nel frattempo, il wight attacca dall'oscurità oltre la luce delle torce, effett
 Poco dopo che i giocatori hanno eliminato l'ultima ondata, la **wereraven** Muriel appare loro in forma di **corvo**. Leggete:
 
 <div class="description">
-<p>Una piccola sagoma scura si tuffa dai cieli sopra di voi, risolvandosi nella forma di un corvo familiare, le sue ali dalle punte blu che lampeggiano alla luce delle torce. I suoi occhi sono spalancati e in preda al panico, e un grido urgente e disperato risuona ripetutamente dal suo becco spalancato.</p>
+<p>Una piccola sagoma scura si tuffa dal cielo sopra di voi, rivelandosi nella forma di un corvo familiare, le ali dalle punte blu che lampeggiano alla luce delle torce. I suoi occhi sono spalancati per il panico, e un grido urgente e disperato risuona ripetutamente dal becco spalancato.</p>
 </div>
 
 Sebbene non possa parlare in forma di corvo, Muriel tenta di avvisare i giocatori in modo non verbale che la barricata occidentale è caduta, tirando i loro capelli e vestiti verso la piazza del paese. Se i giocatori non la seguono immediatamente, leggete:
 
 <div class="description">
-<p>Udite grida terrorizzate in lontananza, e il suono di legno che si schianta.</p>
+<p>Grida terrorizzate giungono da lontano, seguite dal fragore di legno che si schianta.</p>
 </div>
 
 ### L'Ultima Resistenza di Ismark
 Se i giocatori la seguono, Muriel li guida verso ovest in direzione della piazza del paese, poi li conduce attraverso una serie di vicoli dietro e intorno alla Taverna del Sangue della Vite, emergendo infine sul lato nord della strada appena a ovest della piazza del paese. Quando i giocatori arrivano, leggete:
 
 <div class="description">
-<p>Dozzine di corpi giacciono per la strada, insanguinati e immobili. L'aria è densa del pungente odore di putrefazione e morte, e il vento ululante canta con il suono di urla terrorizzate.</p>
-<p>La barricata che proteggeva la piazza del paese è stata frantumata, i suoi resti scheggiati circondati da un cumulo di cadaveri alto quasi due metri. Nella piazza, bambini urlano mentre anziani e infermi osservano con orrore muto.</p>
-<p>Le torce a ovest sono state spente, i difensori occidentali del paese in fuga — o uccisi. Solo una figura resta in piedi: Ismark, i vestiti strappati e insanguinati, che impugna una spada lunga nella mano sinistra e una spada corta nella destra. A sei metri da lui si erge uno zombi dalla pelle pallida, la carne liscia e di un bianco malsano che si gonfia di vene cremisi. I suoi occhi fissano opacamente le tende nella piazza del paese oltre, e, mentre una nube di nebbia rossastra fuoriesce dolcemente dalla sua bocca spalancata, fa un passo barcollante in avanti.</p>
+<p>Dozzine di corpi giacciono per la strada, insanguinati e immobili. L'aria è greve dell'odore pungente di putrefazione e morte, e il vento ululante porta con sé il suono di urla terrorizzate.</p>
+<p>La barricata che proteggeva la piazza del paese è stata frantumata, i suoi resti scheggiati sepolti sotto un cumulo di cadaveri alto quasi due metri. Nella piazza, bambini urlano mentre anziani e infermi osservano con muto orrore.</p>
+<p>Le torce a ovest sono spente; i difensori occidentali del paese, in fuga — o uccisi. Una sola figura resta in piedi: Ismark, i vestiti strappati e insanguinati, che impugna una spada lunga nella mano sinistra e una spada corta nella destra. A sei metri da lui si erge uno zombi dalla pelle pallida, la carne liscia e d'un bianco malsano, gonfia di vene cremisi. I suoi occhi fissano opachi le tende nella piazza del paese, e — mentre una nube di nebbia rossastra fuoriesce lenta dalla bocca spalancata — fa un passo barcollante in avanti.</p>
 </div>
 
 ![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
@@ -592,16 +592,16 @@ Lo spargipestilenza, che inizia a 120 piedi dal centro della piazza del paese e 
 Poco dopo che i giocatori sconfiggono lo spargipestilenza, un cavaliere solitario affiancato da dodici **zombi** si avvicina alla piazza del paese da ovest. Leggete:
 
 <div class="description">
-<p>Udite il suono di zoccoli che sguazzano nel fango. Dalle ombre sulla strada occidentale emerge un uomo ammantato che cavalca un cavallo grigio cenere dagli occhi spenti e ombreggiati. Dietro di esso seguono una dozzina di non morti barcollanti, che fiancheggiano il cavaliere con sei per lato.</p>
-<p>La luce tremolante delle torce dipinge i lineamenti dell'uomo in sfumature di arancione e rosso ardenti, rivelando una figura alta e snella dalla carnagione scura, con lunghi capelli neri che ricadono oltre il collo. Un mantello leggero è drappeggiato sulle sue spalle, il bordo orlato di spessa pelliccia bianca, e guanti di morbida pelle nera coprono le sue mani. Una tunica blu scuro ornata di bronzo è visibile sotto uno strato di armatura di cuoio resistente ma flessibile, e una sciabola ricurva pende da un fodero alla cintura, con una coppia di scimitarre fissate sulla schiena sopra di essa.</p>
-<p>Le sue orecchie si assottigliano bruscamente verso l'alto in punte elfiche, e i suoi occhi scuri e marroni portano una consapevolezza quieta e uno sguardo casuale, quasi predatorio, mentre si spostano lentamente sull'ambiente circostante. Una lunga e malvagia cicatrice gli attraversa la fronte, appena sopra dove le rughe hanno iniziato a segnare il suo volto con l'età, e le sue labbra sono tirate all'indietro in un perpetuo, sottile cipiglio.</p>
+<p>Il battere di zoccoli nel fango giunge prima della vista. Dalle ombre sulla strada occidentale emerge un uomo ammantato che cavalca un cavallo grigio cenere dagli occhi spenti e velati. Dietro di lui avanza una dozzina di non morti barcollanti, sei per lato, come una scorta funebre.</p>
+<p>La luce tremolante delle torce dipinge i lineamenti dell'uomo in sfumature d'arancione e cremisi, rivelando una figura alta e snella dalla carnagione scura, con lunghi capelli neri che ricadono oltre il collo. Un mantello leggero è drappeggiato sulle spalle, il bordo orlato di spessa pelliccia bianca, e guanti di morbida pelle nera coprono le mani. Sotto un'armatura di cuoio resistente ma flessibile si intravede una tunica blu scuro ornata di bronzo, e una sciabola ricurva pende dal fodero alla cintura, con una coppia di scimitarre fissate sulla schiena.</p>
+<p>Le orecchie si assottigliano in punte elfiche, e i suoi occhi scuri portano una consapevolezza quieta, uno sguardo casuale e quasi predatorio che si sposta lentamente sull'ambiente circostante. Una lunga, crudele cicatrice gli attraversa la fronte, appena sopra le rughe che l'età ha iniziato a segnargli il volto, e le labbra sono serrate in un perpetuo, sottile cipiglio.</p>
 </div>
 
 Questo è Rahadin, che cavalca il suo *destriero fantasma*. Quando si ferma al bordo della piazza del paese, estrae una pergamena dal mantello e la srotola. Se non viene interrotto, inizia a leggere da essa, la sua voce risonante che attraversa la piazza:
 
 <div class="description">
-<p>“Cinquecento e sette giorni or sono, questo popolo si levò in illegittima ribellione contro Strahd von Zarovich, Conte di Barovia, Signore del Castello Ravenloft e Protettore dei Monti Balinok. Per questo atto di tradimento, questo insediamento ha ricevuto giusta punizione, affinché i suoi abitanti apprendano il peso della loro sfida.</p>
-<p>“Testimoniato dagli occhi dei morti e dei dannati, questo prezzo è stato estratto in sangue, comune e nobile allo stesso modo. Sia noto che in questo giorno, la misericordia di Strahd von Zarovich si estende nuovamente a coloro che tornano al loro feudo e campo — mentre coloro che perseverano nella loro follia saranno spazzati via come pula dinanzi al vento.”</p>
+<p>«Cinquecento e sette giorni or sono, questo popolo si levò in illegittima ribellione contro Strahd von Zarovich, Conte di Barovia, Signore del Castello Ravenloft e Protettore dei Monti Balinok. Per questo atto di tradimento, questo insediamento ha ricevuto giusta punizione, affinché i suoi abitanti apprendano il peso della loro sfida.</p>
+<p>Testimoniato dagli occhi dei morti e dei dannati, questo prezzo è stato estratto in sangue, da comuni e nobili allo stesso modo. Sia noto che in questo giorno, la clemenza di Strahd von Zarovich si estende nuovamente a coloro che tornano al loro feudo e campo — mentre coloro che perseverano nella loro follia saranno spazzati via come pula al vento.»</p>
 </div>
 
 Se non viene impedito, Rahadin scruta la folla, il suo sguardo che si posa infine su Ismark. Lasciando i non morti alle spalle, si avvicina a Ismark a cavallo.
@@ -609,8 +609,8 @@ Se non viene impedito, Rahadin scruta la folla, il suo sguardo che si posa infin
 Quando Rahadin si avvicina ai giocatori (o viceversa), i giocatori possono udire i suoni del suo ***coro mortale***. Leggete:
 
 <div class="description">
-<p>Inizia con un rombo sordo — un formicolio ai margini della vostra consapevolezza, come il lavare dell’oceano contro la riva. Man mano che l’uomo si avvicina, tuttavia, il suono attutito diventa sempre più insistente, amplificandosi e costruendosi su se stesso — finché non si risolve da un suono più innocuo, quasi come onde, in un torrente di urla.</p>
-<p>Le vostre orecchie si riempiono di una cacofonia di mille voci, imploranti, sofferenti, morenti: un assalto psichico che si infrange contro la vostra mente da ogni direzione, lasciando poco spazio al pensiero. L’uomo, tuttavia, resta impassibile — apparentemente indisturbato dalla sinfonia di urla che lo circonda.</p>
+<p>Comincia come un rombo sordo — un formicolio ai margini della vostra coscienza, simile al frangersi delle onde contro la riva. Man mano che l’uomo si avvicina, tuttavia, il suono attutito si fa sempre più insistente, si amplifica e cresce su se stesso — finché non si tramuta da un mormorio quasi innocuo in un torrente di urla.</p>
+<p>Le vostre orecchie si colmano di una cacofonia di mille voci: imploranti, sofferenti, morenti. Un assalto psichico che s’infrange contro la vostra mente da ogni direzione, lasciando poco spazio al pensiero. L’uomo, tuttavia, resta impassibile — apparentemente indisturbato dalla sinfonia di grida che lo circonda.</p>
 </div>
 
 I giocatori possono notare che qualsiasi altro Baroviano entro tre metri da Rahadin sembra essere similmente turbato. (Qualsiasi Baroviano oltre il raggio di tre metri non può udire le urla.) Quando Rahadin parla, le urla si ritraggono in parte — abbastanza da permettere a lui e agli altri di essere uditi — ma acquisiscono un accento notevole di paura.
@@ -756,7 +756,7 @@ Se i giocatori seguono Ismark alla dimora del borgomastro, trovano i suoi terren
 Ismark e i giocatori possono trovare Kolyan e Ireena nel salotto al piano terra. Leggete:
 
 <div class="description">
-<p>Una pozza rossa circonda la forma immobile del borgomastro, i suoi occhi vitrei che fissano il soffitto senza vedere mentre il sangue gocciola da un lungo e elegante squarcio sul suo petto. Non lontano, Ireena giace accasciata sul tappeto sotto una finestra sbarrata, le sue tende lacere che ondeggiano pigramente nel vento freddo.</p>
+<p>Una pozza cremisi circonda la forma immobile del borgomastro: i suoi occhi vitrei fissano il soffitto senza vedere, mentre il sangue stilla da un lungo e netto squarcio sul petto. Non lontano, Ireena giace accasciata sul tappeto sotto una finestra sbarrata, le cui tende lacere ondeggiano pigramente nel vento gelido.</p>
 </div>
 
 All'arrivo, Ismark emette un grido strozzato di angoscia e scende immediatamente a cullare la testa del padre tra le mani.
@@ -778,18 +778,18 @@ Ismark torna alla dimora poco prima di mezzanotte. Poco dopo, qualsiasi giocator
 I giocatori possono origliare questa conversazione con una prova di Destrezza (Furtività) con CD 13 riuscita o una prova di Saggezza (Percezione) con CD 15 riuscita. Leggete:
 
 <div class="description">
-<p>I mormorii dalla stanza accanto sono in gran parte indistinti, oscurati dai bassi gemiti delle travi della vecchia casa. Mentre tendete le orecchie, tuttavia, le parole dei fratelli emergono lentamente a fuoco.</p>
-<p>La voce di Ireena, aspra di indignazione, squarcia il silenzio. "Non ne hai il diritto, Ismark. Non puoi semplicemente decidere di mandarmi via, come se fossi un qualche tipo di seccatura! Sono figlia di Padre quanto te, e la nostra gente ha bisogno di me per ricostruire. Hai bisogno di me anche tu!"</p>
-<p>La replica di Ismark è misurata, sebbene pervasa di una nota inconfondibile di preoccupazione. "Il Diavolo ha messo gli occhi su di te — e anche se non crediamo alla leggenda sulle donne dai capelli rossi, altri potrebbero crederci. Barovia non è più sicura per te."</p>
-<p>Uno sbuffo di sfida echeggia dall'altro lato della sottile parete di legno. "Non sono una codarda, Ismark, e non abbandonerò i nostri amici e vicini nella loro ora di bisogno."</p>
-<p>C'è una pausa. Poi, Ismark dice, sottovoce, "Gertruda ha lasciato il villaggio stamattina. Da sola."</p>
-<p>Udite un respiro spezzato dalla direzione di Ireena. "<em>Perché?</em>"</p>
-<p>"Sua madre pensa che sia andata a Vallaki — era convinta che l'aiuto da Vallaki fosse l'unico modo per porre fine alla nostra sofferenza," mormora Ismark.</p>
-<p>C'è un lungo, sofferto silenzio. Poi —</p>
-<p>Ismark sembra esitare, le sue parole un po' incerte. "Non ti sto chiedendo di abbandonarli. Ma ci sono altri che hanno bisogno del tuo aiuto. Pensa ai nostri vicini che sono fuggiti verso Vallaki. Hanno bisogno di guida, sostegno — e forse di una guida che li riporti a casa un giorno."</p>
-<p>C'è una lunga pausa. La voce di Ireena è bassa quando finalmente parla — a malapena udibile. "Non mi piace comunque."</p>
-<p>La risposta di Ismark è quieta. "È una tua scelta. Non posso togliertela. Ma dopo aver perso Padre, non posso... non sopporto il pensiero di perdere anche te."</p>
-<p>Il silenzio che segue è palpabile, carico di emozioni inespresse. Infine, la voce di Ireena lo rompe, fragile e quieta. "Andrò. Solo per te. E solo se prima seppelliamo Padre — insieme."</p>
+<p>I mormorii dalla stanza accanto sono in gran parte indistinti, soffocati dai bassi gemiti delle travi della vecchia casa. Ma mentre tendete le orecchie, le parole dei fratelli emergono lentamente dalla confusione.</p>
+<p>La voce di Ireena, aspra d'indignazione, squarcia il silenzio. «Non ne hai il diritto, Ismark. Non puoi semplicemente decidere di mandarmi via, come se fossi una seccatura! Sono figlia di Padre quanto te, e la nostra gente ha bisogno di me per ricostruire. Hai bisogno di me anche tu!»</p>
+<p>La replica di Ismark è misurata, sebbene percorsa da una nota inconfondibile di preoccupazione. «Il Diavolo ha messo gli occhi su di te — e anche se non crediamo alla leggenda sulle donne dai capelli rossi, altri potrebbero crederci. Barovia non è più sicura per te.»</p>
+<p>Uno sbuffo di sfida risuona dall'altro lato della sottile parete di legno. «Non sono una codarda, Ismark, e non abbandonerò i nostri amici e vicini nella loro ora di bisogno.»</p>
+<p>Una pausa. Poi la voce di Ismark, sottovoce: «Gertruda ha lasciato il villaggio stamattina. Da sola.»</p>
+<p>Un respiro spezzato dalla direzione di Ireena. «<em>Perché?</em>»</p>
+<p>«Sua madre pensa che sia andata a Vallaki — era convinta che chiedere aiuto a Vallaki fosse l'unico modo per porre fine alla nostra sofferenza,» mormora Ismark.</p>
+<p>Un lungo, sofferto silenzio. Poi —</p>
+<p>Ismark esita, le parole un po' incerte. «Non ti sto chiedendo di abbandonarli. Ma ci sono altri che hanno bisogno del tuo aiuto. Pensa ai nostri vicini che sono fuggiti verso Vallaki. Hanno bisogno di guida, sostegno — e forse di qualcuno che li riporti a casa, un giorno.»</p>
+<p>Una lunga pausa. La voce di Ireena è bassa quando finalmente parla — a malapena udibile. «Non mi piace comunque.»</p>
+<p>La risposta di Ismark è quieta. «È una tua scelta. Non posso togliertela. Ma dopo aver perso Padre, non posso... non sopporto il pensiero di perdere anche te.»</p>
+<p>Il silenzio che segue è palpabile, carico di parole non dette. Infine, la voce di Ireena lo spezza, fragile e sommessa. «Andrò. Solo per te. E solo se prima seppelliamo Padre — insieme.»</p>
 </div>
 
 Ismark e Ireena salgono le scale pochi momenti dopo. Un giocatore con un punteggio passivo di Saggezza (Intuizione) di 10 o più nota che entrambi hanno occhi gonfi e rossi, come se avessero pianto.
@@ -830,7 +830,7 @@ I giocatori hanno un round per uccidere il topo mentre sgattaiola verso un grand
 Quando i giocatori arrivano alla chiesa con il corpo del borgomastro, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] è turbato dai danni inflitti ai muri e al tetto. Mentre bussa alla porta principale e chiama Padre Donavich, se Parriwimple è ancora vivo, leggete quanto segue:
 
 <div class="description">
-<p>Mentre il bussare di Ismark echeggia nell'aria gelida, una voce risuona dalla strada oscurata: "Non uscirà."</p>
+<p>Mentre il bussare di Ismark echeggia nell'aria gelida, una voce risuona dalla strada immersa nella foschia: «Non uscirà.»</p>
 <p>Una sagoma massiccia avanza dalla nebbia — Parriwimple.</p>
 </div>
 
@@ -852,14 +852,14 @@ Parriwimple non accompagnerà i giocatori all’interno della chiesa, ma augura 
 Quest’area è in gran parte come descritta in <span class="citation">Church (p. 45)</span>. Tuttavia, modificate il testo descrittivo di <span class="citation">E5a. Hall (p. 45)</span> per rimuovere l’urlo di Doru:
 
 <div class="description">
-<p>Le porte si aprono rivelando un corridoio largo tre metri e lungo sei che conduce a una cappella illuminata. Il corridoio è buio e puzza di muffa. Quattro porte, due per lato, conducono alle stanze adiacenti.</p>
-<p>Potete vedere che la cappella è cosparsa di detriti, e udite una voce sommessa al suo interno che recita una preghiera.</p>
+<p>Le porte si aprono su un corridoio largo tre metri e lungo sei che conduce a una cappella illuminata. Il corridoio è buio e odora di muffa. Quattro porte, due per lato, si aprono sulle stanze adiacenti.</p>
+<p>La cappella oltre è cosparsa di detriti, e dall'interno giunge una voce sommessa che recita una preghiera.</p>
 </div>
 
 Doru non grida verso suo padre quando i giocatori entrano nella cappella. Invece, quando i giocatori si avvicinano per la prima volta alla cappella, le preghiere di Donavich si interrompono. Aggiungete la seguente riga alla descrizione della cappella al posto del grido di Doru:
 
-<div class="description">
-<p>Il suono della preghiera mormorata si interrompe, e una voce rauca e stanca risuona nella camera dalla figura inginocchiata dietro l'altare. “Non posso offrirvi la benedizione che cercate. Andatevene, e lasciate in pace questo luogo maledetto.”</p>
+<div class=”description”>
+<p>Il mormorio della preghiera si interrompe, e una voce rauca e stanca risuona nella camera dalla figura inginocchiata dietro l'altare. «Non posso offrirvi la benedizione che cercate. Andatevene, e lasciate in pace questo luogo maledetto.»</p>
 </div>
 
 > [!lore]+ **Una Storia Recente della Chiesa**
@@ -916,21 +916,21 @@ Se i giocatori accettano, Donavich produce la chiave del lucchetto in <span clas
 La cripta è in gran parte come descritta in <span class="citation">E5g. Undercroft (p. 47)</span>. Tuttavia, modificate l'ultima frase della descrizione come segue:
 
 <div class="description">
-<p>La luce delle candele dalla cappella soprastante filtra attraverso le fessure, ma non c'è traccia di alcuna creatura nell'oscurità.</p>
+<p>La luce delle candele dalla cappella soprastante filtra fioca attraverso le fessure, ma nell'oscurità della cripta non vi è traccia di alcuna creatura.</p>
 </div>
 
 Doru, un **vampire spawn**, ha usato la sua capacità ***spider climb*** per aggrapparsi al soffitto al suono dell’avvicinamento dei giocatori. Un giocatore con un punteggio passivo di Saggezza (Percezione) di 16 o superiore lo individua automaticamente nell’angolo superiore oscurato sul lato opposto della stanza. Altrimenti, leggete quanto segue dopo che è trascorso un round.
 
-<div class="description">
-<p>La voce di un giovane uomo, tesa e stanca, echeggia dall’oscurità in alto. “Siete venuti a uccidermi, vero?”</p>
+<div class=”description”>
+<p>La voce di un giovane uomo, tesa e stanca, echeggia dall’oscurità in alto. «Siete venuti a uccidermi, vero?»</p>
 </div>
 
 Doru preferisce parlare con i giocatori dalla sicurezza dell’oscurità, ma non rifiuterà se i giocatori gli ordineranno di mostrarsi. Se lo fa, leggete quanto segue:
 
 <div class="description">
-<p>Dall'oscurità delle travi a croce in alto, una figura si dispiega come una falena dal suo bozzolo, muovendosi come un ragno mentre si cala lentamente a terra. Quando entra nella debole luce, l'ombra si risolve nella forma di un giovane uomo, i cui tratti giovanili ricordano in modo sorprendente Padre Donavich.</p>
-<p>La sua pelle è di un pallore spettrale, con sporcizia e sudiciume che gli striściano il volto. I suoi vestiti sono strappati e logori, e i suoi capelli sono un groviglio disordinato di nodi. I suoi occhi sono rossi e iniettati di sangue, lo sguardo che guizza da un volto all'altro. Un cordone di cuoio gli pende dal collo, reggendo un sole di bronzo macchiato di sangue che poggia sul suo petto. Deglutisce e si lecca le labbra — e un paio di zanne appuntite spunta fuori.</p>
-<p>"Se volete uccidermi, non vi fermerò," dice, con la voce rotta. "Ma ho solo una richiesta prima."</p>
+<p>Dall'oscurità delle travi a croce in alto, una figura si dispiega come una falena dal suo bozzolo, muovendosi come un ragno mentre si cala lentamente a terra. Quando varca il confine della debole luce, l'ombra si risolve nella forma di un giovane uomo, i cui tratti giovanili ricordano in modo impressionante Padre Donavich.</p>
+<p>La sua pelle è d'un pallore spettrale, e sporcizia e sudiciume gli striściano il volto. I suoi vestiti sono strappati e logori, e i capelli non sono che un groviglio disordinato di nodi. I suoi occhi sono rossi e iniettati di sangue, e lo sguardo guizza da un volto all'altro. Un cordone di cuoio gli pende dal collo, reggendo un sole di bronzo macchiato di sangue che poggia sul petto. Deglutisce e si lecca le labbra — e un paio di zanne appuntite spunta fuori.</p>
+<p>«Se volete uccidermi, non vi fermerò,» dice, con la voce rotta. «Ma ho solo una richiesta, prima.»</p>
 </div>
 <br>
 
@@ -991,11 +991,11 @@ Se gli viene detto che Gertruda ha lasciato il villaggio da sola diretta a Valla
 ### La Prova di Doru
 Se i giocatori accettano di esaudire la richiesta di Doru esponendolo al sangue fresco, egli chiede loro di rimanere in silenzio mentre resiste — e di abbatterlo se soccombe. Quando la prova ha inizio, leggete quanto segue:
 
-<div class="description">
-<p>I muscoli di Doru si tendono e strizza gli occhi. Pochi istanti dopo, le sue narici si dilatano, e un sottile filo di saliva comincia a scorrere lungo le labbra. Geme, le sue dita artigliate che si flettono e si contraggono.</p>
-<p>”Quando le ombre verranno,” sussurra, “non cederò. L’oscurità è la distruttrice, e la tentazione è la sua arma. Affronterò la notte e i suoi orrori e attenderò l’orizzonte. Poiché nella luce dell’amore del Signore del Mattino, solo la luce può rimanere.”</p>
-<p>La voce di Doru trema, il suo corpo emaciato che sussulta. Un pugno è serrato al suo fianco, l’altro stringe il sole macchiato di sangue che giace sul suo collo.</p>
-<p>”Nella luce dell’amore del Signore del Mattino,” ripete, ansimando. “Nella luce dell’amore del Signore del Mattino. Gertruda. Gertruda. <b><em>Gertruda</em></b>  —“</p>
+<div class=”description”>
+<p>I muscoli di Doru si tendono e gli occhi si serrano. Pochi istanti dopo, le narici si dilatano, e un sottile filo di saliva prende a scorrere lungo le labbra. Un gemito gli sfugge, le dita artigliate che si flettono e si contraggono convulse.</p>
+<p>«Quando le ombre verranno,» sussurra, «non cederò. L’oscurità è la distruttrice, e la tentazione è la sua arma. Affronterò la notte e i suoi orrori e attenderò l’orizzonte. Poiché nella luce dell’amore del Signore del Mattino, solo la luce può rimanere.»</p>
+<p>La voce di Doru trema, il corpo emaciato percorso da brividi. Un pugno è serrato al fianco, l’altro stringe il sole macchiato di sangue che gli pende dal collo.</p>
+<p>«Nella luce dell’amore del Signore del Mattino,» ripete, ansimando. «Nella luce dell’amore del Signore del Mattino. Gertruda. Gertruda. <b><em>Gertruda</em></b> —»</p>
 </div>
 
 Se Doru soccombe alla sete di sangue (vedi **Doru Se Ne Ricorderà** sopra), si ferma, poi attacca. Tirate l'iniziativa.
@@ -1003,8 +1003,8 @@ Se Doru soccombe alla sete di sangue (vedi **Doru Se Ne Ricorderà** sopra), si 
 Altrimenti, se Doru resiste con successo alla sete di sangue, leggete:
 
 <div class="description">
-<p>Dopo quello che sembra un'eternità, il corpo di Doru finalmente si rilassa. I suoi muscoli tesi sembrano sciogliersi, il suo respiro si fa più regolare, e l'espressione di sforzo svanisce dal suo volto. I suoi occhi rimangono chiusi un istante ancora, poi si spalancano — e le zanne nella sua bocca si ritraggono lentamente, lasciando solo un paio di canini ordinari.</p>
-<p>"Non ho ceduto," sussurra con voce rauca. "Non ancora."</p>
+<p>Dopo quello che sembra un'eternità, il corpo di Doru infine si rilassa. I muscoli tesi paiono sciogliersi, il respiro si fa più regolare, e l'espressione di sforzo svanisce dal volto. Gli occhi restano chiusi un istante ancora, poi si spalancano — e le zanne nella bocca si ritraggono lentamente, lasciando solo un paio di canini ordinari.</p>
+<p>«Non ho ceduto,» sussurra con voce rauca. «Non ancora.»</p>
 </div>
 
 Doru ringrazia i giocatori e cede il simbolo sacro senza protestare. Se i giocatori lo menzionano, è sorpreso di sentire che le sue zanne si sono ritratte, ma ne riconosce il significato con umiltà e incredulità. (Doru ha, dopotutto, letto *Van Richten's Guide to Vampires* molte volte.)
@@ -1020,17 +1020,17 @@ Se i giocatori tornano da Padre Donavich con il suo simbolo sacro in mano, egli 
 Se i giocatori dicono a Padre Donavich di aver ucciso Doru per ottenere il simbolo, leggete:
 
 <div class="description">
-<p>Gli occhi di Donavich si riempiono di lacrime mentre stringe il simbolo tra le mani, tenendolo così forte che le nocche cominciano a sbiancare. Un singhiozzo strozzato gli sfugge mentre cade in ginocchio, cullando il sole come un neonato.</p>
-<p>"Il mio ragazzo — il mio caro, prezioso ragazzo," mormora, la voce appena sopra un sussurro. "Che il Signore del Mattino mi perdoni per ciò che ho fatto — e per ciò che non sono riuscito a fare."</p>
-<p>Deglutisce e il suo volto si indurisce, la sua espressione che diventa dura come la pietra. "Andava fatto. Per il suo bene — e per il nostro."</p>
+<p>Gli occhi di Donavich si colmano di lacrime mentre stringe il simbolo tra le mani, così forte che le nocche sbiancano. Un singhiozzo strozzato gli sfugge mentre cade in ginocchio, cullando il sole di bronzo come un neonato.</p>
+<p>«Il mio ragazzo — il mio caro, prezioso ragazzo,» mormora, la voce appena sopra un sussurro. «Che il Signore del Mattino mi perdoni per ciò che ho fatto — e per ciò che non sono riuscito a fare.»</p>
+<p>Deglutisce e il volto gli si indurisce, l'espressione che si fa dura come la pietra. «Andava fatto. Per il suo bene — e per il nostro.»</p>
 </div>
 
 Altrimenti, se i giocatori hanno risparmiato Doru e riferiscono il suo ultimo messaggio, leggete:
 
 <div class="description">
-<p>Donavich barcolla all'indietro come se fosse stato colpito, il volto pallido e gli occhi spalancati per lo shock. Per un momento, resta semplicemente lì, in silenzio — e poi il silenzio è spezzato da un suono di dolore, a metà tra un respiro affannoso e un singhiozzo, mentre stringe il simbolo al petto.</p>
-<p>I suoi occhi luccicano mentre passa una mano tremante tra i capelli, una miriade di emozioni che si susseguono rapide sul suo volto: incredulità, rabbia, dolore, vergogna, e — infine — speranza. Si accascia contro un banco vicino, il corpo scosso dallo sforzo.</p>
-<p>"Il mio ragazzo," riesce a dire con voce strozzata. "È — è ancora il mio ragazzo?"</p>
+<p>Donavich barcolla indietro come se fosse stato colpito, il volto pallido e gli occhi spalancati per lo shock. Per un momento resta semplicemente lì, in silenzio — e poi il silenzio è spezzato da un suono di dolore, a metà tra un respiro affannoso e un singhiozzo, mentre stringe il simbolo al petto.</p>
+<p>Gli occhi gli luccicano mentre si passa una mano tremante tra i capelli, e una miriade di emozioni si sussegue rapida sul suo volto: incredulità, rabbia, dolore, vergogna, e — infine — speranza. Si accascia contro un banco vicino, il corpo scosso dallo sforzo.</p>
+<p>«Il mio ragazzo,» riesce a dire con voce strozzata. «È — è ancora il mio ragazzo?»</p>
 </div>
 
 Una volta ricevuto il suo simbolo sacro, Padre Donavich accetta volentieri di celebrare la sepoltura di Kolyan.
@@ -1058,8 +1058,8 @@ Entrando nel cimitero, Donavich recupera quattro pale da un capanno addossato al
 Alla conclusione della preghiera di Donavich, Ismark e Ireena offrono le seguenti parole in memoria del loro padre:
 
 <div class="description">
-<p>Ismark si asciuga gli occhi. "Kolyan Indirovich possedeva tutte le qualità di un grande borgomastro: era gentile, compassionevole e giusto. Ma soprattutto, era nostro padre — l'uomo che ci ha insegnato a scegliere il coraggio sulla paura, la speranza sulla disperazione, e la gioia sul dolore. Anche se ci ha lasciati, i suoi insegnamenti e il suo ricordo non lo faranno mai. Possa trovare riposo nell'abbraccio del Signore del Mattino, e possa la sua eredità non essere mai dimenticata."</p>
-<p>Ireena fissa la tomba per qualche istante, le dita che si torcono ansiosamente in nodi. Infine, dice, sommessamente, "Quando mi trovasti, ero un'estranea — una bambina, persa nei boschi. Tu e la Mamma mi accoglieste, vi prendeste cura di me, e mi amaste come se fossi vostra. Quando ti chiesi perché, rispondesti soltanto: Perché ne avevi bisogno." Esita, soffocata dalle parole, poi dice: "Non potrò mai sperare di ripagare ciò che mi avete dato. Ma, proprio come facesti tu, non smetterò mai di cercare di aiutare chi ne ha bisogno."</p>
+<p>Ismark si asciuga gli occhi. «Kolyan Indirovich possedeva tutte le qualità di un grande borgomastro: era gentile, compassionevole e giusto. Ma soprattutto, era nostro padre — l'uomo che ci ha insegnato a scegliere il coraggio sulla paura, la speranza sulla disperazione, e la gioia sul dolore. Anche se ci ha lasciati, i suoi insegnamenti e il suo ricordo non lo faranno mai. Possa trovare riposo nell'abbraccio del Signore del Mattino, e possa la sua eredità non essere mai dimenticata.»</p>
+<p>Ireena fissa la tomba per qualche istante, le dita che si torcono nervosamente tra loro. Infine, dice sommessamente: «Quando mi trovasti, ero un'estranea — una bambina, persa nei boschi. Tu e la Mamma mi accoglieste, vi prendeste cura di me, e mi amaste come se fossi vostra. Quando ti chiesi perché, rispondesti soltanto: <em>Perché ne avevi bisogno</em>.» Esita, soffocata dalle parole, poi aggiunge: «Non potrò mai sperare di ripagare ciò che mi avete dato. Ma, proprio come facesti tu, non smetterò mai di cercare di aiutare chi ne ha bisogno.»</p>
 </div>
 
 Tutti i giocatori che lo desiderano possono offrire parole, preghiere o tributi propri.
@@ -1089,8 +1089,8 @@ Poiché Strahd e i suoi servitori hanno visitato solo di notte, Ismark non è pa
 Se i giocatori visitano la collina, leggete:
 
 <div class="description">
-<p>Mentre attraversate il mare di erbe alte a nord del villaggio, una dolce collina si erge dinanzi a voi, delimitata sul lato opposto dalle grinfie dell'oscuro Bosco di Svalich. Piante dai fiori bianchi e piumosi e dal profumo dolce e terroso sembrano danzare tra l'erba in cima alla collina, le loro foglie che frusciamo in un vento sussurrante.</p>
-<p>Un albero solitario si erge in cima alla collina, i suoi rami nodosi protesi verso il cielo come braccia tese. Sotto la sua ombra è inginocchiata una figura femminile, lo sguardo fisso a terra.</p>
+<p>Attraversate il mare di erbe alte a nord del villaggio, e una dolce collina si leva davanti a voi, delimitata sul versante opposto dalle grinfie scure del Bosco di Svalich. Piante dai fiori bianchi e piumosi, dal profumo dolce e terroso, sembrano danzare tra l'erba in cima alla collina, le foglie che fremono in un vento sussurrante.</p>
+<p>Un albero solitario veglia sulla sommità, i rami nodosi protesi verso il cielo come braccia tese. Sotto la sua ombra è inginocchiata una figura femminile, lo sguardo fisso a terra.</p>
 </div>
 
 La figura è Ireena, che ha indossato la sua corazza e lo stocco e ora porta una sciarpa rossa attorno al collo. Mentre i giocatori si avvicinano, possono vedere che sta usando una cazzuola per scavare un buco nella terra tra le radici dell'albero. Ireena, concentrata sul suo lavoro, non nota i giocatori finché non la chiamano o entrano altrimenti nel suo campo visivo.

@@ -3,34 +3,34 @@
 > [!warning]+ **Un’Avventura di Secondo Livello**
 > Ricordate che, a differenza dell’avventura originale *Curse of Strahd*, i giocatori in questa guida iniziano al 2° livello, anziché al 1° livello.
 
-I giocatori iniziano nella città di Daggerford la sera prima di Highharvesttide, una festa e celebrazione annuale del raccolto. Le locande locali sono tutte al completo per la notte, e i giocatori — vagabondi con poche monete e ancor meno compagnia — trovano rifugio nella stalla del Nightmare’s Bridle, una taverna fatiscente ai margini della città.
+I giocatori iniziano nella città di Daggerford la sera prima di Altomietitura, una festa e celebrazione annuale del raccolto. Le locande locali sono tutte al completo per la notte, e i giocatori — vagabondi con poche monete e ancor meno compagnia — trovano rifugio nella stalla del Nightmare’s Bridle, una taverna fatiscente ai margini della città.
 
-Quando le reliquie che portano con sé percepiscono la presenza della Death House, tuttavia, i giocatori vengono condotti attraverso le strade piovose di Daggerford e oltre la soglia in attesa della casa.
+Quando le reliquie che portano con sé percepiscono la presenza della Casa della Morte, tuttavia, i giocatori vengono condotti attraverso le strade piovose di Daggerford e oltre la soglia in attesa della casa.
 
 Una volta all’interno, i giocatori restano intrappolati e scoprono che un mostro li darà la caccia non appena si risveglierà. Hanno sei ore per trovarlo per primi e placarlo con un sacrificio adeguato — oppure ucciderlo. Mentre esplorano la casa, apprendono la sua sordida storia, nonché la vera identità della bestia che si annida nelle profondità.
 
 Se i giocatori uccidono il mostro, la casa inizia a crollare, costringendoli a fuggire o a perire tra le macerie. Quando emergono, scoprono che l’ambiente circostante è mutato, trasportandoli nella terra oscura di Barovia.
 
-> [!lore]+ **La Storia della Death House**
-> Consultate [[History of Barovia#Strahd’s First Followers|I Primi Seguaci di Strahd]] per un resoconto completo della macabra storia della Death House.
+> [!lore]+ **La Storia della Casa della Morte**
+> Consultate [[History of Barovia#Strahd’s First Followers|I Primi Seguaci di Strahd]] per un resoconto completo della macabra storia della Casa della Morte.
 
 > [!info]+ **Modulo Foundry dell’Arco A**
-> Volete un modulo Foundry completamente preparato per ***Arco A: Fuga dalla Death House***? Scaricate il manifest del modulo ufficiale Reloaded di Eidolon Publishing [qui](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
+> Volete un modulo Foundry completamente preparato per ***Arco A: Fuga dalla Casa della Morte***? Scaricate il manifest del modulo ufficiale Reloaded di Eidolon Publishing [qui](https://github.com/Eidolon-Publishing/cosrl-escape-from-death-house/releases/latest/download/module.json)!
 # A1. Daggerford
 
 > [!warning]+ **Mantenete il Carico di Lavoro Basso**
 > *Curse of Strahd: Reloaded* è stato intenzionalmente scritto per ridurre al minimo il tempo trascorso lontano dal tavolo, con l’obiettivo di fungere da campagna "a preparazione zero" nella massima misura possibile. Per rendere ciò possibile, questa guida è stata progettata per indirizzare i giocatori verso percorsi specifici e curati attraverso l’avventura, pur fornendo gradi intenzionali di libertà che, seppur significativi, non cambieranno sostanzialmente l’esito finale della campagna.
 >
 > Se desiderate ridurre al minimo il vostro carico di lavoro, fate del vostro meglio per evitare di apportare modifiche o aggiunte a questa guida. Farlo potrebbe alterare il modo in cui i giocatori interagiscono e si approcciano alla narrativa e al gameplay, disturbando pilastri portanti che potrebbero essere difficili da notare senza rileggere la guida completa più volte. (Ad esempio, aumentare le distanze tra gli insediamenti baroviani rende impossibile completare molteplici missioni negli Atti II e III senza una revisione completa dell’intera linea temporale della campagna.) Qualsiasi modifica — come cambiamenti a scadenze, distanze, blocchi statistiche, motivazioni dei personaggi o eventi — viene effettuata a rischio e pericolo del Dungeon Master, e potrebbe portare a TPK, divergenze incontrollabili o trame insoddisfacenti.
-## A1a. Il Nightmare’s Bridle
-Se uno o più dei vostri giocatori stanno utilizzando l’aggancio [[Running the Adventure#Adventure Hooks|Reliquie Baroviane]], leggete il seguente testo. Altrimenti, procedete a [[#A2. Death House]] qui sotto.
+## A1a. La Briglia dell’Incubo
+Se uno o più dei vostri giocatori stanno utilizzando l’aggancio [[Running the Adventure#Adventure Hooks|Reliquie Baroviane]], leggete il seguente testo. Altrimenti, procedete a [[#A2. Casa della Morte]] qui sotto.
 
 <div class="description">
-<p>È la sera prima di Highharvesttide, e una tempesta si è abbattuta su Daggerford, con nubi scure che riversano cascate di pioggia sulla città sottostante. Nonostante il maltempo, tuttavia, la città freme d'attesa per l'imminente festa autunnale, ogni dimora colma di calore e gioia. La luce allegra e vivace delle candele brilla da ogni finestra, e i suoni di canti e danze riecheggiano per le strade fangose e bagnate.</p>
-<p>In mezzo all'allegria, tuttavia, voi vi trovate in disparte. Né abitanti del luogo né visitatori, siete vagabondi — viandanti, fantasmi di passaggio in una città sconosciuta. Mentre le risate risuonano da locande e case, voi affrontate un dilemma più semplice e più crudo: la ricerca di un riparo.</p>
-<p>Ogni stanza in questa città è occupata, ogni focolare stracolmo, lasciandovi in balia della tempesta inclemente. Almeno fino a quando il proprietario della fatiscente taverna Nightmare's Bridle vi concede una riluttante tregua: il fienile sopra la sua stalla. Non è nulla di cui vantarsi, con il freddo pungente e il persistente odore di fieno ammuffito come unici compagni. Ma è pur sempre un tetto sopra le vostre teste — una piccola grazia in una notte come questa.</p>
-<p>Uno alla volta, trovate un posto fra il sudiciume e il fieno. Sopra di voi, la pioggia sferza la stalla, i tuoni scandiscono il ritmico tambureggiare sul tetto. Lampi di fulmini saettano attraverso i cieli, proiettando l'interno della stalla in luci e ombre violente. L'acqua piovana gocciola costantemente attraverso una falla nel tetto, serpeggiando sul pavimento fino a raccogliersi in una pozza nell'angolo.</p>
-<p>Qui, dunque, vi ritrovate: rannicchiati nell'oscurità fra estranei, mentre gioia e allegria danzano appena fuori dalla vostra portata.</p>
+<p>È la vigilia dell'Altomietitura, e una tempesta si è riversata su Daggerford, con nubi cupe che rovesciano torrenti di pioggia sulla città sottostante. Eppure, malgrado la furia degli elementi, la città freme d'attesa per la festa imminente: ogni dimora trabocca di calore e letizia. Il bagliore vivace delle candele risplende da ogni finestra, e canti e danze riecheggiano per le vie fangose e sferzate dalla pioggia.</p>
+<p>In mezzo a tanta allegria, tuttavia, voi dimorate in disparte. Né genti del luogo né ospiti attesi, siete viandanti — vagabondi, ombre di passaggio in una città che non vi conosce. Mentre le risate risuonano da locande e focolari, voi affrontate un dilemma assai più crudo: la ricerca d'un riparo.</p>
+<p>Ogni stanza in questa città è gremita, ogni focolare stracolmo, e voi restate in balìa della tempesta inclemente. Almeno finché il proprietario della fatiscente taverna Briglia dell'Incubo non vi concede una riluttante tregua: il fienile sopra la sua stalla. Non è cosa di cui menar vanto — il freddo pungente e il tanfo pervicace di fieno ammuffito sono i vostri soli compagni. Ma è pur sempre un tetto sul vostro capo: una piccola grazia in una notte come questa.</p>
+<p>A uno a uno, trovate giaciglio fra il sudiciume e la paglia. Sopra di voi, la pioggia sferza la stalla, e i tuoni ne scandiscono il ritmo implacabile. Saette squarciano i cieli, proiettando l'interno del fienile in un gioco feroce di luci e ombre. L'acqua piovana stilla senza sosta da una falla nel tetto, serpeggiando sul pavimento fino a raccogliersi in una pozza nell'angolo.</p>
+<p>Qui, dunque, vi ritrovate: rannicchiati nelle tenebre fra estranei, mentre gioia e letizia danzano appena fuori dalla vostra portata.</p>
 </div>
 
 Invitate i giocatori a descrivere l'aspetto e il contegno di ciascun personaggio, come si sono posizionati e come hanno sistemato i loro averi.
@@ -38,50 +38,50 @@ Invitate i giocatori a descrivere l'aspetto e il contegno di ciascun personaggio
 Quando i giocatori hanno finito di presentarsi, leggete:
 
 <div class="description">
-<p>Un fulmine rovente squarcia il cielo, illuminando la sera in un lampo accecante di bianco puro. Il tuono fragoroso che segue è così potente da scuotere il terreno stesso sotto di voi, facendo scricchiolare e gemere le travi della stalla.</p>
-<p>La luce del fulmine indugia innaturalmente, delineando le sagome di sottili volute di nebbia che si attorcigliano nell'aria. Una fitta foschia, alta fino alle caviglie, si raccoglie all'esterno, avvolgendo la terra in un velo spettrale. I suoi tentacoli si arricciano invitanti, come a richiamarvi verso l'oscurità oltre.</p>
-<p>La pioggia continua a battere sul tetto sopra di voi, ma il vento non ulula più, e i suoni festosi di Daggerford sembrano smorzati e lontani. I cavalli nella stalla sottostante si agitano inquieti, i loro nitriti riecheggiano forte nel silenzio. Una sensazione di inquietudine pervade il fienile, un brivido freddo che non ha nulla a che vedere con il vento o la pioggia.</p>
+<p>Una saetta rovente squarcia il cielo, e la notte s'accende in un lampo accecante di puro biancore. Il tuono che segue è sì possente da far tremare il terreno stesso sotto di voi, e le travi della stalla scricchiolano e gemono come ossa antiche.</p>
+<p>La luce della folgore indugia innaturalmente, disegnando le sagome di sottili volute di nebbia che s'attorcigliano nell'aria. Una foschia densa, alta fino alle caviglie, si raduna all'esterno, avvolgendo la terra in un velo spettrale. I suoi tentacoli si protendono come dita invitanti, quasi a richiamarvi verso le tenebre oltre.</p>
+<p>La pioggia continua a percuotere il tetto sopra di voi, ma il vento ha cessato di ululare, e i suoni festosi di Daggerford giungono ormai smorzati e lontani. I destrieri nella stalla sottostante s'agitano inquieti, e i loro nitriti riecheggiano forti nel silenzio. Un senso d'inquietudine pervade il fienile — un brivido gelido che nulla ha a che vedere con il vento o la pioggia.</p>
 </div>
 
 Una alla volta, le reliquie dei giocatori reagiscono come segue, nel seguente ordine.
 
-* ***Stone Crest.*** Lo stemma emette un ronzio basso e odora di aghi di pino e terra umida; entrambi si intensificano quando lo stemma viene avvicinato alla Death House.
-* ***Broken Blade.*** La lama emette un ronzio acuto e inizia a tremare violentemente, ruotando come l'ago di una bussola nella direzione della Death House.
-* ***Dragon's Scale.*** La scaglia brucia di un freddo glaciale, un'estremità risplende di una luce argentea e brillante nella direzione della Death House.
-* ***Sunrise Medallion.*** Il medaglione risplende di un calore dorato, emettendo raggi di luce intensa nella direzione della Death House.
-* ***Amber Shard.*** Il frammento brilla di luce ambrata e tira il suo cordino nella direzione della Death House.
-* ***Wolf's Tooth.*** Il dente si allunga, risplendendo di luce lunare argentea, e tira il suo cordino nella direzione della Death House.
-* ***Crumpled Page.*** L'inchiostro sulla pagina risplende di luce ambrata, le rune si ricompongono in una mappa che mostra la posizione della pagina — e una freccia che guida verso la Death House.
-* ***Tattered Banner.*** Il suono di tamburi di guerra riempie l'aria, e lo stendardo sventola in un vento invisibile nella direzione della Death House.
-* ***Electrum Coin.*** La moneta si ferma sul bordo e inizia a rotolare sui ciottoli fangosi nella direzione della Death House.
-* ***Angel's Feather.*** La piuma viene trascinata via da un vento invisibile, le sue barbe scintillano di luce dorata mentre volteggia per le strade verso la Death House.
-* ***Raven's Feather.*** La piuma viene trascinata via dal vento, la sua ombra sembra danzare nell'aria, mentre volteggia per le strade verso la Death House.
-* ***Wanderer's Scarf.*** La sciarpa viene portata via dal vento, i suoi motivi si spostano e ruotano nell'aria mentre turbina per le strade verso la Death House.
+* ***Stemma di Pietra.*** Lo stemma emette un ronzio basso e odora di aghi di pino e terra umida; entrambi si intensificano quando lo stemma viene avvicinato alla Casa della Morte.
+* ***Lama Spezzata.*** La lama emette un ronzio acuto e inizia a tremare violentemente, ruotando come l'ago di una bussola nella direzione della Casa della Morte.
+* ***Scaglia del Drago.*** La scaglia brucia di un freddo glaciale, un'estremità risplende di una luce argentea e brillante nella direzione della Casa della Morte.
+* ***Medaglione dell'Aurora.*** Il medaglione risplende di un calore dorato, emettendo raggi di luce intensa nella direzione della Casa della Morte.
+* ***Frammento d'Ambra.*** Il frammento brilla di luce ambrata e tira il suo cordino nella direzione della Casa della Morte.
+* ***Dente del Lupo.*** Il dente si allunga, risplendendo di luce lunare argentea, e tira il suo cordino nella direzione della Casa della Morte.
+* ***Pagina Accartocciata.*** L'inchiostro sulla pagina risplende di luce ambrata, le rune si ricompongono in una mappa che mostra la posizione della pagina — e una freccia che guida verso la Casa della Morte.
+* ***Stendardo Logoro.*** Il suono di tamburi di guerra riempie l'aria, e lo stendardo sventola in un vento invisibile nella direzione della Casa della Morte.
+* ***Moneta d'Electrum.*** La moneta si ferma sul bordo e inizia a rotolare sui ciottoli fangosi nella direzione della Casa della Morte.
+* ***Piuma dell'Angelo.*** La piuma viene trascinata via da un vento invisibile, le sue barbe scintillano di luce dorata mentre volteggia per le strade verso la Casa della Morte.
+* ***Piuma del Corvo.*** La piuma viene trascinata via dal vento, la sua ombra sembra danzare nell'aria, mentre volteggia per le strade verso la Casa della Morte.
+* ***Sciarpa del Viandante.*** La sciarpa viene portata via dal vento, i suoi motivi si spostano e ruotano nell'aria mentre turbina per le strade verso la Casa della Morte.
 
 Se i giocatori inseguono, leggete:
 
 <div class="description">
-<p>Emergete dal fienile nelle nebbie vorticose oltre, le pietre delle strade di Daggerford scivolose e lucenti sotto i vostri piedi. Le risate e l'allegria della città non sono ormai che un'eco vuota, lo splendore dei festeggiamenti sommerso dalla nebbia che vi circonda. Il sapore dell'aria fredda e umida è aspro sulla vostra lingua, e il suono del vostro stesso respiro forte nelle orecchie.</p>
-<p>Le vostre reliquie vi chiamano avanti, le nebbie si aprono per farvi strada. Vi muovete lentamente all'inizio, poi sempre più velocemente, i cuori che martellano nel petto. Mentre vi addentrate nella nebbia, ogni passo che fate sembra più pesante, ogni eco di tuono un battito in questa marcia inesorabile.</p>
-<p>La nebbia inghiotte la città, gli edifici ridotti a ombre incombenti, le loro sagome che danzano e guizzano nei lampi sporadici della tempesta. La pioggia tambureggia un ritmo implacabile, il picchiettare delle gocce sul selciato accompagna il lontano e lugubre rintocco del tuono. Per brevi istanti, potete sentire qualcos'altro sotto i vostri piedi: il battito costante di un cuore profondo e distante.</p>
-<p>Venite trascinati a sinistra, poi a destra, poi di nuovo a sinistra, le reliquie che vi guidano attraverso il labirinto tenebroso. Distanza e direzione hanno perso ogni significato, le ombre intorno a voi si contorcono in forme contorte. Il sangue vi canta nelle orecchie, e l'aria si fa più densa, elettrica, mentre l'energia della tempesta — dell'inseguimento — cresce con temerario abbandono.</p>
-<p>E poi — il battito si ferma.</p>
+<p>Uscite dal fienile nelle nebbie vorticanti, e le pietre delle vie di Daggerford sono scivolose e lucenti sotto i vostri passi. Le risate e la letizia della città non sono più che un'eco vuota, e lo splendore dei festeggiamenti è sommerso dalla caligine che vi circonda. Il sapore dell'aria gelida e gravida d'umidità è aspro sulla vostra lingua, e il suono del vostro stesso respiro risuona forte nelle orecchie.</p>
+<p>Le vostre reliquie vi sospingono avanti, e le nebbie si scostano per lasciarvi il passo. Vi muovete adagio dapprima, poi sempre più rapidi, i cuori che martellano nel petto. A ogni passo che muovete nelle nebbie, il terreno si fa più gravoso sotto i piedi, e ogni rombo di tuono è un battito in questa marcia inesorabile.</p>
+<p>La nebbia divora la città; le case sono ridotte a ombre incombenti, le loro sagome danzano e guizzano nei lampi sporadici della tempesta. La pioggia tambureggia un ritmo implacabile, e il picchiettare delle gocce sul selciato accompagna il rintocco lontano e lugubre del tuono. Per fugaci istanti, avvertite qualcos'altro sotto i vostri piedi: il pulsare costante d'un cuore profondo e distante.</p>
+<p>Venite sospinti a sinistra, poi a destra, poi di nuovo a sinistra — le reliquie vi guidano per il dedalo tenebroso. Distanza e direzione hanno smarrito ogni senso, e le ombre intorno a voi si contorcono in forme grottesche. Il sangue vi canta nelle orecchie, e l'aria si fa più densa, elettrica, mentre l'energia della tempesta — della caccia — cresce con temerario abbandono.</p>
+<p>E poi — il pulsare cessa.</p>
 <p>Il tuono tace.</p>
 <p>E la nebbia si squarcia.</p>
-<p>La foschia si ritrae come un sipario, rivelando un'alta e inquietante sagoma che si staglia nella penombra davanti a voi.</p>
+<p>La foschia si ritrae come un sipario, rivelando un'alta e sinistra sagoma che si staglia nella penombra davanti a voi.</p>
 </div>
 
-Questa è la **Death House.**
-# A2. Death House
+Questa è la **Casa della Morte.**
+# A2. Casa della Morte
 Se uno o più dei vostri giocatori stanno utilizzando l'aggancio [[Running the Adventure#Adventure Hooks|Perduti nelle Nebbie]], leggete il seguente testo. Altrimenti, procedete a [[#A2a. L'Arrivo]] qui sotto.
 
 <div class="description">
-<p>Highharvesttide a Daggerford. È un tempo di gioia e celebrazione, di focolare e famiglia, di risate dorate che risuonano nella notte. Ma stasera, mentre una tempesta si è abbattuta sulla città, vi ritrovate lontani dal calore e dai festeggiamenti, attratti nel freddo e oscuro abbraccio del mistero.</p>
-<p>Come mercenari, non siete estranei al pericolo o all'ignoto. Ma questo — questo è diverso. Nelle ultime settimane, sussurri si sono diffusi per Daggerford riguardo a sparizioni: gente comune, svanita senza lasciare traccia.</p>
-<p>L'unico collegamento? Un grande e antico maniero, noto in toni sommessi come "Death House."</p>
-<p>Stasera, mentre la tempesta infuria all'esterno, siete stati convocati per indagare su questa misteriosa dimora. Il proclama del banditore riecheggia ancora nelle vostre orecchie, una taglia per qualunque anima coraggiosa osi scoprire la verità. Spinti da un misto di avidità, curiosità e forse un tocco di spavalderia, vi siete fatti avanti.</p>
-<p>Ora, guidati dal debole bagliore delle vostre lanterne, attraversate le strade di ciottoli scivolose e avvolte nella nebbia. L'allegria lontana è un netto contrasto con l'inquietante silenzio intorno a voi. Il mondo si è ridotto a sussurri sommessi e al tambureggiare costante della pioggia, una serenata cupa per il vostro pericoloso viaggio.</p>
-<p>E poi, come rispondendo a una convocazione inespressa, le nebbie davanti a voi si aprono, rivelando la cupa sagoma della vostra destinazione: la "Death House." La sua facciata di pietra scura e le guglie svettanti incombono minacciose contro il cielo sferzato dalla tempesta, una sfida muta alla vostra risolutezza.</p>
+<p>Altomietitura a Daggerford. È tempo di letizia e celebrazione, di focolare e affetti, di risate dorate che risuonano nella notte. Ma stasera, mentre una tempesta si è abbattuta sulla città, voi vi trovate lontani dal calore e dai festeggiamenti, attratti nel gelido e tenebroso abbraccio del mistero.</p>
+<p>Come mercenari, non siete estranei al pericolo né all'ignoto. Ma questo — questo è diverso. Nelle ultime settimane, sussurri si sono diffusi per Daggerford riguardo a sparizioni: gente comune, svanita senza lasciare traccia alcuna.</p>
+<p>L'unico filo conduttore? Un grande e antico maniero, noto in toni sommessi come la "Casa della Morte."</p>
+<p>Stasera, mentre la tempesta infuria al di là dei muri, siete stati convocati per indagare su quella misteriosa dimora. Il proclama del banditore riecheggia ancora nelle vostre orecchie — una taglia per qualunque anima coraggiosa osi scoprire la verità. Sospinti da un miscuglio di avidità, curiosità e forse un tocco di spavalderia, vi siete fatti avanti.</p>
+<p>Ora, guidati dal pallido bagliore delle vostre lanterne, percorrete le vie di ciottoli scivolose e avvolte nella caligine. La letizia lontana è un contrasto stridente con il silenzio inquietante che vi circonda. Il mondo s'è ridotto a sussurri sommessi e al tambureggiare incessante della pioggia — una cupa serenata per il vostro periglio.</p>
+<p>E poi, quasi rispondendo a una convocazione inespressa, le nebbie davanti a voi si scostano, rivelando la fosca sagoma della vostra meta: la "Casa della Morte." La sua facciata di pietra scura e le guglie svettanti incombono minacciose contro il cielo sferzato dalla tempesta — una sfida muta alla vostra risolutezza.</p>
 </div>
 
 ## A2a. L'Arrivo
@@ -91,26 +91,26 @@ Se uno o più dei vostri giocatori stanno utilizzando l'aggancio [[Running the A
 Leggete a tutti i giocatori il seguente testo:
 
 <div class=description>
-<p>Un grande maniero si erge davanti a voi, quattro piani di fredda pietra annerita dalla fuliggine, alte finestre strette e ripidi tetti a punta che compongono un quadro di austera e agghiacciante maestosità. A metà altezza, uno stretto balcone sporge dal terzo piano, offrendo un tetro punto d'osservazione dal quale sorvegliare i terreni circostanti.</p>
-<p>Il fulcro di questa imponente facciata è il portico, un arco di pietra che vigila come una sentinella davanti alle porte di quercia della casa. Un cancello di ferro battuto riempie questo arco, i suoi cardini arrugginiti che cigolano mentre oscilla nel vento.</p>
-<p>Su entrambi i lati del cancello, lampade a olio pendono da catene, la loro luce fioca e tremolante, che proietta un bagliore malsano che a malapena penetra la nebbia circostante.</p>
-<p>Oltre il cancello, un paio di robuste porte di quercia restano chiuse, incorniciate dal cancello e dalle lampade. Le porte sono vecchie e consunte, il loro legno scurito dal tempo, ma restano solide e fiere — un ingresso inospitale alla casa oltre.</p>
-<p>Una raffica di vento vi sfiora, portando con sé un sussurro di freddo terrore che vi fa correre brividi lungo la schiena.</p>
+<p>Un grande maniero si erge davanti a voi: quattro piani di fredda pietra annerita dalla fuliggine, alte finestre anguste e ripidi tetti a cuspide che compongono un quadro di austera e agghiacciante maestà. A mezza altezza, uno stretto balcone sporge dal terzo piano, offrendo un tetro belvedere dal quale sorvegliare le terre circostanti.</p>
+<p>Il fulcro di questa imponente facciata è il portico — un arco di pietra che vigila come una sentinella davanti alle porte di quercia della dimora. Un cancello di ferro battuto ne colma la volta, e i suoi cardini arrugginiti cigolano mentre oscilla nel vento.</p>
+<p>Su entrambi i lati del cancello, lampade a olio pendono da catene; la loro luce è fioca e tremolante, e il bagliore malsano che proiettano a stento penetra la caligine circostante.</p>
+<p>Oltre il cancello, un paio di robuste porte di quercia restano serrate, incorniciate dal ferro e dalle fiamme. Le porte sono antiche e consunte, il loro legno annerito dal tempo, eppure restano solide e altere — un ingresso inospitale alla dimora che giace oltre.</p>
+<p>Una raffica di vento vi sfiora, recando con sé un sussurro di gelido terrore che vi fa correre un brivido lungo la schiena.</p>
 </div>
 
-Tutti i giocatori che hanno iniziato con l'aggancio ***Reliquie Baroviane*** possono ora vedere i giocatori che hanno iniziato con l'aggancio ***Perduti nelle Nebbie***, e viceversa. (Se alcune delle reliquie dei giocatori sono volate o rotolate fino alla Death House — come la ***sciarpa del viandante*** o la ***moneta di electrum*** — atterrano sulla soglia della casa, appena oltre il portico.) La strada è altrimenti deserta.
+Tutti i giocatori che hanno iniziato con l'aggancio ***Reliquie Baroviane*** possono ora vedere i giocatori che hanno iniziato con l'aggancio ***Perduti nelle Nebbie***, e viceversa. (Se alcune delle reliquie dei giocatori sono volate o rotolate fino alla Casa della Morte — come la ***sciarpa del viandante*** o la ***moneta di electrum*** — atterrano sulla soglia della casa, appena oltre il portico.) La strada è altrimenti deserta.
 
 L'ingresso oltre il portico è per il resto come descritto in <span class="citation">Entrance (p. 212)</span>.
 
 > [!lore]+ **Strahd e il Culto**
 >
-> Il culto della Death House non guadagnò alcun favore da Strahd in vita. Ma nella morte, le due parti sono giunte a un'intesa informale e inespressa.
+> Il culto della Casa della Morte non guadagnò alcun favore da Strahd in vita. Ma nella morte, le due parti sono giunte a un'intesa informale e inespressa.
 >
-> In cambio del permesso di vagare lontano dalla terra nebbiosa di Barovia per reclamare sacrifici, la Death House è vincolata a tornare nella valle dopo ogni spedizione di caccia. Se degli avventurieri riescono a sfuggire all'altare insanguinato della casa, emergono inevitabilmente nel dominio di Strahd — assicurandogli un degno raccolto di prede da inseguire. 
+> In cambio del permesso di vagare lontano dalla terra nebbiosa di Barovia per reclamare sacrifici, la Casa della Morte è vincolata a tornare nella valle dopo ogni spedizione di caccia. Se degli avventurieri riescono a sfuggire all'altare insanguinato della casa, emergono inevitabilmente nel dominio di Strahd — assicurandogli un degno raccolto di prede da inseguire. 
 ### Salone Principale
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 2.</em></span>
 
-Quando i giocatori oltrepassano la soglia della Death House, tutte le reliquie baroviane che portano con sé cessano di essere attive. (Ad esempio, il *sunrise medallion* smette di brillare.)
+Quando i giocatori oltrepassano la soglia della Casa della Morte, tutte le reliquie baroviane che portano con sé cessano di essere attive. (Ad esempio, il *medaglione dell'aurora* smette di brillare.)
 
 Il salone principale è in gran parte come descritto in <span class="citation">Main Hall (p. 212)</span>, ma ora contiene un orologio a pendolo, posizionato nello spazio circolare alla base delle scale.
 
@@ -124,26 +124,26 @@ Poco dopo che tutti i personaggi sono entrati nel salone principale, la porta d'
 Lettere insanguinate iniziano quindi ad apparire sulla parete sud, appena sopra la scalinata di marmo. Recitano così:
 
 <div class="description" style="text-align: center; padding: 15px;">
-<em>Sotto questa dimora si annida una bestia</em>
+<em>Sotto questa dimora s'annida una bestia</em>
 <br>
-<em>Che brama un sanguinoso banchetto in festa.</em>
+<em>Che anela un cruento banchetto in festa.</em>
 <br>
-<em>Dorme fino al rintocco di mezzanotte</em>
+<em>Dorme ella fino al rintocco di mezzanotte,</em>
 <br>
-<em>Poi si desta a saziare le sue trame corrotte.</em>
+<em>Poi si ridesta a saziare le sue brame corrotte.</em>
 <br>
-<em>Se i bocconi voglion fuggire al loro fato,</em>
+<em>Se le sue prede voglion sfuggire al fato,</em>
 <br>
-<em>Alla sua stanza segreta sia portato</em>
+<em>Al suo covo segreto sia recato</em>
 <br>
-<em>Un dono che plachi il suo umore selvaggio</em>
+<em>Un dono che ne plachi il furore selvaggio —</em>
 <br>
 <em>Ma guardatevi dai servi del suo lignaggio.</em>
 </div>
 
 L'orologio a pendolo batte quindi le sei.
 
-> [!info]+ **Il Tempo nella Death House**
+> [!info]+ **Il Tempo nella Casa della Morte**
 >
 > Quando l'orologio batte le sei, posizionate tre dadi a sei facce sul tavolo davanti ai giocatori, ciascuno che mostri un sei. Ogni punto sui dadi rappresenta venti minuti fino a mezzanotte.
 >
@@ -158,9 +158,9 @@ L'orologio a pendolo batte quindi le sei.
 >
 > Quando l'orologio batte la mezzanotte, l'**ammasso di carne** nella **Camera Rituale** si risveglia e si dirige dritto verso i giocatori, uscendo attraverso la **Botola Nascosta** nella **Tana dei Lupi** se necessario per raggiungerli. Dovrebbe passare almeno un minuto tra il momento in cui l'ammasso si sveglia e il momento in cui raggiunge per la prima volta i giocatori, annullando la sua caratteristica *dormiente pesante* e permettendogli di usare le sue azioni di *multiattacco*.
 
-> [!info]+ **Riposare nella Death House**
+> [!info]+ **Riposare nella Casa della Morte**
 >
-> A causa della scadenza di mezzanotte, è impossibile per i giocatori effettuare un riposo lungo nella Death House. Tuttavia, i giocatori potrebbero comunque aver bisogno di un riposo breve. Ogni volta che lo fanno nella casa principale, sperimentano una o più delle seguenti infestazioni:
+> A causa della scadenza di mezzanotte, è impossibile per i giocatori effettuare un riposo lungo nella Casa della Morte. Tuttavia, i giocatori potrebbero comunque aver bisogno di un riposo breve. Ogni volta che lo fanno nella casa principale, sperimentano una o più delle seguenti infestazioni:
 >
 > - Un giocatore sente dei topi che graffiano su e giù negli spazi tra le pareti. Un denso e soffocante tanfo di putrefazione filtra nella stanza.
 > - Un giocatore sente il suono di una donna che canticchia provenire dal lato opposto di una porta chiusa. Se la porta viene socchiusa, un freddo occhio azzurro ricambia lo sguardo prima di svanire.
@@ -168,7 +168,7 @@ L'orologio a pendolo batte quindi le sei.
 > - Un giocatore sente una risata maniacale riecheggiere dalle profondità sotto la casa.
 > - Un giocatore sente una voce femminile implorante nell'orecchio destro che giura che "non è suo." Un'altra voce femminile, più fredda, nell'orecchio sinistro del giocatore sbuffa e dice: "Lo diresti tu, piccola *sgualdrina*."
 
-Un giocatore che apre una qualsiasi porta o tenda rivolta verso l'esterno nella Death House, o che esce su un qualsiasi balcone, scopre che l'esterno della casa è stato circondato da spessi viticci carnosi. Sebbene i viticci possano essere danneggiati, altri ricrescono rapidamente per sostituirli, sigillando i giocatori all'interno. Un giocatore che ispeziona i viticci scopre che sembrano fuoriuscire da sotto la casa.
+Un giocatore che apre una qualsiasi porta o tenda rivolta verso l'esterno nella Casa della Morte, o che esce su un qualsiasi balcone, scopre che l'esterno della casa è stato circondato da spessi viticci carnosi. Sebbene i viticci possano essere danneggiati, altri ricrescono rapidamente per sostituirli, sigillando i giocatori all'interno. Un giocatore che ispeziona i viticci scopre che sembrano fuoriuscire da sotto la casa.
 ## A2b. Il Primo Piano
 ### Guardaroba
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 2.</em></span>
@@ -200,20 +200,20 @@ ore 6 di sera
 Questa stanza è in gran parte come descritta in <span class="citation">Den of Wolves (p. 212)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>Mentre socchiudete la porta di questa stanza, cogliete un lampo di qualcosa di ferino oltre la soglia: un occhio ambrato che brilla nell'oscurità e un muso bestiale arricciato in un ringhio.</p>
+<p>Mentre socchiudete la porta di questa stanza, cogliete un guizzo di qualcosa di ferino oltre la soglia: un occhio d'ambra che arde nelle tenebre e un muso bestiale arricciato in un ringhio.</p>
 </div>
 
 Se i giocatori procedono, leggete:
 
 <div class="description">
-<p>La porta si apre scricchiolando, rivelando un lupo dal pelo grigio immobile al suo posto. Passa solo un istante prima che vi rendiate conto che non si muove — e un altro prima che vi rendiate conto che non è solo.</p>
-<p>Questa stanza rivestita in pannelli di quercia sembra un rifugio da cacciatore. Sopra il camino è montata una testa di cervo, e lungo i bordi della stanza sono posizionati altri due lupi impagliati — un grande lupo grigio e un lupo bruno più piccolo.</p>
-<p>Due poltrone imbottite drappeggiate con pellicce animali fronteggiano il focolare, con un tavolo di quercia tra di esse che sostiene un assortimento di oggetti. Un lampadario pende sopra un tavolo coperto da un panno circondato da quattro sedie, e due armadi si ergono contro le pareti. Un paio di piccoli giocattoli sembra essere stato dimenticato sotto una delle sedie.</p>
+<p>La porta si apre con un lamento, rivelando un lupo dal pelame grigio, immobile al suo posto. Passa un solo istante prima che comprendiate che non si muove — e un altro prima che comprendiate che non è solo.</p>
+<p>Questa stanza, rivestita di pannelli di quercia, ha l'aspetto d'un rifugio da cacciatore. Sopra il camino è montata una testa di cervo, e lungo le pareti sono posizionati altri due lupi tassidermizzati — un grande maschio grigio e una femmina bruna più piccola.</p>
+<p>Due poltrone imbottite, drappeggiate di pellicce animali, fronteggiano il focolare, con un tavolo di quercia tra l'una e l'altra che regge un assortimento di oggetti. Un lampadario pende sopra un desco coperto da un panno e circondato da quattro sedie, e due armadi si ergono addossate alle pareti. Un paio di piccoli giocattoli sembra essere stato dimenticato sotto una delle sedie.</p>
 </div>
 
-I giocattoli abbandonati sono piccoli lupi di peluche grigi, i cui mantelli logori mostrano segni di pesanti rammendi e rattoppi. Cuciture goffe sui loro ventri recitano ROSE e THORN, rispettivamente.
+I giocattoli abbandonati sono piccoli lupi di peluche grigi, i cui mantelli logori mostrano segni di pesanti rammendi e rattoppi. Cuciture goffe sui loro ventri recitano ROSA e SPINO, rispettivamente.
 
-Oltre al resto del suo contenuto, l'armadio est contiene cinque quadrelli da balestra argentati mescolati con gli altri sessanta quadrelli. Nel frattempo, l'armadio nord contiene anche un ricamo infantile incorniciato che raffigura un ragazzo e una ragazza che tengono per mano una giovane donna, accanto a parole cucite goffamente che recitano FOR MISS KLARA. Il volto della giovane donna è stato tagliato e asportato.
+Oltre al resto del suo contenuto, l'armadio est contiene cinque quadrelli da balestra argentati mescolati con gli altri sessanta quadrelli. Nel frattempo, l'armadio nord contiene anche un ricamo infantile incorniciato che raffigura un ragazzo e una ragazza che tengono per mano una giovane donna, accanto a parole cucite goffamente che recitano PER LA SIGNORINA KLARA. Il volto della giovane donna è stato tagliato e asportato.
 
 La prima volta che nessun giocatore li sta guardando, i tre lupi tassidermizzati si muovono. Quando i giocatori li guardano di nuovo, il grande lupo grigio si trova accanto al lupo bruno più piccolo, e il primo lupo grigio ha rivolto il suo ringhio verso gli altri.
 
@@ -226,9 +226,9 @@ I giocatori che si avvicinano a questa porta possono sentire il suono attutito d
 Questa stanza è in gran parte come descritta in <span class="citation">Dining Room (p. 213)</span>. Quando i giocatori vi entrano, leggete:
 
 <div class="description">
-<p>Entrate in una sala da pranzo rivestita di pannelli di legno. Al centro si trova un tavolo di mogano intagliato circondato da otto sedie con schienale alto, braccioli scolpiti e sedili imbottiti. Un lampadario di cristallo pende sopra il tavolo, apparecchiato con splendide posate d'argento e bicchieri di cristallo lucidati fino a uno splendore abbagliante. Sopra il camino di marmo è appeso un dipinto con cornice di mogano che raffigura una valle alpina.</p>
-<p>I pannelli delle pareti sono intagliati con eleganti immagini di cervi tra gli alberi. Tendaggi di seta rossa coprono le finestre, e un arazzo pende da un'asta di ferro fissata alla parete sud.</p>
-<p>Il tavolo geme sotto il peso di un banchetto dall'aspetto delizioso. Piatti squisiti giacciono su grandi vassoi: pollame arrosto succulento glassato con una scintillante salsa al miele, tagli di manzo alla griglia perfetti che ancora fumano leggermente, una varietà di formaggi e frutta fresca, e pane appena sfornato che emana un aroma confortante.</p>
+<p>Varcate la soglia d'una sala da pranzo rivestita di pannelli di legno. Al centro trionfa un tavolo di mogano finemente intagliato, cinto da otto sedie dagli schienali alti, i braccioli scolpiti e le sedute imbottite. Un lampadario di cristallo pende sul desco, apparecchiato con splendide posate d'argento e calici di cristallo lucidati sino a uno splendore abbagliante. Sopra il camino di marmo è appeso un dipinto con cornice di mogano che raffigura una valle alpina.</p>
+<p>I pannelli delle pareti sono adorni di eleganti intagli: cervi fra gli alberi. Drappi di seta rossa velano le finestre, e un arazzo pende da un'asta di ferro fissata alla parete meridionale.</p>
+<p>Il tavolo geme sotto il peso d'un banchetto dall'aspetto delizioso. Pietanze squisite giacciono su grandi vassoi: pollame arrosto succulento glassato con una scintillante salsa al miele, tagli di manzo alla brace che ancor fumano leggermente, una profusione di formaggi e frutta fresca, e pane appena sfornato che spande nell'aria un aroma confortante.</p>
 </div>
 
 Un giocatore che assaggia il cibo non subisce effetti negativi.
@@ -250,7 +250,7 @@ Pochi centimetri dietro il posto vuoto sullo scaffale si trova una pentola di ra
 
 Un giocatore che apre la pentola vi trova una bottiglia di vino, un pezzo di pizzo delicato ripiegato, una fiala di polvere essiccata brunastra e un mazzolino di girasoli appassiti legato a un piccolo rotolo di pergamena.
 
-* L'etichetta del vino mostra che proviene dalla cantina Wizard of Wines e riporta il nome del vino: Champagne du le Stomp. (Un giocatore che beve il vino scopre che si è trasformato in aceto, come se fosse magicamente invecchiato di secoli in pochi istanti.)
+* L'etichetta del vino mostra che proviene dalla tenuta vinicola Mago dei Vini e riporta il nome del vino: Champagne du le Stomp. (Un giocatore che beve il vino scopre che si è trasformato in aceto, come se fosse magicamente invecchiato di secoli in pochi istanti.)
 * Il pezzo di pizzo reca l'iniziale "K" cucita su un angolo.
 * Una prova di Intelligenza (Natura) con CD 14 superata identifica la polvere bruna come silfio essiccato, un'erba contraccettiva.
 * Il rotolo di pergamena recita: "Per la luce della mia vita. —G."
@@ -263,9 +263,9 @@ Se i giocatori leggono il biglietto, uno dei coltelli nella cucina vola via dall
 Questa stanza è in gran parte come descritta in <span class="citation">Upper Hall (p. 213)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>Lampade a olio spente sono montate sulle pareti di questa sala elegante. Appesa sopra il caminetto c'è una spada lunga con un cammeo a forma di mulino a vento lavorato nell'elsa.</p>
-<p>Armature in piedi fiancheggiano porte di legno nelle pareti est e ovest. Ogni armatura impugna una lancia e ha un elmo con visiera a forma di testa di lupo. Le porte tra di esse sono intagliate con immagini di giovani danzanti.</p>
-<p>La scalinata di marmo rosso continua la sua spirale verso l'alto fino a un terzo piano, con una corrente fredda che sussurra dall'alto.</p>
+<p>Lampade a olio spente sono montate sulle pareti di questa sala elegante. Sopra il caminetto pende una spada lunga, con un cammeo a foggia di mulino a vento cesellato nell'elsa.</p>
+<p>Armature in piedi fiancheggiano porte di legno nelle pareti a levante e a ponente. Ciascuna impugna una lancia e reca un elmo con visiera forgiata a testa di lupo. Le porte tra esse sono adorne d'intagli che raffigurano giovani danzanti.</p>
+<p>La scalinata di marmo rosso prosegue la sua spirale verso l'alto fino a un terzo piano, e una corrente gelida sussurra dall'alto.</p>
 </div>
 
 ### Stanza della Servitù
@@ -296,11 +296,11 @@ Questa stanza è in gran parte come descritta in <span class="citation">Conserva
 La pergamena è un pezzo di spartito scritto a mano per clavicembalo intitolato *Valzer per Klara*. Se lo spartito viene suonato al clavicembalo, leggete:
 
 <div class="description">
-<p>Mentre premete le dita sui tasti, le note echeggiano, una melodia inquietante che riempie la stanza silenziosa e polverosa. Mentre continuate a suonare, la musica sembra prendere vita propria, le vostre mani si muovono sui tasti da sole come guidate da una forza invisibile.</p>
-<p>Dai margini della stanza, figure spettrali cominciano a materializzarsi, volteggiando e intrecciandosi in una danza spettrale come se fossero guidate dalla canzone. La maggior parte vi è sconosciuta, ma ne riconoscete due: Elisabeth Durst, nell'angolo, che osserva l'apparizione di Gustav danzare con una bellissima giovane donna che indossa abiti umili.</p>
-<p>Gli occhi dell'apparizione di Elisabeth si restringono in uno sguardo freddo e furioso. I danzatori le prestano poca attenzione, tuttavia, la canzone si fa più veloce mentre gli spiriti vorticano al ritmo del crescendo del clavicembalo.</p>
-<p>Con un movimento rapido, Elisabeth afferra un ciondolo attorno al suo collo spettrale — un frammento d'ambra scintillante appeso a un cordone di nebbia eterea. Mentre il suo pugno fantasma si stringe attorno ad esso, i suoi occhi lampeggiano di un ambra luminoso e minaccioso — e i danzatori spettrali si dissolvono, spazzati via come da un vento invisibile.</p>
-<p>L'apparizione di Elisabeth indugia solo un momento in più prima di scomparire con il resto. Mentre svanisce, un suono risuona nella stanza: il basso suono di legno che raschia, proveniente dalla stanza di fronte nel corridoio. Il pavimento trema debolmente — e sentite un tonfo dal caminetto. Due delle statuette di alabastro sono cadute dal loro posto sullo scaffale: una, rovesciata su un fianco; l'altra, frantumata sul pavimento.</p>
+<p>Le vostre dita sfiorano i tasti, e le note echeggiano — una melodia inquietante che colma la stanza silenziosa e polverosa. Man mano che proseguite, la musica par prendere vita propria: le vostre mani si muovono sui tasti da sole, quasi guidate da una forza invisibile.</p>
+<p>Dai margini della stanza, figure spettrali prendono a materializzarsi, volteggiando e intrecciandosi in una danza d'oltretomba come fossero plasmate dalla canzone medesima. La maggior parte vi è ignota, ma ne riconoscete due: Elisabeth Durst, nell'angolo, che osserva l'apparizione di Gustav danzare con una bellissima giovane donna in abiti umili.</p>
+<p>Gli occhi dell'apparizione di Elisabeth si stringono in uno sguardo gelido e furente. I danzatori le prestano poca attenzione, e la canzone si fa più incalzante mentre gli spiriti vorticano al ritmo del crescendo del clavicembalo.</p>
+<p>Con un gesto repentino, Elisabeth afferra un ciondolo attorno al suo collo spettrale — un frammento d'ambra scintillante appeso a un cordone di nebbia eterea. Mentre il suo pugno fantasma vi si stringe attorno, i suoi occhi avvampano d'un ambra luminoso e minaccioso — e i danzatori spettrali si dissolvono, spazzati via come da un vento invisibile.</p>
+<p>L'apparizione di Elisabeth indugia solo un istante prima di svanire con gli altri. Mentre si dissolve, un suono risuona nella stanza: un basso stridore di legno trascinato, proveniente dalla stanza di fronte nel corridoio. Il pavimento trema debolmente — e udite un tonfo dal caminetto. Due delle statuette d'alabastro sono cadute dal loro posto sulla mensola: l'una, rovesciata su un fianco; l'altra, frantumata al suolo.</p>
 </div>
 
 Un giocatore che ispeziona le statuette cadute scopre che la statuetta rovesciata si è incrinata sul viso, sulle braccia e sul torso, e raffigura una giovane e snella danzatrice. La statuetta frantumata si è rotta in dozzine di pezzi e sembra aver raffigurato un tempo un uomo avvenente e più anziano. Una terza statuetta, raffigurante una danzatrice, rimane fieramente in piedi in cima al caminetto dove un tempo stavano tutte e tre.
@@ -327,19 +327,19 @@ Questa stanza è in gran parte come descritta in <span class="citation">Library 
 <p>Klara</p>
 </div>
 
-Il primo cassetto della scrivania ora contiene una serie di ricevute per candele, pugnali e incenso, anziché la chiave della [[#Children's Room]].
+Il primo cassetto della scrivania ora contiene una serie di ricevute per candele, pugnali e incenso, anziché la chiave della [[#Stanza dei Bambini]].
 
 Un personaggio che perquisisce la stanza per 1 minuto e supera una prova di Saggezza (Percezione) con CD 15 può vedere la luce tremolante di una candela che emana da sotto la porta segreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
 > [!info]+ **Prove di Caratteristica Multiple**
 >
-> Mentre i giocatori esplorano la Death House e i numerosi luoghi segreti nella terra di Barovia, non dimenticate la regola sulle **Prove di Caratteristica Multiple** (<span class="citation">Dungeon Master's Guide, p. 237</span>). Ad esempio, un giocatore che perquisisce la biblioteca può impiegare 10 minuti per superare automaticamente la prova.
+> Mentre i giocatori esplorano la Casa della Morte e i numerosi luoghi segreti nella terra di Barovia, non dimenticate la regola sulle **Prove di Caratteristica Multiple** (<span class="citation">Dungeon Master's Guide, p. 237</span>). Ad esempio, un giocatore che perquisisce la biblioteca può impiegare 10 minuti per superare automaticamente la prova.
 
 ***La Porta Segreta.*** La porta segreta in questa stanza ha due componenti. Prima di tutto, un giocatore deve tirare l'interruttore come descritto in <span class="citation">Secret Door (p. 214)</span>. Facendo ciò, la libreria oscilla in avanti, rivelando una parete di legno nuda dietro di essa.
 
 Una volta spostata la libreria, i giocatori possono vedere un piccolo pannello di legno scuro dietro di essa, incastonato nel muro all'altezza del petto circa. Una piccola nicchia cava, frastagliata e irregolare, si trova al centro del pannello ed emana un debole bagliore ambrato.
 
-La porta non può essere aperta a meno che il frammento d'ambra dalla [[#Master Suite]] non venga inserito nella nicchia. La porta segreta si apre quindi, permettendo ai giocatori di entrare nella [[#Stanza Segreta]].
+La porta non può essere aperta a meno che il frammento d'ambra dalla [[#Suite Padronale]] non venga inserito nella nicchia. La porta segreta si apre quindi, permettendo ai giocatori di entrare nella [[#Stanza Segreta]].
 ### Stanza Segreta
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 9.</em></span>
 
@@ -349,12 +349,12 @@ Questa stanza è in gran parte come descritta in <span class="citation">Secret R
 <p>Questa piccola stanza nascosta è stipata di librerie che gemono sotto il peso di vecchi e sinistri tomi rilegati in pelle. Un pesante baule di legno con piedi di ferro ad artiglio si trova contro la parete sud, con il coperchio socchiuso. Che sporge dal baule, con le costole e la testa incastrate sotto il coperchio, c'è uno scheletro in armatura di cuoio.</p>
 </div>
 
-Il baule non contiene più l'atto di proprietà di Old Bonegrinder. Inoltre, modificate la lettera di Strahd come segue:
+Il baule non contiene più l'atto di proprietà di Vecchio Macinaossa. Inoltre, modificate la lettera di Strahd come segue:
 
 <div class="description">
 <p>Mia serva più patetica,</p>
-<p>Non sono un messia inviato a te dai Poteri Oscuri di questa terra. Non sono venuto per guidarti su un sentiero verso l'immortalità. Per quante anime tu abbia dissanguato sul tuo altare nascosto, per quanti visitatori tu abbia torturato nel tuo sotterraneo, sappi che non sei tu ad avermi condotto in questa bella terra. Non sei che un verme che si contorce nella mia terra.</p>
-<p>Dici di essere maledetta, la tua fortuna esaurita. Tuo marito ha cercato conforto nel seno di un'altra donna, ha generato un figlio bastardo e ti ha spinto ad abbandonare l'amore per la follia. Maledetta dalle tenebre? Di questo non ho dubbi. Salvarti dalla tua miseria? Non credo proprio. Ti preferisco molto di più così come sei.</p>
+<p>Non sono un messia inviatoti dalle Potenze Oscure di questa terra. Non sono giunto a guidarti sul sentiero dell'immortalità. Per quante anime tu abbia dissanguato sul tuo altare celato, per quanti visitatori tu abbia martoriato nei tuoi sotterranei, sappi che non sei tu ad avermi condotto in questa bella contrada. Non sei che un verme che si contorce nella mia terra.</p>
+<p>Dici d'essere maledetta, la tua fortuna esaurita. Tuo marito ha cercato conforto nel seno d'un'altra donna, ha generato un figlio bastardo e t'ha sospinta dall'amore alla follia. Maledetta dalle tenebre? Di questo non dubito. Salvarti dalla tua miseria? Non lo credo proprio. Ti preferisco assai di più così come sei.</p>
 <p>Il tuo temuto signore e padrone,</p>
 <p>Strahd von Zarovich</p>
 </div>
@@ -362,7 +362,7 @@ Il baule non contiene più l'atto di proprietà di Old Bonegrinder. Inoltre, mod
 I giocatori non riconoscono il nome "Strahd von Zarovich."
 
 > [!design]- **Nota di Design: Rimozione dell'Atto di Proprietà**
-> I giocatori che trovano l'atto di proprietà di Old Bonegrinder nel baule segreto spesso giungono alla conclusione errata che saccheggiare l'atto li renda i nuovi proprietari del mulino. Tali giocatori probabilmente, di conseguenza, tenteranno di esplorare il mulino durante [[Act I - Into the Mists/Arc C - Into the Valley]], scatenando un conflitto con il congrega di streghe notturne e — senza colpa propria — un probabile TPK. Per questo motivo, l'atto è stato rimosso per evitare questo esito.
+> I giocatori che trovano l'atto di proprietà di Vecchio Macinaossa nel baule segreto spesso giungono alla conclusione errata che saccheggiare l'atto li renda i nuovi proprietari del mulino. Tali giocatori probabilmente, di conseguenza, tenteranno di esplorare il mulino durante [[Act I - Into the Mists/Arc C - Into the Valley]], scatenando un conflitto con il congrega di streghe notturne e — senza colpa propria — un probabile TPK. Per questo motivo, l'atto è stato rimosso per evitare questo esito.
 
 ## A2d. Il Terzo Piano
 Mentre i giocatori salgono la scala a chiocciola fino al terzo piano, ricordate loro che possono vedere giù dal centro della tromba delle scale fino al piano terra.
@@ -372,8 +372,8 @@ Mentre i giocatori salgono la scala a chiocciola fino al terzo piano, ricordate 
 Questa stanza è in gran parte come descritta in <span class="citation">Balcony (p. 214)</span>. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>Salite la scalinata di marmo rosso fino in cima, arrivando a una balconata polverosa. L'aria qui è secca e ammuffita, ma venata di uno strano odore ramato.</p>
-<p>Un'armatura a piastre nera si erge contro una parete, drappeggiata di ragnatele e segnata dal tempo. Lampade a olio sono montate sulle pareti sbiadite di pannelli di quercia, intagliate con scene boschive di alberi, foglie cadenti e piccoli animali.</p>
+<p>Salite la scalinata di marmo rosso fino alla sommità, giungendo a una balconata polverosa. L'aria qui è secca e stantia, ma percorsa da uno strano odore ramato.</p>
+<p>Un'armatura a piastre nera come la notte si erge addossata a una parete, ammantata di ragnatele e segnata dal tempo. Lampade a olio sono montate sulle pareti dai pannelli di quercia sbiaditi, adorni d'intagli boschivi: alberi, foglie cadenti e piccoli animali della foresta.</p>
 </div>
 
 Quando attivata, l'**armatura animata** userà uno o entrambi i suoi attacchi **_multiattacco_** per tentare di spingere un giocatore oltre la ringhiera usando un attacco di ***spinta***, o tenterà di afferrare il bersaglio più vicino prima di spingerlo a terra.
@@ -408,11 +408,11 @@ Una creatura spinta oltre il bordo della balconata cade di due piani, ovvero sei
 Quando un giocatore si avvicina per la prima volta a questa porta, leggete:
 
 <div class="description">
-<p>Queste porte imponenti si ergono alte, le loro cornici di legno scuro racchiudono un paio di finestre polverose in vetro colorato. Ogni pannello è inciso con disegni intricati che ricordano mulini a vento, le loro tonalità un tempo vivaci ora sbiadite e oscurate sotto un fitto velo di sporcizia.</p>
-<p>Attraverso la foschia polverosa che vi punge gli occhi, cogliete un'immagine attraverso le finestre: una sagoma, in piedi a pochi centimetri dietro il vetro, illuminata da dietro da un debole bagliore ambrato. È immobile e ferma, ma la sola vista di essa vi stringe i muscoli in una morsa, i vostri arti si rifiutano di obbedire alla vostra mente cosciente.</p>
-<p>L'aria intorno a voi si addensa, la sua temperatura precipita in un freddo glaciale. Il vostro respiro appanna i vetri, un delicato gelo che si insinua attraverso di essi mentre i lontani scricchiolii e sussurri della casa vengono inghiottiti da un silenzio pesante.</p>
-<p>L'ombra dietro la porta è quasi informe — inconsistente — ma la sua presenza invoca un terrore primordiale nel profondo delle vostre ossa. Il vostro cuore batte più veloce, il sudore imperla la vostra fronte, il polso accelera nelle vostre vene. Lentamente, la sagoma inizia a volgere la testa verso la vostra.</p>
-<p>E poi, con la stessa rapidità con cui è apparsa, l'ombra evapora. Il freddo pungente si attenua, e i suoni sommessi della casa tornano ancora una volta.</p>
+<p>Queste porte imponenti si ergono alte davanti a voi, le loro cornici di legno scuro racchiudono un paio di finestre polverose in vetro istoriato. Ogni pannello è inciso con disegni intricati a forma di mulini a vento, le cui tonalità un tempo vivaci sono ora sbiadite e oscurate sotto un fitto velo di sporcizia.</p>
+<p>Attraverso la foschia polverosa che vi punge gli occhi, cogliete un'immagine al di là delle finestre: una sagoma, ritta a pochi centimetri dietro il vetro, illuminata alle spalle da un debole bagliore ambrato. È immota e ferma, eppure la sola vista vi stringe i muscoli in una morsa, e i vostri arti si rifiutano di obbedire alla mente cosciente.</p>
+<p>L'aria intorno a voi s'addensa, e la temperatura precipita in un freddo glaciale. Il vostro respiro appanna i vetri — un delicato gelo che s'insinua sulla loro superficie, mentre i lontani scricchiolii e sussurri della dimora vengono inghiottiti da un silenzio greve.</p>
+<p>L'ombra dietro la porta è quasi informe — inconsistente — eppure la sua presenza ridesta un terrore primordiale nelle profondità delle vostre ossa. Il cuore batte più rapido, il sudore imperla la fronte, il polso accelera nelle vene. Lentamente, la sagoma prende a volgere il capo verso il vostro.</p>
+<p>E poi, con la medesima rapidità con cui è apparsa, l'ombra svanisce. Il freddo pungente si attenua, e i suoni sommessi della dimora tornano ancora una volta.</p>
 </div>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Master Suite (p. 214)</span>. Quando i giocatori entrano in questa stanza, leggete:
@@ -438,9 +438,9 @@ Un rotolo di pergamena è semisepolto nel grano accanto al frammento. Se srotola
 <p>Elisabeth</p>
 </div>
 
-Consultate **Il Frammento d'Ambra di Elisabeth** in [[#Ritual Chamber]] qui sotto per maggiori informazioni sul frammento d'ambra.
+Consultate **Il Frammento d'Ambra di Elisabeth** in [[#Camera Rituale]] qui sotto per maggiori informazioni sul frammento d'ambra.
 
-***La Balconata.*** Un giocatore che esce dalla camera da letto sulla balconata vede solo una parete di tentacoli carnosi che circonda l'esterno della casa. I tentacoli sono come descritti in [[#Main Hall]].
+***La Balconata.*** Un giocatore che esce dalla camera da letto sulla balconata vede solo una parete di tentacoli carnosi che circonda l'esterno della casa. I tentacoli sono come descritti in [[#Salone Principale]].
 ### Bagno
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 13.</em></span>
 
@@ -469,9 +469,9 @@ Questa stanza è in gran parte come descritta in <span class="citation">Nursemai
 
 ***Il Letto.*** Un giocatore che rimuove le coperte dal letto scopre che non c'è nulla sotto di esse. Invece, il giocatore trova solo un materasso macchiato di sangue e rozze restrizioni per mani e piedi fatte di filo spinato inchiodato ai quattro pali del telaio del letto.
 
-***Le Porte.*** Un giocatore che esce dalla camera attraverso le porte in vetro colorato e sulla balconata vede solo una parete di tentacoli carnosi che circonda l'esterno della casa. I tentacoli sono come descritti in [[#Main Hall]].
+***Le Porte.*** Un giocatore che esce dalla camera attraverso le porte in vetro colorato e sulla balconata vede solo una parete di tentacoli carnosi che circonda l'esterno della casa. I tentacoli sono come descritti in [[#Salone Principale]].
 
-***Il Libro.*** Il libro è una copia impolverata di un romanzo d'amore licenzioso intitolato *Blue-Blooded Lips*. Racconta la storia della storia d'amore di una contadina con un ricco duca.
+***Il Libro.*** Il libro è una copia impolverata di un romanzo d'amore licenzioso intitolato *Labbra di Sangue Blu*. Racconta la storia d'amore di una contadina con un ricco duca.
 
 ***La Nursery.*** La porta della nursery è chiusa. Un giocatore che si avvicina alla porta sente il sommesso canticchiare di una giovane donna. (Un giocatore che ha precedentemente letto o sentito la canzone nel [[#Conservatorio]] riconosce la melodia come il *Valzer per Klara*.)
 
@@ -506,8 +506,8 @@ Questa stanza è in gran parte come descritta in <span class="citation">Attic Ha
 <p>Un basso scricchiolio taglia l'aria mentre una delle porte non chiuse a chiave si apre lentamente cigolando.</p>
 </div>
 
-La porta conduce alla [[#Spare Bedroom]].
-### Spare Bedroom
+La porta conduce alla [[#Camera degli Ospiti]].
+### Camera degli Ospiti
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 17.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Spare Bedroom (p. 215)</span>. La bambola dalla Children’s Room (p. 215-16) si trova qui. Quando i giocatori vi entrano per la prima volta, leggete:
@@ -520,13 +520,13 @@ I giocatori possono riconoscere la bambola come la stessa che Thorn teneva nel r
 
 Il carillon contiene un coltello da scuoiamento arrugginito e macchiato di sangue, oltre alla chiave del lucchetto sulla porta della camera di Rose e Thorn.
 
-Il carillon contiene anche due pezzi di pergamena arrotolati. La prima pergamena mostra una planimetria di base suddivisa in tre rettangoli etichettati QUARTERS, SHRINE e ALTAR. QUARTERS e SHRINE sono collegati in alto da una singola linea, e in basso da una doppia linea, che li collega entrambi ad ALTAR. La seconda pergamena contiene un elenco di nomi sconosciuti sotto la parola RECRUITMENT.
+Il carillon contiene anche due pezzi di pergamena arrotolati. La prima pergamena mostra una planimetria di base suddivisa in tre rettangoli etichettati ALLOGGI, SANTUARIO e ALTARE. ALLOGGI e SANTUARIO sono collegati in alto da una singola linea, e in basso da una doppia linea, che li collega entrambi ad ALTARE. La seconda pergamena contiene un elenco di nomi sconosciuti sotto la parola RECLUTAMENTO.
 
-![[Death House Dungeon Map.png]]
-<span class="credit">"Death House Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+![[Casa della Morte Dungeon Map.png]]
+<span class="credit">"Casa della Morte Dungeon Map" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Quando i giocatori escono dalla stanza, la sedia a dondolo inizia a oscillare dolcemente e il carillon si apre e comincia a suonare. Il suono di un canticchiare materno fluttua nell'aria per due battute, ma diventa stonato e distorto prima di arrestarsi con un violento stridio. La sedia a dondolo smette quindi di oscillare.
-### Children’s Room
+### Stanza dei Bambini
 <span class="citation"><em>Questa scena si svolge nell’Appendice B: Area 20.</em></span>
 
 Questa stanza è in gran parte come descritta in **Children’s Room** (p. 215-16).
@@ -583,7 +583,7 @@ La casa delle bambole contiene piccole bambole che raffigurano minuscoli stampi 
 Quando la porta segreta viene rivelata, Thorn chiede timidamente ai giocatori se lui e Rose possono accompagnarli di sotto per aiutarli, e tenta di possedere un giocatore amichevole se gli viene permesso. Quando Rose o Thorn tenta di possedere un giocatore, descrivetelo come “la piccola mano di un bambino, che cerca disperatamente il tocco di un’altra anima.”
 
 Un giocatore posseduto da Rose può lanciare i trucchetti nel suo diario, mentre un giocatore posseduto da Thorn può ottenere gli effetti del trucchetto _mage hand_ come azione, senza l'uso di componenti. (La mano spettrale è invisibile.)
-### Storage Room
+### Stanza di Deposito
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 18.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Storage Room (p. 215)</span>. Quando i giocatori entrano in questa stanza, leggete:
@@ -595,14 +595,14 @@ Questa stanza è in gran parte come descritta in <span class="citation">Storage 
 Lo **spettro** della bambinaia non appare in questa stanza. Invece, un personaggio che apre il baule trova il cadavere della bambinaia, con ferite coerenti con quelle viste sul corpo dello spirito nella **Suite della Bambinaia**. Una prova di Saggezza (Medicina) con CD 14 rivela che la donna è morta di fame.
 
 Un giocatore che ispeziona i resti sente un soffio freddo sulla spalla e l'ineluttabile sensazione di essere osservato. Nel frattempo, se un altro giocatore ha precedentemente scoperto uno specchio vicino dal suo lenzuolo, quel giocatore può vedere un'apparizione di Elisabeth Durst nello specchio che fissa il giocatore vicino al baule. Una volta osservata, l'apparizione svanisce rapidamente.
-### Guest Bedroom
+### Camera per gli Ospiti
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 19.</em></span>
 
 Questa stanza è come descritta in <span class="citation">Spare Bedroom (p. 215)</span>.
-### Secret Stairs
+### Scale Segrete
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 21.</em></span>
 
-Questa stanza è in gran parte come descritta in <span class="citation">Secret Stairs (p. 217)</span>. Tuttavia, aprendo la porta segreta si rivela solo una lastra di pietra sul lato opposto, con un piccolo pannello di bronzo incastonato all'altezza del petto. Una piccola nicchia cava identica a quella nella biblioteca si trova al centro del pannello, emanando un debole bagliore ambrato. Quando la nicchia viene esposta, il frammento d'ambra dalla [[#Master Suite]] luccica debolmente e oscilla nell'aria verso di essa, come se fosse sollevato da una forza invisibile.
+Questa stanza è in gran parte come descritta in <span class="citation">Secret Stairs (p. 217)</span>. Tuttavia, aprendo la porta segreta si rivela solo una lastra di pietra sul lato opposto, con un piccolo pannello di bronzo incastonato all'altezza del petto. Una piccola nicchia cava identica a quella nella biblioteca si trova al centro del pannello, emanando un debole bagliore ambrato. Quando la nicchia viene esposta, il frammento d'ambra dalla [[#Suite Padronale]] luccica debolmente e oscilla nell'aria verso di essa, come se fosse sollevato da una forza invisibile.
 
 Per permettere alla lastra di pietra di aprirsi e rivelare le scale nascoste sul lato opposto, i giocatori devono inserire il frammento d'ambra nella nicchia.
 
@@ -615,15 +615,15 @@ Quando i giocatori entrano in questa stanza, leggete:
 Mentre i giocatori scendono le scale, leggete:
 
 <div class="description">
-<p>Le ragnatele spezzate intorno a voi ondeggiano come un velo nuziale di garza, invitandovi ad avanzare mentre le scale antiche scricchiolano e gemono sotto i vostri piedi. Le fauci spalancate del vano scale vi attirano sempre più in profondità, inghiottendovi mentre scendete nel suo esofago. Scendete un piano—due piani—tre.</p>
-<p>Le pareti del pozzo di pietra si restringono intorno a voi, costringendovi a incassare le spalle e ritirare i gomiti per continuare a scendere. Nell'oscurità, potete sentire solo il trascinare dei vostri piedi, il gemito soffocato delle scale e il pulsare del sangue nelle orecchie.</p>
-<p>Finalmente, dopo quello che sembra un'eternità, la discesa si livella e la scala a chiocciola termina in un pianerottolo buio di terra battuta. Uno stretto tunnel sostenuto da vecchie travi di legno si estende davanti a voi, le sue pareti di pietra sembrano sanguinare con depositi di argilla rossa striata. Due metri e mezzo più avanti, il tunnel si divide, ramificandosi a sinistra e a destra.</p>
-<p>Mentre i vostri occhi e le vostre orecchie si adattano al freddo corridoio sotterraneo, notate che il tunnel non è silenzioso come la scala sopra. Un suono inquietante e grave riecheggia nello spazio—e presto lo riconoscete come un profondo, incessante canto rituale.</p>
+<p>Le ragnatele spezzate intorno a voi ondeggiano come un velo funebre di garza, invitandovi a proseguire mentre le scale antiche scricchiolano e gemono sotto i vostri passi. Le fauci spalancate del vano scale vi attirano sempre più nel profondo, inghiottendovi mentre discendete nel suo esofago. Un piano — due piani — tre.</p>
+<p>Le pareti del pozzo di pietra si stringono intorno a voi, costringendovi a incassare le spalle e ritirare i gomiti per proseguire la discesa. Nelle tenebre, non udite che lo strascicare dei vostri piedi, il gemito soffocato delle scale e il pulsare del sangue nelle orecchie.</p>
+<p>Infine, dopo quella che pare un'eternità, la discesa si livella e la scala a chiocciola sfocia in un pianerottolo oscuro di terra battuta. Uno stretto cunicolo sorretto da vecchie travi di legno si distende davanti a voi, e le pareti di pietra paiono sanguinare con venature d'argilla rossa. Due metri e mezzo più avanti, il cunicolo si biforca a sinistra e a destra.</p>
+<p>Mentre i vostri occhi e le vostre orecchie si avvezzano al gelido corridoio sotterraneo, avvertite che il cunicolo non è silente come la scala di sopra. Un suono inquietante e grave riecheggia nello spazio — e presto lo riconoscete: un profondo, incessante canto rituale.</p>
 </div>
 
-**_Pietra Miliare_**. Scendere nel livello sotterraneo della Death House completa una pietra miliare della storia. Quando il gruppo esce dalle scale segrete, assegnate a ogni giocatore 200 XP.
+**_Pietra Miliare_**. Scendere nel livello sotterraneo della Casa della Morte completa una pietra miliare della storia. Quando il gruppo esce dalle scale segrete, assegnate a ogni giocatore 200 XP.
 ## A2f. Il Seminterrato
-### Family Crypts
+### Cripte di Famiglia
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 23.</em></span>
 
 Queste stanze sono in gran parte come descritte in **Family Crypts** (p. 217-18).
@@ -679,13 +679,13 @@ Se i personaggi entrano in una delle due cripte, leggete:
 </div>
 
 I giocatori non possono aiutare i fantasmi di Rose o Thorn a trovare pace collocando i loro resti nelle bare. Né [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] né [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] trovano queste cripte confortanti. Entrambi preferiscono andarsene il prima possibile.
-### Cult Initiates’ Quarters
+### Alloggi degli Iniziati
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 24.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Cult Initiates’ Quarters (p. 218)</span>. 
 
 Mentre i personaggi si muovono per scendere verso il <span class="citation">Well and Cultist Quarters (p. 218)</span>, si può sentire un improvviso rumore di schizzi—che poi si placa rapidamente.
-### Well and Cultist Quarters
+### Pozzo e Alloggi dei Cultisti
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 25.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Well and Cultist Quarters (p. 218)</span>. Quando i giocatori entrano in questa stanza, leggete:
@@ -703,31 +703,31 @@ Se i giocatori gettano un oggetto nel pozzo e poi si voltano, sentono forti rumo
 Sostituite la spada corta argentata nell’armadietto **25E** con un libro rilegato in pelle nera sudicia. Questo diario, firmato da Drasha, contiene un elenco di nomi e descrizioni fisiche associate a ciascun nome. Ogni voce include dettagli raccapriccianti che descrivono il sacrificio della vittima, come “ha lottato copiosamente” o “nessun sedativo somministrato,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> e termina con la frase "Dato in pasto a Walter."
 
 
-### Hidden Spiked Pit
+### Fossa con Spuntoni Nascosta
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 26.</em></span>
 
-Questa stanza è in gran parte come descritta in <span class="citation">Hidden Spiked Pit (p. 218)</span>. Se i personaggi entrano in quest'area da [[#Well and Cultist Quarters]], leggete:
+Questa stanza è in gran parte come descritta in <span class="citation">Hidden Spiked Pit (p. 218)</span>. Se i personaggi entrano in quest'area da [[#Pozzo e Alloggi dei Cultisti]], leggete:
 
 <div class="description">
 <p>La scala conduce a un pianerottolo silenzioso. Di fronte, le scale continuano verso l'alto e svaniscono dietro una curva. A destra, il pianerottolo prosegue dritto in un corridoio solitario. Questo tunnel sembra sorprendentemente pulito e privo di detriti; alla sua estremità, un'altra scala di terra scende nell'oscurità.</p>
 <p>L'incessante canto rituale che ha riempito l'aria di questo complesso sotterraneo si fa più forte verso l'estremità di questo corridoio. La sua fonte sembra trovarsi oltre le scale che scendono.</p>
 </div>
 
-Se i personaggi entrano in quest'area dalla [[#Dining Hall]], leggete:
+Se i personaggi entrano in quest'area dalla [[#Sala da Pranzo del Culto]], leggete:
 
 <div class="description">
 <p>La scala scende verso un pianerottolo silenzioso. Di fronte, le scale continuano a scendere, aprendosi in una camera più ampia. A sinistra, il pianerottolo prosegue dritto in un corridoio solitario. Questo tunnel sembra sorprendentemente pulito e privo di detriti; alla sua estremità, un'altra scala di terra scende nell'oscurità.</p>
 <p>L'incessante canto rituale che ha riempito l'aria di questo complesso sotterraneo si fa più forte verso l'estremità di questo corridoio.</p>
 </div>
 
-Se i personaggi entrano in quest'area da [[#Ghoulish Encounter]], leggete:
+Se i personaggi entrano in quest'area da [[#Incontro con i Ghoul]], leggete:
 
 <div class="description">
 <p>La scala scende verso un pianerottolo silenzioso. A sinistra, le scale continuano a scendere, curvando prima di svanire nell'oscurità. L'incessante canto rituale che ha riempito l'aria di questo complesso sotterraneo sembra echeggiare dal basso.</p>
 <p>A destra, il pianerottolo prosegue dritto in un corridoio solitario. Questo tunnel sembra sorprendentemente pulito e privo di detriti; alla sua estremità, il corridoio si ramifica a sinistra e a destra.</p>
 </div>
 
-### Dining Hall
+### Sala da Pranzo del Culto
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 27.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Dining Hall (p. 218)</span>. Quando i giocatori entrano in questa stanza, leggete: 
@@ -737,7 +737,7 @@ Questa stanza è in gran parte come descritta in <span class="citation">Dining H
 <p>Alcune decine di ossa ammuffite sono state ammassate in una piramide grottesca e deforme in un'alcova scura a sud.</p>
 </div>
 
-### Larder
+### Dispensa
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 28.</em></span>
 
 Quest'area è in gran parte come descritta in <span class="citation">Larder (p. 218)</span>. 
@@ -775,7 +775,7 @@ Se i giocatori disturbano il grick, leggete:
 
 <span class="credit">"The Grick" by Cuddly Kraken. Support them <a href="https://cuddlykraken.carrd.co/">here!</a></span>
 
-### Ghoulish Encounter
+### Incontro con i Ghoul
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 29.</em></span>
 
 Quest'area è in gran parte come descritta in <span class="citation">Ghoulish Encounter (p. 218)</span>. Quando i giocatori si avvicinano per la prima volta a quest'area, leggete:
@@ -936,8 +936,8 @@ Questa stanza è in gran parte come descritta in <span class="citation">Reliquar
 <p>Le pareti di questa stanza sono intagliate con piccole alcove scalpellate, ciascuna contenente uno strano e macabro ciondolo o reliquia. Un corridoio dal soffitto cedevole esce dalla camera e curva fuori dalla vista verso destra. Oltre di esso, potete scorgere un pendio di pietra che discende in un'acqua scura e torbida. Il canto spettrale che avete udito sin dall'ingresso nel seminterrato è qui più forte che mai, e sembra provenire dall'altro lato di una saracinesca arrugginita e chiusa.</p>
 <p>Finalmente riuscite a comprendere le parole.</p>
 <p>Dicono, ancora e ancora, in un ritornello incessante:</p>
-<p>"Egli è l'Antico."</p>
-<p>"Egli è la Terra."</p>
+<p>«Egli è l'Antico.»</p>
+<p>«Egli è la Terra.»</p>
 </div>
 
 ### Prigione
@@ -958,16 +958,16 @@ Quest’area è in gran parte come descritta in <span class="citation">Portculli
 <p>Il pavimento è sommerso sotto due piedi di acqua scura e torbida che sciaborda attorno ai vostri polpacci e stivali. Il tunnel davanti a voi è bloccato da una saracinesca di ferro arrugginito. Oltre le sue sbarre di ferro, potete distinguere il contorno scuro di una camera semi-sommersa, un podio di pietra rialzato e una densa nube di nebbia ondeggiante.</p>
 </div>
 
-La ruota di legno che apre la saracinesca si trova sul lato occidentale del cancello (cioè il lato rivolto verso la [[#Ritual Chamber]]). Tuttavia, il meccanismo a catena per aprire la saracinesca si è rotto, impedendo ai giocatori di procedere senza ripararlo (ad esempio, usando il trucchetto _mending_ di Rose) o sollevando la saracinesca a mano. (Se i giocatori sollevano la saracinesca a mano e poi la rilasciano, il suo peso la fa richiudere a meno che non venga puntellata.)
+La ruota di legno che apre la saracinesca si trova sul lato occidentale del cancello (cioè il lato rivolto verso la [[#Camera Rituale]]). Tuttavia, il meccanismo a catena per aprire la saracinesca si è rotto, impedendo ai giocatori di procedere senza ripararlo (ad esempio, usando il trucchetto _mending_ di Rose) o sollevando la saracinesca a mano. (Se i giocatori sollevano la saracinesca a mano e poi la rilasciano, il suo peso la fa richiudere a meno che non venga puntellata.)
 ### Camera Rituale
 <span class="citation"><em>Questa scena si svolge nell'Appendice B: Area 38.</em></span>
 
 Questa stanza è in gran parte come descritta in <span class="citation">Ritual Chamber (p. 219)</span>. L'acqua è profonda 2 piedi e deve essere trattata come terreno difficile per creature Medie o più piccole. Arrampicarsi dalla pozza alle sporgenze conta anch'esso come terreno difficile. Quando i giocatori entrano in questa stanza, leggete:
 
 <div class="description">
-<p>Le lisce pareti in muratura di questa stanza quadrata di quaranta piedi offrono un'acustica eccellente. Pilastri di pietra privi di decorazioni sostengono il soffitto, e acqua torbida copre la maggior parte del pavimento. Scale conducono a sporgenze di pietra asciutta che abbracciano le pareti. Al centro della stanza, altre scale salgono formando un podio ottagonale che si eleva anch'esso al di sopra dell'acqua. Catene arrugginite con ceppi pendono dal soffitto direttamente sopra un altare di pietra montato sul podio. L'altare è scolpito con orrende raffigurazioni di ghoul protesi e macchiato di sangue secco. Un piccolo fagotto bianco giace sulla sua sommità, circondato da viticci carnosi e pulsanti.</p>
-<p>I viticci corrono verso una breccia nella parete opposta che conduce a una caverna oscura, le loro masse carnose si collegano a un'ombra scura e massiccia che giace all'interno, la sua massa gonfia che si alza e si abbassa con un ritmo lento e tremante.</p>
-<p>Non appena mettete piede nella camera, il canto spettrale che avete udito cade improvvisamente nel silenzio.</p>
+<p>Le lisce pareti in muratura di questa camera quadrata di quaranta piedi offrono un'acustica eccellente. Pilastri di pietra spogli sostengono il soffitto, e un'acqua torbida ricopre la maggior parte del pavimento. Gradini conducono a sporgenze di pietra asciutta che abbracciano le pareti. Al centro della stanza, altri gradini s'innalzano a formare un podio ottagonale che si eleva anch'esso al di sopra delle acque. Catene arrugginite con ceppi pendono dal soffitto direttamente sopra un altare di pietra innalzato sul podio. L'altare è scolpito con orrende raffigurazioni di ghoul protesi e lordato di sangue secco. Un piccolo fagotto bianco giace sulla sua sommità, cinto da viticci carnosi e pulsanti.</p>
+<p>I viticci s'insinuano verso una breccia nella parete opposta che conduce a una caverna tenebrosa; le loro masse carnose si congiungono a un'ombra scura e massiccia che giace al suo interno, la cui mole gonfia s'innalza e ricade con un ritmo lento e tremante.</p>
+<p>Non appena ponete piede nella camera, il canto spettrale che avete udito cade d'un tratto nel silenzio.</p>
 </div>
 
 Un giocatore che si avvicina all’altare vede che le parole “NUTRITELO” sono scolpite nella sua superficie piatta di pietra appena sotto il fagotto bianco, circondate da diversi viticci carnosi incastonati con denti umani. I viticci appartengono al **cumulo di carne** (vedi sotto), che si risveglia e attacca se i viticci vengono danneggiati.
@@ -980,7 +980,7 @@ Le ombre dei cultisti descritte in <span class=”citation”>”One Must Die!�
 
 Se una creatura viene sacrificata sull’altare, i viticci del cumulo di carne accettano il suo cadavere e lo trascinano nella tana del cumulo. Lì, il cumulo lo divora voracemente prima di riportare i suoi viticci all’altare. Nutrire il cumulo non libera i giocatori, poiché la sua fame non può essere saziata.
 
-Il cumulo di carne si risveglia se attaccato. Quando ciò accade, il suo successivo urlo stridulo fa tremare la terra, facendo precipitare la [[#Portcullis]] a terra se era stata aperta e danneggiando il meccanismo responsabile della sua apertura.
+Il cumulo di carne si risveglia se attaccato. Quando ciò accade, il suo successivo urlo stridulo fa tremare la terra, facendo precipitare la [[#Saracinesca]] a terra se era stata aperta e danneggiando il meccanismo responsabile della sua apertura.
 
 In combattimento, il cumulo di carne inizia nella sua prima forma, **il cumulo di carne**. Per un minuto dopo il risveglio, la caratteristica **_heavy sleeper_** del cumulo di carne riduce la potenza delle sue azioni ***multiattacco*** in entrambe le forme. Se attaccato mentre dorme, il cumulo di carne avrà la condizione ***Sorpreso***.
 
@@ -1133,22 +1133,22 @@ Una creatura inghiottita dalla prima forma del cumulo può udire il debole suono
 </div>
 
 
-## A2h. Fuga dalla Death House
+## A2h. Fuga dalla Casa della Morte
 Quando il **cumulo di carne** muore, i giocatori possono sentire il suono della porta d’ingresso della casa che si apre molto più in alto, e il temporale lontano oltre di essa.
 
 Quando i giocatori iniziano a muoversi verso l’uscita, leggete:
 
 <div class="description">
-<p>Un gemito gutturale si propaga nell'aria—e un'apparizione terrificante si manifesta davanti a voi: lo spirito di Elisabeth Durst, i suoi lineamenti un tempo bellissimi ora grottescamente distorti. I suoi capelli lucenti sono una massa selvaggia e scarmigliata, la sua pelle di un pallore cadaverico, e le sue labbra si ritraggono rivelando denti aguzzi e ingialliti. Un frammento d'ambra brilla minacciosamente appeso a un cordone attorno al suo collo spettrale, un'ombra vorticante nelle sue profondità.</p>
-<p>Lo spirito levita alto sopra il pavimento, gli occhi infossati ardenti di malvagità e la bocca contorta in un ringhio. "Potete anche aver eluso la mia bestia," gracchia, "ma distruggerò questa casa prima di lasciarvi fuggire." Getta indietro la testa e lancia un urlo raccapricciante che riverbera attraverso le pareti di pietra—e fa tremare le fondamenta stesse della casa.</p>
-<p>Molto più in alto, l'orologio a pendolo inizia a rintoccare, il suono crescendo fino a una cacofonia assordante. Polvere e detriti piovono dall'alto mentre il pavimento trema sotto di voi, le travi di legno del soffitto iniziano a scheggiarsi e spaccarsi. Lo spirito di Elisabeth vi fissa con un ghigno ferino—e poi si dissolve nel nulla, lasciando solo gli echi della sua risata malevola mentre la casa rimbomba, si sposta e geme.</p>
+<p>Un gemito gutturale si propaga nell'aria — e un'apparizione terrificante si manifesta davanti a voi: lo spirito di Elisabeth Durst, i cui lineamenti un tempo leggiadri sono ora grottescamente distorti. I suoi capelli lucenti non sono che una massa selvaggia e scarmigliata, la sua pelle d'un pallore cadaverico, e le labbra si ritraggono rivelando denti aguzzi e ingialliti. Un frammento d'ambra arde minaccioso appeso a un cordone attorno al suo collo spettrale, e un'ombra vortica nelle sue profondità.</p>
+<p>Lo spirito levita alto sopra il pavimento, gli occhi infossati ardenti di malvagità e la bocca contorta in un ringhio. «Potete anche aver eluso la mia bestia,» gracchia, «ma ridurrò in cenere questa dimora prima di lasciarvi fuggire.» Getta indietro il capo e lancia un urlo raccapricciante che riverbera attraverso le pareti di pietra — e fa tremare le fondamenta stesse della casa.</p>
+<p>Assai più in alto, l'orologio a pendolo prende a rintoccare, e il suono cresce fino a farsi cacofonia assordante. Polvere e detriti piovono dall'alto mentre il pavimento trema sotto di voi, e le travi di legno del soffitto prendono a scheggiarsi e spaccarsi. Lo spirito di Elisabeth vi fissa con un ghigno ferino — e poi si dissolve nel nulla, lasciando solo gli echi della sua risata malevola mentre la dimora rimbomba, si contorce e geme.</p>
 </div>
 
-I giocatori devono fuggire dalla camera rituale fino all'[[#Entrance]] della Death House prima che l'intera struttura crolli sulle loro teste. Tuttavia, non hanno bisogno di tirare l'iniziativa, e i cambiamenti architettonici descritti in <span class="citation">Il Culto è Rifiutato (p. 220)</span> non sono presenti. 
+I giocatori devono fuggire dalla camera rituale fino all'[[#Ingresso]] della Casa della Morte prima che l'intera struttura crolli sulle loro teste. Tuttavia, non hanno bisogno di tirare l'iniziativa, e i cambiamenti architettonici descritti in <span class="citation">Il Culto è Rifiutato (p. 220)</span> non sono presenti. 
 
-Invece, mentre i giocatori fuggono dalla Death House che crolla, devono affrontare due ostacoli aggiuntivi.
+Invece, mentre i giocatori fuggono dalla Casa della Morte che crolla, devono affrontare due ostacoli aggiuntivi.
 
-***Il Fantasma di Gustav.*** Mentre i giocatori si muovono per uscire dal [[#Reliquary]], il fantasma di Gustav Durst (usate le statistiche di un **poltergeist**, ma senza il suo tratto ***invisibilità***) li affronta. Leggete:
+***Il Fantasma di Gustav.*** Mentre i giocatori si muovono per uscire dal [[#Reliquiario]], il fantasma di Gustav Durst (usate le statistiche di un **poltergeist**, ma senza il suo tratto ***invisibilità***) li affronta. Leggete:
 
 <div class="description">
 <p>Un'apparizione eterea appare davanti a voi, ostruendo le scale—il fantasma di un uomo. È una figura emaciata e pallida, con occhi infossati e tormentati e mani tremanti, che indossa abiti un tempo eleganti ora logori per il tempo.</p>
@@ -1183,10 +1183,10 @@ I giocatori possono convincere Gustav a farsi da parte con una prova di Carisma 
 
 Se i giocatori persuadono con successo Gustav a farsi da parte, li avverte che "i suoi altri servitori" sono in agguato più avanti per bloccare la fuga dei giocatori. "Non temeteli," dice. "Il loro unico potere è la paura." Poi svanisce.
 
-***Il Ritorno del Culto*** Quando i giocatori raggiungono per la prima volta le [[#Family Crypts]] o (se hanno precedentemente trovato e aperto la botola nascosta descritta in **32. Botola Nascosta**, p. 219) vicino al [[#Darklord’s Shrine]], gli spiriti del culto si sollevano per fermarli. Leggete:
+***Il Ritorno del Culto*** Quando i giocatori raggiungono per la prima volta le [[#Cripte di Famiglia]] o (se hanno precedentemente trovato e aperto la botola nascosta descritta in **32. Botola Nascosta**, p. 219) vicino al [[#Santuario del Signore Oscuro]], gli spiriti del culto si sollevano per fermarli. Leggete:
 
 <div class="description">
-<p>Il canto si leva ancora una volta mentre tredici oscure apparizioni compaiono attorno a voi, ostruendo la via in avanti—così come la via del ritorno. Ognuna assomiglia a una figura in veste nera che regge una torcia, ma il fuoco della torcia è nero e sembra attirare la luce in sé. Dove vi aspettereste di vedere dei volti ci sono solo vuoti. "Egli è l'Antico!" cantano, ancora e ancora. "Egli è la Terra!"</p>
+<p>Il canto si leva un'ultima volta mentre tredici oscure apparizioni compaiono attorno a voi, sbarrando la via in avanti — e parimenti la via del ritorno. Ciascuna ha le sembianze d'una figura in veste nera che regge una torcia, ma la fiamma è nera e pare attirare la luce in sé. Dove vi aspettereste di scorgere volti non vi sono che vuoti. «Egli è l'Antico!» cantano, ancora e ancora. «Egli è la Terra!»</p>
 </div>
 
 Le apparizioni sono illusioni innocue e intangibili che non possono essere danneggiate, scacciate o dissolte. Alla fine di ogni round, ogni giocatore che rimane tra le apparizioni deve superare un tiro salvezza su Destrezza con CD 10 o subire 2 (1d4) danni contundenti dai detriti che cadono.
@@ -1197,8 +1197,8 @@ Le apparizioni sono illusioni innocue e intangibili che non possono essere danne
 > * ***Tre Giocatori.***  Riducete i danni per round a 1 contundente.
 
 
-# A3. Fuori dalla Death House
-Quando i giocatori escono dalla Death House, la tempesta sopra di loro si è ridotta a una semplice pioggerella, e le nebbie attorno alla casa sono scomparse. La notte è calata da tempo, e la luna calante è alta nel cielo.
+# A3. Fuori dalla Casa della Morte
+Quando i giocatori escono dalla Casa della Morte, la tempesta sopra di loro si è ridotta a una semplice pioggerella, e le nebbie attorno alla casa sono scomparse. La notte è calata da tempo, e la luna calante è alta nel cielo.
 
 Con grande sorpresa, i giocatori si trovano ora in una radura buia nella foresta all'inizio della <span class="citation">Vecchia Strada di Svalich (p. 33)</span>, anziché nelle strade di Daggerford. La strada prosegue verso ovest. A est si estendono boschi oscuri e senza fine pieni delle <span class="citation">Nebbie di Ravenloft (p. 23)</span>.
 
@@ -1214,9 +1214,9 @@ La notte trascorre senza problemi. Quando i giocatori si svegliano la mattina se
 
 I giocatori possono trovare l'inizio della Vecchia Strada di Svalich poco distante attraverso i boschi dalla torre. Inizia quindi [[Act I - Into the Mists/Arc B - Welcome to Barovia]].
 
-**_Traguardo_**. Fuggire dalla Death House completa un traguardo narrativo. Quando il gruppo inizia il suo primo riposo lungo dopo essere fuggito dalla casa, assegnate a ogni giocatore 400 PE. (Questo dovrebbe permettere ai giocatori di avanzare al 3° livello.)
-# Note di Design: Death House
-***L'Arrivo.*** Le illusioni di Rose e Thorn sono state intenzionalmente rimosse da questa versione della Death House per garantire che i giocatori entrino nella casa di loro spontanea volontà e si fidino dei veri bambini Durst al momento dell'incontro.
+**_Traguardo_**. Fuggire dalla Casa della Morte completa un traguardo narrativo. Quando il gruppo inizia il suo primo riposo lungo dopo essere fuggito dalla casa, assegnate a ogni giocatore 400 PE. (Questo dovrebbe permettere ai giocatori di avanzare al 3° livello.)
+# Note di Design: Casa della Morte
+***L'Arrivo.*** Le illusioni di Rose e Thorn sono state intenzionalmente rimosse da questa versione della Casa della Morte per garantire che i giocatori entrino nella casa di loro spontanea volontà e si fidino dei veri bambini Durst al momento dell'incontro.
 
 Il conto alla rovescia e la poesia sono stati aggiunti per fornire ai giocatori un chiaro senso di direzione e scopo durante l'esplorazione della casa, e per impedire ai giocatori di effettuare un riposo lungo (e quindi compromettere l'equilibrio dei successivi incontri di combattimento) nel frattempo.
 
@@ -1224,7 +1224,7 @@ Il conto alla rovescia e la poesia sono stati aggiunti per fornire ai giocatori 
 
 ***Il Secondo Piano.*** Sono stati aggiunti indizi per facilitare la scoperta della stanza segreta della biblioteca e per trasmettere la profondità della relazione del Sig. Durst, così come la gravidanza della balia.
 
-Il cane Lancelot, un personaggio popolare nella comunità, è stato intenzionalmente rimosso dalla Death House per evitare di fornire ai giocatori un sacrificio facile da compiere sull'altare nella camera rituale—un sacrificio che non è più funzionale (perché il culto non libera più i giocatori dopo aver compiuto un sacrificio) e che suona vuoto se confrontato con la campagna che segue (perché la "fame" di Strahd non può essere saziata.)
+Il cane Lancelot, un personaggio popolare nella comunità, è stato intenzionalmente rimosso dalla Casa della Morte per evitare di fornire ai giocatori un sacrificio facile da compiere sull'altare nella camera rituale—un sacrificio che non è più funzionale (perché il culto non libera più i giocatori dopo aver compiuto un sacrificio) e che suona vuoto se confrontato con la campagna che segue (perché la "fame" di Strahd non può essere saziata.)
 
 ***Il Terzo Piano.*** Lo spettro della balia ora funge da strumento vitale che permette ai giocatori di trovare la scala della soffitta senza frustrazioni o ritardi eccessivi. Sono stati aggiunti ulteriori indizi per trasmettere il destino di Walter, del Sig. Durst e della balia.
 
@@ -1232,10 +1232,10 @@ Il cane Lancelot, un personaggio popolare nella comunità, è stato intenzionalm
 
 ***Il Sotterraneo.*** Diversi incontri in quest'area sono stati modificati per ridurre la probabilità di un TPK e per insegnare ai giocatori ad agire con cautela e prendere decisioni sagge. Nella camera rituale, il culto non è più disposto ad accettare il sacrificio di una bestia (ad es., Lancelot), prefigurando il fatto che Strahd non si accontenterà della sola Ireena. Il **cumulo strisciante** è stato sostituito da un **cumulo di carne** a due fasi, le cui statistiche sono state calibrate per fornire un combattimento impegnativo senza rischiare un TPK.
 
-***Fuga dalla Death House.*** La sequenza originale della "fuga dalla Death House" è stata sostituita con una coppia di incontri sociali che ricompensano i giocatori per aver indagato sulla storia della casa, e che servono a prefigurare le caratterizzazioni di Sergi von Zarovich, Lady Fiona Wachter, e le spose e i servitori di Strahd nell'avventura a venire.
+***Fuga dalla Casa della Morte.*** La sequenza originale della "fuga dalla Casa della Morte" è stata sostituita con una coppia di incontri sociali che ricompensano i giocatori per aver indagato sulla storia della casa, e che servono a prefigurare le caratterizzazioni di Sergi von Zarovich, Lady Fiona Wachter, e le spose e i servitori di Strahd nell'avventura a venire.
 
 La frequente aggiunta comunitaria di una sfida di abilità per fuggire dalla casa è stata rimossa per garantire una transizione fluida e semplice dalla morte del cumulo di carne all'uscita dei giocatori dalla casa, per rimuovere qualsiasi attrito con giocatori che potrebbero avere difficoltà ad apprendere le meccaniche di un nuovo sistema di gioco nel calore del momento, e per preservare l'immersione dei giocatori nella narrativa della fuga, piuttosto che nel suo gameplay.
 
-Questa guida ha intenzionalmente rinunciato a una popolare aggiunta comunitaria che colloca una bottiglia di vino—per gentile concessione di Strahd—all'uscita o nelle vicinanze dell'uscita della casa. Strahd non è onnisciente, e gli sforzi dei giocatori per evitare o sventare le sue spie si riveleranno un aspetto ricorrente del gameplay durante l'avventura. Inoltre, la Death House è troppo lontana da Barovia vera e propria perché Strahd abbia potuto ottenere e consegnare una bottiglia di vino fresca nella sua posizione. Un cattivo è tanto evocativo quanto i suoi limiti, e Strahd ne ha molti. 
+Questa guida ha intenzionalmente rinunciato a una popolare aggiunta comunitaria che colloca una bottiglia di vino—per gentile concessione di Strahd—all'uscita o nelle vicinanze dell'uscita della casa. Strahd non è onnisciente, e gli sforzi dei giocatori per evitare o sventare le sue spie si riveleranno un aspetto ricorrente del gameplay durante l'avventura. Inoltre, la Casa della Morte è troppo lontana da Barovia vera e propria perché Strahd abbia potuto ottenere e consegnare una bottiglia di vino fresca nella sua posizione. Un cattivo è tanto evocativo quanto i suoi limiti, e Strahd ne ha molti. 
 
 Infine, è una scelta di design intenzionale di questa guida che i giocatori non incontrino Strahd direttamente fino al loro incontro al Crocevia del Fiume Ivlis, il che garantisce che la loro relazione con Strahd prima di allora sia costruita esclusivamente su dicerie, conoscenze di seconda mano e superstizioni. Un'esposizione diretta precedente comprometterebbe completamente questo effetto.
