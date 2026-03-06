@@ -35,7 +35,7 @@ Quella notte, il custode del cimitero della chiesa, Milivoj, ruba le ossa di San
 ## Neyavr 3
 All'alba, Padre Lucian Petrovich scopre la scomparsa delle ossa. I giocatori che conducono Ireena alla Chiesa di Sant'Andral dopo questo momento danno inizio a [[Arc D - St. Andral's Feast]].
 
-Izek Strazni e due **guardie** affiggono manifesti nella Piazza della Cittadina di Vallaki per pubblicizzare il Festival del Sole Ardente. I giocatori che conducono Ireena nella Piazza della Cittadina in questo momento danno inizio a [[Arc G - The Strazni Siblings]], qualora Izek non abbia già visto Ireena.
+Izek Strazni e due **guardie** affiggono manifesti nella Piazza della Città di Vallaki per pubblicizzare il Festival del Sole Ardente. I giocatori che conducono Ireena nella Piazza della Città in questo momento danno inizio a [[Arc G - The Strazni Siblings]], qualora Izek non abbia già visto Ireena.
 
 > [!abstract]+ **La diplomazia di Ireena**
 >
@@ -107,7 +107,7 @@ In alternativa, giocatori particolarmente svelti potrebbero seguire questo perco
 * **Neyavr 7.** I giocatori tornano a Krezk in [[Arc I - The Walls of Krezk]], poi visitano Argynvostholt in [[Arc M - The Dragon's Manor]] (Atto III) prima di rientrare a Vallaki.
 * **Neyavr 8.** I giocatori trascorrono una giornata di riposo a Vallaki, poi sconfiggono lo spirito di Leo Dilisnya in [[Arc H - The Lost Soul]] nella notte della luna piena.
 ## Percorsi divergenti
-La Cittadina di Vallaki può rivelarsi un intricato groviglio di percorsi possibili nel modulo originale. Sebbene questa guida miri a presentarla in modo più lineare e prevedibile, i DM potrebbero comunque trovare il numero di eventi, personaggi e risultati possibili piuttosto gravoso. Per aiutarvi a orientarvi in questo atto, sono stati forniti due tra i molti percorsi potenziali, così da guidarvi nella comprensione di come le scelte dei vostri giocatori possano sospingere la narrazione.
+La Città di Vallaki può rivelarsi un intricato groviglio di percorsi possibili nel modulo originale. Sebbene questa guida miri a presentarla in modo più lineare e prevedibile, i DM potrebbero comunque trovare il numero di eventi, personaggi e risultati possibili piuttosto gravoso. Per aiutarvi a orientarvi in questo atto, sono stati forniti due tra i molti percorsi potenziali, così da guidarvi nella comprensione di come le scelte dei vostri giocatori possano sospingere la narrazione.
 ## I crociati zelanti
 In questo potenziale sviluppo narrativo, i giocatori sono personaggi appassionati e risoluti, con una predilezione per l'azione rispetto alla riflessione.
 ### Neyavr 2

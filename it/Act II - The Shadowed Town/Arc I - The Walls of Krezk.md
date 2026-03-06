@@ -6,13 +6,13 @@ Tuttavia, il Villaggio di Krezk nutre sospetti verso gli stranieri e non permett
 
 I giocatori devono recarsi alle rovine di Berez, tra Krezk e Vallaki, e là convincere la strega Baba Lysaga a lanciare un incantesimo di scrutamento per individuare la posizione del figlio del Barone Krezkov, Ilya, scomparso da Krezk in seguito a un recente attacco di lupi mannari. Tuttavia, Baba Lysaga è una strega folle e volubile, e i suoi metodi magici sono contorti e oscuri. Riusciranno i giocatori a convincerla a soddisfare la richiesta del Barone Krezkov, guadagnandosi così l'ingresso nel Villaggio di Krezk?
 # I1. La Strada per Krezk
-Il viaggio dalla Cittadina di Vallaki al **Villaggio di Krezk** è lungo sei miglia e un quarto e richiede due ore.
+Il viaggio dalla Città di Vallaki al **Villaggio di Krezk** è lungo sei miglia e un quarto e richiede due ore.
 
 Quando i giocatori attraversano il ponte sul Fiume Luna, leggete quanto segue:
 
 <div class="description">
-<p>Il sentiero si restringe, fiancheggiato da alberi fitti e imponenti. Più avanti, un vecchio ponte di legno appare alla vista, le sue assi consumate dal tempo si protendono sopra il fiume impetuoso sottostante. Avvicinandovi, scorgete le acque scure che si riversano sulle pietre lisce del letto del fiume, bordate su entrambi i lati da cespugli e alberi nodosi.</p>
-<p>Mentre mettete piede sul ponte, i vostri stivali riecheggiano sul legno vecchio e umido. A nord, potete vedere il fiume serpeggiare a monte lungo la linea degli alberi prima di svanire oltre una curva. A sud, il fiume si snoda come un nastro tra le sue sponde, per poi dissolversi gradualmente nella foschia.</p>
+<p>Il sentiero si fa angusto, stretto tra alberi fitti e solenni che incombono come colonne di una cattedrale abbandonata. Più avanti, un vecchio ponte di legno emerge dalla vegetazione: le sue assi logore e scurite dal tempo si protendono sopra il fiume tumultuoso. Avvicinandovi, scorgete le acque cupe che si frangono sulle pietre levigate del letto fluviale, orlate su entrambi i lati da cespugli e alberi nodosi.</p>
+<p>Quando posate il piede sul ponte, i vostri stivali risuonano sul legno umido e marcescente. A nord, il fiume serpeggia a monte lungo la linea degli alberi prima di svanire oltre un'ansa. A sud, si snoda come un nastro scuro tra le sue sponde, per dissolversi a poco a poco nella caligine.</p>
 </div>
 
 L'Incrocio del Fiume Luna è come descritto in <span class="citation">P. Luna River Crossroads (p. 40)</span>. Tuttavia, non effettuate un tiro per incontri casuali quando i giocatori raggiungono quest'area.
@@ -20,19 +20,19 @@ L'Incrocio del Fiume Luna è come descritto in <span class="citation">P. Luna Ri
 Quando i giocatori lo superano, il sentiero per Argynvostholt è in gran parte come descritto in <span class="citation">Approaching the Mansion (p. 130)</span>. Leggete:
 
 <div class="description">
-<p>Un sentiero sterrato si dirama dalla Vecchia Strada Svalich, inerpicandosi verso sud lungo uno sperone roccioso della montagna. La terra del sentiero è dura e compatta, di un colore grigio-bruno pallido che ricorda la cenere fredda. Gli alberi su entrambi i lati si ergono silenziosi e stoici, con le foglie di un verde sbiadito. Man mano che il sentiero sale, viene infine inghiottito dalle ombre profonde del pendio boscoso della montagna, svanendo nell'oscurità dei boschi oltre.</p>
+<p>Un sentiero sterrato si dirama dalla Vecchia Strada di Svalich, inerpicandosi verso sud lungo uno sperone roccioso della montagna. La terra è dura e compatta, di un pallore grigio-bruno che rievoca la cenere spenta. Gli alberi ai lati si ergono muti e tetri, con foglie di un verde smorto. Man mano che il sentiero sale, viene inghiottito dalle ombre fitte del pendio boscoso, fino a dissolversi nella tenebra dei boschi oltre.</p>
 </div>
 
 Poco prima che i giocatori raggiungano l'Incrocio del Fiume dei Corvi, si imbattono nel sentiero per il Lago Baratok e il <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span>, non lontano dal sentiero che conduce al <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Leggete:
 
 <div class="description">
-<p>Un vecchio sentiero di caccia si stacca dalla Vecchia Strada Svalich, snodandosi a nord tra alberi vecchi e nodosi prima di svanire nel sottobosco. Cento iarde oltre, un sentiero alpino si separa dalla strada principale per dirigersi a sud verso le montagne, salendo di quota fino a scomparire dietro un ripido sperone coperto di alberi.</p>
+<p>Un vecchio sentiero di caccia si stacca dalla Vecchia Strada di Svalich, snodandosi a nord tra alberi vetusti e contorti prima di perdersi nel fitto del sottobosco. Cento iarde oltre, un sentiero alpino si separa dalla strada principale per puntare a sud verso le montagne, guadagnando quota fino a scomparire dietro un ripido sperone ammantato di vegetazione.</p>
 </div>
 
 L'Incrocio del Fiume dei Corvi è in gran parte come descritto in <span class="citation">R. Raven River Crossroads (p. 40)</span>. Tuttavia, non effettuate un tiro per incontri casuali quando i giocatori raggiungono quest'area. Inoltre, aggiungete il seguente testo alla fine della descrizione dell'area:
 
 <div class="description">
-<p>Una figura rivestita di armatura arrugginita si erge sola sul ponte, stringendo nelle mani pallide una spada lunga scintillante.</p>
+<p>Una figura avvolta in un'armatura corrosa dalla ruggine si staglia solitaria sul ponte, stringendo nelle mani livide una spada lunga scintillante.</p>
 </div>
 
 La figura è riconoscibilmente simile al **revenant** di guardia alle Cascate Tser. Se avvicinato, saluta i giocatori e chiede quale sia la loro destinazione.
@@ -42,11 +42,11 @@ Se i giocatori dicono al revenant che sono diretti a Krezk, esso li avverte che 
 Se i giocatori dicono al revenant che sono diretti all'Abbazia di Santa Markovia per cercare una cura per la loro malattia, esso mormora con voce cavernosa: "Viaggiate verso un luogo oscuro, amici. Ma un essere di grande età e potere dimora là, e potrebbe aiutarvi — se non offeso." Il revenant è disposto a condividere le seguenti informazioni se interrogato:
 
 * Anni prima che Strahd von Zarovich giungesse nella valle, Santa Markovia, una chierca del Signore del Mattino, edificò l'Abbazia sulla cima di uno sperone del Monte Baratok come santuario per coloro che fuggivano dalla guerra e dalla devastazione.
-* Quando le Nebbie circondarono la valle, Santa Markovia condannò Strahd come un tiranno e radunò un piccolo esercito per marciare su Castel Ravenloft. La sua rivolta fu tuttavia repressa, e Markovia perse la vita in un duello contro Strahd.
+* Quando le Nebbie circondarono la valle, Santa Markovia condannò Strahd come un tiranno e radunò un piccolo esercito per marciare su Castello Ravenloft. La sua rivolta fu tuttavia repressa, e Markovia perse la vita in un duello contro Strahd.
 * Con la morte di Markovia, i monaci e le monache dell'Abbazia si ritirarono nella disperazione. Non passò molto prima che la paranoia e la follia si insinuassero nei loro ranghi, finché nessuno rimase in vita. Voci di cannibalismo circolarono per decenni, e la maggior parte della gente evitò del tutto l'Abbazia.
 * Poco più di un secolo fa, l'Abate giunse nella valle e riaprì l'Abbazia. Il revenant non è certo della vera natura o delle intenzioni dell'Abate, ma è convinto che egli sia assai più antico — e assai più potente — di qualsiasi cavaliere dell'Ordine del Drago d'Argento.
 
-Se richiesto, il revenant può anche fornire indicazioni per raggiungere la magione di Argynvostholt: i giocatori devono viaggiare verso est in direzione dell'Incrocio del Fiume Luna, imboccando il sentiero grigio cenere che si separa verso sud dalla Vecchia Strada Svalich poco prima di arrivarvi.
+Se richiesto, il revenant può anche fornire indicazioni per raggiungere la magione di Argynvostholt: i giocatori devono viaggiare verso est in direzione dell'Incrocio del Fiume Luna, imboccando il sentiero grigio cenere che si separa verso sud dalla Vecchia Strada di Svalich poco prima di arrivarvi.
 
 Quando i giocatori si congedano, il revenant li avverte che il branco di lupi mannari del Monte Baratok ha esteso il proprio territorio — e la propria ferocia — negli ultimi tempi, e consiglia loro di essere cauti mentre percorrono le strade.
 
@@ -84,8 +84,8 @@ Il viaggio dal Villaggio di Krezk alle **Rovine di Berez** è lungo otto miglia 
 Poco dopo che i giocatori hanno lasciato l'Incrocio del Fiume dei Corvi, incrociano un'orda di dieci **flagelli ad aghi** in migrazione verso la cantina del Mago dei Vini. Leggete:
 
 <div class="description">
-<p>Il cadavere fresco di un lupo enorme, grande quanto un alce, giace disteso al centro della strada. I suoi fianchi e il muso sono stati trafitti da centinaia di spine simili ad aghi, e una pozza di sangue si è raccolta sotto il suo collo muscoloso.</p>
-<p>All'improvviso, un turbinio di piume nere irrompe dagli alberi a nord, mentre uno stormo di corvi si leva in volo a nemmeno cento iarde dal margine della strada, le loro grida di panico che riecheggiano nell'aria gelida. Dal fitto sottobosco sotto di loro, udite il suono ritmico e inconfondibile di numerosi passi inumani, e riuscite a distinguere la sagoma di un'orda di figure spinose e barcollanti nell'ombra, nella luce fioca. Le figure, che sembrano avvicinarsi a una curva della strada poco più avanti rispetto alla vostra posizione, non sembrano avervi ancora notato — ma le loro sagome si avvicinano a ogni secondo che passa.</p>
+<p>La carcassa ancora fresca di un lupo enorme, grosso quanto un alce, giace riversa al centro della strada. I fianchi e il muso sono crivellati da centinaia di spine sottili come aghi, e una pozza di sangue scuro si è rappresa sotto il collo muscoloso.</p>
+<p>D'un tratto, un turbinio di piume nere irrompe dagli alberi a nord: uno stormo di corvi si leva in volo a nemmeno cento iarde dal margine della strada, le loro strida di panico che lacerano l'aria gelida. Dal fitto sottobosco sotto di loro, giunge il suono ritmico e inequivocabile di numerosi passi inumani, e nella penombra riuscite a distinguere la sagoma di un'orda di figure spinose e barcollanti. Le creature, che sembrano convergere verso una curva della strada poco più avanti, non vi hanno ancora scorto — ma le loro sagome si fanno più vicine a ogni istante.</p>
 </div>
 
 I giocatori possono combattere i flagelli, oppure nascondersi nel fitto della vegetazione per evitare l'attenzione dell'orda con una prova di gruppo di Destrezza (Furtività) con CD 10 riuscita, come descritto in **Prove di Gruppo** (*Manuale del Giocatore*, p. 175).
@@ -105,17 +105,17 @@ I giocatori possono combattere i flagelli, oppure nascondersi nel fitto della ve
 Quando i giocatori lasciano l'Incrocio del Fiume Luna, leggete:
 
 <div class="description">
-<p>Lasciandovi l'incrocio alle spalle, prendete la direzione sud costeggiando il Fiume Luna, le cui acque riflettono soltanto il grigio del cielo soprastante mentre si snoda attraverso la valle.</p>
-<p>Sebbene gli alberi del Bosco Svalich si chiudano oppressivamente su entrambi i lati all'inizio, non passa molto prima che il margine della foresta si allontani dal fiume e dalla strada, rivelando un affluente che si riversa nel fiume dalle montagne. Il Fiume Luna qui circonda una piccola isola desolata punteggiata di alti sempreverdi, che si ergono come sentinelle silenziose mentre il fiume scorre attorno a loro.</p>
-<p>Non lontano dalla strada, su una piccola penisola che si protende nel fiume, si erge un'antica stele di pietra alta poco meno di sei piedi. Si trova al centro di un cerchio di vecchie pietre di selciato screpolate e sembra recare una qualche incisione.</p>
+<p>Lasciandovi l'incrocio alle spalle, prendete la direzione sud costeggiando il Fiume Luna, le cui acque rispecchiano soltanto il grigiore greve del cielo. Il fiume si snoda silenzioso attraverso la valle.</p>
+<p>Sebbene gli alberi dei Boschi di Svalich si serrino opprimenti su entrambi i lati, non passa molto prima che il margine della foresta si ritragga dal fiume e dalla strada, svelando un affluente che precipita dalle montagne. Il Fiume Luna circonda qui una piccola isola desolata, punteggiata di alti sempreverdi che si ergono come sentinelle mute mentre la corrente scivola attorno a loro.</p>
+<p>Non lontano dalla strada, su una piccola penisola protesa nel fiume, si innalza un'antica stele di pietra alta poco meno di sei piedi. Sorge al centro di un cerchio di vecchie pietre screpolate e sembra recare un'incisione sulla superficie.</p>
 </div>
 
 Se i giocatori scelgono di esaminare la lastra, scoprono che reca l'incisione di un ragno sopra una stella a tre punte incisa, i cui solchi sono ricoperti di licheni e muschio. (La lastra è un antico monumento alla Tessitrice, e la stella a tre punte è il simbolo delle Tre Signore.) Altrimenti, leggete:
 
 <div class="description">
-<p>Più avanti, due speroni gemelli del Monte Ghakis si innalzano su entrambi i lati della strada, racchiudendola in una valle soffocata dalla nebbia. Le brume aleggiano dense nell'aria, smorzando ogni suono e barlume di luce mentre la strada si fa fangosa e umida.</p>
-<p>Presto, mentre la nebbia inghiotte la strada alle vostre spalle, si ritira come un sipario rivelando un alto albero nodoso, antico di anni, che si protende attraverso la foschia come un obelisco ricurvo. Gabbie di metallo arrugginito pendono dai suoi rami morti, e fili di vecchie ragnatele si aggrappano al suo tronco come veli di garza.</p>
-<p>Un uccello enorme fatto di tela di iuta, legno e pelli di animale siede sul ramo più spesso, la sua testa a forma di zucca che vi scruta con occhi neri come il carbone. Con un grido rauco e stridulo, dispiega le ali e si alza in volo, le brume che vorticano attorno alle sue ali scricchiolanti mentre si dirige a sud.</p>
+<p>Più avanti, due speroni gemelli del Monte Ghakis si innalzano ai lati della strada, serrandola in una valle soffocata dalla nebbia. Le brume ristagnano dense nell'aria, smorzando ogni suono e ogni barlume di luce mentre il terreno si fa melmoso e cedevole.</p>
+<p>Ben presto, mentre la nebbia inghiotte la strada alle vostre spalle, si ritrae come un sipario svelando un alto albero nodoso e vetusto, che si protende attraverso la foschia come un obelisco ricurvo. Gabbie di metallo arrugginito pendono dai suoi rami spogli, e fili di vecchie ragnatele si aggrappano al tronco come veli di garza.</p>
+<p>Un uccello enorme, fatto di tela di iuta, legno e pelli di animale, è appollaiato sul ramo più robusto; la sua testa a forma di zucca vi scruta con occhi neri come il carbone. Con un grido rauco e stridulo, dispiega le ali e si leva in volo: le brume vorticano attorno alle sue ali scricchiolanti mentre si dirige a sud.</p>
 </div>
 
 L'uccello è un **strige maggiore**, e sta partendo per avvisare Baba Lysaga che degli estranei si avvicinano alla palude. Se attaccato, cerca di guadagnare quota finché non sfugge alla portata dei giocatori. In quanto sentinella e vedetta, non ha alcun desiderio di combattere.
@@ -124,16 +124,16 @@ L'uccello è un **strige maggiore**, e sta partendo per avvisare Baba Lysaga che
 L'avvicinamento dei giocatori a Berez è in gran parte come descritto in <span class="citation">Approaching the Ruins (p. 161)</span>. Tuttavia, modificate il testo descrittivo come segue:
 
 <div class="description">
-<p>La terra e l'erba si tramutano presto in palude mentre il terreno si dissolve in suolo spugnoso punteggiato da distese di alte canne e pozze d'acqua stagnante. Una spessa coltre di nebbia ricopre ogni cosa, sebbene la nebbia sia molto più sottile sulla riva opposta del fiume, dove un cerchio oscuro di pietre erette si erge nel mezzo di un boschetto di alberi nodosi avvolti da spesse ragnatele bluastre.</p>
-<p>Dinanzi a voi, il sentiero si biforca formando due percorsi fangosi che circondano un prato paludoso centrale. Un percorso corre lungo il fiume gonfio, mentre l'altro si incurva verso l'interno.</p>
-<p>Sparse nella palude lungo i sentieri si trovano vecchie casupole contadine, le pareti ricoperte di muffa nera e i tetti per lo più crollati. Queste dimore fatiscenti sembrano rannicchiarsi nel fango, come se avessero da tempo rinunciato a sfuggire alla melma densa. Ovunque volgiate lo sguardo, nuvole nere di mosche si aggirano, avide di sangue.</p>
-<p>Due vecchi spaventapasseri legati a pali di legno fiancheggiano il sentiero, i loro volti di tela di iuta che sembrano ghignare verso le brume alle vostre spalle.</p>
+<p>La terra e l'erba cedono presto alla palude: il terreno si dissolve in un suolo spugnoso, punteggiato da distese di canne alte e pozze di acqua stagnante. Una coltre greve di nebbia avvolge ogni cosa, benché le brume si facciano più rade sulla riva opposta del fiume, dove un cerchio di pietre erette si staglia nel mezzo di un boschetto di alberi contorti, soffocati da spesse ragnatele bluastre.</p>
+<p>Davanti a voi, il sentiero si biforca in due percorsi fangosi che circondano un prato paludoso. Uno corre lungo il fiume gonfio, l'altro si incurva verso l'interno.</p>
+<p>Sparse nella palude lungo i sentieri giacciono vecchie casupole contadine, le pareti divorate dalla muffa nera, i tetti in gran parte crollati. Queste dimore decrepite sembrano rannicchiarsi nel fango, come se avessero da tempo rinunciato a sottrarsi alla melma che le inghiotte. Ovunque volgiate lo sguardo, nuvole nere di mosche si addensano, avide di sangue.</p>
+<p>Due vecchi spaventapasseri, legati a pali di legno, fiancheggiano il sentiero: i loro volti di tela di iuta sembrano ghignare verso le brume alle vostre spalle.</p>
 </div>
 
 I due **spaventapasseri** sono come descritti in <span class="citation">Marsh Scarecrows (p. 162)</span>. Se lo **strige maggiore** ha avvisato con successo Baba Lysaga dell'arrivo dei giocatori, aggiungete:
 
 <div class="description">
-<p>Una luce baluginante si accende nella nebbia oltre gli spaventapasseri, e la sagoma di una donna emerge dalla foschia vorticante.</p>
+<p>Una luce tremula si accende nella nebbia oltre gli spaventapasseri, e la sagoma di una donna emerge dalla foschia vorticante.</p>
 </div>
 
 La sagoma appartiene a Wensencia, una **strega baroviana** di Vallaki dalla voce stridula, beffarda e dalla lingua tagliente, che studia sotto la guida di Baba Lysaga da tre mesi. (Wensencia, come le altre quattro attuali allieve di Baba Lysaga, considerò il risveglio di Strahd come l'avvento di un oscuro messia, e cercò la strega della palude su consiglio della sposa vampirica di Strahd, Ludmilla Vilisevic.)
@@ -150,7 +150,7 @@ Wensencia informa bruscamente i giocatori che "Madre Lysaga" li ha convocati nel
 >
 ><hr>
 >
-> Un cerchio di massicci megaliti levigati si erge nel fango denso al centro di un boschetto di alberi nodosi non lontano dalla riva del fiume. Gli alberi e le pietre erette sono soffocati da una spessa coltre di ragnatele bianco-bluastre, i cui fili robusti sembrano brillare di una qualità eterea.
+> Un cerchio di massicci megaliti levigati si erge nel fango denso, al centro di un boschetto di alberi contorti non lontano dalla riva del fiume. Alberi e pietre sono soffocati da una coltre spessa di ragnatele bianco-bluastre, i cui fili robusti rilucono di un bagliore etereo.
 >
 > <hr>
 >
@@ -182,7 +182,7 @@ Una volta che i giocatori hanno fatto l'offerta richiesta, Baba Lysaga è lieta 
 
 Dopo aver accettato il pagamento del Barone Krezkov, Baba Lysaga indica ai giocatori di recarsi al recinto delle capre accanto a <span class="citation">U2. Ulrich Mansion (p. 162)</span> e recuperare una singola **capra** viva. (Baba Lysaga necessita del sangue della capra viva per creare un mezzo attraverso cui eseguire il suo rituale di *scrutamento*.) Sebbene non vi sia alcun cancello nella recinzione del recinto, ella li informa che possono crearne uno magicamente pronunciando la parola d'ordine: "Morte a Ravenovia."
 
-Se interrogata riguardo allo strige, Lysaga spiega con gioia che sono un artefatto di sua creazione — eccellenti per uccidere o catturare i corvi, che ella detesta.
+Se interrogata riguardo alle strigi maggiori, Lysaga spiega con gioia che sono un artefatto di sua creazione — eccellenti per uccidere o catturare i corvi, che ella detesta.
 
 Se interrogata riguardo a Lady Fiona Wachter, l'umore di Lysaga precipita, e ammonisce cupa i giocatori a non pronunciare mai più il nome di "quella sciocca ragazza" in sua presenza.
 
@@ -195,17 +195,17 @@ Il recinto delle capre è in gran parte come descritto in <span class="citation"
 Se i giocatori recuperano con successo una capra per Baba Lysaga, ella estrae un pugnale arrugginito e macchiato di sangue dal suo armadietto di vimini e ordina ai giocatori di posizionare la capra con il collo sopra la vasca da bagno. Leggete:
 
 <div class="description">
-<p>Con un gesto rapido e apparentemente consumato dalla pratica, Baba Lysaga taglia la gola della capra. Un improvviso fiotto di sangue si riversa nella vasca, riempiendola di un rosso intenso e viscerale. Il corpo della capra si irrigidisce, poi si rilassa, la sua morte misericordiosamente rapida mentre la capanna si riempie dell'odore metallico del sangue fresco.</p>
+<p>Con un gesto secco, consumato da lunga pratica, Baba Lysaga recide la gola della capra. Un fiotto di sangue si riversa nella vasca, colmandola di un rosso cupo e viscerale. Il corpo dell'animale si irrigidisce, poi si abbandona: la morte, almeno, è misericordiosamente rapida. L'odore acre e metallico del sangue fresco pervade la capanna.</p>
 </div>
 
 Baba Lysaga ordina quindi ai giocatori di gettare il corpo della capra nell'erba fuori dalla capanna. Li avverte che non devono pronunciare una sola parola mentre ella è nella morsa dell'incantesimo, per non disturbare la sua concentrazione. Quindi inizia a lanciare l'incantesimo di *scrutamento*. Leggete:
 
 <div class="description">
-<p>Con il pugnale gocciolante stretto in una mano avvizzita, Baba Lysaga comincia a tracciare strani simboli arcani sulla superficie del sangue della capra con l'altra, le sue dita che lasciano scie di magia inquietante e scintillante.</p>
-<p>La luce nella stanza si attenua mentre le ombre si fanno più cupe, l'aria immobilizzata da un silenzio sinistro rotto soltanto dalle mormoranti litanie della strega.</p>
-<p>La magia trasuda dalle sue dita, fluendo come acqua nella vasca di sangue. Gradualmente, la pozza cremisi comincia a incresparsi e agitarsi, luccicando di luce argentata — e poi si immobilizza bruscamente, ora liscia e riflettente come uno specchio. Baba Lysaga si protende in avanti per scrutare nella pozza, i suoi occhi che brillano di un bagliore di interesse e crudeltà.</p>
-<p>"Vedo un ragazzo," sibila, "adolescente, dai capelli irsuti e segnato da cicatrici di artigli." La sua voce è un misto di intrigo e scherno, e si lecca le labbra con evidente divertimento. "Gli hanno messo un collare d'argento e lo hanno incatenato a un palo. Lì siede, rannicchiato e patetico. I suoi occhi, oh, sono nascosti, sepolti nelle ginocchia mentre piagnucola e singhiozza."</p>
-<p>Aggrotta la fronte, come concentrandosi, e la sua voce scende a un sussurro roco. "Il palo è in una caverna — una camera desolata illuminata dalla luce tremolante delle torce. C'è una donna incatenata accanto a lui, dallo sguardo acuto e con lunghi capelli irsuti. Sento su di lei il dono di Madre Notte. Lì vicino, vedo una statua di donna dalla testa di lupo — un idolo a Madre Notte, adornato di ghirlande e circondato da una profusione di tesori. Cadaveri putrescenti si inginocchiano dinanzi a lei, prostrati alla sua maestà."</p>
+<p>Con il pugnale gocciolante stretto in una mano avvizzita, Baba Lysaga prende a tracciare arcani simboli sulla superficie del sangue con l'altra; le sue dita lasciano scie di magia inquietante e scintillante.</p>
+<p>La luce nella stanza si affievolisce mentre le ombre si fanno più cupe. L'aria ristagna, imprigionata in un silenzio sinistro che solo le mormoranti litanie della strega osano infrangere.</p>
+<p>La magia trasuda dalle sue dita, fluendo come acqua nella vasca di sangue. A poco a poco, la pozza cremisi prende a incresparsi e fremere, percorsa da bagliori argentei — poi si immobilizza di colpo, liscia e riflettente come uno specchio. Baba Lysaga si protende per scrutare nella pozza, gli occhi che ardono di un bagliore avido e crudele.</p>
+<p>«Vedo un ragazzo» sibila, «adolescente, dai capelli irsuti, segnato da cicatrici di artigli.» La sua voce è un impasto di morbosità e scherno, e si lecca le labbra con evidente compiacimento. «Gli hanno messo un collare d'argento e lo hanno incatenato a un palo. Lì siede, rannicchiato e patetico. I suoi occhi, oh, sono nascosti, sepolti nelle ginocchia, mentre piagnucola e singhiozza.»</p>
+<p>Aggrotta la fronte, come per concentrarsi, e la sua voce scende a un sussurro roco. «Il palo è in una caverna — una camera desolata, rischiarata dal tremolare delle torce. C'è una donna incatenata accanto a lui, dallo sguardo tagliente, con lunghi capelli irsuti. Sento su di lei il dono di Madre Notte. Poco distante, scorgo una statua di donna dalla testa di lupo — un idolo a Madre Notte, adornato di ghirlande e circondato da una profusione di tesori. Cadaveri putrescenti si inginocchiano ai suoi piedi, prostrati alla sua maestà.»</p>
 <p>Le dita di Lysaga fremono — e il sangue ritorna al suo stato precedente, increspandosi debolmente mentre la magia si dissolve.</p>
 </div>
 
@@ -235,8 +235,8 @@ Se i giocatori menzionano il loro interesse per l'Abbazia di Santa Markovia, il 
 Quest'area è in gran parte come descritta in <span class="citation">S4. Pool and Shrine (p. 146)</span>. Tuttavia, aggiungete quanto segue alla fine della descrizione dell'area:
 
 <div class="description">
-<p>Piccoli fiori viola punteggiano le rive attorno alla pozza, i loro steli che ondeggiano dolcemente sopra le erbe coperte di neve sottostanti.</p>
-<p>Un giovane di bell'aspetto in una tonaca monacale marrone è inginocchiato dinanzi a uno dei fiori, cullandone i petali delicatamente nella mano. Un simbolo sacro di legno dipinto raffigurante il sole pende da una catena attorno al suo collo, e contempla pensieroso il fiore tra le dita.</p>
+<p>Piccoli fiori viola punteggiano le rive attorno alla pozza, i loro steli che ondeggiano con dolcezza sopra le erbe innevate.</p>
+<p>Un giovane di bell'aspetto, vestito di una tonaca monacale marrone, è in ginocchio presso uno dei fiori e ne culla i petali con delicatezza nel palmo della mano. Un simbolo sacro di legno dipinto, raffigurante il sole, pende da una catena attorno al suo collo. Contempla il fiore tra le dita con espressione assorta e pensierosa.</p>
 </div>
 
 I fiori sono *aconito*. Il giovane è l'Abate dell'Abbazia di Santa Markovia, in gran parte come descritto in <span class="citation">S13. Main Hall (p. 150)</span> e <span class="citation">Appendix D (p. 225)</span>.
