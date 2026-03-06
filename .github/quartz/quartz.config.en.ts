@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "bonobomagno.github.io/Curse-of-Strahd-Reloaded-ita/en",
-    ignorePatterns: ["private", "templates", ".obsidian", "_other"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_other", "it"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
