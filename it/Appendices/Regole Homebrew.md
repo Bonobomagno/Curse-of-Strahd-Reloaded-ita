@@ -455,3 +455,165 @@ Quando un PG raggiunge il suo luogo di risveglio, tutti i PG presenti ne fanno p
 | Bloodstone Least | Arc L | 6 | Sì |
 | Pearl of Power liv.3 | Arc P | 7 | Sì |
 | Fang of Fury Least | Arc Q | 7 | Sì |
+
+---
+
+# PARTE IV — SCONTRI MODIFICATI PER LA CONVERSIONE 3.5
+
+*I personaggi 3.5 sono più fragili ai livelli 1-4 (PF ridotti, tiri salvezza bassi, nessun riposo breve) e diventano più forti ai livelli 5-10 grazie agli oggetti e alla Reliquia Ancestrale. Questa sezione indica gli aggiustamenti consigliati per bilanciare la campagna.*
+
+**Legenda:** [RIDUCI] = indebolire lo scontro | [ATTENZIONE] = avvisare i giocatori | [INVARIATO] = nessuna modifica necessaria
+
+---
+
+## Atto I — Livelli 2-3
+
+*I personaggi di livello 2-3 in stile 3.5 hanno meno PF e tiri salvezza più bassi. Gli effetti di stato come paralisi e drenaggio di forza sono particolarmente pericolosi.*
+
+### Arc A — Casa della Morte *(Liv. 2)*
+
+| Scontro | Modifica | Motivo |
+|---|---|---|
+| Armatura Animata | [INVARIATO] | Mild encounter, gestibile |
+| Grick | [INVARIATO] | Bruising ma singolo nemico, ok |
+| 3 Ghoul | [RIDUCI] 2 Ghoul, paralisi CD abbassata a 10 | Paralisi a CD 12 è letale a liv.2 con TS Fort bassi |
+| Flesh Mound | [RIDUCI] Ridurre PF di ~20% | Party a liv.2 ha PF molto bassi; regenerazione può esaurirli |
+
+**Note specifiche:**
+
+**Ghoul — Paralisi adattata:**
+> In 3.5 la paralisi è un Tiro Salvezza Tempra. A livello 2, un personaggio tipico ha Fort +2/+3. La CD originale di 12 garantisce circa il 50% di fallimento. **Abbassare a CD 10** mantiene la tensione senza essere punitivo.
+
+**Flesh Mound — Rigenerazione:**
+> Se la Flesh Mound può rigenerare PF durante il combattimento, i party a liv.2 rischiano di esaurire le risorse prima di ucciderla. Considerare di rimuovere la rigenerazione oppure limitarla a 1 volta per combattimento.
+
+---
+
+### Arc B — Benvenuti a Barovia *(Liv. 3)*
+
+| Scontro | Modifica | Motivo |
+|---|---|---|
+| Assedio (zombi/ghoul) | [RIDUCI] Massimo 2 ondate invece di multiple | Con PF ridotti, ondate ripetute di non morti sono logoranti |
+| Folla di 10 Baroviani | [INVARIATO] | Incontro sociale, non combattimento |
+| Doru (Vampire Spawn) | [INVARIATO] | Incontro narrativo, non progettato per il combattimento |
+| Strahd/Rahadin | [INVARIATO] | Incontro di potere, non combattimento |
+
+**Note specifiche:**
+
+**Assedio notturno:**
+> Ridurre le ondate a 2 massime per notte. Con la Healing Belt appena distribuita, i giocatori hanno qualche risorsa in più — ma le PF totali di un party di 5 a livello 3 in 3.5 sono già tese dopo il dungeon. Ismark e gli NPC del villaggio devono essere descritti come contributo attivo, non decorativo.
+
+---
+
+### Arc C — Nella Valle *(Liv. 3)*
+
+| Scontro | Modifica | Motivo |
+|---|---|---|
+| 5 Zombi (famiglia Lansten) | [INVARIATO] | Manageable, Fortitude Undead ignora paralisi |
+| Strix + 2 Stormi | [INVARIATO] | Bruising 34%, con Healing Belt è sostenibile |
+| 6 Lupi al burrone | [RIDUCI] 4 lupi invece di 6 | 58% HP consumption è troppo per 3.5 a liv.3 |
+| 2 Lupi-mannari + 4 Lupi | [ATTENZIONE] Mordere = licantropia | In 3.5 la licantropia da morso è permanente senza Remove Curse |
+| Revenant al ponte | [INVARIATO] | Non ostile |
+| Morgantha | [INVARIATO] | Non ostile se non provocata |
+
+**Note specifiche:**
+
+**Lupi al burrone — Riduzione:**
+> Portare da 6 a 4 lupi. L'effetto tattico del burrone rimane, ma il danno complessivo è più sostenibile. I 2 lupi extra possono essere descritti come in avvicinamento ma distratti da qualcos'altro.
+
+**Lupi-mannari — Licantropia:**
+> In 3.5, un morso da lupo-mannaro che causa danni infligge la licantropia con un TS Tempra (CD 15). Non c'è un riposo che guarisce — serve *Remove Curse* o *Heal*. Avvisare i giocatori prima dello scontro (tramite il Revenant al ponte o Muriel) che le bestie mordono e che il morso è pericoloso. La cache di Van Richten con i dardi argentati diventa critica — sottolineare che li trovano *prima* dello scontro coi lupi-mannari.
+
+---
+
+## Riepilogo Modifiche Atto I
+
+| Arc | Scontro | Tipo modifica | Priorità |
+|---|---|---|---|
+| A | 3 Ghoul → 2 Ghoul, CD paralisi 10 | Riduzione | Alta |
+| A | Flesh Mound: -20% PF o rigenerazione limitata | Riduzione | Media |
+| B | Assedio: max 2 ondate/notte | Riduzione | Media |
+| C | 6 Lupi → 4 Lupi al burrone | Riduzione | Alta |
+| C | Lupi-mannari: avvertire di licantropia 3.5 | Attenzione DM | Alta |
+
+---
+
+## Atto II — Livelli 4–5
+
+Gli Archi D–I si svolgono principalmente a Vallaki e dintorni. I giocatori affrontano per la prima volta nemici con capacità speciali complesse (progenie vampiriche, streghe notturne, figure politiche pericolose). In 3.5 i PG a questi livelli hanno ancora slot limitati e PF moderati — gli scontri a sorpresa o con più nemici che agiscono in simultanea sono i più pericolosi.
+
+---
+
+### Arc D — La Festa di Sant'Andral (Liv. 4)
+
+**Progenie vampiriche nella bottega — Riduzione:**
+> Volenta porta con sé **2 progenie vampiriche** ferali. Con PG di livello 4 e risorse limitate, questo scontro a sorpresa è potenzialmente letale se entrambe le progenie agiscono prima del gruppo. Opzione consigliata: **1 sola progenie in prima linea**, la seconda emerge solo se la prima viene distrutta o se i giocatori cercano di fuggire. Padre Lucian con *spirit guardians* (danni necrotici) è essenziale — assicurarsi che accompagni il gruppo come da testo.
+
+**Volenta — Avvertimento:**
+> Volenta ha due forme consecutive e rigenerazione 10 PF/turno. Non ridurre i PF, ma ricordare che **acqua santa e danni radiosi bloccano la rigenerazione**. Volenta è progettata per essere dura ma battibile con le risorse giuste. Se i giocatori non hanno acqua santa, Padre Lucian può usare la sua come azione bonus.
+
+**Veleno del trappola ad ago:**
+> In 3.5, i veleni richiedono due TS Tempra (uno all'impatto, uno 1 minuto dopo). Usare la CD 5e (CD 12 Costituzione) come unico tiro, per non appesantire il sistema ibrido. Il danno è già incluso nel testo originale.
+
+---
+
+### Arc F — Il Desiderio di Lady Wachter (Liv. 4)
+
+**Cultisti di Lady Wachter — Attenzione DM:**
+> Se i giocatori attaccano Lady Wachter o combattono i suoi cultisti, questi sono **fanatici del culto** (5e) con PF medi. In 3.5 i fanatici non si distinguono molto dai guerrieri base — nessuna modifica strutturale, ma limitare il numero attivo a **non più di 4 cultisti contemporaneamente** (gli altri rimangono a distanza o fuggono). Lady Wachter stessa non è un bersaglio di combattimento; se attaccata, si ritira e manda guardie.
+
+**Izek Strazni (primo incontro) — Invariato:**
+> Il primo incontro con Izek (visita alla locanda) non è di combattimento. Se i giocatori lo attaccano in questo momento, ricordare che ha **4 guardie** con lui e che altri 12 arrivano in 2 minuti. Scoraggiare lo scontro frontale senza penalizzare la creativity.
+
+---
+
+### Arc G — I Fratelli Strazni (Liv. 4)
+
+**Izek Strazni — Scontro finale:**
+> Izek è un boss solido, progettato per livello 4. Ha un braccio fiammeggiante e capacità di lancio incantesimi innata. **Non ridurre i PF**, ma applicare queste accortezze:
+> - Se i giocatori l'affrontano di giorno in un luogo pubblico, le **guardie rimangono neutrali** (conflitto ambiguo agli occhi della cittadinanza) ma non intervengono contro i giocatori.
+> - Se l'affrontano di notte nel suo rifugio, non ci sono guardie — scontro 1v(party).
+> - Il fuoco di Izek bypassa le resistenze normali ma non le immunità. In 3.5 il fuoco fa danni standard senza necessità di TS se colpisce.
+
+**Rapimento di Ireena — Guardie della dimora:**
+> Se i giocatori si infiltrano nella dimora del Barone per salvare Ireena, le guardie reagiscono all'allarme. **Ridurre il numero di guardie attive a 6** (invece di 12) se i giocatori usano un approccio furtivo o diversivo — le altre 6 sono nel perimetro esterno o al piano terra.
+
+---
+
+### Arc H — L'Anima Perduta (Liv. 5)
+
+**Strega notturna al campo profughi (Morgantha):**
+> Morgantha è **CR 3** ma ha *change shape*, invisibilità e piano etereo. Se i giocatori la affrontano nel Piano Materiale di giorno, è vulnerabile. Se la cacciano nel Piano Etereo, è sul suo terreno. **Non modificare le statistiche**, ma avvertire i giocatori che catturarla richiede piercing argentato o magia — le armi normali hanno **svantaggio ai danni** (tratto stregoneria 3.5).
+> La pietra del cuore è necessaria per il rituale: Morgantha può cedere se le viene fatto capire che distruggerla le costa la pietra *e* la vita.
+
+**Piano Etereo — Spiriti famelici e Oratore della Forca (Leo Dilisnya):**
+> Questo scontro avviene a Liv. 5 e include ondate di spiriti + un mini-boss. **Riduzione consigliata**: gli spiriti famelici arrivano in **2 ondate da 3** (non 3 ondate da 4). L'Oratore della Forca (Leo Dilisnya) rimane invariato — è il climax narrativo dell'arco. Lady Wachter che partecipa attivamente cambia l'equilibrio: se è presente e partecipante, non ridurre nulla.
+
+**Condizioni nel Piano Etereo:**
+> In 3.5, le creature incorporee ignorano le armi non magiche. Nel Piano Etereo, applicare la stessa regola: **solo armi magiche o argentate colpiscono gli spiriti** (incluse le monete magiche usate come proiettili, se creative). Il Fascino dell'Eroismo di Massa trovato nel Vecchio Macinaossa è ideale per questo scontro — suggerire ai giocatori di tenerlo in riserva.
+
+---
+
+### Arc I — Le Mura di Krezk (Liv. 4–5)
+
+**Baba Lysaga:**
+> Baba Lysaga è **CR 11** ed è deliberatamente costruita come nemico da evitare, non da affrontare. Se i giocatori tentano di combatterla per le Tinture Nulle, ricordare loro (tramite NPC o indizi ambientali) che è fuori dalla loro portata. **Non modificare le statistiche** — l'asimmetria è intenzionale.
+> Se però i giocatori l'attaccano e rischiano un TPK, Baba Lysaga può scegliere di **cacciarli invece di ucciderli** — si diverte a far sentire i mortali impotenti, non li considera abbastanza degni di uno sforzo letale.
+
+**Convalescenza a Krezk:**
+> Krezk è un luogo di riposo sicuro. Dopo aver completato Arc I, i giocatori possono godere di **1 riposo lungo completo garantito** senza interruzioni notturne (il villaggio è protetto da acqua benedetta). Ideale per ricaricare slot prima di affrontare gli Archi successivi.
+
+---
+
+## Riepilogo Modifiche Atto II
+
+| Arc | Scontro | Tipo modifica | Priorità |
+|---|---|---|---|
+| D | 2 progenie → 1 in prima linea, 2a entra dopo | Riduzione | Alta |
+| D | Veleno: 1 solo TS (CD 12 Con) invece di 2 TS 3.5 | Semplificazione | Media |
+| F | Cultisti: max 4 attivi simultaneamente | Riduzione | Bassa |
+| G | Infiltrazione dimora: 6 guardie attive (non 12) | Riduzione | Media |
+| H | Spiriti famelici: 2 ondate da 3 (non 3 da 4) | Riduzione | Alta |
+| H | Piano Etereo: solo armi magiche/argentate colpiscono spiriti | Regola 3.5 | Alta |
+| I | Baba Lysaga: non modificare, caccia invece di uccidere | Narrativa | Alta |
+
