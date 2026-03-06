@@ -60,19 +60,27 @@ La reliquia **amplifica un oggetto designato** dal PG — un'arma, un'armatura, 
 
 Il budget rappresenta il valore totale delle proprietà magiche esprimibili, secondo i prezzi di D&D 3.5.
 
-| Livello | Budget totale |
-|---|---|
-| 2 | 1.000 mo |
-| 3 | 3.000 mo |
-| 4 | 5.000 mo |
-| 5 | 9.000 mo |
-| 6 | 14.000 mo |
-| 7 | 21.000 mo |
-| 8 | 30.000 mo |
-| 9 | 40.000 mo |
-| 10 | 50.000 mo |
+| Livello | Budget totale | Equivalente 3.5 |
+|---|---|---|
+| 2 | 1.000 mo | arma +1 (base) |
+| 3 | 2.000 mo | arma +1 con proprietà minore |
+| 4 | 4.000 mo | arma +2 |
+| 5 | 8.000 mo | arma +2 con proprietà |
+| 6 | 12.000 mo | arma +3 |
+| 7 | 18.000 mo | arma +3 con proprietà |
+| 8 | 24.000 mo | arma +3 avanzata |
+| 9 | 28.000 mo | vicino a +4 |
+| 10 | 32.000 mo | arma +4 |
+
+Il budget massimo di 32.000 mo corrisponde esattamente al costo di un'arma +4 in D&D 3.5 — il tetto naturale prima degli oggetti leggendari della campagna.
 
 Il PG sceglie liberamente come spendere il budget — purché le proprietà scelte siano **tematicamente coerenti** con la reliquia e il ruolo del personaggio. Il DM ha diritto di veto su scelte incoerenti.
+
+### Combo con Oggetti Leggendari
+
+Se la reliquia è legata a un oggetto leggendario della campagna (es. la Lama del Sole), il budget si somma all'enhancement bonus già presente dell'oggetto. Una Lama del Sole (+2) con budget di reliquia al livello 10 (equivalente +2 aggiuntivo) diventa funzionalmente una **Lama del Sole +4** — senza perdere nessuna delle sue proprietà originali.
+
+Questa combo è intenzionale: rappresenta il legame tra il destino del personaggio e gli artefatti di Barovia.
 
 ### Sblocchi Narrativi
 
