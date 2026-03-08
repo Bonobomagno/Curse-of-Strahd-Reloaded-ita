@@ -1,185 +1,185 @@
-# Roleplaying Strahd
-Strahd is cold and calculating, skilled in social manipulation and deception. As the adventure unfolds, his attitude toward the players shifts significantly. Though Strahd never conceals his nature or identity, this dynamic relationship manifests as three "roles" that he plays: the Gentleman, the Tyrant, and the Monster.
-## The Gentleman
-When the players first enter Barovia, Strahd acts as the Gentleman—polished and poised, if somewhat sociopathic. He is welcoming, well-mannered, and insatiably curious. His goal—to learn the ins and outs of the players' minds, including their goals, strengths, and weaknesses.
+# Interpretare Strahd
+Strahd è freddo e calcolatore, abile nella manipolazione sociale e nell'inganno. Man mano che l'avventura si sviluppa, il suo atteggiamento verso i giocatori cambia significativamente. Sebbene Strahd non nasconda mai la propria natura o identità, questa relazione dinamica si manifesta attraverso tre "ruoli" che interpreta: il Gentiluomo, il Tiranno e il Mostro.
+## Il Gentiluomo
+Quando i giocatori entrano per la prima volta a Barovia, Strahd agisce come il Gentiluomo — raffinato e composto, seppur un po' sociopatico. È accogliente, beneducato e insaziabilmente curioso. Il suo obiettivo — apprendere ogni sfumatura della mente dei giocatori, compresi i loro obiettivi, punti di forza e debolezze.
 
-As the Gentleman, Strahd should flatter the players with his interest and curiosity, offend them with his arrogance and condescension, and disgust them with his disregard for human freedom.
+Come Gentiluomo, Strahd dovrebbe lusingare i giocatori con il suo interesse e la sua curiosità, offenderli con la sua arroganza e condiscendenza, e disgustarli con il suo disprezzo per la libertà umana.
 
-In this role, Strahd most often feels curious, amused, nostalgic, or disappointed. Consider channeling Hannibal Lecter (*The Silence of the Lambs*), Don Corleone (*The Godfather*), or Frank Underwood (*House of Cards*) when playing him.
+In questo ruolo, Strahd prova più spesso curiosità, divertimento, nostalgia o delusione. Si consideri di ispirarsi a Hannibal Lecter (*Il Silenzio degli Innocenti*), Don Corleone (*Il Padrino*) o Frank Underwood (*House of Cards*) nell'interpretarlo.
 
-The Gentleman avoids clashes as much as he can, taking any player rudeness or defiance in stride. If pushed, he might send his minions to stop a player's physical attacks, but only as a last resort.
-## The Tyrant
-When he learns that the players have relit the beacon of Argynvostholt at the conclusion ***Arc R: The Beacon of Argynvostholt***, Strahd becomes the Tyrant—harsh, stern, and somewhat cruel. He keeps his cool and aloof demeanor, but treats the players less like guests and more like disappointing protégés. His goal—to push the players to their limits, testing their resilience and assessing their competence.
+Il Gentiluomo evita gli scontri il più possibile, accogliendo qualsiasi maleducazione o sfida dei giocatori con compostezza. Se provocato, potrebbe inviare i suoi servitori per fermare gli attacchi fisici di un giocatore, ma solo come ultima risorsa.
+## Il Tiranno
+Quando apprende che i giocatori hanno riacceso il faro di Argynvostholt alla conclusione dell'***Arco R: Il Faro di Argynvostholt***, Strahd diventa il Tiranno — duro, severo e piuttosto crudele. Mantiene il suo contegno freddo e distaccato, ma tratta i giocatori meno come ospiti e più come protégé deludenti. Il suo obiettivo — spingere i giocatori ai loro limiti, testando la loro resilienza e valutando la loro competenza.
 
-As the Tyrant, Strahd should offend the players with his insults and condescension, and disgust them with his disregard for human life.
+Come Tiranno, Strahd dovrebbe offendere i giocatori con i suoi insulti e la sua condiscendenza, e disgustarli con il suo disprezzo per la vita umana.
 
-In this role, Strahd most often feels disappointed, scornful, satisfied, amused, and contemptuous. Consider channeling Moriarty (*Sherlock*), Tywin Lannister (*Game of Thrones*), Severus Snape (*Harry Potter*), and Omni-Man (*Invincible*).
+In questo ruolo, Strahd prova più spesso delusione, disprezzo, soddisfazione, divertimento e spregio. Si consideri di ispirarsi a Moriarty (*Sherlock*), Tywin Lannister (*Game of Thrones*), Severus Snape (*Harry Potter*) e Omni-Man (*Invincible*).
 
-The Tyrant never strikes first—but will dare defiant players to back their words with action. Should a player back down, Strahd mocks their resolve and capabilities. Any players who attack him, though, are met with a swift and ruthless response—though never a lethal one.
-## The Monster 
-When he first learns that the players have restored the blade of the *Sunsword* in ***Arc V: The Sunsword***, Strahd abandons all pretense and becomes the Monster—a cold, unfeeling sociopath, described further in **Roleplaying Strahd** (p. 10). His goal—to achieve his goals, no matter the cost.
+Il Tiranno non colpisce mai per primo — ma sfida i giocatori ribelli a sostenere le proprie parole con i fatti. Se un giocatore si tira indietro, Strahd deride la sua determinazione e le sue capacità. I giocatori che lo attaccano, tuttavia, vengono accolti con una risposta rapida e spietata — ma mai letale.
+## Il Mostro
+Quando apprende per la prima volta che i giocatori hanno ripristinato la lama della *Lama del Sole* nell'***Arco V: La Lama del Sole***, Strahd abbandona ogni finzione e diventa il Mostro — uno sociopatico freddo e privo di emozioni, descritto ulteriormente in **Interpretare Strahd** (p. 10). Il suo obiettivo — raggiungere i propri scopi, a qualunque costo.
 
-As the Monster, Strahd should disgust the players with his complete indifference to life and death, inspire pity for his inability to feel happiness or love, and frustrate the players with his refusal to ever lose his cool.
+Come Mostro, Strahd dovrebbe disgustare i giocatori con la sua completa indifferenza alla vita e alla morte, ispirare pietà per la sua incapacità di provare felicità o amore, e frustrare i giocatori con il suo rifiuto di perdere mai la calma.
 
-In this role, Strahd most often feels indifferent, curious, satisfied, and determined. Consider channeling Stan Edgar (*The Boys*), Gus Fring (*Breaking Bad*), and Thanos (*Avengers: Endgame*).
+In questo ruolo, Strahd prova più spesso indifferenza, curiosità, soddisfazione e determinazione. Si consideri di ispirarsi a Stan Edgar (*The Boys*), Gus Fring (*Breaking Bad*) e Thanos (*Avengers: Endgame*).
 
-The Monster crushes any resistance ruthlessly and efficiently. Though he can't be provoked, he's too proud to ever flee from a fight.
-# Strahd’s Relationships
-Strahd has a complex web of relationships with the denizens of Barovia, many of which are described below.
+Il Mostro schiaccia ogni resistenza in modo spietato ed efficiente. Sebbene non possa essere provocato, è troppo orgoglioso per fuggire da un combattimento.
+# Relazioni di Strahd
+Strahd ha una complessa rete di relazioni con gli abitanti di Barovia, molte delle quali sono descritte di seguito.
 
-***Death House.*** Strahd views the cult of Death House with respectful disdain; he finds their methods and obsessions distasteful, but appreciates their efforts to bring worthy consorts and adversaries from the lands beyond the Mists.
+***Casa della Morte.*** Strahd considera il culto della Casa della Morte con rispettoso disprezzo; trova i loro metodi e ossessioni sgradevoli, ma apprezza i loro sforzi per portare consorti e avversari degni dalle terre oltre le Nebbie.
 
-***Village of Barovia.*** Strahd believes, without romance or obsession, that Ireena Kolyana’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
+***Villaggio di Barovia.*** Strahd crede, senza romanticismo né ossessione, che il corpo di Ireena Kolyana sia l’ospite dell’anima di Tatyana, e che l’anima di Tatyana gli appartenga. Attraverso le sue spie, è consapevole della posizione di Ismark Kolyanovich e del suo legame con Ireena, ma lo considera un leader mediocre e uno spadaccino di seconda classe. Guarda Donavich e Doru con disprezzo, sdegnando le convinzioni, l’orgoglio e la fede che Doru aveva in vita.
 
-***Tser Pool Encampment.*** Strahd finds Madam Eva a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
+***Accampamento alla Pozza di Tser.*** Strahd trova Madama Eva un enigma affascinante, ma ha raggiunto con lei un’intesa tacita: lei leggerà il suo futuro ogni volta che lo richiede e, in cambio, lui non indagherà troppo a fondo nella sua storia o nei suoi affari.
 
-***Old Bonegrinder.*** Strahd is aware of the **night hag** coven’s presence, but has little interest in their affairs.
+***Vecchio Macinaossa.*** Strahd è consapevole della presenza della congrega di **streghe notturne**, ma ha scarso interesse nei loro affari.
 
-***Town of Vallaki.*** Strahd has no interest in Baron Vargas Vallakovich, but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
+***Città di Vallaki.*** Strahd non ha alcun interesse per il Barone Vargas Vallakovich, ma, attraverso le sue spie, lo ritiene uno sciocco maldestro. Trova Lady Fiona Wachter un agente utile e la favorisce per la storia di lealtà della sua famiglia, ma si cura poco della sua ossessione per la politica vallakiana. È consapevole dell’esistenza dei Custodi della Piuma (sebbene non sappia che la Locanda dell’Acqua Azzurra funge da loro luogo di riunione), ma non li considera una minaccia significativa.
 
-***Vistani Encampment.*** Strahd holds Arrigal as one of his favored spies. However, he pays little mind to the dusk elves—Kasimir especially—and has little interest in their affairs.
+***Accampamento Vistani.*** Strahd considera Arrigal una delle sue spie predilette. Tuttavia, presta poca attenzione agli Elfi del Crepuscolo — Kasimir in particolare — e ha scarso interesse nei loro affari.
 
-***Argynvostholt.*** Strahd views the **revenants** of the Order of the Silver Dragon with disinterested contempt, but has long since determined that the knights pose no threat to him, and has largely ignored them as a result. He has heard the rumors that Argynvost’s spirit haunts the manor, but pays them no mind; he would refuse to believe that the beacon of Argynvostholt could be relit even if told to his face.
+***Argynvostholt.*** Strahd guarda i **revenant** dell’Ordine del Drago d’Argento con sprezzante indifferenza, ma ha da tempo stabilito che i cavalieri non rappresentano una minaccia per lui, e li ha in gran parte ignorati di conseguenza. Ha sentito le voci secondo cui lo spirito di Argynvost infesta il maniero, ma non vi presta attenzione; rifiuterebbe di credere che il faro di Argynvostholt possa essere riacceso anche se glielo dicessero in faccia.
 
-***Wizard of Wines.*** Strahd is aware that the winery is a stronghold for the Keepers of the Feather, but does not view them as a significant threat. He has delegated their “discipline” to Ludmilla, ensuring that their insubordination and resistance will be properly punished.
+***Mago dei Vini.*** Strahd è consapevole che la tenuta vinicola è una roccaforte dei Custodi della Piuma, ma non li considera una minaccia significativa. Ha delegato la loro “disciplina” a Ludmilla, assicurandosi che la loro insubordinazione e resistenza vengano adeguatamente punite.
 
-***Yester Hill.*** Strahd views the Forest Folk with disdain and some amusement. He finds their maddened worship to be more grating than gratifying, and views the modern generation as a poor shadow of their more distinguished forebears. He does find them to be useful tools, however, and knows that their “faith” is a necessary evil to ensure their continued loyalty.
+***Colle di Yester.*** Strahd guarda il Popolo della Foresta con disprezzo e un certo divertimento. Trova la loro adorazione folle più irritante che gratificante, e considera la generazione moderna una pallida ombra dei loro antenati più illustri. Li trova comunque strumenti utili, e sa che la loro “fede” è un male necessario per garantire la loro continua lealtà.
 
-***Village of Krezk.*** Strahd has little interest in Baron Dmitri Krezkov or the people of Krezk. He is, amused by the Abbot’s descent into madness and corruption. He intends to temporarily “play along” with the Abbot’s efforts to construct a **flesh golem** bride for him, but has no serious intention of accepting Vasilka when complete.
+***Villaggio di Krezk.*** Strahd ha scarso interesse per il Barone Dmitri Krezkov o per la gente di Krezk. È divertito dalla discesa dell’Abate nella follia e nella corruzione. Intende temporaneamente “stare al gioco” con gli sforzi dell’Abate di costruire una sposa **golem di carne** per lui, ma non ha alcuna seria intenzione di accettare Vasilka una volta completata.
 
-***Werewolf Den.*** Strahd finds Kiril Stoyanovich to be a useful and loyal servant, if somewhat brutish and unsophisticated. He intends to keep Emil Toranescu, the pack’s former alpha, as a prisoner in his dungeons until Emil is sufficiently mad with starvation to be “tamed.”
+***Tana dei Lupi Mannari.*** Strahd trova Kiril Stoyanovich un servitore utile e leale, seppur piuttosto brutale e rozzo. Intende tenere Emil Toranescu, l’ex alfa del branco, prigioniero nelle sue segrete finché Emil non sarà sufficientemente impazzito dalla fame da poter essere “domato”.
 
-***Tsolenka Pass.*** Strahd is peripherally aware that the Mountain Folk roam the Balinok Mountains, but—due to Elder Burebis’s protection—is unaware of the existence of their settlement Soldav. He considers the Mountain Folk to be a lost and broken people and has no use for or interest in them.
+***Passo di Tsolenka.*** Strahd è vagamente consapevole che il Popolo della Montagna si aggira per i Monti Balinok, ma — grazie alla protezione dell’Anziano Burebis — ignora l’esistenza del loro insediamento Soldav. Considera il Popolo della Montagna un popolo perduto e spezzato e non ha alcun uso o interesse per loro.
 
-***Amber Temple.*** Strahd respects Neferon’s dedication to protecting the temple and finds him to be a worthy guardian of the treasures contained within. He has historically had a collegial respect for Exethanter, but, after awakening from his own hibernation, was disappointed by Exethanter’s loss of memory—something Strahd has little interest in restoring.
+***Tempio d’Ambra.*** Strahd rispetta la dedizione di Neferon nel proteggere il tempio e lo considera un degno guardiano dei tesori contenuti al suo interno. Ha storicamente nutrito un rispetto collegiale per Exethanter, ma, dopo il risveglio dalla propria ibernazione, è rimasto deluso dalla perdita di memoria di Exethanter — cosa che Strahd ha scarso interesse a ripristinare.
 
-***Castle Ravenloft.*** Strahd is amused by the efforts of his brides—Ludmilla Vilisevic, Anastrasya Karelova, and Volenta Popfsky—to placate and impress him. He is momentarily entertained by his newest consort, Escher, but has been distracted lately by other, grander designs. He views Rahadin as his most loyal, trusted, and favored servant, but spares little mind to the other staff and occupants of the castle, including Cyrus Belview, Lief Lipsiege, the coven of witches, and his own vampire spawn. By contrast, Beucephalus is his favored “pet” and most valued tool.
-# Strahd’s Goals
-Strahd’s primary goal is simple: to free himself and Barovia from the Mists.
+***Castello Ravenloft.*** Strahd è divertito dagli sforzi delle sue spose — Ludmilla Vilisevic, Anastrasya Karelova e Volenta Popfsky — di placarlo e impressionarlo. È momentaneamente intrattenuto dal suo più recente consorte, Escher, ma ultimamente è stato distratto da altri piani più grandiosi. Considera Rahadin il suo servitore più leale, fidato e prediletto, ma dedica poca attenzione al resto del personale e degli occupanti del castello, inclusi Cyrus Belview, Lief Lipsiege, la congrega di streghe e i suoi stessi vampiri generati. Al contrario, Beucephalus è il suo “animale domestico” prediletto e lo strumento più prezioso.
+# Obiettivi di Strahd
+L’obiettivo principale di Strahd è semplice: liberare se stesso e Barovia dalle Nebbie.
 
-As a conqueror, Strahd craves new lands and the freedom—and power—to claim them. He seeks to restore his long-lost empire, with Castle Ravenloft and the valley of Barovia as its seat of power.
+In quanto conquistatore, Strahd brama nuove terre e la libertà — e il potere — di reclamarle. Cerca di restaurare il suo impero perduto da tempo, con il Castello Ravenloft e la valle di Barovia come sede del suo potere.
 
-To this end, he needs three things: a pacified kingdom, a host of loyal servants, and—most importantly—an escape plan. 
+A tal fine, necessita di tre cose: un regno pacificato, una schiera di servitori leali e — cosa più importante — un piano di fuga.
 
-By defeating his servants and halting their schemes, the players can deny him the first; by defending Ireena Kolyana and resisting his temptations, they can also deny him the second. However, Strahd has plans within plans, and there is only one way to halt his final scheme: to destroy the vampire himself.
-## Reclaiming the Valley
-When Strahd awoke from his century-long slumber, he found that much had changed. 
+Sconfiggendo i suoi servitori e fermando i loro piani, i giocatori possono negargli il primo; difendendo Ireena Kolyana e resistendo alle sue tentazioni, possono negargli anche il secondo. Tuttavia, Strahd ha piani dentro altri piani, e c’è un solo modo per fermare il suo piano finale: distruggere il vampiro stesso.
+## Riconquistare la Valle
+Quando Strahd si risvegliò dal suo sonno centenario, scoprì che molto era cambiato.
 
-The people of Barovia had forgotten why they feared him, and their burgomasters no longer served him faithfully. His servants and consorts had dispersed across the valley in pursuit of their own schemes and whims, and the wilds themselves had somehow cleansed the stain of corruption.
+Il popolo di Barovia aveva dimenticato perché lo temeva, e i loro borgomastri non lo servivano più fedelmente. I suoi servitori e consorti si erano dispersi per la valle in cerca dei propri intrighi e capricci, e le terre selvagge stesse avevano in qualche modo mondato la macchia della corruzione.
 
-That, he knew, must be addressed.
+Questo, sapeva, doveva essere affrontato.
 
-He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade Rahadin to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more.
+Si mosse rapidamente per reclamare la Fana della Foresta come propria, ripristinando il suo legame con il Cuore del Dolore ancora una volta. Ordinò a Rahadin di trovare personale e attendenti per il Castello Ravenloft, e di assicurarsi che ogni occupante della fortezza servisse la volontà del suo padrone. E convocò le sue spose e i suoi vampiri generati al Castello Ravenloft, comandando loro di diffondere la sua ombra per la valle ancora una volta.
 
-Since then, Strahd has broken the village of Barovia and brought the werewolf pack to heel. He seeks next to break the town of Vallaki and the village of Krezk, to discipline the so-called “Keepers of the Feather,” and to capture the vampire hunter Dr. Rudolph van Richten. 
+Da allora, Strahd ha spezzato il villaggio di Barovia e ha sottomesso il branco di lupi mannari. Cerca ora di spezzare la Città di Vallaki e il Villaggio di Krezk, di disciplinare i cosiddetti “Custodi della Piuma” e di catturare il cacciatore di vampiri Dott. Rudolph van Richten.
 
-When his servants’ work is done, Strahd expects to look down from the Pillarstone of Ravenloft upon a faithful and fearful populace, its people subservient to the Devil of Castle Ravenloft once more.
-## Renewing His Servants
-When Strahd awoke from his slumber, he found that many of his vampiric brides and other servants had dispersed across the valley, forgoing his dark will in favor of their own petty pursuits. He has quickly moved to correct this—but some doubts still remain.
+Quando il lavoro dei suoi servitori sarà compiuto, Strahd si aspetta di guardare dalla Pietra Colonna di Ravenloft un popolo fedele e timoroso, la sua gente nuovamente sottomessa al Diavolo del Castello Ravenloft.
+## Rinnovare i Suoi Servitori
+Quando Strahd si risvegliò dal suo sonno, scoprì che molte delle sue spose vampiriche e altri servitori si erano dispersi per la valle, abbandonando la sua oscura volontà in favore dei propri meschini interessi. Si è mosso rapidamente per correggere questo — ma alcuni dubbi permangono.
 
-Strahd seeks assurances that, when he escapes Barovia, he will do so with an army that will heed his words and execute his will without error or hesitation. To this end, he has delegated many of his plots to reassert his authority to his servants. Should they succeed, they shall be exalted and placed in positions of authority beneath him; should they fail, they shall be locked in the crypts beneath Ravenloft for eternity.
+Strahd cerca garanzie che, quando fuggirà da Barovia, lo farà con un esercito che ascolterà le sue parole e eseguirà la sua volontà senza errore o esitazione. A tal fine, ha delegato molti dei suoi piani per riaffermare la propria autorità ai suoi servitori. Se avranno successo, saranno esaltati e posti in posizioni di autorità sotto di lui; se falliranno, saranno rinchiusi nelle cripte sotto Ravenloft per l’eternità.
 
-Strahd is always hungry for new talent, however, and is on the lookout for new generals to serve his conquests and fresh consorts to keep him entertained. When the players arrive in Barovia, he focuses his attention on those who are especially charismatic, arrogant, intelligent, cunning, or attractive, seeking to determine whether any among the party are worthy of serving him in undeath. 
+Strahd è sempre affamato di nuovi talenti, tuttavia, e cerca nuovi generali per servire le sue conquiste e nuovi consorti per intrattenerlo. Quando i giocatori arrivano a Barovia, concentra la sua attenzione su coloro che sono particolarmente carismatici, arroganti, intelligenti, astuti o attraenti, cercando di determinare se qualcuno nel gruppo sia degno di servirlo nella non morte.
 
-Though Strahd has not said so expressly, his brides are well-aware of the risk of being replaced—a motivation that he hopes will fuel their efforts on his behalf. 
-Strahd believes fully in the “survival of the fittest” and expects to see the strongest rise to the top.
-## Escaping the Mists
-With Madam Eva’s reluctant guidance, Strahd has learned that the Grand Conjunction—a time when the barriers between worlds will be thinned, and the energies of the stars aligned—is a prime opportunity to free himself from the Dark Powers’ prison. 
+Sebbene Strahd non lo abbia detto esplicitamente, le sue spose sono ben consapevoli del rischio di essere sostituite — una motivazione che lui spera alimenterà i loro sforzi per suo conto.
+Strahd crede pienamente nella “sopravvivenza del più forte” e si aspetta di vedere i più forti emergere.
+## Fuggire dalle Nebbie
+Con la riluttante guida di Madama Eva, Strahd ha appreso che la Grande Congiunzione — un momento in cui le barriere tra i mondi saranno assottigliate e le energie delle stelle allineate — è un’opportunità privilegiata per liberarsi dalla prigione delle Potenze Oscure.
 
-To this end, Strahd has crafted an ambitious and dangerous ritual to escape the Mists, using the Heart of Sorrow as its conduit and anchor. This ritual has four necessary components: a power source, a control mechanism, a catalyst, and a sacrifice.
+A tal fine, Strahd ha elaborato un rituale ambizioso e pericoloso per fuggire dalle Nebbie, usando il Cuore del Dolore come condotto e ancora. Questo rituale ha quattro componenti necessarie: una fonte di potere, un meccanismo di controllo, un catalizzatore e un sacrificio.
 
-***The Power Source.*** Strahd’s plan requires a substantial amount of power—far more than he can supply himself. So long as he remains bonded to the Fanes of Barovia, however, he can channel their power directly into the Heart of Sorrow for use in the ritual. 
+***La Fonte di Potere.*** Il piano di Strahd richiede una quantità sostanziale di potere — ben più di quanto egli possa fornire da solo. Finché rimane legato alle Fane di Barovia, tuttavia, può incanalare il loro potere direttamente nel Cuore del Dolore per l’uso nel rituale.
 
-Using the Fanes in the ritual will also allow Strahd to bring the valley itself—and all of its inhabitants—along with him to the Material Plane. Given that Barovia was his final conquest and the centerpiece of his power, Strahd will not relinquish it so easily.
+Usare le Fane nel rituale permetterà inoltre a Strahd di portare la valle stessa — e tutti i suoi abitanti — con sé nel Piano Materiale. Dato che Barovia fu la sua ultima conquista e il fulcro del suo potere, Strahd non vi rinuncerà tanto facilmente.
 
-***The Control Mechanism.*** The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. He has recently learned that a child with the blood of the Seeker resides somewhere within the valley—the Vistana Arabelle, though Strahd does not yet know her name—and has directed his spies to locate and capture her. 
+***Il Meccanismo di Controllo.*** Il potere grezzo delle linee di potere sotto le Fane è selvaggio e quasi impossibile da controllare. Anche come loro padrone, solo un simbolo della divinità delle Signore può permettere a Strahd di dirigerle. Ha recentemente appreso che una bambina con il sangue della Cercatrice risiede da qualche parte nella valle — la Vistana Arabelle, sebbene Strahd non conosca ancora il suo nome — e ha diretto le sue spie a localizzarla e catturarla.
 
-Should this plot fail, Strahd must instead journey to the Whispering Wall at Yester Hill and make a sacrifice of great personal value—his **animated armor**, the symbol of his early conquests and might—exchanging a piece of his past for a promise of his future.
+Se questo piano dovesse fallire, Strahd deve invece recarsi al Muro dei Sussurri sul Colle di Yester e compiere un sacrificio di grande valore personale — la sua **armatura animata**, il simbolo delle sue prime conquiste e della sua potenza — scambiando un pezzo del suo passato per una promessa del suo futuro.
 
-***The Catalyst.*** Power and control are all well and good. In order to break through a wall, however, all good conquerors need a point of attack. To this end, Strahd plans to forge a battering ram capable of piercing through the Mists—a siege weapon forged from the souls of the Barovians themselves.
+***Il Catalizzatore.*** Potere e controllo vanno bene. Per sfondare un muro, tuttavia, ogni buon conquistatore necessita di un punto d’attacco. A tal fine, Strahd intende forgiare un ariete capace di perforare le Nebbie — un’arma d’assedio forgiata dalle anime degli stessi baroviani.
 
-The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs.
+Le Nebbie, in quanto creazioni delle Potenze Oscure, nascono dall’apatia, dalla paura e dalla disperazione. Per fuggire dalle Nebbie senza attirare la loro ira, quindi, Strahd intende circondare il Cuore del Dolore con un guscio di anime piangenti e disperate. Crede che, riaffermando brutalmente il suo dominio su Barovia, i suoi sudditi si perderanno nella paura e nella disperazione, oscurando le loro anime per soddisfare le sue necessità.
 
-By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes Ireena Kolyana, who Strahd will allow to keep her soul for his own purposes.
+Consumando le anime dei baroviani, Strahd può anche usare le energie della sua fuga per riconvertire i loro gusci senz’anima in soldati non morti, forgiando un nuovo esercito per le sue conquiste a venire. L’unica eccezione è Ireena Kolyana, alla quale Strahd permetterà di conservare la propria anima per i suoi scopi personali.
 
-***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
+***Il Sacrificio.*** Gli schemi delle Potenze Oscure impongono che un Signore Oscuro debba sempre sedere sul trono del Castello Ravenloft. Per sfuggire alle loro grinfie, Strahd deve trovare un sostituto adeguato — un individuo la cui anima sia macchiata dal male — e sacrificarlo come capro espiatorio, la sua anima offerta alle Potenze Oscure mentre Strahd compie la sua fuga.
 
-Strahd's chamberlain and adoptive brother, Rahadin, has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain Rahadin's services as a general for his armies.
+Il ciambellano e fratello adottivo di Strahd, Rahadin, si è volontariamente offerto come degno sostituto. Tuttavia, se Strahd dovesse trovare un altro candidato adatto, coglierebbe al volo l’opportunità di mantenere i servigi di Rahadin come generale dei suoi eserciti.
 
-***Plans Within Plans.*** If the players reconsecrate the Fanes, Strahd quickly devises a backup plan. By becoming the champions of the Fanes, the players will unknowingly have made themselves into conduits for their power, allowing Strahd to access the Fanes’ energies if he can lure the players to Castle Ravenloft. 
+***Piani Dentro Altri Piani.*** Se i giocatori riconsacrano le Fane, Strahd elabora rapidamente un piano di riserva. Diventando i campioni delle Fane, i giocatori si saranno inconsapevolmente trasformati in condotti per il loro potere, permettendo a Strahd di accedere alle energie delle Fane se riesce ad attirare i giocatori al Castello Ravenloft.
 
-He can do this by using the power stored in the Heart of Sorrow to plunge Barovia into eternal night, raising the deceased from their graves and sending a plague of undead against Barovia’s settlements—a siege that will end only if Strahd himself is defeated. As a bonus, Strahd believes that this undead apocalypse will surely drive the Barovians into fear and despair, counteracting the players' efforts to bring hope to the valley.
-# Strahd’s Allies
-Strahd commands a vast host of beasts, undead, and other minions, which he can direct in a host of plots or schemes. They include:
+Può farlo usando il potere immagazzinato nel Cuore del Dolore per precipitare Barovia in una notte eterna, risvegliando i defunti dalle loro tombe e scatenando una piaga di non morti contro gli insediamenti di Barovia — un assedio che terminerà solo se Strahd stesso verrà sconfitto. Come bonus, Strahd crede che questa apocalisse non morta spingerà sicuramente i baroviani nella paura e nella disperazione, contrastando gli sforzi dei giocatori di portare speranza nella valle.
+# Alleati di Strahd
+Strahd comanda una vasta schiera di bestie, non morti e altri servitori, che può dirigere in una moltitudine di complotti o intrighi. Tra questi vi sono:
 
-* ***Rahadin,*** Strahd’s dusk elf chamberlain
-* ***Beucephalus,*** Strahd’s **nightmare** steed
-* ***Strahd’s vampiric brides,*** Ludmilla, Anastrasya, and Volenta
-* ***Strahd’s vampire spawn,*** including his consort, Escher
-* ***Undead servants,*** including **zombies**, **Strahd zombies**, and **wights**
-* ***Loyal beasts,*** including Barovian bats, rats, wolves, and **dire wolves**
-* ***The werewolf pack*** commanded by Kiril Stoyanovich
-* ***Vistani spies***, including Eliza (at Tser Pool Encampment) and Arrigal (at the Vallaki encampment)
-* ***The witches’ coven*** that dwells in Castle Ravenloft
+* ***Rahadin,*** il ciambellano elfo del crepuscolo di Strahd
+* ***Beucephalus,*** il destriero **incubo** di Strahd
+* ***Le spose vampiriche di Strahd,*** Ludmilla, Anastrasya e Volenta
+* ***I vampiri generati di Strahd,*** incluso il suo consorte, Escher
+* ***Servitori non morti,*** inclusi **zombi**, **zombi di Strahd** e **wight**
+* ***Bestie leali,*** inclusi pipistrelli, ratti, lupi e **lupi feroci** baroviani
+* ***Il branco di lupi mannari*** comandato da Kiril Stoyanovich
+* ***Spie Vistani***, incluse Eliza (all’Accampamento alla Pozza di Tser) e Arrigal (all’accampamento di Vallaki)
+* ***La congrega di streghe*** che dimora nel Castello Ravenloft
 
-However, Strahd **always faces the final battle alone.** Whether by pride, fate, or mere coincidence, this fight is his to win—or lose.
+Tuttavia, Strahd **affronta sempre la battaglia finale da solo.** Che sia per orgoglio, destino o mera coincidenza, questo combattimento è il suo da vincere — o perdere.
 
-> [!info]+ **Strahd's Spawn**
-> Strahd's **vampire spawn**, as noted in <span class="citation">Vampire Spawn (Monster Manual, p. 298)</span>, are bound by two compulsions: their hunger for blood, and the need to obey any command Strahd gives them. Only the strongest-willed spawn can master their need for blood, but no spawn can ignore one of Strahd's direct orders. Even so, while all of Strahd's spawn are bound to obey the letter of his commands, intelligent and willful spawn may find opportunities to disobey their spirit.
-# Strahd’s Tactics
-Even in combat, Strahd is no ordinary foe. Like several of the enemies encountered in this adventure, he uses a **multi-phase statblock** in battle. Strahd’s statistics work as follows:
-### Phases
-Strahd's combat statistics include three phases: the Mage, the Soldier, and the Vampire. Each phase has its own unique features, abilities, **and an independent pool of hit points.** (For example, damage dealt to the Soldier phase doesn’t carry over to the Mage phase.) 
+> [!info]+ **I Vampiri Generati di Strahd**
+> I **vampiri generati** di Strahd, come indicato in <span class="citation">Vampiro Generato (Manuale dei Mostri, p. 298)</span>, sono vincolati da due compulsioni: la loro fame di sangue e la necessità di obbedire a qualunque comando Strahd impartisca loro. Solo i generati dalla volontà più forte possono padroneggiare il loro bisogno di sangue, ma nessun generato può ignorare un ordine diretto di Strahd. Ciononostante, sebbene tutti i generati di Strahd siano vincolati a obbedire alla lettera dei suoi comandi, quelli intelligenti e volitivi possono trovare opportunità per disobbedire al loro spirito.
+# Tattiche di Strahd
+Anche in combattimento, Strahd non è un avversario ordinario. Come diversi nemici incontrati in questa avventura, usa un **blocco statistiche multi-fase** in battaglia. Le statistiche di Strahd funzionano come segue:
+### Fasi
+Le statistiche di combattimento di Strahd includono tre fasi: il Mago, il Soldato e il Vampiro. Ogni fase ha le proprie caratteristiche, abilità uniche **e un pool indipendente di punti ferita.** (Ad esempio, i danni inflitti alla fase Soldato non si trasferiscono alla fase Mago.)
 
-Strahd can choose which phase he begins in when rolling initiative. By default, his starting phase is the Mage.
+Strahd può scegliere in quale fase iniziare quando tira l’iniziativa. Per impostazione predefinita, la sua fase iniziale è il Mago.
 
-When outside of combat, Strahd can:
+Fuori dal combattimento, Strahd può:
 
-* switch into his Soldier phase by drawing his longsword and extinguishing his focus;
-* switch into his Mage phase by lighting his focus (his cloak's ruby clasp) and stowing his longsword;
-* switch into his Vampire phase by stowing his longsword and extinguishing his focus.
-### Phase Transitions
-When a phase is reduced to 0 hit points, Strahd’s statistics are immediately replaced by the statistics of another phase (your choice). **When this happens, all conditions afflicting Strahd end.** (For example, if Strahd was prone or paralyzed, he is no longer prone or paralyzed.) Damage dealt to one phase does not carry over to the next.
+* passare alla fase Soldato sguainando la spada lunga e spegnendo il suo focus;
+* passare alla fase Mago accendendo il suo focus (il fermaglio di rubino del mantello) e riponendo la spada lunga;
+* passare alla fase Vampiro riponendo la spada lunga e spegnendo il suo focus.
+### Transizioni di Fase
+Quando una fase viene ridotta a 0 punti ferita, le statistiche di Strahd vengono immediatamente sostituite dalle statistiche di un’altra fase (a scelta del DM). **Quando ciò accade, tutte le condizioni che affliggono Strahd terminano.** (Ad esempio, se Strahd era prono o paralizzato, non è più prono o paralizzato.) I danni inflitti a una fase non si trasferiscono alla successiva.
 
-By default, Strahd's second phase is the **Soldier**, and his third phase is the **Vampire**. When Strahd enters his second phase, his eyes glow crimson red and his fingernails lengthen and harden. When Strahd enters his third phase, his fangs grow longer and sharper, and his nostrils become batlike slits.
+Per impostazione predefinita, la seconda fase di Strahd è il **Soldato** e la sua terza fase è il **Vampiro**. Quando Strahd entra nella seconda fase, i suoi occhi brillano di un rosso cremisi e le sue unghie si allungano e induriscono. Quando Strahd entra nella terza fase, le sue zanne crescono più lunghe e affilate, e le sue narici diventano fessure simili a quelle di un pipistrello.
 
-A phase reduced to 0 hit points can’t be used again until Strahd completes a long rest in his coffin.
-### Defeat
-If all three phases are reduced to 0 hit points, Strahd transforms into a cloud of mist instead of falling unconscious, provided that he isn't in running water or sunlight. **If he can't transform, he is destroyed.**
+Una fase ridotta a 0 punti ferita non può essere usata di nuovo finché Strahd non completa un riposo lungo nella sua bara.
+### Sconfitta
+Se tutte e tre le fasi vengono ridotte a 0 punti ferita, Strahd si trasforma in una nube di nebbia anziché cadere privo di sensi, a condizione che non si trovi in acqua corrente o nella luce solare. **Se non può trasformarsi, viene distrutto.**
 
-While transformed in this way, he has a fly speed of 30 feet, can hover, and has immunity to all damage, except the damage he takes from sunlight. He must reach his coffin within 2 hours or be destroyed. Once in his coffin, he reverts to his vampire form. He is then paralyzed until he regains at least 1 hit point. After 1 hour in his coffin with 0 hit points, he regains 1 hit point.
-### Attributes & Weaknesses
-All three phases share the following vampire attributes and weaknesses:
+Mentre è trasformato in questo modo, ha una velocità di volo di 9 metri, può restare sospeso e ha immunità a tutti i danni, tranne i danni che subisce dalla luce solare. Deve raggiungere la sua bara entro 2 ore o viene distrutto. Una volta nella bara, ritorna alla sua forma vampirica. È quindi paralizzato finché non recupera almeno 1 punto ferita. Dopo 1 ora nella bara con 0 punti ferita, recupera 1 punto ferita.
+### Attributi e Debolezze
+Tutte e tre le fasi condividono i seguenti attributi e debolezze vampiriche:
 
-* *Undead Nature.* Strahd doesn't require air.
-* *Forbiddance.* Strahd can't enter a residence without an invitation from one of the occupants.
-* *Chained to the Grave.* Strahd cannot gain the benefits of a long rest except by resting in his coffin for eight consecutive hours between dawn and dusk.
-* *Children of the Night.* Strahd can comprehend and verbally communicate with Barovian bats, rats, and wolves (including **dire wolves**), which obey his commands.
-* *Stake to the Heart.* If a piercing weapon made of wood is driven into Strahd’s heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
+* *Natura Non Morta.* Strahd non necessita di respirare.
+* *Interdizione.* Strahd non può entrare in un’abitazione senza l’invito di uno degli occupanti.
+* *Incatenato alla Tomba.* Strahd non può ottenere i benefici di un riposo lungo se non riposando nella sua bara per otto ore consecutive tra l’alba e il tramonto.
+* *Figli della Notte.* Strahd può comprendere e comunicare verbalmente con i pipistrelli, i ratti e i lupi baroviani (inclusi i **lupi feroci**), che obbediscono ai suoi comandi.
+* *Paletto nel Cuore.* Se un’arma perforante di legno viene conficcata nel cuore di Strahd mentre è incapacitato nella sua bara, è paralizzato finché il paletto non viene rimosso.
 
-Additionally, Strahd can use the following action in his ***Vampire*** form:
+Inoltre, Strahd può usare la seguente azione nella sua forma ***Vampiro***:
 
-* ***Shapechange.*** If Strahd isn't in running water or sunlight, he polymorphs into a Tiny **bat**, a Medium **wolf**, or a Medium cloud of mist, or back into his true form. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies. While in mist form, Strahd can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 30 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
+* ***Mutaforma.*** Se Strahd non si trova in acqua corrente o nella luce solare, si trasforma in un **pipistrello** Minuscolo, un **lupo** Medio o una nube di nebbia Media, o torna alla sua vera forma. Le sue statistiche, a parte taglia e velocità, rimangono invariate. Tutto ciò che indossa si trasforma con lui, ma nulla di ciò che trasporta. Ritorna alla sua vera forma se muore. In forma di nebbia, Strahd non può compiere azioni, parlare o manipolare oggetti. È privo di peso, ha una velocità di volo di 9 metri, può restare sospeso e può entrare nello spazio di una creatura ostile e fermarsi lì. Inoltre, se l’aria può passare attraverso uno spazio, la nebbia può farlo senza stringersi, e non può attraversare l’acqua. Ha vantaggio ai tiri salvezza su Forza, Destrezza e Costituzione, ed è immune a tutti i danni non magici, tranne i danni che subisce dalla luce solare.
 
-While Strahd retains a connection to the Fanes of Barovia, he also possesses the following features in all three phases:
+Finché Strahd mantiene una connessione con le Fane di Barovia, possiede inoltre le seguenti caratteristiche in tutte e tre le fasi:
 
-* ***Dominion of the Mountain.*** While Strahd retains the power of the Mountain Fane, he is under the effect of a permanent *nondetection* spell.
-* ***Dominion of the Swamp.*** While Strahd retains the power of the Swamp Fane, he can cast *major image* and *move earth* without components.
-* ***Dominion of the Forest.*** While Strahd retains the power of the Forest Fane, he can cast *beast sense* and *locate creature* without components.
-* ***Rejuvenation.*** If Strahd is destroyed while he retains the power of at least one of the Fanes, he gains a new body in 24 hours, regaining all his hit points and phases and becoming active again. His new body appears within his coffin.
+* ***Dominio della Montagna.*** Finché Strahd mantiene il potere della Fana della Montagna, è sotto l’effetto di un incantesimo *nonindividuazione* permanente.
+* ***Dominio della Palude.*** Finché Strahd mantiene il potere della Fana della Palude, può lanciare *immagine maggiore* e *muovere terra* senza componenti.
+* ***Dominio della Foresta.*** Finché Strahd mantiene il potere della Fana della Foresta, può lanciare *percezione delle bestie* e *localizza creatura* senza componenti.
+* ***Rigenerazione.*** Se Strahd viene distrutto mentre mantiene il potere di almeno una delle Fane, ottiene un nuovo corpo in 24 ore, recuperando tutti i suoi punti ferita e le sue fasi e tornando attivo. Il suo nuovo corpo appare nella sua bara.
 
-> [!info]+ **Vampiric Forbiddance**
+> [!info]+ **Interdizione Vampirica**
 >
-> When deciding whether and how Strahd's ***Forbiddance*** feature applies, use the following definitions:
+> Quando si decide se e come si applica la caratteristica ***Interdizione*** di Strahd, usare le seguenti definizioni:
 >
-> A **residence** is a place of residence that is not generally open to the public, including houses, apartments, cabins, and even certain types of rooms within a larger building, like an inn or church, provided they are used for living purposes and offer some degree of privacy. The definition does not include public places like taverns, shops, streets, or town squares.
+> Un’**abitazione** è un luogo di residenza che non è generalmente aperto al pubblico, incluse case, appartamenti, capanne e persino certi tipi di stanze all’interno di un edificio più grande, come una locanda o una chiesa, purché siano usate per scopi abitativi e offrano un certo grado di privacy. La definizione non include luoghi pubblici come taverne, negozi, strade o piazze cittadine.
 >
-> An **occupant** is an individual who expects to reside in the dwelling indefinitely, or a guest of such an individual. This person must have some claim to the space, such as by being a homeowner, renter, tenant, or guest of one of the aforementioned.
+> Un **occupante** è un individuo che si aspetta di risiedere nell’abitazione a tempo indeterminato, o un ospite di tale individuo. Questa persona deve avere qualche diritto sullo spazio, come essere proprietario, affittuario, inquilino o ospite di uno dei suddetti.
 >
-> Remember that an occupant charmed by the ***charm*** ability of Strahd’s Vampire phase will gladly invite him to enter if asked.
+> Ricordare che un occupante affascinato dall’abilità ***fascino*** della fase Vampiro di Strahd lo inviterà volentieri ad entrare se richiesto.
 
-## Strahd's Statistics
-### The Mage
+## Statistiche di Strahd
+### Il Mago
 <br>
 <div class="statblock">
 <h2>Strahd, the Mage</h2>
@@ -251,7 +251,7 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 </div>
 
 
-### The Soldier
+### Il Soldato
 <br>
 <div class="statblock">
 <h2>Strahd, the Soldier</h2>
@@ -322,9 +322,9 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 <p><strong><em>Wrath of Nature (requires Forest Fane).</em></strong> Strahd casts <em>wrath of nature</em> without components or concentration. When he casts it in this way, Strahd can’t use the spell’s <strong><em>rocks</em></strong> effect.
 </div>
 
->[!info]+ **Fog Bank**
->Because fog only creates heavy obscurement and does not extinguish or otherwise dim sources of light, Strahd and other undead are still affected by sunlight created by the *Sunsword* and other sources while heavily obscured by fog.
-### The Vampire
+>[!info]+ **Banco di Nebbia**
+>Poiché la nebbia crea solo oscuramento pesante e non estingue né attenua in altro modo le fonti di luce, Strahd e altri non morti sono comunque influenzati dalla luce solare creata dalla *Lama del Sole* e da altre fonti mentre sono pesantemente oscurati dalla nebbia.
+### Il Vampiro
 <br>
 <div class="statblock"> <h2>Strahd, the Vampire</h2> <em>Medium undead (shapechanger), lawful evil</em> <hr> <strong>Armor Class</strong> 16 (natural armor) <br> <strong>Hit Points</strong> 331 (39d8 + 156) <br> <strong>Speed</strong> 40 ft., climb 40 ft. <hr> <table class="ability-table"> <thead> <tr> <th>STR</th> <th>DEX</th> <th>CON</th> <th>INT</th> <th>WIS</th> <th>CHA</th> </tr> </thead> <tbody> <tr> <td>20 (+5)</td> <td>20 (+5)</td> <td>18 (+4)</td> <td>20 (+5)</td> <td>15 (+2)</td> <td>20 (+5)</td> </tr> </tbody> </table> <hr> <strong>Saving Throws</strong> Dex +12, Wis +9, Cha +12<br> <strong>Skills</strong> Arcana +19, Athletics +12, Deception +19, Insight +9, Perception +16, Religion +13, Stealth +19<br> <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br> <strong>Senses</strong> darkvision 120 ft., passive Perception 24<br> <strong>Languages</strong> Abyssal, Common, Draconic, Elvish, Giant, Infernal<br> <strong>Challenge</strong> 21, or 19 when fought in sunlight<br> <strong>Proficiency Bonus.</strong> +7<br> <hr> 
 <p><strong><em>Close Quarters Fighter.</em></strong> Strahd doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
@@ -353,45 +353,45 @@ While Strahd retains a connection to the Fanes of Barovia, he also possesses the
 </div>
 
 
-# Design Notes: Strahd von Zarovich
-***Roleplaying Strahd.*** The Gentleman, the Tyrant, and the Monster reflect three distinct popular community interpretations of Strahd's character. Many DMs will attempt to combine two or more of these archetypes into their campaign at a time, but doing so can risk making Strahd's character feel inconsistent and unpredictable. 
+# Note di Design: Strahd von Zarovich
+***Interpretare Strahd.*** Il Gentiluomo, il Tiranno e il Mostro riflettono tre distinte interpretazioni popolari nella community del personaggio di Strahd. Molti DM tenteranno di combinare due o più di questi archetipi nella loro campagna contemporaneamente, ma farlo rischia di rendere il personaggio di Strahd incoerente e imprevedibile.
 
-As such, this section provides a structured, methodical approach to developing Strahd's character through his relationship with the players. Importantly, each transition is tied to a particular point in the adventure's timeline, ensuring that Strahd does not, for example, spoil his relationship with the players before inviting them to dinner, or treat them as enemies before they have the capacity to defend themselves.
+Pertanto, questa sezione fornisce un approccio strutturato e metodico allo sviluppo del personaggio di Strahd attraverso la sua relazione con i giocatori. È importante notare che ogni transizione è legata a un punto particolare nella linea temporale dell’avventura, assicurando che Strahd non rovini, ad esempio, il suo rapporto con i giocatori prima di invitarli a cena, o li tratti come nemici prima che abbiano la capacità di difendersi.
 
-***Strahd's Relationships.*** This section preserves Strahd's canonical relationship with Ireena in order to keep his (cold, calculating, and sociopathic) characterization consistent.
+***Relazioni di Strahd.*** Questa sezione preserva la relazione canonica di Strahd con Ireena per mantenere coerente la sua caratterizzazione (fredda, calcolatrice e sociopatica).
 
-***Strahd's Goals.*** This section is structured to ensure a high-tension, action-packed sequence of challenges from the beginning to the end of the campaign. Specifically, it explains:
+***Obiettivi di Strahd.*** Questa sezione è strutturata per garantire una sequenza di sfide ad alta tensione e ricca d’azione dall’inizio alla fine della campagna. Nello specifico, spiega:
 
-* why Strahd does not simply seize Ireena from the players (he fears the Dark Powers’ intervention if he does not escape Barovia first); 
-* why Strahd’s forces are attacking St. Andral’s Church and the Wizard of Wines winery (he seeks to break the Barovians’ spirit to fuel his escape ritual); 
-* why Strahd does not assist his forces in defeating the players at St. Andral’s Church or the Wizard of Wines winery (he seeks to separate the weak from the strong);
-* why Strahd “tests” the players instead of killing them (he wants to find generals for his future armies);
-* why the players must reconsecrate the Fanes (they must stop Strahd from using them in his ritual and remove Strahd's immortality);
-* why Strahd does not simply kill the players when they reconsecrate the Fanes (he seeks to use them as alternate conduits to the Fanes); 
-* why the players cannot bring an army of allies to Castle Ravenloft (they are preoccupied defending their homes from Strahd’s undead apocalypse); and 
-* why the players must confront Strahd at Castle Ravenloft (they must do so to end his undead apocalypse).
+* perché Strahd non si limita a prendere Ireena dai giocatori (teme l’intervento delle Potenze Oscure se non fugge prima da Barovia);
+* perché le forze di Strahd attaccano la Chiesa di Sant’Andral e la tenuta del Mago dei Vini (cerca di spezzare lo spirito dei baroviani per alimentare il suo rituale di fuga);
+* perché Strahd non aiuta le sue forze a sconfiggere i giocatori alla Chiesa di Sant’Andral o alla tenuta del Mago dei Vini (cerca di separare i deboli dai forti);
+* perché Strahd “mette alla prova” i giocatori invece di ucciderli (vuole trovare generali per i suoi futuri eserciti);
+* perché i giocatori devono riconsacrare le Fane (devono impedire a Strahd di usarle nel suo rituale e rimuovere l’immortalità di Strahd);
+* perché Strahd non uccide semplicemente i giocatori quando riconsacrano le Fane (cerca di usarli come condotti alternativi alle Fane);
+* perché i giocatori non possono portare un esercito di alleati al Castello Ravenloft (sono impegnati a difendere le loro case dall’apocalisse non morta di Strahd); e
+* perché i giocatori devono affrontare Strahd al Castello Ravenloft (devono farlo per porre fine alla sua apocalisse non morta).
 
-***Strahd's Allies.*** For reasons of both balance and narrative, it is important that Strahd faces the final fight alone.
+***Alleati di Strahd.*** Per ragioni sia di bilanciamento che narrative, è importante che Strahd affronti il combattimento finale da solo.
 
-***Strahd's Tactics.*** Strahd's original statblock is exceptionally fragile, allowing players to destroy him *without* the Sunsword as early as level 6. His ***phasing*** lair action, however, turns the original final battle into a torturous slog, ensuring that the players cannot win unless the Dungeon Master allows it or makes a mistake.
+***Tattiche di Strahd.*** Il blocco statistiche originale di Strahd è eccezionalmente fragile, permettendo ai giocatori di distruggerlo *senza* la Lama del Sole già al livello 6. La sua azione di tana ***passaggio attraverso i muri***, tuttavia, trasforma la battaglia finale originale in un calvario estenuante, assicurando che i giocatori non possano vincere a meno che il Dungeon Master non lo permetta o commetta un errore.
 
-Many substitute statblocks have been proposed, increasing Strahd's Challenge Rating beyond his original difficulty. However, these strengthened statblocks fail for two simple reasons: 
+Sono stati proposti molti blocchi statistiche sostitutivi, aumentando il Grado di Sfida di Strahd oltre la difficoltà originale. Tuttavia, questi blocchi statistiche potenziati falliscono per due semplici ragioni:
 
-* Any Strahd statblock that is powerful enough to survive the players' attacks for more than three rounds is also powerful enough to knock players unconscious with a single attack, thereby starting a "death spiral" that kills the entire party.
-* Any Strahd statblock that is unable to knock players unconscious with a single attack is fragile and must rely on hit-and-run guerilla tactics instead, disappointing and frustrating players who had rightfully expected an epic confrontation.
+* Qualsiasi blocco statistiche di Strahd abbastanza potente da sopravvivere agli attacchi dei giocatori per più di tre round è anche abbastanza potente da rendere privi di sensi i giocatori con un singolo attacco, innescando così una “spirale mortale” che uccide l’intero gruppo.
+* Qualsiasi blocco statistiche di Strahd incapace di rendere privi di sensi i giocatori con un singolo attacco è fragile e deve fare affidamento su tattiche mordi-e-fuggi di guerriglia, deludendo e frustrando i giocatori che avevano giustamente previsto uno scontro epico.
 
- This issue can be solved by dramatically increasing Strahd's hit points and/or Armor Class (i.e., "Defensive Challenge Rating") while dramatically decreasing his attack bonus and/or damage output (i.e., "Offensive Challenge Rating"). These changes dramatically increase his lifespan without risking a TPK, ensuring a long, yet winnable boss battle
+Questo problema può essere risolto aumentando drasticamente i punti ferita e/o la Classe Armatura di Strahd (ovvero, il “Grado di Sfida Difensivo”) riducendo al contempo drasticamente il suo bonus di attacco e/o i danni inflitti (ovvero, il “Grado di Sfida Offensivo”). Queste modifiche aumentano drasticamente la sua sopravvivenza senza rischiare un TPK, garantendo una lunga ma vincibile battaglia col boss.
 
-Long battles, however, leave players exhausted and bored—especially for playgroups whose combats run slow. To inject energy and dynamism into the fight, we can split Strahd's statblock into three parts, or "phases," with each phase bestowing Strahd with new abilities and features. Each phase has been calibrated using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) to survive approximately three to four rounds against an average 10th-level party wielding the *Sunsword* and *Holy Symbol of Ravenkind* and accompanied by Ezmerelda d'Avenir, Ireena Kolyana, and Kasimir Velikov; the entire combat encounter should last nine to twelve rounds in total.
+Le battaglie lunghe, tuttavia, lasciano i giocatori esausti e annoiati — specialmente per i gruppi i cui combattimenti procedono lentamente. Per iniettare energia e dinamismo nel combattimento, possiamo dividere il blocco statistiche di Strahd in tre parti, o “fasi”, con ogni fase che conferisce a Strahd nuove abilità e caratteristiche. Ogni fase è stata calibrata usando [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) per sopravvivere circa tre o quattro round contro un gruppo medio di 10° livello che brandisce la *Lama del Sole* e il *Simbolo Sacro di Ravenkind* e accompagnato da Ezmerelda d’Avenir, Ireena Kolyana e Kasimir Velikov; l’intero incontro di combattimento dovrebbe durare da nove a dodici round in totale.
 
-To strengthen the themes of the final fight, each phase reflects a part of Strahd's history and descent into darkness: the Soldier (reflecting his history as a conqueror); the Mage (reflecting his search for immortality); and the Monster (reflecting his passage into undeath).
+Per rafforzare i temi del combattimento finale, ogni fase riflette una parte della storia di Strahd e della sua discesa nell’oscurità: il Soldato (che riflette la sua storia come conquistatore); il Mago (che riflette la sua ricerca dell’immortalità); e il Mostro (che riflette il suo passaggio nella non morte).
 
-Even with a multi-phase statblock, however, Strahd's battlefield remains relatively stagnant. To introduce additional tactics and dynamics into the fight, each of Strahd's phases have been given the following: two attack options (for moving enemies and imposing conditions, respectively); two bonus attack options (for punishing short- and long-range foes, respectively); and two reaction options (for escaping and aggressing, respectively). 
+Anche con un blocco statistiche multi-fase, tuttavia, il campo di battaglia di Strahd rimane relativamente statico. Per introdurre tattiche e dinamiche aggiuntive nel combattimento, a ciascuna delle fasi di Strahd sono stati dati: due opzioni di attacco (per spostare i nemici e imporre condizioni, rispettivamente); due opzioni di attacco bonus (per punire i nemici a corto e lungo raggio, rispettivamente); e due opzioni di reazione (per fuggire e aggredire, rispettivamente).
 
-Strahd's legendary actions have also been replaced with the ability to take multiple reactions per round, maintaining his ability to react to changing circumstances while reducing memory issues for the DM.
+Le azioni leggendarie di Strahd sono state inoltre sostituite con la capacità di effettuare più reazioni per round, mantenendo la sua capacità di reagire alle circostanze mutevoli riducendo al contempo i problemi di memoria per il DM.
 
-Note that the Mage statblock intentionally foregoes a traditional "spellcasting" feature in favor of an action-oriented selection of spells. While some DMs might be disappointed by Strahd's lack of choice, it is important to remember that each phase will survive for only a short period of time; as such, Strahd's spells have been carefully curated in order to provide players with the most challenging, tactical, and memorable experience possible.
+Si noti che il blocco statistiche del Mago rinuncia intenzionalmente a una tradizionale caratteristica “lancio di incantesimi” in favore di una selezione di incantesimi orientata all’azione. Sebbene alcuni DM possano essere delusi dalla mancanza di scelta di Strahd, è importante ricordare che ogni fase sopravviverà solo per un breve periodo di tempo; pertanto, gli incantesimi di Strahd sono stati accuratamente selezionati per fornire ai giocatori l’esperienza più stimolante, tattica e memorabile possibile.
 
-***Vampire Forbiddance.*** Tension is the key to horror, and monsters are therefore scary only when bound by meaningful rules. Permitting Strahd to enter any home simply because “he is the Land” removes the players’ ability to meaningfully prevent it, thereby removing a large amount of suspenseful gameplay. 
+***Interdizione Vampirica.*** La tensione è la chiave dell’orrore, e i mostri sono quindi spaventosi solo quando vincolati da regole significative. Permettere a Strahd di entrare in qualsiasi casa semplicemente perché “egli è la Terra” rimuove la capacità dei giocatori di impedirlo in modo significativo, eliminando così una grande quantità di gameplay carico di suspense.
 
-Moreover, a monster is only as resonant as its most notable weaknesses; a werewolf that cannot be killed with silver, for example, is hardly a werewolf at all. Removing Strahd’s *Forbiddance* destroys a key part of the horror fantasy: the ability to defy a monster using its unique rules and weaknesses. As such, this guide intentionally retains that feature.
+Inoltre, un mostro è tanto memorabile quanto le sue debolezze più note; un lupo mannaro che non può essere ucciso con l’argento, ad esempio, non è quasi un lupo mannaro. Rimuovere l’*Interdizione* di Strahd distrugge una parte chiave della fantasia horror: la capacità di sfidare un mostro usando le sue regole e debolezze uniche. Pertanto, questa guida mantiene intenzionalmente quella caratteristica.
