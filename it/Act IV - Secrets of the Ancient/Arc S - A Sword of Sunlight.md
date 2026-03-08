@@ -1,1152 +1,1152 @@
-_An adventure for five 8th-level characters._
+_Un'avventura per cinque personaggi di 8° livello._
 
-In this arc, the players delve into the depths of the frozen Amber Temple in search of the long-lost hilt of the *Sunsword*: the one weapon that can help them defeat Strahd. But the Amber Temple is protected—by a scheming arcanaloth in disguise, a trio of maddened flameskulls, and a pair of deadly amber golems—and occupied by a host of other threats, from a recently arrived death slaad to the Dark Powers' first prisoner: the traitorous wizard Vilnius.
+In questo arco, i giocatori si addentrano nelle profondità del ghiacciato Tempio d'Ambra alla ricerca dell'elsa perduta da tempo della *Lama del Sole*: l'unica arma che può aiutarli a sconfiggere Strahd. Ma il Tempio d'Ambra è protetto — da un astuto arcanaloth travestito, un trio di teschiardenti impazziti e una coppia di letali golem d'ambra — e occupato da una schiera di altre minacce, da un slaad della morte arrivato di recente al primo prigioniero dei Poteri Oscuri: il mago traditore Vilnius.
 
-As the players uncover the temple's ancient secrets, one question dominates their minds: Where did Patrina Velikovna, the dusk elf archmage and failed lich, hide the *Sunsword*'s hilt? Their search will take them to a group of meditating Mountain Folk, a maddened nothic, a table of wary spirits, and—eventually—the amber sarcophagus of the vestige of the Vampyr, where Strahd first accepted the dark gift of vampirism. But the *Sunsword*'s hilt, hidden in a secret demiplane within the Vampyr's prison, conceals a deadly secret: the disembodied spirit of Patrina Velikovna, who sought to use it as her phylactery. Can the players defeat Patrina and reignite the *Sunsword*—before Strahd's trials defeat them first?
+Mentre i giocatori scoprono gli antichi segreti del tempio, una domanda domina le loro menti: Dove ha nascosto Patrina Velikovna, l'arcimaga elfa del crepuscolo e lich mancata, l'elsa della *Lama del Sole*? La loro ricerca li porterà a un gruppo di membri del Popolo della Montagna in meditazione, un nothic impazzito, un tavolo di spiriti diffidenti e — infine — al sarcofago d'ambra del vestigio del Vampyr, dove Strahd accettò per la prima volta il dono oscuro del vampirismo. Ma l'elsa della *Lama del Sole*, nascosta in un semipiano segreto nella prigione del Vampyr, cela un mortale segreto: lo spirito incorporeo di Patrina Velikovna, che cercò di usarla come suo filatterio. I giocatori riusciranno a sconfiggere Patrina e a riaccendere la *Lama del Sole* — prima che le prove di Strahd li sconfiggano?
 
-> [!warning]+ **Beacon of Protection**
-> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
+> [!warning]+ **Faro di Protezione**
+> Non dimenticate: finché il faro di Argynvost è acceso, anche i PNG che si oppongono a Strahd ottengono un bonus di +1 alla CA e ai tiri salvezza.
 
-> [!lore]+ **Operations of the Amber Temple**
-> More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
-> 
-> In the temple’s early days, the senior members of the society frequently departed its walls to capture and transport additional vestiges, described further in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Once brought to the temple, vestiges were taken to [[#S7d. Ritual Chamber]], where they were sealed inside amber sarcophagi. Once sealed, vestiges were locked away in the [[#East Vaults]], [[#West Vaults]], or—for vestiges of considerable lingering power—the [[#Amber Vault]].
+> [!lore]+ **Operazioni del Tempio d'Ambra**
+> Più di duemila anni fa, una società segreta di maghi di allineamento buono costruì il Tempio d'Ambra come descritto nel <span class="citation">Capitolo 13: Il Tempio d'Ambra (p. 181)</span>. La società, fondata inizialmente da un **arcimago** e tre **maghi**, arrivò infine a includere ventiquattro **apprendisti maghi** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), che i fondatori addestrarono per espandere e proseguire il loro lavoro.
 >
-> While residing at the temple, the society’s **archmage** stayed in [[#S7. Archmage’s Quarters]], while its senior **mages** kept separate chambers in the [[#West Quarters]] and [[#East Quarters]]. One senior **mage** was always present to supervise the society’s **apprentice wizards**, who slept in bunk beds in the [[#West Barracks]] and [[#East Barracks]]. Senior **mages** and the **archmage** took meals in their own rooms.
+> Nei primi giorni del tempio, i membri anziani della società lasciavano frequentemente le sue mura per catturare e trasportare ulteriori vestigi, descritti ulteriormente in [[Lore of Barovia#Amber Vestiges|Lore of Barovia]]. Una volta portati al tempio, i vestigi venivano condotti nella [[#S7d. Camera Rituale]], dove venivano sigillati in sarcofagi d'ambra. Una volta sigillati, i vestigi venivano rinchiusi nelle [[#Cripte Orientali]], [[#Cripte Occidentali]], o — per vestigi di considerevole potere residuo — nella [[#Cripta d'Ambra]].
 >
-> Members of the society guarded the temple from the [[#West Guard Post]] and [[#East Guard Post]] in eight-hour shifts, with four **apprentice wizards** and one **mage** assigned to each shift. Apprentices shared bunk beds, ate in the [[#Dining Hall]], and took guard duty on alternating days. When not guarding the temple, apprentices either gathered in the [[#Lecture Hall]] to learn from a senior mage, practiced spellcasting in the [[#Training Hall]], or helped with cleaning, cooking in the [[#Architect’s Room]] (then a kitchen), scribing scrolls in the [[#West Scroll Repository]] and [[#East Scroll Repository]], brewing potions in the [[#Brewing Room]], and otherwise assisting senior mages with their work.
+> Mentre risiedevano al tempio, l'**arcimago** della società dimorava nella [[#S7. Alloggi dell'Arcimago]], mentre i **maghi** anziani tenevano camere separate negli [[#Alloggi Occidentali]] e [[#Alloggi Orientali]]. Un **mago** anziano era sempre presente per supervisionare gli **apprendisti maghi** della società, che dormivano in letti a castello nelle [[#Caserme Occidentali]] e [[#Caserme Orientali]]. I **maghi** anziani e l'**arcimago** consumavano i pasti nelle proprie stanze.
 >
-> The temple contained two treasuries—[[#S6a. West Treasury]] and [[#S6b. East Treasury]]—which contained magical artifacts guarded by one **amber golem** each. Above them, rear balconies in [[#S2b. Atrium]] led to two shrines to the temple’s god of secrets. Apprentices advanced through the society’s ranks by undergoing trials at these shrines: those who resisted the terror roused by the *antipathy* spell of the [[#Shrine of Fear]] were promoted to journeymen and given authority over the other apprentices, while journeymen who resisted the *sympathy* spell of the [[#Shrine of Temptation]] became full-fledged wizards, permitted to journey with senior **mages** abroad to capture and transport new vestiges for the temple.
+> I membri della società sorvegliavano il tempio dal [[#Posto di Guardia Occidentale]] e dal [[#Posto di Guardia Orientale]] in turni di otto ore, con quattro **apprendisti maghi** e un **mago** assegnati a ogni turno. Gli apprendisti condividevano letti a castello, mangiavano nella [[#Sala da Pranzo]] e prestavano servizio di guardia a giorni alterni. Quando non sorvegliavano il tempio, gli apprendisti si radunavano nella [[#Sala delle Lezioni]] per imparare da un mago anziano, praticavano l'incantesimo nella [[#Sala di Addestramento]], o aiutavano con la pulizia, la cucina nella [[#Stanza dell'Architetto]] (allora una cucina), la copiatura di pergamene nel [[#Deposito Pergamene Occidentale]] e [[#Deposito Pergamene Orientale]], la preparazione di pozioni nella [[#Sala di Preparazione]], e altrimenti assistevano i maghi anziani nel loro lavoro.
+>
+> Il tempio conteneva due tesorerie — [[#S6a. Tesoreria Occidentale]] e [[#S6b. Tesoreria Orientale]] — che contenevano artefatti magici sorvegliati da un **golem d'ambra** ciascuna. Sopra di esse, balconate posteriori nel [[#S2b. Atrio]] conducevano a due santuari al dio dei segreti del tempio. Gli apprendisti avanzavano nei ranghi della società sottoponendosi a prove in questi santuari: coloro che resistevano al terrore suscitato dall'incantesimo *antipatia* del [[#Santuario della Paura]] venivano promossi a lavoranti e ricevevano autorità sugli altri apprendisti, mentre i lavoranti che resistevano all'incantesimo *simpatia* del [[#Santuario della Tentazione]] diventavano maghi a tutti gli effetti, cui era permesso viaggiare con i **maghi** anziani all'estero per catturare e trasportare nuovi vestigi per il tempio.
 
-> [!lore]+ **Downfall of the Temple**
-> The first generation of wizards within the Amber Temple dedicated themselves not only to the vestiges’ imprisonment, but also to the study of their essence and power, such that the wizards could continue to devise and improve rituals to capture, transport, and imprison them. As they died, the first generation—who knew too much dangerous information to risk interrogation under a *speak with dead* spell—were buried in [[#S3. Catacombs]], many beside treasures, relics, or magic items they had obtained in life.
+> [!lore]+ **Caduta del Tempio**
+> La prima generazione di maghi nel Tempio d'Ambra si dedicò non solo all'imprigionamento dei vestigi, ma anche allo studio della loro essenza e potere, affinché i maghi potessero continuare a ideare e migliorare rituali per catturarli, trasportarli e imprigionarli. Quando morirono, la prima generazione — che conosceva troppe informazioni pericolose per rischiare un interrogatorio con un incantesimo *parlare coi morti* — fu sepolta nelle [[#S3. Catacombe]], molti accanto a tesori, reliquie o oggetti magici ottenuti in vita.
 >
-> The second generation of wizards at the temple included many recruits raised from youth to fear the vestiges’ power, as well as several mages born and raised in the Amber Temple itself. With the temple’s amber vaults now largely filled, the second generation grew far more zealous than the first, withdrawing from study of the vestiges in favor of strict imprisonment. Any member suspected of studying the vestiges was severely punished.
+> La seconda generazione di maghi del tempio includeva molte reclute cresciute fin dalla giovinezza nel timore del potere dei vestigi, nonché diversi maghi nati e cresciuti nel Tempio d'Ambra stesso. Con le cripte d'ambra del tempio ormai in gran parte riempite, la seconda generazione divenne assai più zelante della prima, ritirandosi dallo studio dei vestigi in favore di una stretta prigionia. Qualsiasi membro sospettato di studiare i vestigi veniva severamente punito.
 >
-> As the third generation of temple wizards came into power, a number of rising members secretly rejected the second generation’s zealotry. Instead, their curiosity drove them to seek out knowledge of the beings they had long imprisoned, yet rarely seen. Study of the vestiges resumed sparingly, and in secret, with only a few members daring to take advantage of growing lapses in security. 
+> Quando la terza generazione di maghi del tempio salì al potere, un certo numero di membri emergenti rifiutò segretamente lo zelo della seconda generazione. La loro curiosità li spinse invece a cercare conoscenza degli esseri che avevano a lungo imprigionato, ma raramente visto. Lo studio dei vestigi riprese con parsimonia, e in segreto, con solo pochi membri che osavano approfittare delle crescenti falle nella sicurezza.
 >
-> One day, however, one of the senior **mages** of the temple—convinced that no harm could come from doing so, and driven mad by long-standing curiosity—disarmed the *arcane lock* protecting <span class="citation">X33a. Vault of Shalx (p. 191)</span> in the [[#Southeast Vaults]] and accepted the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala’s power, however, corrupted the mage, and he used the vestige’s dark gift to kill a rival **mage** soon thereafter.
+> Un giorno, tuttavia, uno dei **maghi** anziani del tempio — convinto che nessun danno potesse derivarne, e reso folle da una curiosità di lunga data — disattivò la *serratura arcana* che proteggeva la <span class="citation">X33a. Cripta di Shalx (p. 191)</span> nelle [[#Cripte Sud-orientali]] e accettò il dono oscuro di Zrin-Hala, la Tempesta Ululante. Il potere di Zrin-Hala, tuttavia, corruppe il mago, ed egli usò il dono oscuro del vestigio per uccidere un **mago** rivale poco dopo.
 >
-> Although the perpetrator was caught and executed, the murder left the wizards of the Amber Temple insular and fearful. As the security wards continued to weaken, the vestiges reached out from their dreamless sleep within their sarcophagi and whispered to their captors in their sleep, driving them further into delusion and paranoia. 
+> Sebbene il colpevole fu catturato e giustiziato, l'omicidio rese i maghi del Tempio d'Ambra insulari e timorosi. Mentre le protezioni di sicurezza continuavano a indebolirsi, i vestigi si protesero dal loro sonno senza sogni nei sarcofagi e sussurrarono ai loro carcerieri nel sonno, spingendoli ulteriormente nel delirio e nella paranoia.
 >
-> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
+> Il capo della società, un arcimago di nome Exethanter, adottò l'abitudine di bere solo da una brocca incantata, descritta ulteriormente in <span class="citation">X22. Annesso Nord-occidentale (p. 187)</span>. Tuttavia, l'apprendista di Exethanter, un uomo paranoico di nome Vilnius, si convinse che Exethanter cospirasse per ucciderlo, e sostituì segretamente la brocca con una contraffatta riempita di veleno. Quando fu bevuto, il veleno uccise sia Exethanter che diversi altri maghi e apprendisti, i cui spiriti inquieti indugiarono come **spettri** e **ombre** nella [[#Sala da Pranzo]].
 >
-> The society fractured. Wizards barricaded themselves in their rooms, and battles erupted in the halls. Some looted the catacombs or treasuries, then fled. In the end, only one wizard remained: Vilnius. Driven mad by his paranoia, Vilnius became terrified that enemies lurked everywhere outside of the temple, and hid himself away in the [[#Lecture Hall]] until he starved to death. The Dark Powers—born from the vestiges’ dark miasma, the clash of powerful magics, and the psychic resonance of so many violent deaths—entrapped his soul there, taking sustenance from his terror and despair.
+> La società si fratturò. I maghi si barricarono nelle loro stanze, e battaglie scoppiarono nei corridoi. Alcuni saccheggiarono le catacombe o le tesorerie, poi fuggirono. Alla fine, rimase un solo mago: Vilnius. Reso folle dalla sua paranoia, Vilnius si terrorizzò all'idea che nemici si celassero ovunque fuori dal tempio, e si nascose nella [[#Sala delle Lezioni]] finché non morì di fame. I Poteri Oscuri — nati dal miasma oscuro dei vestigi, dallo scontro di potenti magie e dalla risonanza psichica di tante morti violente — intrappolarono la sua anima là, traendo nutrimento dal suo terrore e dalla sua disperazione.
 >
-> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
+> Diversi anni dopo il crollo della società, ladri arcani — informati da ex membri che erano fuggiti dal caos — tentarono di razziare il tempio per reliquie magiche e tesori. Sebbene scavarono un pozzo nella <span class="citation">X33a. Cripta di Shalx (p. 191)</span> nelle [[Cripte Orientali]] e riuscirono a penetrare nella [[#S6a. Tesoreria Occidentale]], tutti tranne uno furono uccisi dal **golem d'ambra** che vi dimorava; le loro anime, intrappolate dai Poteri Oscuri, divennero **poltergeist**. L'unico sopravvissuto fuggì con una borsa piena di frammenti d'ambra, che presto si diffusero per la valle sottostante e le terre ben oltre.
 >
-> The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a Vistani caravan after Strahd crushed the dusk elves’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
+> Il tempio, rotto, adombrato e vuoto, sonnecchiò dimenticato tra le montagne — finché la maga elfa del crepuscolo Patrina Velikovna non si imbatté nel segreto della sua esistenza quasi duemila anni dopo. Scortata nella valle da una carovana Vistani dopo che Strahd aveva schiacciato la ribellione degli elfi del crepuscolo, Patrina trovò la via per il tempio, dove disattivò le sue protezioni arcane e cercò i segreti che celavano. Ignorando i vestigi più deboli che dimoravano nelle [[#Cripte Orientali]] e [[#Cripte Occidentali]], non passò molto prima che Patrina scoprisse il suo vero premio: l'oceano di conoscenza arcana che dimorava nella [[#S7b. Biblioteca dell'Arcimago]] — nonché il fantasma dell'**arcimago** Exethanter che vi dimorava.
 >
-> Moved by Patrina’s tale of the dusk elves’ persecution, Exethanter reluctantly agreed to take her on as an apprentice. Unbeknownst to him, however, Patrina secretly obtained forbidden tomes from the temple’s shelves and studied the dark arts, even as she communed with the vestige of Tenebrous within [[#S6c. Amber Vault]], hoping to grow powerful enough to become a lich. When Exethanter learned of her duplicity, he attempted to banish her from the temple—but Patrina overpowered him instead, binding his spirit and sealing it away within [[#S7d. Ritual Chamber]], where he could trouble her no more.
+> Commosso dal racconto di Patrina della persecuzione degli elfi del crepuscolo, Exethanter accettò con riluttanza di prenderla come apprendista. A sua insaputa, tuttavia, Patrina ottenne segretamente tomi proibiti dagli scaffali del tempio e studiò le arti oscure, anche mentre comunicava col vestigio di Tenebrous nella [[#S6c. Cripta d'Ambra]], sperando di diventare abbastanza potente da diventare una lich. Quando Exethanter scoprì la sua doppiezza, tentò di bandirla dal tempio — ma Patrina lo sopraffece invece, vincolando il suo spirito e sigillandolo nella [[#S7d. Camera Rituale]], dove non avrebbe potuto più darle fastidio.
 >
-> With Exethanter’s ghost dispatched, Patrina set out to reshape the temple in her own image. She raised the society’s long-dead wizards as **flameskulls**, reprogrammed the **amber golems** to obey her commands, and keyed the temple’s wards to admit her alone. 
+> Col fantasma di Exethanter eliminato, Patrina si mise a rimodellare il tempio a propria immagine. Rianimò i maghi morti da tempo della società come **teschiardenti**, riprogrammò i **golem d'ambra** per obbedire ai suoi comandi, e configurò le protezioni del tempio per ammettere lei sola.
 >
-> When Strahd conquered Barovia and began to gather mages to raise Castle Ravenloft, it was Patrina who brought him to the Amber Temple to tempt him with the power of Tenebrous—followed soon thereafter by the **archmage** Khazan, who Patrina reluctantly allowed to study the temple’s wealth of knowledge to avoid Strahd’s suspicion. There, Khazan, Strahd, and the great architect Artimus developed a plan for how Castle Ravenloft would be built: no ordinary keep, but a fortress hewn from the stone of the Pillarstone of Ravenloft itself, filled with protective enchantments and magical traps that would defend it from any invader. 
+> Quando Strahd conquistò Barovia e cominciò a radunare maghi per innalzare Castel Ravenloft, fu Patrina a portarlo al Tempio d'Ambra per tentarlo col potere di Tenebrous — seguita poco dopo dall'**arcimago** Khazan, che Patrina permise con riluttanza di studiare la ricchezza di conoscenza del tempio per evitare i sospetti di Strahd. Là, Khazan, Strahd e il grande architetto Artimus svilupparono un piano per come Castel Ravenloft sarebbe stato costruito: nessuna fortezza ordinaria, ma una roccaforte scavata dalla pietra della Pietra Pilastro di Ravenloft stessa, piena di incantamenti protettivi e trappole magiche che l'avrebbero difesa da qualsiasi invasore.
 >
-> The Dark Powers, however, grew entranced by Strahd’s capacity for selfishness and cruelty—and, when Strahd grew envious of Tatyana’s love for Sergei, offered him the *amber shard of the Vampyr*. From their pact, the Dark Powers gained a foothold beyond the temple’s walls—and, when Strahd died and became a vampire, spirited him (and, due to his connection to the Fanes, the valley of Barovia) away into their eternal clutches. Although the Dark Powers now dwell all through and around Barovia, the Amber Temple is where their presence can be most strongly felt—and, as the umbilical cord from which Strahd’s prison was born, the place where the boundaries between worlds are weakest.
-# S1. Temple Exterior
-<span class="citation">This scene takes place in Chapter 13, Area X1.</span>
+> I Poteri Oscuri, tuttavia, furono affascinati dalla capacità di egoismo e crudeltà di Strahd — e, quando Strahd divenne invidioso dell'amore di Tatyana per Sergei, gli offrirono il *frammento d'ambra del Vampyr*. Dal loro patto, i Poteri Oscuri ottennero un punto d'appoggio oltre le mura del tempio — e, quando Strahd morì e divenne un vampiro, trasportarono lui (e, per via della sua connessione ai Fani, la valle di Barovia) nelle loro grinfie eterne. Sebbene i Poteri Oscuri ora dimorino in tutta Barovia e attorno ad essa, il Tempio d'Ambra è il luogo dove la loro presenza può essere sentita più fortemente — e, come il cordone ombelicale da cui nacque la prigione di Strahd, il luogo dove i confini tra i mondi sono più deboli.
+# S1. Esterno del Tempio
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X1.</span>
 
-> [!info]+ **Why Amber?**
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls that amber has a unique magical property: it is a magical “insulator," and cannot be damaged or crossed by any kind of energy, be it magical or divine. On a result of 20 or more, the player further recalls that magical energies can pass through amber only very slowly, on a timescale of years to decades.
+> [!info]+ **Perché l'Ambra?**
+> Un giocatore che supera una prova di CD 15 in Intelligenza (Arcano) ricorda che l'ambra ha una proprietà magica unica: è un «isolante» magico, e non può essere danneggiata o attraversata da alcun tipo di energia, sia magica che divina. Con un risultato di 20 o più, il giocatore ricorda inoltre che le energie magiche possono passare attraverso l'ambra solo molto lentamente, su una scala temporale di anni o decenni.
 
-> [!lore]+ **The Dark Miasma**
-> The founders of the Amber Temple built the temple, its sarcophagi, and its golems out of amber to leverage the substance’s unique insulative properties. The first generation of wizards believed that, by doing so, the vestiges’ influence could not reach beyond their sarcophagus prisons, the temple’s golems would be protected from their corrupting touch, and no evildoer could divine the temple’s location simply by following the trail of dark energies.
+> [!lore]+ **Il Miasma Oscuro**
+> I fondatori del Tempio d'Ambra costruirono il tempio, i suoi sarcofagi e i suoi golem in ambra per sfruttare le proprietà isolanti uniche della sostanza. La prima generazione di maghi credeva che, facendo così, l'influenza dei vestigi non potesse estendersi oltre le prigioni dei loro sarcofagi, i golem del tempio sarebbero stati protetti dal loro tocco corruttore, e nessun malfattore avrebbe potuto divinare la posizione del tempio semplicemente seguendo la scia di energie oscure.
 >
-> The founding generation, however, failed to realize that they had sown the seeds of the later generations’ undoing—for, as the vestiges’ corruption seeped slowly from their amber prisons, the temple’s amber walls trapped those energies within the wizards’ living spaces, forming a “greenhouse effect" that, over time, exposed the wizards to increasing amounts of vestige corruption. By the time of the third generation, this corruption had congealed into a dark, invisible miasma that suffused the very air of the temple itself—one that twisted the minds of the wizards that dwelled there. Like primordial soup, it was this miasma that—as the society tore itself apart—birthed the Dark Powers. Now, more than two thousand years later, this miasma has thickened and grown so much that the temple itself is inimical to natural life.
+> La generazione fondatrice, tuttavia, non riuscì a rendersi conto di aver seminato i semi della rovina delle generazioni successive — poiché, mentre la corruzione dei vestigi filtrava lentamente dalle loro prigioni d'ambra, le pareti d'ambra del tempio intrappolavano quelle energie negli spazi abitativi dei maghi, formando un «effetto serra» che, col tempo, espose i maghi a quantità crescenti di corruzione dei vestigi. Al tempo della terza generazione, questa corruzione si era condensata in un miasma oscuro e invisibile che permeava l'aria stessa del tempio — uno che distorceva le menti dei maghi che vi dimoravano. Come una zuppa primordiale, fu questo miasma che — mentre la società si lacerava — diede vita ai Poteri Oscuri. Ora, più di duemila anni dopo, questo miasma si è ispessito e cresciuto a tal punto che il tempio stesso è ostile alla vita naturale.
 
-> [!info]+ **Rests in the Amber Temple**
-> Due to the dark miasma, any humanoid or beast that takes a long rest in the Amber Temple has dreadful visions and hears the vestiges’ whispers as it rests. That creature gains no benefit from its rest and, when it finishes its rest, must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion.
+> [!info]+ **Riposi nel Tempio d'Ambra**
+> A causa del miasma oscuro, qualsiasi umanoide o bestia che effettua un riposo lungo nel Tempio d'Ambra ha visioni terrificanti e ode i sussurri dei vestigi mentre riposa. Quella creatura non ottiene benefici dal riposo e, quando lo termina, deve superare un tiro salvezza di CD 15 in Costituzione o guadagnare 1 livello di extenuazione.
 
-> [!info]+ **Following the Shards**
-> Each amber shard longs to return to the sarcophagus from whence it came. While within the Amber Temple, or while within 100 feet of the temple, an amber shard glows and gently pulls in the direction of its parent sarcophagus. Both effects end when the shard comes within 5 feet of its sarcophagus.
+> [!info]+ **Seguire i Frammenti**
+> Ogni frammento d'ambra anela a tornare al sarcofago da cui proviene. Mentre si trova nel Tempio d'Ambra, o entro 30 metri dal tempio, un frammento d'ambra brilla e tira delicatamente nella direzione del suo sarcofago genitore. Entrambi gli effetti terminano quando il frammento si trova entro 1,5 metri dal suo sarcofago.
 >
-> If a player possessing a vestige’s amber shard approaches that vestige’s vault, the vestige whispers the password to its vault, as described in <span class="citation">X33. Amber Vaults (p. 191)</span>, into the player’s ear.
+> Se un giocatore che possiede il frammento d'ambra di un vestigio si avvicina alla cripta di quel vestigio, il vestigio sussurra la password della sua cripta, come descritto in <span class="citation">X33. Cripte d'Ambra (p. 191)</span>, nell'orecchio del giocatore.
 
-> [!info]+ **The Tyrant’s Third Trial**
-> Each night the players spent in or near the Amber Temple, Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. If his _scrying_ fails, he also personally visits the Amber Temple to determine whether the players are there.
+> [!info]+ **La Terza Prova del Tiranno**
+> Ogni notte che i giocatori trascorrono nel o vicino al Tempio d'Ambra, Strahd li scruta o li segue come descritto in [[Arc R - Trials of the Mountain#R3b. The Tyrant's First Trial|Arc R - Trials of the Mountain]]. Se la sua *scrutare* fallisce, visita anche personalmente il Tempio d'Ambra per determinare se i giocatori sono là.
 >
-> When he first finds the players, Strahd dismounts Beucephalus, greets them, and asks “where they disappeared to" during the time they spent in Soldav. (Strahd isn’t aware of Soldav’s existence or protections). If the players refuse to disclose their knowledge of Soldav, Strahd smiles coldly, then assures them that he’ll find out—sooner or later.
+> Quando li trova per la prima volta, Strahd smonta da Beucephalus, li saluta e chiede «dove siano spariti» durante il tempo trascorso a Soldav. (Strahd non è a conoscenza dell'esistenza o delle protezioni di Soldav.) Se i giocatori rifiutano di rivelare la loro conoscenza di Soldav, Strahd sorride freddamente, poi li assicura che lo scoprirà — prima o poi.
 >
-> Regardless of the players’ answer, Strahd demands that his first victim—the one he first drained or chose during [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|R3b. The Tyrant’s First Trial]]—submit themselves to be bitten again. If the player allows themselves to be bitten, Strahd bites them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Strahd’s Game]].
+> Indipendentemente dalla risposta dei giocatori, Strahd pretende che la sua prima vittima — quella che ha prima dissanguato o scelto durante [[Arc R - Trials of the Mountain#R3b. The Tyrant's First Trial|R3b. La Prima Prova del Tiranno]] — si sottometta per essere morsa di nuovo. Se il giocatore permette di essere morso, Strahd lo morde come descritto in [[Arc R - Trials of the Mountain#R3b. The Tyrant's First Trial|Il Gioco di Strahd]].
 >
-> ***Summoning the Roc.*** If the players summon the **roc** of Mt. Ghakis using the *whistle of the Keepers*, the roc arrives from its nest atop the mountain’s peak within three rounds. When it does, read:
+> ***Evocare il Roc.*** Se i giocatori evocano il **roc** del Monte Ghakis usando il *fischietto dei Custodi*, il roc arriva dal suo nido sulla cima della montagna entro tre round. Quando arriva, leggete:
 >
 > ---
-> 
-> *A great shadow blocks out the moonlight—and Strahd looks up, his eyes widening slightly.*
 >
-> *Above, a gargantuan raven as tall as the Blue Water Inn, with a wingspan twice as long, descends upon the mountainside. Great gusts of wind blow from each errant twitch of its wings, sending eddies of powdered snow whipping across the ice. With grace that belies its massive size, it alights onto the jagged crags below, its cart-sized talons crushing and gouging the stone beneath them.*
+> *Una grande ombra oscura la luce lunare — e Strahd alza lo sguardo, i suoi occhi che si allargano leggermente.*
 >
-> *With a single, jerking motion, it throws its head forward toward Strahd and **shrieks** in warning and defiance. A thunderous wave of sound sweeps out across the mountain, the raven’s sonorous, booming cry ringing in your ears.*
-> 
+> *In alto, un corvo gargantuesco alto come la Locanda dell'Acqua Azzurra, con un'apertura alare doppia, discende sul fianco della montagna. Grandi raffiche di vento soffiano da ogni errante fremito delle sue ali, mandando vortici di neve polverosa a sferzare il ghiaccio. Con una grazia che smentisce la sua taglia massiccia, si posa sui costoni frastagliati sottostanti, i suoi artigli grandi come carri che frantumano e solcano la pietra sotto di essi.*
+>
+> *Con un singolo, brusco movimento, proietta la testa in avanti verso Strahd e **stride** in avvertimento e sfida. Un'onda tonante di suono si propaga attraverso la montagna, il grido sonoro e rimbombante del corvo che vi risuona nelle orecchie.*
+>
 > ![[The_Roc_of_Mt._Ghakis_night_hires.jpg]]
 > <span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-> 
+>
 > ---
 >
-> Pause to allow the players to respond. If none do, the roc’s interaction with Strahd proceeds as follows, assuming no players interrupt:
+> Fate una pausa per permettere ai giocatori di rispondere. Se nessuno lo fa, l'interazione del roc con Strahd procede come segue, a patto che nessun giocatore intervenga:
 >
-> * Strahd’s face darkens. “I have no quarrel with you," he warns the roc, his eyes glancing over its wingspan. “If you pursue this course, I cannot assure it shall end happily for you." His voice lowers to scarcely more than a whisper, and he murmurs: “Are you sure you wish to play this game?"
-> * The roc lowers its gaze and nods, its eyes glowering down at him. 
-> * “As you wish," Strahd says. He then whistles for Beucephalus, which appears beside him.
+> * Il volto di Strahd si oscura. «Non ho alcuna disputa con te» avverte il roc, i suoi occhi che scrutano l'apertura alare. «Se prosegui su questa strada, non posso assicurare che finirà lietamente per te.» La sua voce si abbassa a poco più di un sussurro, e mormora: «Sei certo di voler giocare a questo gioco?»
+> * Il roc abbassa lo sguardo e annuisce, i suoi occhi che guardano torvi verso di lui.
+> * «Come desideri» dice Strahd. Poi fischia per Beucephalus, che appare al suo fianco.
 >
-> Strahd then turns to the players. “You seem to have made interesting allies indeed," he remarks. “Do not mistake this inconvenience for might—but I presume you know that you cannot stay atop this mountain forever." He smiles coldly, and, for a moment, his crimson eyes seem to glow in the darkness. “Such a shame it would be, of course, if your friends at lower altitudes required your assistance, and you were not there to aid them."
+> Strahd poi si volta verso i giocatori. «Sembra che vi siate fatti alleati interessanti davvero» osserva. «Non confondete questo inconveniente per potenza — ma presumo sappiate che non potete restare in cima a questa montagna per sempre.» Sorride freddamente, e, per un istante, i suoi occhi cremisi sembrano brillare nell'oscurità. «Che vergogna sarebbe, naturalmente, se i vostri amici a quote più basse necessitassero del vostro aiuto, e voi non foste là per assisterli.»
 >
-> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
+> A meno che i giocatori non intervengano, Strahd china il capo in un beffardo inchino — prima al roc, poi ai giocatori. «Un'altra volta, dunque» dice. Poi monta su Beucephalus, augura ai giocatori e al roc «buona serata», e svanisce nel Piano Etereo. (Strahd non torna di nuovo mentre i giocatori sono sul Monte Ghakis. Vedi [[Arc T - The Three Fanes]] per maggiori informazioni sulle ulteriori macchinazioni di Strahd.)
 >
-> Once Strahd departs, the roc can confirm the following information using nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
+> Una volta che Strahd se ne va, il roc può confermare le seguenti informazioni usando cenni e scuotimenti del capo (anche se non offrirà volontariamente informazioni che i giocatori non conoscono già o non sospettano):
 >
-> * It is the roc of Mt. Ghakis.
-> * Its true name is Turul, and it was once the familiar of the Seeker, who is now Madam Eva.
-> * Its nest lies upon the peak of Mt. Ghakis.
-> * It is no friend of Strahd’s.
-> * If the players previously encountered it as a raven in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
-> * It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s instructions. (The roc won’t explain why, or disclose the gem’s location.)
-> * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.)
+> * È il roc del Monte Ghakis.
+> * Il suo vero nome è Turul, e un tempo era il famiglio della Cercatrice, che ora è Madame Eva.
+> * Il suo nido si trova sulla cima del Monte Ghakis.
+> * Non è amico di Strahd.
+> * Se i giocatori lo hanno precedentemente incontrato come corvo in [[Arc M - The Dragon's Manor]], era il corvo che hanno incontrato.
+> * Ha rubato la terza gemma incantata dalla cantina dei Maghi del Vino su istruzioni di Madame Eva. (Il roc non spiegherà perché, né rivelerà la posizione della gemma.)
+> * Non può (e non vuole) seguire i giocatori nella valle sottostante per aiutarli nella loro lotta contro Strahd. (Il suo posto è il Monte Ghakis.)
 >
-> The roc remains by the players’ sides until dawn, standing watch through the night.
+> Il roc resta al fianco dei giocatori fino all'alba, montando la guardia per tutta la notte.
 
-> [!abstract]+ **The Spirit Guide**
-> If a player befriends the roc, it appears in their dreams while it watches over their rest, hoping to convey a clue to the *Sunsword’s* location. When the player falls asleep, read:
+> [!abstract]+ **La Guida Spirituale**
+> Se un giocatore fa amicizia col roc, esso appare nei suoi sogni mentre veglia sul suo riposo, sperando di trasmettere un indizio sulla posizione della *Lama del Sole*. Quando il giocatore si addormenta, leggete:
 >
 > ---
 >
-> *As you drift off into sleep, you feel the darkness wrap around you, like a warm, comfortable blanket. You feel yourself falling, sinking into unconsciousness—until, finally, your eyes flicker open once again.*
+> *Mentre scivolate nel sonno, sentite l'oscurità avvolgervi, come una calda, confortevole coperta. Vi sentite cadere, sprofondare nell'incoscienza — finché, infine, i vostri occhi si riaprono ancora una volta.*
 >
-> *Rather than your resting place, you stand amidst a graveyard of amber headstones, the air choked by a thick, sluggish mist. The sound of wings pierces the silence, and a raven touches down upon a nearby headstone, its white eyes flashing in the dim light. It inclines its head toward you, then caws softly in greeting.*
->
-> ---
->
-> The raven is a spiritual representation of the roc of Mt. Ghakis. If the player greets it, it takes off, then caws again, attempting to encourage the player to follow it.
->
-> If the player follows the raven, read:
+> *Anziché il vostro luogo di riposo, vi trovate in mezzo a un cimitero di lapidi d'ambra, l'aria soffocata da una nebbia densa e stagnante. Il suono di ali perfora il silenzio, e un corvo si posa su una lapide vicina, i suoi occhi bianchi che lampeggiano nella luce fioca. Inclina la testa verso di voi, poi gracchia sommessamente in saluto.*
 >
 > ---
 >
-> *The dead grass of the graveyard crunches beneath your feet as you follow, the mists curling hungrily around your ankles. At times, the raven is little more than a shadow in the fog—until the fog peels away, revealing a tall, gnarled black tree surrounded by a dark, fetid mire. The muck is strewn with bones—thousands of them.*
+> Il corvo è una rappresentazione spirituale del roc del Monte Ghakis. Se il giocatore lo saluta, si leva in volo, poi gracchia di nuovo, tentando di incoraggiare il giocatore a seguirlo.
 >
-> *The raven touches down upon the tree’s lowest branch and directs its gaze to a point near the mire’s banks. There, beneath the bones, a faint golden light flickers deep below the mire.*
->
-> ---
->
-> If the player wades into the mire and attempts to retrieve the source of the light, read:
+> Se il giocatore segue il corvo, leggete:
 >
 > ---
 >
-> *The bones stir—and a figure bursts from the muck, its flesh sunken and gaunt, with pointed ears and deep, violet eyes. Its hands move to wrap around your neck—and you wake up.*
-## S1a. Facade
-This area is largely as described in <span class="citation">X1. Temple Facade (p. 183)</span>. However, add the following sentence to the end of this area’s description:
+> *L'erba morta del cimitero scricchiola sotto i vostri piedi mentre seguite, le nebbie che si arricciano famelicamente attorno alle vostre caviglie. A volte il corvo è poco più che un'ombra nella nebbia — finché la nebbia si apre, rivelando un alto, contorto albero nero circondato da un pantano scuro e fetido. Il fango è cosparso di ossa — migliaia di esse.*
+>
+> *Il corvo si posa sul ramo più basso dell'albero e dirige lo sguardo verso un punto vicino alle rive del pantano. Là, sotto le ossa, una debole luce dorata tremola in profondità sotto il pantano.*
+>
+> ---
+>
+> Se il giocatore guada nel pantano e tenta di recuperare la fonte della luce, leggete:
+>
+> ---
+>
+> *Le ossa si agitano — e una figura irrompe dal fango, la sua carne incavata e scarna, con orecchie a punta e profondi occhi viola. Le sue mani si muovono per avvolgersi attorno al vostro collo — e vi svegliate.*
+## S1a. Facciata
+Quest'area è in gran parte come descritta in <span class="citation">X1. Facciata del Tempio (p. 183)</span>. Tuttavia, aggiungete la seguente frase alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.</p>
+<p>Una sottile coltre di nebbia fluttua pigramente dall'arcata, poi si divide, formando un basso perimetro attorno al tempio.</p>
 </div>
 
-As the players approach, Kasimir quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, Kasimir, Ezmerelda, or Ireena encourage them to review the *Tome of Strahd* for clues.)
+Mentre i giocatori si avvicinano, Kasimir ricorda loro sommessamente il messaggio criptico di Patrina: che ha nascosto l'arma che cercano «sotto le radici del potere di Strahd, nell'unico luogo che temeva di calpestare.» (Se i giocatori sembrano incerti su come interpretare il messaggio di Patrina, Kasimir, Ezmerelda o Ireena li incoraggiano a consultare il *Tome of Strahd* per indizi.)
 
-> [!lore]+ **Patrina’s Riddle**
-> Fearful that Strahd might somehow eavesdrop on Kasimir’s dreams, Patrina concealed her message in a riddle. The “roots of Strahd’s power" refer to the gnarled black tree in [[#The Vampyr’s Sarcophagus]]. “The one place he feared to tread" refers to the canal of blood and souls around the tree, representing Strahd’s greatest fear: Death.
+> [!lore]+ **L'Enigma di Patrina**
+> Timorosa che Strahd potesse in qualche modo origliare i sogni di Kasimir, Patrina celò il suo messaggio in un enigma. Le «radici del potere di Strahd» si riferiscono all'albero nero e contorto nel [[#Il Sarcofago del Vampyr]]. «L'unico luogo che temeva di calpestare» si riferisce al canale di sangue e anime attorno all'albero, che rappresenta la più grande paura di Strahd: la Morte.
 
-> [!lore]+ **Birthplace of the Dark Powers**
-> The vestiges’ miasma birthed the Dark Powers—and it was within the Amber Temple that the Dark Powers found their first prey: the **mage** Vilnius, whose paranoia and jealousy had driven him to murder his mentor, the **archmage** Exethanter. 
+> [!lore]+ **Luogo di Nascita dei Poteri Oscuri**
+> Il miasma dei vestigi diede vita ai Poteri Oscuri — e fu nel Tempio d'Ambra che i Poteri Oscuri trovarono la loro prima preda: il **mago** Vilnius, la cui paranoia e gelosia lo avevano spinto a uccidere il suo mentore, l'**arcimago** Exethanter.
 >
-> Long before Strahd von Zarovich’s pact allowed the Dark Powers to spread their influence to the valley beyond, the Dark Powers kept Vilnius an immortal prisoner within the temple’s amber walls, locking away his soul—and that of every other spirit that dwelled there—as he spiraled further into madness, self-loathing, and hate. 
+> Molto prima che il patto di Strahd von Zarovich permettesse ai Poteri Oscuri di estendere la loro influenza alla valle oltre, i Poteri Oscuri tennero Vilnius prigioniero immortale entro le pareti d'ambra del tempio, rinchiudendo la sua anima — e quella di ogni altro spirito che vi dimorava — mentre sprofondava ulteriormente nella follia, nell'odio di sé e nell'odio.
 
-> [!info]+ **Mists of the Amber Temple**
-> The mists that surround the Amber Temple possess none of the powers listed in <span class="citation">Mists of Ravenloft (p. 23)</span>. However, while the mists remain, Vilnius and incorporeal undead can’t leave the temple. (A **ghost** that possesses a victim ceases to be incorporeal while the possession remains.)
-## S1b. Fissure
-This area is largely as described in <span class="citation">X1a. Narrow Fissure (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 13 or greater hears voices echoing from the far side of the fissure. A successful DC 15 Wisdom (Perception) check allows a player to discern the following conversation:
+> [!info]+ **Nebbie del Tempio d'Ambra**
+> Le nebbie che circondano il Tempio d'Ambra non possiedono nessuno dei poteri elencati in <span class="citation">Nebbie di Ravenloft (p. 23)</span>. Tuttavia, finché le nebbie permangono, Vilnius e i non-morti incorporei non possono lasciare il tempio. (Un **fantasma** che possiede una vittima cessa di essere incorporeo finché la possessione permane.)
+## S1b. Fessura
+Quest'area è in gran parte come descritta in <span class="citation">X1a. Fessura Stretta (p. 183)</span>. Tuttavia, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 13 ode voci che echeggiano dall'altro lato della fessura. Una prova di CD 15 in Saggezza (Percezione) riuscita permette a un giocatore di distinguere la seguente conversazione:
 
-* A male voice says: "Diona, you can't seriously want to go after them." (This is Coryllus, one of the three Mountain Folk who accompanied Chief Diegia’s daughter, Diona, to the Amber Temple.)
-* A female voice snaps back: "And what would we be if we abandoned them? They would go to any length to save us. We owe them nothing less." (This is Diona.)
+* Una voce maschile dice: «Diona, non vorrai davvero andare dietro a loro.» (Questo è Coryllus, uno dei tre membri del Popolo della Montagna che accompagnarono la figlia della Capotribù Diegia, Diona, al Tempio d'Ambra.)
+* Una voce femminile replica bruscamente: «E cosa saremmo se li abbandonassimo? Farebbero di tutto per salvare noi. Non dobbiamo loro niente di meno.» (Questa è Diona.)
 
-If the players make their presence known, Diona demands that they identify themselves and their purpose in visiting the Amber Temple. If reassured that the players are neither monsters nor power-seeking pilgrims, Diona warily invites them to enter—though more warmly if they claim to know her family. (Diona and Coryllus must remain within the temple to complete Diona's rite of passage, and won’t leave the temple willingly.)
+Se i giocatori rendono nota la loro presenza, Diona pretende che si identifichino e dichiarino il loro scopo nel visitare il Tempio d'Ambra. Se rassicurata che i giocatori non sono né mostri né pellegrini in cerca di potere, Diona li invita con cautela a entrare — ma più calorosamente se affermano di conoscere la sua famiglia. (Diona e Coryllus devono restare nel tempio per completare il rito di passaggio di Diona, e non lasceranno il tempio volontariamente.)
 
 ![[Diona_transparent.png]]
 <span class="credit">"Diona" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **The Missing Mountain Folk**
-> Four days ago, Chief Diegia’s eldest child and heir, Diona, departed Soldav for the Amber Temple, where she would spend six days and six nights in contemplation, thereby proving her resilience, strength, and will to resist temptation as per Mountain Folk tradition. Three friends accompanied Diona to the Amber Temple: the **berserkers** Coryllus and Meda, and the **scout** Duras.
+> [!lore]+ **Il Popolo della Montagna Scomparso**
+> Quattro giorni fa, la figlia maggiore ed erede della Capotribù Diegia, Diona, partì da Soldav per il Tempio d'Ambra, dove avrebbe trascorso sei giorni e sei notti in contemplazione, dimostrando così la sua resilienza, forza e volontà di resistere alla tentazione secondo la tradizione del Popolo della Montagna. Tre amici accompagnarono Diona al Tempio d'Ambra: i **berserker** Coryllus e Meda, e l'**esploratore** Duras.
 >
-> When the companions arrived at the temple and passed through <span class="citation">X2. Entrance (p. 183)</span> into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, they were surprised to find the temple’s three **flameskulls**—long thought to be dormant—guarding the temple from incursion. The Mountain Folk split, with Meda fleeing in panic for <span class="citation">X6. Southeast Annex (p. 185)</span>, while the others took shelter in <span class="citation">X15. Southwest Annex (p. 186)</span>.
+> Quando i compagni arrivarono al tempio e passarono attraverso <span class="citation">X2. Ingresso (p. 183)</span> nel <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, furono sorpresi di trovare i tre **teschiardenti** del tempio — a lungo ritenuti dormienti — a guardia del tempio da incursioni. Il Popolo della Montagna si divise, con Meda che fuggì nel panico verso <span class="citation">X6. Annesso Sud-orientale (p. 185)</span>, mentre gli altri si rifugiarono in <span class="citation">X15. Annesso Sud-occidentale (p. 186)</span>.
 >
-> Separated from her friends and pursued by the sadistic **flameskull** Gaspar (see [[#S2e. West Gallery]] for more information about Gaspar), Meda took shelter in the eastern <span class="citation">X3. Empty Barracks (p.183)</span>, where she found a secret door leading to <span class="citation">X2b. Guard Room (p. 183)</span>. There, she found the frozen corpse of a **Barovian witch** clutching an *amber shard of Khirad*. (See [[#East Guard Post]] for more information about this witch.) Entranced by the shard’s allure, Meda took it for herself, hiding it away within her cloak.
+> Separata dai suoi amici e inseguita dal sadico **teschiardente** Gaspar (vedi [[#S2e. Galleria Occidentale]] per maggiori informazioni su Gaspar), Meda si rifugiò nella caserma orientale vuota di <span class="citation">X3. Caserma Vuota (p. 183)</span>, dove trovò una porta segreta che conduceva a <span class="citation">X2b. Stanza di Guardia (p. 183)</span>. Là, trovò il cadavere congelato di una **strega baroviana** che stringeva un *frammento d'ambra di Khirad*. (Vedi [[#Posto di Guardia Orientale]] per maggiori informazioni su questa strega.) Affascinata dal richiamo del frammento, Meda lo prese per sé, nascondendolo nel suo mantello.
 >
-> Soon after the flameskulls’ attack, the **arcanaloth** Neferon—disguised as the human wizard Heinrich Stolt—emerged and ordered the flameskulls to stand down. After hearing the Mountain Folks’ story, “Heinrich" solemnly informed them that <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> was off-limits to them, but agreed to allow them to remain in <span class="citation">X15. Southwest Annex (p. 186)</span> in exchange for a “donation" of suitable power or value. (Diona made this tribute reluctantly, relinquishing her *stone of good luck*: an heirloom she had received from her father on her eighteenth birthday.)
+> Poco dopo l'attacco dei teschiardenti, l'**arcanaloth** Neferon — travestito da mago umano Heinrich Stolt — emerse e ordinò ai teschiardenti di ritirarsi. Dopo aver udito la storia del Popolo della Montagna, «Heinrich» li informò solennemente che <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span> era loro interdetto, ma acconsentì a permettere loro di restare in <span class="citation">X15. Annesso Sud-occidentale (p. 186)</span> in cambio di una «donazione» di potere o valore adeguato. (Diona effettuò questo tributo con riluttanza, cedendo la sua *pietra della buona fortuna*: un cimelio che aveva ricevuto dal padre per il suo diciottesimo compleanno.)
 >
-> Each night since, as the Mountain Folk slept in <span class="citation">X15. Southwest Annex (p. 186)</span>, each suffered vivid, terrible nightmares as described in **Rests in the Amber Temple** above—but none more so than Meda. Through its shard, Khirad, the Star of Secrets spoke to her, showing her visions of the Grand Conjunction: of the veils between worlds torn asunder; a weapon born of a thousand shrieking souls; and the corpses of her friends and family, serving the Great Shadow—Strahd—in eternal undeath. Khirad promised Meda that it could show her a path to averting this terrible fate—if only she found her way to its sarcophagus and accepted its gift.
+> Ogni notte da allora, mentre il Popolo della Montagna dormiva in <span class="citation">X15. Annesso Sud-occidentale (p. 186)</span>, ciascuno soffrì incubi vividi e terribili come descritto in **Riposi nel Tempio d'Ambra** sopra — ma nessuno più di Meda. Attraverso il suo frammento, Khirad, la Stella dei Segreti le parlò, mostrandole visioni della Grande Congiunzione: i veli tra i mondi strappati; un'arma nata da mille anime urlanti; e i cadaveri dei suoi amici e della sua famiglia, al servizio della Grande Ombra — Strahd — in eterna non-morte. Khirad promise a Meda che poteva mostrarle una via per scongiurare questo terribile destino — se solo avesse trovato la strada per il suo sarcofago e accettato il suo dono.
 >
-> Last night, when Khirad’s dream ended, Meda awoke and crept quietly away toward <span class="citation">X4. Overlook (p. 183)</span>. Although Diona and Coryllus continued to slumber, Duras—who had found himself unable to sleep—saw Meda slip out and resolved to follow her. Meda made it as far as <span class="citation">X6. Southeast Annex (p. 185)</span> before Duras caught her, and an argument ensued. Terrified of the fate she had foreseen and of Duras’s threats to reveal her duplicity to the others, Meda pushed Duras in a sudden attempt to flee—and, in doing so, accidentally pushed him down the wide stone shaft to <span class="citation">X33a. Vault of Shalx (p. 191)</span>. The thirty-foot fall broke Duras’s neck, killing him instantly. 
+> La scorsa notte, quando il sogno di Khirad terminò, Meda si svegliò e si allontanò silenziosamente verso <span class="citation">X4. Belvedere (p. 183)</span>. Sebbene Diona e Coryllus continuassero a dormire, Duras — che si era trovato incapace di dormire — vide Meda sgattaiolare fuori e decise di seguirla. Meda raggiunse <span class="citation">X6. Annesso Sud-orientale (p. 185)</span> prima che Duras la raggiungesse, e ne seguì un litigio. Terrorizzata dal destino che aveva previsto e dalle minacce di Duras di rivelare la sua doppiezza agli altri, Meda spinse Duras in un tentativo improvviso di fuggire — e, facendo ciò, lo spinse accidentalmente giù per l'ampio pozzo di pietra verso <span class="citation">X33a. Cripta di Shalx (p. 191)</span>. La caduta di nove metri spezzò il collo di Duras, uccidendolo all'istante.
 >
-> Meda fled, passing through <span class="citation">X8. Upper East Hall (p. 185)</span> and <span class="citation">X12. East Shrine (p. 186)</span>, then descending <span class="citation">X14. North Staircase (p. 186)</span> to <span class="citation">X33c. Ghastly Vault (p. 192)</span>. There, she accepted Khirad’s dark gift, which transformed into a **nothic**.
+> Meda fuggì, passando attraverso <span class="citation">X8. Sala Superiore Est (p. 185)</span> e <span class="citation">X12. Santuario Est (p. 186)</span>, poi discendendo <span class="citation">X14. Scala Nord (p. 186)</span> fino a <span class="citation">X33c. Cripta Macabra (p. 192)</span>. Là, accettò il dono oscuro di Khirad, che la trasformò in un **nothic**.
 >
-> When Diona and Coryllus awoke, they found no signs of their missing friends. Both believe that Meda and Duras have been abducted—or worse. While Diona is determined to rescue them both, Coryllus (ever a grim pragmatist) believes that doing so is a foolhardy effort, and that the missing two are now likely dead.
-# S2. Temple Defenses
-> [!info]+ **The Arrow Slits**
-> A creature positioned behind an Amber Temple arrow slit (e.g., the **flameskulls** in <span class="citation">X17. Upper West Hall (p. 187)</span>) can only see in a 200-foot cone extending from that arrow slit. It can't see other creatures unless they’re illuminated or visible to its sight (e.g., darkvision or truesight).
+> Quando Diona e Coryllus si svegliarono, non trovarono tracce dei loro amici scomparsi. Entrambi credono che Meda e Duras siano stati rapiti — o peggio. Mentre Diona è determinata a salvarli entrambi, Coryllus (sempre un cupo pragmatista) crede che farlo sia uno sforzo temerario, e che i due scomparsi siano ormai probabilmente morti.
+# S2. Difese del Tempio
+> [!info]+ **Le Feritoie**
+> Una creatura posizionata dietro una feritoia del Tempio d'Ambra (per esempio, i **teschiardenti** in <span class="citation">X17. Sala Superiore Ovest (p. 187)</span>) può vedere solo in un cono di 60 metri che si estende da quella feritoia. Non può vedere altre creature a meno che non siano illuminate o visibili alla sua vista (per esempio, scurovisione o vista del vero).
 >
-> A creature looking into an Amber Temple arrow slit from the outside can only see in a 5-foot line extending from that arrow slit.
-## S2a. Entry Hall
-<span class="citation">This scene takes place in Chapter 13, Area X2.</span>
+> Una creatura che guarda in una feritoia del Tempio d'Ambra dall'esterno può vedere solo in una linea di 1,5 metri che si estende da quella feritoia.
+## S2a. Sala d'Ingresso
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X2.</span>
 
-This area is largely as described in <span class="citation">X2. Entrance (p. 183)</span>. If a player looks through either arrow slit, read:
+Quest'area è in gran parte come descritta in <span class="citation">X2. Ingresso (p. 183)</span>. Se un giocatore guarda attraverso una delle feritoie, leggete:
 
 <div class="description">
-<p>Through the narrow slit, you catch a small, narrow glimpse of a cold, still chamber.</p>
+<p>Attraverso la stretta fenditura, cogliete un piccolo, stretto barlume di una camera fredda e immobile.</p>
 </div>
 
-## S2b. Atrium
-<span class="citation">This scene takes place in Chapter 13, Area X4, X5, X5a, X11, and X23.</span>
+## S2b. Atrio
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X4, X5, X5a, X11 e X23.</span>
 
-> [!warning]+ **Sight in the Temple**
-> The <span class="citation">X4. Overlook (p. 183)</span> is 50 feet from <span class="citation">X5d. Amber Reflections (p. 184)</span>, 100 feet from <span class="citation">X5a. God of Secrets (p. 184)</span>, and 110 feet from <span class="citation">X39. Plundered Treasury (p. 194)</span> and <span class="citation">X40 Sealed Treasury (p. 194)</span>. Players without sufficient darkvision or a sufficient light source can’t see them from <span class="citation">X4. Overlook (p. 183)</span>.
-### Overlook
-This area is largely as described in <span class="citation">X4. Overlook (p. 183)</span>. However, add the following text to the end of this area’s description:
+> [!warning]+ **Vista nel Tempio**
+> Il <span class="citation">X4. Belvedere (p. 183)</span> è a 15 metri da <span class="citation">X5d. Riflessi d'Ambra (p. 184)</span>, 30 metri da <span class="citation">X5a. Dio dei Segreti (p. 184)</span>, e 33 metri da <span class="citation">X39. Tesoreria Saccheggiata (p. 194)</span> e <span class="citation">X40 Tesoreria Sigillata (p. 194)</span>. I giocatori senza scurovisione sufficiente o una fonte di luce sufficiente non possono vederli dal <span class="citation">X4. Belvedere (p. 183)</span>.
+### Belvedere
+Quest'area è in gran parte come descritta in <span class="citation">X4. Belvedere (p. 183)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A faint, fiery light flickers from a trio of arrow slits along the west wall.</p>
+<p>Una debole, fiammeggiante luce tremola da un trio di feritoie lungo la parete ovest.</p>
 </div>
 
-In addition, the first time the **arcanaloth** Neferon (described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>) notices the players, he casts *mind blank* on himself, then assumes the form of Heinrich Stolt as described in <span class="citation">X5a. God of Secrets (p. 184)</span>.
+Inoltre, la prima volta che l'**arcanaloth** Neferon (descritto in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>) nota i giocatori, lancia *vuoto mentale* su sé stesso, poi assume la forma di Heinrich Stolt come descritto in <span class="citation">X5a. Dio dei Segreti (p. 184)</span>.
 
-> [!warning]+ **Neferon’s Senses**
-> Don’t forget that Neferon possesses truesight to a range of 120 feet. (See <span class="citation">Truesight (<em>Player’s Handbook</em>, p. 183 or <em>Player’s Handbook (2024)</em>, p. 377)</span> for more information about truesight.)
-#### Heinrich’s Greeting
-The first time the players make any move to depart <span class="citation">X4. Overlook (p. 183)</span> and pass further into the temple, such as by approaching the stairs descending to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, the door to the western <span class="citation">X3. Empty Barracks (p. 183)</span>, or the double doors to <span class="citation">X6. Southeast Annex (p. 185)</span> or <span class="citation">X15. Southwest Annex (p. 186)</span>, Neferon casts *dimension door* to teleport into the western <span class="citation">X3. Empty Barracks (p. 183)</span> or <span class="citation">X6. Southwest Annex (p. 183)</span>, whichever is closer to the players. Immediately after he does, read:
+> [!warning]+ **I Sensi di Neferon**
+> Non dimenticate che Neferon possiede vista del vero con una portata di 36 metri. (Vedi <span class="citation">Vista del Vero (<em>Manuale del Giocatore</em>, p. 183 o <em>Manuale del Giocatore (2024)</em>, p. 377)</span> per maggiori informazioni sulla vista del vero.)
+#### Il Saluto di Heinrich
+La prima volta che i giocatori fanno qualsiasi mossa per lasciare <span class="citation">X4. Belvedere (p. 183)</span> e proseguire nel tempio, come avvicinandosi alle scale che discendono verso <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, la porta alla caserma occidentale vuota di <span class="citation">X3. Caserma Vuota (p. 183)</span>, o le doppie porte verso <span class="citation">X6. Annesso Sud-orientale (p. 185)</span> o <span class="citation">X15. Annesso Sud-occidentale (p. 186)</span>, Neferon lancia *porta dimensionale* per teletrasportarsi nella caserma occidentale vuota di <span class="citation">X3. Caserma Vuota (p. 183)</span> o <span class="citation">X6. Annesso Sud-occidentale (p. 183)</span>, qualunque sia più vicina ai giocatori. Immediatamente dopo, leggete:
 
 <div class="description">
-<p>You hear the sound of footsteps echoing across the frozen floor.</p>
+<p>Udite il suono di passi che echeggiano sul pavimento ghiacciato.</p>
 </div>
 
-Provide the players a moment to respond. If none do, or if any call out to the source of the footsteps, “Heinrich" exits onto the overlook to greet the players. When he emerges into view, read:
+Concedete ai giocatori un momento per rispondere. Se nessuno lo fa, o se qualcuno chiama la fonte dei passi, «Heinrich» esce sul belvedere per salutare i giocatori. Quando emerge in vista, leggete:
 
 <div class="description">
-<p>An elderly, wizened man steps onto the overlook. He wears a pale, white robe decorated with numerous colorful patches, each depicting a different object. A pair of gold spectacles with pink crystal lenses rests atop the bridge of his nose, just above a long, white beard that descends past his chest.</p>
-<p>"Good day," he says cheerily. “Might I ask why you are trespassing upon my property?"</p>
+<p>Un uomo anziano e avvizzito si fa avanti sul belvedere. Indossa una veste pallida e bianca decorata con numerose toppe colorate, ciascuna raffigurante un oggetto diverso. Un paio di occhiali d'oro con lenti di cristallo rosa riposa sul ponte del suo naso, appena sopra una lunga barba bianca che discende oltre il petto.</p>
+<p>«Buongiorno» dice allegramente. «Posso chiedere perché state violando la mia proprietà?»</p>
 </div>
 
 ![[Heinrich_Stolt_transparent.png]]
 <span class="credit">"Heinrich Stolt" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!abstract]+ **Neferon's Disguise**
-> While concentrating on *alter self*, Neferon can't cast another concentration spell (e.g., *detect thoughts*), and glows with an aura of transmutation magic under the scrutiny of a *detect magic* spell.
+> [!abstract]+ **Il Travestimento di Neferon**
+> Mentre si concentra su *alterare sé stesso*, Neferon non può lanciare un altro incantesimo di concentrazione (per esempio, *individuazione dei pensieri*), e brilla con un'aura di magia di trasmutazione sotto lo scrutinio di un incantesimo *individuazione del magico*.
 
-“Heinrich," who appears to be more curious and amused at the players' presence than hostile, can share the following information:
+«Heinrich», che sembra più curioso e divertito dalla presenza dei giocatori che ostile, può condividere le seguenti informazioni:
 
-* He is Heinrich Stolt, a wizard responsible for caretaking and safeguarding the Amber Temple. (A DC 21 Wisdom (Insight) check reveals this to be a lie.)
-* He has resided in the temple for the past ten years, ever since he found himself "spirited away" to Barovia by the Mists. (A DC 21 Wisdom (Insight) check reveals this to be a lie.)
-* He is joined in his mission by three **flameskull** servants, who aid him in repelling incursions by unwanted trespassers. "They can be quite temperamental," Heinrich says cheerily. "A bit fiery, if you understand me. But they're good bones, the lot of them."
-* He believes the Temple to be a "historical relic," but doesn't mind allowing visitors to explore its vaulted halls—so long as they make an appropriate donation in consideration of his efforts to preserve and protect it.
+* Egli è Heinrich Stolt, un mago responsabile della manutenzione e della protezione del Tempio d'Ambra. (Una prova di CD 21 in Saggezza (Intuizione) rivela che questa è una menzogna.)
+* Risiede nel tempio da dieci anni, da quando si è trovato «trasportato» a Barovia dalle Nebbie. (Una prova di CD 21 in Saggezza (Intuizione) rivela che questa è una menzogna.)
+* È affiancato nella sua missione da tre servitori **teschiardente**, che lo aiutano a respingere incursioni di intrusi indesiderati. «Possono essere piuttosto irascibili» dice Heinrich allegramente. «Un po' focosi, se mi capite. Ma in fondo sono buone ossa, tutti quanti.»
+* Crede che il Tempio sia un «reperto storico», ma non si oppone a permettere ai visitatori di esplorare le sue sale a volta — a patto che facciano una donazione appropriata in considerazione dei suoi sforzi per preservarlo e proteggerlo.
 
-If an opportune moment arises, “Heinrich" asks the players why they have come to the temple—and what they seek in its ancient vaults. If the players provide an unsatisfactory answer, "Heinrich" attempts to dig deeper, hoping to glean some insight into their intentions. If “Heinrich" believes a player to be lying, he gently chides them for "concealing the truth" and invites them to share the true reason for their presence.
+Se si presenta un momento opportuno, «Heinrich» chiede ai giocatori perché siano venuti al tempio — e cosa cerchino nelle sue antiche cripte. Se i giocatori forniscono una risposta insoddisfacente, «Heinrich» tenta di approfondire, sperando di ottenere qualche intuizione sulle loro intenzioni. Se «Heinrich» crede che un giocatore stia mentendo, lo rimprovera gentilmente per «celare la verità» e lo invita a condividere il vero motivo della loro presenza.
 
-> [!abstract]+ **Heinrich & Strahd**
-> “Heinrich" hopes to conceal his relationship with Strahd. If asked whether he’s met Strahd, “Heinrich" replies: “In the time I’ve spent here, I have never had the pleasure or displeasure to see his face at my doorstep." If asked his opinion of Strahd, “Heinrich" replies: “I feel it would be wrong to form an opinion of the man without meeting him." (Both responses are technically correct, but intended to obfuscate the truth. A DC 21 Wisdom (Insight) check suggests that “Heinrich" isn’t being entirely forthright.)
+> [!abstract]+ **Heinrich e Strahd**
+> «Heinrich» spera di celare la sua relazione con Strahd. Se gli viene chiesto se ha incontrato Strahd, «Heinrich» risponde: «Nel tempo che ho trascorso qui, non ho mai avuto il piacere o il dispiacere di vedere il suo volto alla mia porta.» Se gli viene chiesta la sua opinione su Strahd, «Heinrich» risponde: «Ritengo sarebbe sbagliato formarsi un'opinione dell'uomo senza averlo incontrato.» (Entrambe le risposte sono tecnicamente corrette, ma intese a offuscare la verità. Una prova di CD 21 in Saggezza (Intuizione) suggerisce che «Heinrich» non è del tutto sincero.)
 
-> [!abstract]+ **Heinrich & the Miasma**
-> If the players ask “Heinrich" why the dark miasma within the temple doesn’t harm him, he responds (truthfully) that he has “never suffered any ill effects from sleeping within the temple," and questions whether they “simply have weak constitutions."
+> [!abstract]+ **Heinrich e il Miasma**
+> Se i giocatori chiedono a «Heinrich» perché il miasma oscuro nel tempio non lo danneggi, risponde (veridicamente) di «non aver mai sofferto alcun effetto negativo dal dormire nel tempio», e si domanda se «abbiate semplicemente una costituzione debole.»
 
-> [!abstract]+ **Heinrich’s Discipline**
-> If the players threaten "Heinrich" or refuse to answer his questions to his satisfaction, “Heinrich" stands up straighter, adjusts his glasses, and warns them grimly that, although he is "a peaceful man by nature," he "will not hesitate" to call upon the aid of his flameskull allies should the players attempt to deceive him or force their way into the Temple. "I assure you," he says with a dry smile, "I may be old, but I am far from incapable."
-> 
-> If the players attack "Heinrich" or disregard his warnings, "Heinrich" uses his fly speed to rise into the air, warns them that they "have made a terrible mistake," and retreats into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, using his ***teleport*** action to teleport into <span class="citation">X5a. God of Secrets (p. 184)</span> as soon as it comes within range. Neferon and the flameskulls in <span class="citation">X17. Upper West Hall (p. 187)</span> then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>.
+> [!abstract]+ **La Disciplina di Heinrich**
+> Se i giocatori minacciano «Heinrich» o rifiutano di rispondere alle sue domande in modo soddisfacente, «Heinrich» si raddrizza, si sistema gli occhiali e li avverte cupamente che, sebbene sia «un uomo pacifico per natura», «non esiterà» a invocare l'aiuto dei suoi alleati teschiardente qualora i giocatori tentino di ingannarlo o di forzare l'ingresso nel Tempio. «Vi assicuro» dice con un sorriso asciutto, «posso essere vecchio, ma sono ben lungi dall'essere incapace.»
+>
+> Se i giocatori attaccano «Heinrich» o ignorano i suoi avvertimenti, «Heinrich» usa la sua velocità di volo per levarsi in aria, li avverte che «hanno commesso un terribile errore», e si ritira in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, usando la sua azione ***teletrasporto*** per teletrasportarsi in <span class="citation">X5a. Dio dei Segreti (p. 184)</span> non appena entra in portata. Neferon e i teschiardenti in <span class="citation">X17. Sala Superiore Ovest (p. 187)</span> poi attaccano come descritto in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>.
 > ^heinrichsdiscipline
 
 ![[Neferon_transparent.png]]
 <span class="credit">"Neferon" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!info]+ **Neferon’s Tactics**
-> In combat, Neferon begins by casting *chain lightning*, followed by *fireball*. If cornered or damaged, he casts *dimension door* to teleport to any of the following locations: <span class="citation">X13. East Archer Post (p. 186)</span>, <span class="citation">X25. West Archer Post (p. 188)</span>, or <span class="citation">X8. Upper East Hall (p. 185)</span>. He then uses the arrow slits there to continue the fight.
+> [!info]+ **Le Tattiche di Neferon**
+> In combattimento, Neferon comincia lanciando *fulmine a catena*, seguito da *palla di fuoco*. Se messo alle strette o danneggiato, lancia *porta dimensionale* per teletrasportarsi in una delle seguenti posizioni: <span class="citation">X13. Postazione Arciere Est (p. 186)</span>, <span class="citation">X25. Postazione Arciere Ovest (p. 188)</span>, o <span class="citation">X8. Sala Superiore Est (p. 185)</span>. Poi usa le feritoie là per continuare il combattimento.
 >
-> Neferon doesn’t chase the players deeper into the temple, preferring to remain behind cover with a sightline to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>. He knows they’ll have to return to <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> in order to escape the temple.
+> Neferon non insegue i giocatori più in profondità nel tempio, preferendo restare al riparo con una linea visiva verso <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>. Sa che dovranno tornare a <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span> per fuggire dal tempio.
 >
-> If possible, Neferon uses his fly speed to remain hovering in the air at all times, preferring to remain near the ceiling of his current room whenever possible.
+> Se possibile, Neferon usa la sua velocità di volo per restare in volo in ogni momento, preferendo restare vicino al soffitto della stanza in cui si trova quando possibile.
 >
-> If reduced to 62 hit points or fewer, Neferon casts *dimension door* to teleport to the skies above the Amber Temple, where he remains until nightfall. That night, if the players begin a long rest in or near the temple, Neferon casts *invisibility* and approaches their camp to weaken or destroy them, preferring to do so without engaging in open combat (e.g., by first casting *phantasmal force*, *detect thoughts*, or *suggestion*).
+> Se ridotto a 62 punti ferita o meno, Neferon lancia *porta dimensionale* per teletrasportarsi nei cieli sopra il Tempio d'Ambra, dove resta fino al calare della notte. Quella notte, se i giocatori iniziano un riposo lungo nel o vicino al tempio, Neferon lancia *invisibilità* e si avvicina al loro accampamento per indebolirli o distruggerli, preferendo farlo senza ingaggiare un combattimento aperto (per esempio, lanciando prima *forza fantasmagorica*, *individuazione dei pensieri* o *suggestione*).
 >
-> Neferon never confronts the players without reserving at least one 4th-level spell slot (to cast *dimension door* and escape) and one 3rd-level spell slot (to cast *counterspell* if *dimension door* is countered).
+> Neferon non affronta mai i giocatori senza riservare almeno uno slot incantesimo di 4° livello (per lanciare *porta dimensionale* e fuggire) e uno slot incantesimo di 3° livello (per lanciare *controincantesimo* se *porta dimensionale* viene contrastata).
 > ^neferonstactics
-#### Heinrich’s Request
-"Heinrich" is glad to allow the players to explore the Temple in exchange for "a small fee—a minor service, really." If the players express an interest in doing so, "Heinrich" shares the following information:
+#### La Richiesta di Heinrich
+«Heinrich» è lieto di permettere ai giocatori di esplorare il Tempio in cambio di «una piccola quota — un servizio minore, in realtà.» Se i giocatori esprimono interesse nel farlo, «Heinrich» condivide le seguenti informazioni:
 
-* Ordinarily, the Amber Temple is isolated and quiet. However, last night, a creature arrived from another world by means of “some strange portal": a slaad, of the plane of Limbo. ("A death slaad, to be precise," “Heinrich" remarks grimly, pushing his spectacles up his nose—“one of the most dangerous members of slaadkind.")
-* Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple catacombs. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
-* “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>).
+* Di norma, il Tempio d'Ambra è isolato e tranquillo. Tuttavia, la scorsa notte, una creatura è arrivata da un altro mondo per mezzo di «qualche strano portale»: uno slaad, del piano del Limbo. («Uno slaad della morte, per essere precisi» osserva «Heinrich» cupamente, spingendosi gli occhiali sul naso — «uno dei membri più pericolosi della specie slaad.»)
+* Heinrich è riuscito, con un po' di fortuna (e l'uso di un antico meccanismo di *serratura arcana* costruito dai primi abitanti del tempio), a imprigionare la creatura nelle catacombe del tempio. Tuttavia, teme che lo slaad possa presto fuggire e seminare il caos nel tempio — o nella valle sottostante. (Una prova di CD 21 in Saggezza (Intuizione) rivela che «Heinrich» è effettivamente preoccupato per lo slaad — ma non sembra autenticamente preoccupato per la sicurezza del popolo baroviano.)
+* «Heinrich» è lieto di permettere ai giocatori di esplorare il tempio se discendono nelle catacombe e «rimuovono» (cioè uccidono) lo slaad della morte per lui. (Le catacombe, condivide, giacciono sotto il belvedere, all'estremità meridionale di <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>.)
 
-If the players refuse to carry out “Heinrich’s" task, he responds as described in [[#^heinrichsdiscipline|Heinrich's Discipline]] above. 
+Se i giocatori rifiutano di svolgere il compito di «Heinrich», risponde come descritto in [[#^heinrichsdiscipline|La Disciplina di Heinrich]] sopra.
 
-> [!info]+ **Slaad Lore**
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls the first paragraph of information provided in <span class="citation">*Monster Manual* "Slaadi," *Monster Manual* (p. 278)</span>. On a result of 20 or higher, the character recalls all additional lore listed in that entry. On a result of 25 or more, a player recalls a death slaad’s elemental resistances, shapechanging ability, magical resistance, regenerative abilities, blindsight, and ability to cast spells.
+> [!info]+ **Sapere sugli Slaad**
+> Un giocatore che supera una prova di CD 15 in Intelligenza (Arcano) ricorda il primo paragrafo di informazioni fornite in <span class="citation">*Manuale dei Mostri* "Slaadi," *Manuale dei Mostri* (p. 278)</span>. Con un risultato di 20 o più, il personaggio ricorda tutte le informazioni aggiuntive elencate in quella voce. Con un risultato di 25 o più, un giocatore ricorda le resistenze elementali dello slaad della morte, la capacità di mutare forma, la resistenza magica, le capacità rigenerative, la vista cieca e la capacità di lanciare incantesimi.
 
-> [!info]+ **Neferon's Trickery**
-> As an arcanaloth, Neferon takes pride in holding to the letter of its word—but only the letter. Accordingly, while Neferon may allow the players to *explore* the Amber Temple, he has no intention of allowing them to depart with any items or knowledge of appreciable value.
+> [!info]+ **L'Inganno di Neferon**
+> Come arcanaloth, Neferon si vanta di rispettare la lettera della sua parola — ma solo la lettera. Di conseguenza, sebbene Neferon possa permettere ai giocatori di *esplorare* il Tempio d'Ambra, non ha alcuna intenzione di permettere loro di partire con oggetti o conoscenze di valore apprezzabile.
 >
-> If the players ask “Heinrich" whether he will allow them to depart in peace, he promises that he “shall allow them to depart the temple with their belongings unmolested." If the players instead ask permission to keep any items they find, he smoothly promises to make “reasonable efforts" to negotiate the terms of any such exchange before they depart—"subject, of course, to reasonable disclosures of the item’s nature and value."
+> Se i giocatori chiedono a «Heinrich» se permetterà loro di partire in pace, promette che «permetterà loro di lasciare il tempio coi loro averi indisturbati.» Se i giocatori chiedono invece il permesso di tenere qualsiasi oggetto trovino, promette agevolmente di fare «ragionevoli sforzi» per negoziare i termini di qualsiasi tale scambio prima della loro partenza — «soggetto, naturalmente, a ragionevoli dichiarazioni della natura e del valore dell'oggetto.»
 
-> [!info]+ **Neferon's Eye**
-> Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved Library (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
+> [!info]+ **L'Occhio di Neferon**
+> Attraverso l'uso della sua vista del vero e di *porta dimensionale*, Neferon ha decifrato i libri di incantesimi contenuti in <span class="citation">X30. Biblioteca Preservata (p. 189)</span>, e così ha sostituito il suo incantesimo *bando* (che ha correttamente dedotto non funzionerà a Barovia — specialmente dopo che ha fallito nel bandire lo slaad della morte al suo piano natale del Limbo) con l'incantesimo *occhio arcano*.
 >
-> If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Temple Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
+> Se vede o sente i giocatori entrare in <span class="citation">X15. Annesso Sud-occidentale (p. 186)</span>, <span class="citation">X14. Scala Nord (p. 186)</span>, o qualsiasi area nelle [[#S3. Catacombe]], [[#S6. Cripte del Tempio]], o [[#S7. Alloggi dell'Arcimago]], Neferon lancia *occhio arcano* per seguirli, prendendo nota attenta delle loro forze, debolezze, capacità, interessi e scoperte. (Dato il suo punteggio di Intelligenza di 20, il bonus di +7 alle prove di Percezione e il bonus di +11 alle prove di Intuizione, Neferon è in grado di usare il suo *occhio arcano* per leggere le labbra, e può quindi «sentire» le parole pronunciate dai giocatori se l'*occhio arcano* può vederne le labbra.) Neferon rinnova l'incantesimo secondo necessità, ma non lo rinnova mentre i giocatori riposano, o se gli resta solo uno slot incantesimo di 4° livello.
 
-> [!lore]+ **Neferon's Arrival**
-> A native of the plane of Gehenna, home of the yugoloths, Neferon was whisked away to Barovia by the Mists ten days before the players’ arrival at the Amber Temple as he sought to travel from Gehenna to Avernus for a potential business deal. Irritated at the detour, but determined to seek opportunities in this new realm, Neferon swiftly moved to explore his surroundings, learn about its inhabitants, and loot any of its knowledge, riches, and magic for himself.
+> [!lore]+ **L'Arrivo di Neferon**
+> Nativo del piano di Gehenna, patria degli yugoloth, Neferon fu trascinato a Barovia dalle Nebbie dieci giorni prima dell'arrivo dei giocatori al Tempio d'Ambra, mentre cercava di viaggiare da Gehenna ad Avernus per un potenziale affare. Irritato dalla deviazione, ma determinato a cercare opportunità in questo nuovo reame, Neferon si mosse rapidamente per esplorare i suoi dintorni, apprendere dei suoi abitanti, e saccheggiare qualsiasi conoscenza, ricchezza e magia per sé.
 >
-> Neferon navigated the Amber Temple with ease, mentally documenting each vestige, treasure, and relic he came across. With his *dimension door*, no door was locked to him; with his *truesight*, no book in <span class="citation">X30. Preserved Library (p. 189)</span> was blank to him. He chose to lair in in <span class="citation">X5a. God of Secrets (p. 184)</span>, recognizing its tactical advantages, and spent a full night casting a ritual that cloaked its head in magical darkness.
-> 
-> Although the **flameskulls** proved suspicious of his presence at first, Neferon used his silver tongue (and *detect thoughts* spell) to convince them that he was Patrina’s inheritor, sent to reclaim the temple in her name after centuries of abandonment. He informed them solemnly that she had passed away some years after befriending him, and presented a *minor illusion* copy of her “last will and testament," which stated:
+> Neferon navigò il Tempio d'Ambra con facilità, documentando mentalmente ogni vestigio, tesoro e reliquia che incontrava. Con la sua *porta dimensionale*, nessuna porta gli era preclusa; con la sua *vista del vero*, nessun libro in <span class="citation">X30. Biblioteca Preservata (p. 189)</span> gli era invisibile. Scelse di stabilirsi in <span class="citation">X5a. Dio dei Segreti (p. 184)</span>, riconoscendone i vantaggi tattici, e trascorse un'intera notte a lanciare un rituale che avvolse la sua testa in oscurità magica.
+>
+> Sebbene i **teschiardenti** si dimostrarono sospettosi della sua presenza all'inizio, Neferon usò la sua lingua d'argento (e l'incantesimo *individuazione dei pensieri*) per convincerli di essere l'erede di Patrina, inviato a reclamare il tempio in suo nome dopo secoli di abbandono. Li informò solennemente che era morta alcuni anni dopo aver stretto amicizia con lui, e presentò una copia *illusione minore* del suo «testamento e ultime volontà», che recitava:
 >
 > ---
 >
-> *I, Patrina Velikovna, being of sound mind and body,*
+> *Io, Patrina Velikovna, sana di mente e di corpo,*
 >
-> *in consideration of his many years of friendship,*
+> *in considerazione dei suoi molti anni di amicizia,*
 >
-> *and in consideration of my lack of any living blood relatives,*
+> *e in considerazione della mia mancanza di parenti di sangue viventi,*
 >
-> *do hereby name Neferon of Gehenna my sole heir and beneficiary, inheritor of all lands, titles, properties, and fealties owed to me.*
-> 
+> *con la presente nomino Neferon di Gehenna mio unico erede e beneficiario, ereditiere di tutte le terre, titoli, proprietà e lealtà a me dovute.*
+>
 > ---
-> 
-> (The original will, Neferon informed the flameskulls sadly, had since been destroyed.)
 >
-> With the Amber Temple now fully within his control, Neferon ranged further afield, flying invisibly above the crags of Mt. Ghakis and probing the properties and boundaries of the southern Mists. Finding the Mists impassible, Neferon turned his attention north, observing Berez, Argynvostholt, and Krezk from the skies above. In Vallaki, he assumed a human’s guise and lost himself in the crowds, learning of the vampire Strahd von Zarovich, Strahd’s hibernation and recent awakening, and the siege of the village of Barovia.
+> (Il testamento originale, Neferon informò i teschiardenti con tristezza, era stato nel frattempo distrutto.)
 >
-> Curious to learn more of this land’s ruler, Neferon flew east, to Castle Ravenloft—but as he studied the keep from the skies, a lone bat pierced his invisibility with its blindsight and reported his presence to Strahd. When Strahd rode out upon Beucephalus and emerged from the Ethereal Plane to greet him, Neferon swiftly knelt and paid homage to Strahd as Barovia’s lord. Intrigued, but suspicious of Neferon’s interests, Strahd cordially interrogated Neferon as to his time and intentions in Barovia, even as Neferon attempted to subtly glean Strahd’s own intentions from the conversation’s opposite end.
+> Con il Tempio d'Ambra ora pienamente sotto il suo controllo, Neferon si spinse più lontano, volando invisibilmente sopra i costoni del Monte Ghakis e sondando le proprietà e i confini delle Nebbie meridionali. Trovando le Nebbie invalicabili, Neferon volse la sua attenzione a nord, osservando Berez, Argynvostholt e Krezk dai cieli soprastanti. A Vallaki, assunse le sembianze di un umano e si perse tra la folla, apprendendo del vampiro Strahd von Zarovich, dell'ibernazione di Strahd e del suo recente risveglio, e dell'assedio del villaggio di Barovia.
 >
-> As their conversation unfolded, however, Neferon soon realized that Strahd had no intention of remaining in Barovia. Ever one of the bolder members of his kind, Neferon offered his services as a diplomat and advisor—in exchange for dominion over the Amber Temple and “fair compensation." When Strahd, laughing, asked Neferon what use he might have for a diplomat, Neferon coolly noted Strahd’s history of conquest, the way the Mists had captured him while traveling between worlds, and the incredible arcane power he’d sensed flowing into the castle’s tallest tower. “The veils between worlds are growing thin," Neferon said carefully, adding: “Should you ever find yourself in a position to take advantage of such a thing, I do not doubt that your Grace may find himself in need of an agent to carry out his will, be it a diplomat, translator, or counselor." Impressed, but wary of Neferon’s insight, Strahd agreed to consider Neferon’s proposal, and Neferon returned to the Amber Temple, satisfied.
+> Curioso di saperne di più sul governante di questa terra, Neferon volò a est, verso Castel Ravenloft — ma mentre studiava la fortezza dai cieli, un pipistrello solitario penetrò la sua invisibilità con la sua vista cieca e riferì la sua presenza a Strahd. Quando Strahd cavalcò su Beucephalus e emerse dal Piano Etereo per salutarlo, Neferon si inginocchiò rapidamente e rese omaggio a Strahd come signore di Barovia. Incuriosito, ma sospettoso degli interessi di Neferon, Strahd lo interrogò cordialmente riguardo al suo tempo e alle sue intenzioni a Barovia, anche mentre Neferon tentava di sottilmente carpire le intenzioni di Strahd dal capo opposto della conversazione.
 >
-> Neferon, however, was not the only victim of the impending Grand Conjunction. That night, as Neferon rested within <span class="citation">X5a. God of Secrets (p. 184)</span>, the Mists spirited a **death slaad** from the plane of Limbo into <span class="citation">X8. Upper East Hall (p. 185)</span>. Although Neferon attempted to banish it from afar, the slaad’s blindsight and perceptive ears soon allowed it to detect his presence—whereupon its sadistic bloodlust drove it to attack.
+> Mentre la loro conversazione si svolgeva, tuttavia, Neferon si rese presto conto che Strahd non aveva alcuna intenzione di restare a Barovia. Sempre uno dei membri più audaci della sua specie, Neferon offrì i suoi servigi come diplomatico e consigliere — in cambio del dominio sul Tempio d'Ambra e «un equo compenso». Quando Strahd, ridendo, chiese a Neferon che uso potesse avere per un diplomatico, Neferon notò con freddezza la storia di conquista di Strahd, il modo in cui le Nebbie lo avevano catturato mentre viaggiava tra i mondi, e l'incredibile potere arcano che aveva percepito fluire nella torre più alta del castello. «I veli tra i mondi si stanno assottigliando» disse Neferon con cautela, aggiungendo: «Se Vostra Grazia dovesse mai trovarsi nella posizione di approfittare di tale cosa, non dubito che potrebbe trovarsi in necessità di un agente per eseguire la sua volontà, che sia un diplomatico, traduttore o consigliere.» Impressionato, ma diffidente dell'intuizione di Neferon, Strahd accettò di considerare la proposta di Neferon, e Neferon tornò al Tempio d'Ambra, soddisfatto.
 >
-> Neferon fled, calling upon his new flameskull servants to defend him. However, he was dismayed to find their magic (as well as much of his own) did little to harm the slaad, whose wounds regenerated almost as quickly as they appeared. Thinking quickly, Neferon lured the slaad into [[#S3. Catacombs]], then used his ***teleport*** action to escape before sealing the slaad behind the ancient *arcane lock* enchanting the catacomb doors. Wary of the necromantic magic protecting the doors, the slaad withdrew to the catacombs and calmed its aggression—at least for a time.
+> Neferon, tuttavia, non fu l'unica vittima dell'imminente Grande Congiunzione. Quella notte, mentre Neferon riposava in <span class="citation">X5a. Dio dei Segreti (p. 184)</span>, le Nebbie trasportarono uno **slaad della morte** dal piano del Limbo in <span class="citation">X8. Sala Superiore Est (p. 185)</span>. Sebbene Neferon tentò di bandirlo da lontano, la vista cieca dello slaad e le sue orecchie percettive gli permisero presto di rilevare la sua presenza — al che la sua sadica sete di sangue lo spinse ad attaccare.
 >
-> Neferon knows the catacomb doors won’t hold the slaad forever. Although he’s confident the creature hasn’t yet escaped, he knows the slaad’s *plane shift* might allow it to escape its prison and return to kill him. Although Neferon has begun reprogramming the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185(</span> to serve him, he has been unable to open the doors to <span class="citation">X40. Sealed Treasury (p. 194)</span> and thereby recruit the services of the **amber golem** that dwells therein. With each hour the slaad remains alive, Neferon fears he is running out of time.
+> Neferon fuggì, invocando l'aiuto dei suoi nuovi servitori teschiardente. Fu costernato tuttavia di scoprire che la loro magia (così come gran parte della sua) faceva poco per danneggiare lo slaad, le cui ferite si rigeneravano quasi alla stessa velocità con cui apparivano. Pensando in fretta, Neferon attirò lo slaad nelle [[#S3. Catacombe]], poi usò la sua azione ***teletrasporto*** per fuggire prima di sigillare lo slaad dietro l'antica *serratura arcana* che incantava le porte delle catacombe. Diffidente della magia necromantica che proteggeva le porte, lo slaad si ritirò nelle catacombe e placò la sua aggressività — almeno per un po'.
+>
+> Neferon sa che le porte delle catacombe non terranno lo slaad per sempre. Sebbene sia fiducioso che la creatura non sia ancora fuggita, sa che il *viaggio planare* dello slaad potrebbe permettergli di fuggire dalla sua prigione e tornare a ucciderlo. Sebbene Neferon abbia cominciato a riprogrammare il **golem d'ambra** in <span class="citation">X8. Sala Superiore Est (p. 185)</span> per servirlo, non è stato in grado di aprire le porte di <span class="citation">X40. Tesoreria Sigillata (p. 194)</span> e così reclutare i servigi del **golem d'ambra** che vi dimora. Con ogni ora che lo slaad resta vivo, Neferon teme di star esaurendo il tempo.
 
-> [!abstract]+ **Neferon's Deals**
-> If the players ask, Neferon is glad to strike additional bargains with the players, including (but not limited to) the following.
+> [!abstract]+ **Gli Affari di Neferon**
+> Se i giocatori chiedono, Neferon è lieto di stringere accordi aggiuntivi coi giocatori, inclusi (ma non limitati a) i seguenti.
 >
-> ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage’s Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
-> 
-> ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. Lecture Hall (p. 185)</span>. 
+> ***Planimetria del Tempio.*** Neferon può fornire una semplice mappa del tempio (escluse le [[#S6. Cripte del Tempio]] e gli [[#S7. Alloggi dell'Arcimago]], di cui finge di non essere a conoscenza) in cambio di un oggetto magico **raro** in possesso dei giocatori, o tre segreti utili che conoscono sulla terra o il popolo di Barovia.
 >
-> (Neferon doesn't know of the true identities or intent of the **specters**, which sense his fiendish nature and refuse to interact with him. Although Neferon attempted to investigate Vilnius's presence, Vilnius shrieked in rage and terror at his presence and vanished into the shadows. Neferon has been unable to encounter Vilnius again, though he has sensed Vilnius's presence each time he has entered the lecture hall thereafter.)
+> ***Abitanti del Tempio.*** Neferon può avvertire i giocatori degli altri abitanti del tempio in cambio di un oggetto magico **raro** in possesso dei giocatori, o due segreti utili che conoscono sulla terra o il popolo di Barovia. In particolare, Neferon può avvertire i giocatori del **golem d'ambra** in <span class="citation">X8. Sala Superiore Est (p. 185)</span>, dei **poltergeist** in <span class="citation">X38. Stanza Infestata (p. 194)</span> e <span class="citation">X39. Tesoreria Saccheggiata (p. 194)</span>, degli spiriti nella [[#Sala da Pranzo]], e dell'«apparizione cupa» che dimora in <span class="citation">X9. Sala delle Lezioni (p. 185)</span>.
+>
+> (Neferon non conosce le vere identità o intenzioni degli **spettri**, che percepiscono la sua natura demoniaca e rifiutano di interagire con lui. Sebbene Neferon abbia tentato di indagare la presenza di Vilnius, Vilnius ha strillato di rabbia e terrore alla sua presenza ed è svanito nelle ombre. Neferon non è stato in grado di incontrare nuovamente Vilnius, sebbene abbia percepito la sua presenza ogni volta che è entrato nella sala delle lezioni successivamente.)
 
 ![[Heinrichs_Map.png]]
 <span class="credit">"Heinrich's Map by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **Neferon’s Phylactery**
-> When he first arrived in Barovia, Neferon had little fear of the dangers this new land might pose him. (See ***Back to Gehenna*** in <span class="citation">Arcanaloth (<em>Monster Manual</em>, p. 313</span>) for more information about Arcanaloth immortality.) He was dismayed, however, to find that his arrival in Barovia had done something extraordinary: severed his “spirit" from his demonic flesh and deposited it within a phylactery, which appears as described in <span class="citation">X28. Hidden Phylactery (p. 189)</span>. (See **Fiendish Phylacteries** below for more information about Neferon’s phylactery.) Realizing the phylactery’s importance, Neferon hid it away within <span class="citation">X28. Hidden Phylactery (p. 189)</span>, where it currently remains.
+> [!lore]+ **Il Filatterio di Neferon**
+> Quando arrivò per la prima volta a Barovia, Neferon aveva poco timore dei pericoli che questa nuova terra potesse porgli. (Vedi ***Ritorno a Gehenna*** in <span class="citation">Arcanaloth (<em>Manuale dei Mostri</em>, p. 313</span>) per maggiori informazioni sull'immortalità degli Arcanaloth.) Fu costernato, tuttavia, di scoprire che il suo arrivo a Barovia aveva fatto qualcosa di straordinario: aveva reciso il suo «spirito» dalla sua carne demoniaca e lo aveva depositato in un filatterio, che appare come descritto in <span class="citation">X28. Filatterio Nascosto (p. 189)</span>. (Vedi **Filatteri Demoniaci** sotto per maggiori informazioni sul filatterio di Neferon.) Rendendosi conto dell'importanza del filatterio, Neferon lo nascose in <span class="citation">X28. Filatterio Nascosto (p. 189)</span>, dove attualmente si trova.
 
-> [!info]+ **Fiendish Phylacteries**
-> When a fiend enters the Mists, the Dark Powers split its being in two, thereby creating a way for it to return from death without escaping the Mists.^[Teeuwynn Woodruff, *Van Richten’s Guide to Fiends*, pp. 76-77 (TSR Inc., 1995)] Although the fiend’s intellect and physiology remain with its body, the Dark Powers place its vital essence into a phylactery (see <span class="citation">Lich (<em>Monster Manual</em>, p. 202)</span>). When the fiend’s body is slain, its mind transfers to its phylactery, where it may remain indefinitely awaiting a new body. (Unlike a **lich**, a fiend destroyed in this way must possess a living victim, and can’t create a new body for itself.)
+> [!info]+ **Filatteri Demoniaci**
+> Quando un demone entra nelle Nebbie, i Poteri Oscuri scindono il suo essere in due, creando così un modo per farlo tornare dalla morte senza fuggire dalle Nebbie.^[Teeuwynn Woodruff, *Van Richten's Guide to Fiends*, pp. 76-77 (TSR Inc., 1995)] Sebbene l'intelletto e la fisiologia del demone restino col suo corpo, i Poteri Oscuri collocano la sua essenza vitale in un filatterio (vedi <span class="citation">Lich (<em>Manuale dei Mostri</em>, p. 202)</span>). Quando il corpo del demone viene ucciso, la sua mente si trasferisce nel filatterio, dove può restare indefinitamente in attesa di un nuovo corpo. (A differenza di un **lich**, un demone distrutto in questo modo deve impossessarsi di una vittima vivente, e non può creare un nuovo corpo per sé stesso.)
 >
-> While the fiend remains in its phylactery, it and its phylactery gain effects largely identical to a *magic jar* spell, with the following changes:
+> Finché il demone rimane nel suo filatterio, esso e il filatterio ottengono effetti largamente identici all'incantesimo *giara magica*, con le seguenti modifiche:
 >
-> * The fiend can’t attempt to possess a creature for twenty-four hours after its body’s destruction.
-> * The act of possession consumes the possessed creature’s soul.
-> * While possessing a creature, the fiend retains the same number of hit dice. (See <span class="citation">Hit Points (<em>Monster Manual</em>, p. 7)</span> for more information about determining a creature’s hit dice by size, finding the creature’s average hit points per die, and calculating the creature’s hit points.)
-> * If the possessed body dies, the fiend’s mind returns to its phylactery, regardless of distance or location.
+> * Il demone non può tentare di impossessarsi di una creatura per ventiquattro ore dopo la distruzione del suo corpo.
+> * L'atto di possessione consuma l'anima della creatura posseduta.
+> * Mentre possiede una creatura, il demone conserva lo stesso numero di dadi vita. (Vedi <span class="citation">Punti Ferita (<em>Manuale dei Mostri</em>, p. 7)</span> per maggiori informazioni sulla determinazione dei dadi vita di una creatura per taglia, la ricerca dei punti ferita medi per dado della creatura e il calcolo dei punti ferita della creatura.)
+> * Se il corpo posseduto muore, la mente del demone ritorna al suo filatterio, indipendentemente dalla distanza o dalla posizione.
 
-> [!lore]+ **Neferon & the Players**
-> As an arcanaloth, Neferon prefers to sell his skills to the highest bidder wherever possible. Although intrigued by the opportunity to strike deals with the players, he believes he can secure far more fruitful rewards by allying himself with Strahd—the position of grand vizier to an elder vampire lord with armies of undead and powerful magic, Neferon knows, is a bounty that any fiend would kill for.
+> [!lore]+ **Neferon e i Giocatori**
+> Come arcanaloth, Neferon preferisce vendere le sue abilità al miglior offerente ove possibile. Sebbene incuriosito dall'opportunità di stringere accordi coi giocatori, ritiene di potersi assicurare ricompense assai più fruttuose alleandosi con Strahd — la posizione di gran visir presso un signore vampiro anziano con eserciti di non morti e potente magia, Neferon lo sa, è un bottino per cui qualsiasi demone ucciderebbe.
 >
-> Absent truly exceptional circumstances, no price will sway Neferon from his current loyalty to Strahd, and no assurance will convince Neferon of the players’ ability to defeat Strahd—not even an ignited *Sunsword*.  Furthermore, if Neferon learns of the *Sunsword*, he devotes his efforts to obtaining it—diplomatically if possible, but by trickery or force if necessary. (Although Neferon has no intention of giving Strahd the *Sunsword*, he views it as a potential bargaining chip in the future—and a hedge against Strahd’s failure or betrayal, when the two inevitably part in decades’ or centuries’ time.)
-### Nave
-<span class="citation">This scene takes place in areas X5, X5a, and X5c.</span>
+> In assenza di circostanze davvero eccezionali, nessun prezzo distoglierà Neferon dalla sua attuale lealtà verso Strahd, e nessuna rassicurazione convincerà Neferon della capacità dei giocatori di sconfiggere Strahd — nemmeno una *Lama del Sole* innescata. Inoltre, se Neferon viene a conoscenza della *Lama del Sole*, dedica i suoi sforzi a ottenerla — diplomaticamente se possibile, ma con l'inganno o la forza se necessario. (Sebbene Neferon non abbia alcuna intenzione di consegnare la *Lama del Sole* a Strahd, la considera una potenziale merce di scambio per il futuro — e una garanzia contro il fallimento o il tradimento di Strahd, quando i due inevitabilmente si separeranno tra decenni o secoli.)
+### Navata
+<span class="citation">Questa scena si svolge nelle aree X5, X5a e X5c.</span>
 
-This area is largely as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, <span class="citation">X5a. God of Secrets (p. 184)</span>, and <span class="citation">X5c. Locked Doors (p. 184)</span>. 
-### Balconies
-This area is largely as described in <span class="citation">X11. Northeast Balcony (p. 186)</span>, and <span class="citation">X23. Northwest Balcony (p. 188)</span>. However, revise the last sentence of <span class="citation">X23. Northwest Balcony (p. 188)</span>'s description to read:
+Quest'area è in gran parte come descritta in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, <span class="citation">X5a. Dio dei Segreti (p. 184)</span> e <span class="citation">X5c. Porte Chiuse (p. 184)</span>.
+### Balconate
+Quest'area è in gran parte come descritta in <span class="citation">X11. Balconata Nordest (p. 186)</span> e <span class="citation">X23. Balconata Nordovest (p. 188)</span>. Tuttavia, rivisitate l'ultima frase della descrizione di <span class="citation">X23. Balconata Nordovest (p. 188)</span> affinché reciti:
 
 <div class="description">
-<p>Nearly half of the balcony has fallen away, and the remainder sags toward the floor thirty feet below, with large cracks spiderwebbing across the joint where the balcony meets the northern wall.</p>
+<p>Quasi metà della balconata è crollata, e il resto cede verso il pavimento nove metri più in basso, con larghe crepe che si irradiano come ragnatele lungo la giuntura dove la balconata incontra la parete settentrionale.</p>
 </div>
 
-## S2c. West Garrison
-<span class="citation">This scene takes place in Chapter 13, Areas X2a and X3.</span>
-### West Barracks
-This area is largely as described in <span class="citation">X3. Empty Barracks (p. 183)</span>. However, add the following text to the end of this area's description:
+## S2c. Guarnigione Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X2a e X3.</span>
+### Caserma Ovest
+Quest'area è in gran parte come descritta in <span class="citation">X3. Caserma Vuota (p. 183)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>Old carvings mark the walls in numerous places.</p>
+<p>Vecchie incisioni segnano le pareti in numerosi punti.</p>
 </div>
 
-A player who inspects the carvings finds the following messages engraved in the stone:
+Un giocatore che esamina le incisioni trova i seguenti messaggi incisi nella pietra:
 
-* "Azalin was here."
-* "Viktra + Elise" (with a heart drawn around them)
-* "Why did Vladeska Drakov cross the classroom? To shout at the other side!"
-* "ANKHTEPOT SMELLS"
-* "Harkon ate my homework"
-* A clumsy array of arcane runes. (A DC 13 Intelligence (Arcana) check reveals that the runes appear to be a failed attempt to conjure an *unseen servant*, with a parameter changed to allow the servant to do the scriber's homework.)
-### West Guard Post
-This area is largely as described in <span class="citation">X2a. Guard Room (p. 183)</span>. However, when a player enters this room, read:
+* "Azalin era qui."
+* "Viktra + Elise" (con un cuore disegnato attorno)
+* "Perché Vladeska Drakov ha attraversato l'aula? Per gridare dall'altra parte!"
+* "ANKHTEPOT PUZZA"
+* "Harkon ha mangiato i miei compiti"
+* Un maldestro insieme di rune arcane. (Una prova di Intelligenza (Arcano) con CD 13 rivela che le rune sembrano essere un tentativo fallito di evocare un *servitore invisibile*, con un parametro modificato per permettere al servitore di fare i compiti dello scrittore.)
+### Posto di Guardia Ovest
+Quest'area è in gran parte come descritta in <span class="citation">X2a. Sala della Guardia (p. 183)</span>. Tuttavia, quando un giocatore entra in questa stanza, leggete:
 
 <div class="description">
-<p>You find a cold, empty room. Two arrow slits are carved into the east wall. In the northeast corner, something glints beneath a thick layer of frost.</p>
+<p>Trovate una stanza fredda e vuota. Due feritoie sono intagliate nella parete est. Nell'angolo nordest, qualcosa luccica sotto un folto strato di brina.</p>
 </div>
 
-The glinting object is an old, bloodstained crystal orb, worth 10 gp if cleaned. Close inspection reveals ancient fingerprints scorched black into the orb’s surface.(The orb was once the arcane focus of an Amber Temple apprentice mage, who was murdered by a rival when the temple fell into chaos.)
-## S2d. West Annex
-<span class="citation">This scene takes place in Chapter 13, Areas X15 and X16.</span>
+L'oggetto luccicante è un vecchio globo di cristallo macchiato di sangue, dal valore di 10 mo se ripulito. Un'ispezione ravvicinata rivela antiche impronte digitali bruciate fino a diventare nere sulla superficie del globo. (Il globo era un tempo il focus arcano di un apprendista mago del Tempio d'Ambra, assassinato da un rivale quando il tempio cadde nel caos.)
+## S2d. Annesso Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X15 e X16.</span>
 
-This area is largely as described in <span class="citation">X15. Southwest Annex (p. 186)</span>. However, no **dire wolf** or “bloodthirsty mountain folk" are present. Instead, add the following to the end of this area’s description:
+Quest'area è in gran parte come descritta in <span class="citation">X15. Annesso Sudovest (p. 186)</span>. Tuttavia, nessun **lupo crudele** o "montanari assetati di sangue" sono presenti. Aggiungete invece il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A tall, broad-shouldered woman clad in wolfskin clutches a tall, single-bladed spear with a curved end, just beside a stocky man with thick, black stubble and a greataxe across his back. Dark bags hang under their bloodshot eyes.</p>
+<p>Una donna alta e dalle spalle larghe, avvolta in pelli di lupo, stringe una lunga lancia a una sola lama con l'estremità ricurva, accanto a un uomo robusto con una fitta barba nera e una grande ascia sulla schiena. Scure occhiaie pendono sotto i loro occhi iniettati di sangue.</p>
 </div>
 
-The woman is Diona, the eldest daughter of Chief Diegia (use the statistics of a **champion** with AC 15 (leather armor) and a glaive instead of a greatsword). The man is Coryllus, a **berserker**, and Diona’s most loyal friend. Both have three levels of exhaustion.
+La donna è Diona, la figlia maggiore della Capo Diegia (usa le statistiche di un **campione** con CA 15 (armatura di cuoio) e un falcione al posto di uno spadone). L'uomo è Coryllus, un **berserker**, e l'amico più leale di Diona. Entrambi hanno tre livelli di sfinimento.
 
-If the players enter without Diona or Coryllus’s invitation, the two Mountain Folk ready themselves for battle and demand, fiercely and warily, that the players identify themselves. “If you’re pilgrims of evil," Coryllus warns hoarsely, “or if you’ve done something to Meda and Duras, you won’t live long to regret it."
+Se i giocatori entrano senza l'invito di Diona o Coryllus, i due Montanari si preparano alla battaglia e chiedono, fieramente e con diffidenza, che i giocatori si identifichino. «Se siete pellegrini del male,» avverte Coryllus con voce rauca, «o se avete fatto qualcosa a Meda e Duras, non vivrete abbastanza a lungo per pentirvene.»
 
-The players can reassure Diona and Coryllus by succeeding on a DC 14 Charisma (Persuasion or Deception) check, succeeding automatically if they mention their time spent in Soldav or their interest in defeating Strahd. On a failure, Diona and Coryllus demand that the players depart and leave them in peace. (The Mountain Folk don't attack except in self-defense, but won't speak with or aid the players if they consider them untrustworthy.)
+I giocatori possono rassicurare Diona e Coryllus superando una prova di Carisma (Persuasione o Inganno) con CD 14, riuscendo automaticamente se menzionano il tempo trascorso a Soldav o il loro interesse a sconfiggere Strahd. In caso di fallimento, Diona e Coryllus chiedono ai giocatori di andarsene e lasciarli in pace. (I Montanari non attaccano se non per autodifesa, ma non parlano né aiutano i giocatori se li considerano indegni di fiducia.)
 
-If reassured, Diona and Coryllus can share the following information if asked:
+Se rassicurati, Diona e Coryllus possono condividere le seguenti informazioni se interrogati:
 
-* Four days ago, Diona traveled to the Temple alongside three of her most trusted friends: Coryllus (a **berserker**), Meda (a **berserker**), and Duras (a **scout**), to complete the *Rite of Resilience* and prove her worthiness to take her mother’s place as chief. (To complete the trial, Diona must endure six days of meditation and contemplation within the Amber Temple.)
-* Ordinarily, the rite takes place upon the central floor of the temple, within the [[#Nave]]. This time, however, the companions were surprised when the temple’s three **flameskulls** (whom the Mountain Folk call “spirits of fire") attacked them without warning. (The Mountain Folk and flameskulls struck a bargain centuries ago: In exchange for sharing stories with the bored and lonely flameskulls, Rite participants would be allowed to visit the central [[#Nave]], but could travel no further into the temple. Unbeknownst to the Mountain Folk, Neferon has since directed the flameskulls to revoke that bargain.)
-* Three of them—Diona, Coryllus, and Duras—escaped into <span class="citation">X15. Southwest Annex (p. 186)</span>, but Meda was separated in the chaos. Only the arrival of “Heinrich"—an elderly man who claimed to be a wizard and the caretaker of the Amber Temple—convinced the flameskulls to cease their attack and allow the Mountain Folk to reunite. 
-* Heinrich, after hearing their story, agreed to allow them to carry out their Rite in the temple’s southwest annex, but declined to allow them to stay in the [[#Nave]]. In exchange for allowing them to remain, Heinrich demanded they donate an item of power or valuable secret as a tribute to the temple—a payment Diona made by relinquishing her *stone of good luck* (an heirloom she had received from her father).
-* Once the four reunited, Meda refused to speak of what she had seen in the deeper reaches of the temple. “That night, we all had nightmares," Diona says wearily, “but none worse than Meda," whose screams awoke the others twice that night.
-* This morning, Diona and Coryllus awoke to find Meda and Duras missing. Diona is determined to track them through the temple, while Coryllus is convinced that the two are “already as good as dead"—and that if he and Diona follow them, Heinrich and his flameskull cronies will see to it that they join Meda and Duras in death.
+* Quattro giorni fa, Diona si recò al Tempio insieme a tre dei suoi amici più fidati: Coryllus (un **berserker**), Meda (un **berserker**) e Duras (un **esploratore**), per completare il *Rito della Resilienza* e dimostrare la sua dignità a prendere il posto di sua madre come capo. (Per completare la prova, Diona deve sopportare sei giorni di meditazione e contemplazione all'interno del Tempio d'Ambra.)
+* Di solito, il rito si svolge sul pavimento centrale del tempio, nella [[#Navata]]. Questa volta, tuttavia, i compagni furono sorpresi quando i tre **teschiardente** del tempio (che i Montanari chiamano "spiriti del fuoco") li attaccarono senza preavviso. (I Montanari e i teschiardente avevano stretto un accordo secoli fa: in cambio della condivisione di storie coi teschiardente annoiati e solitari, i partecipanti al Rito sarebbero stati autorizzati a visitare la [[#Navata]] centrale, ma non avrebbero potuto spingersi oltre nel tempio. All'insaputa dei Montanari, Neferon ha da allora ordinato ai teschiardente di revocare quell'accordo.)
+* Tre di loro — Diona, Coryllus e Duras — fuggirono in <span class="citation">X15. Annesso Sudovest (p. 186)</span>, ma Meda venne separata nel caos. Solo l'arrivo di "Heinrich" — un uomo anziano che affermava di essere un mago e il custode del Tempio d'Ambra — convinse i teschiardente a cessare l'attacco e permettere ai Montanari di riunirsi.
+* Heinrich, dopo aver ascoltato la loro storia, acconsentì a permettere loro di svolgere il Rito nell'annesso sudovest del tempio, ma rifiutò di lasciarli restare nella [[#Navata]]. In cambio del permesso di restare, Heinrich pretese che donassero un oggetto di potere o un segreto prezioso come tributo al tempio — un pagamento che Diona effettuò cedendo la sua *pietra della buona sorte* (un cimelio ricevuto da suo padre).
+* Una volta riuniti i quattro, Meda rifiutò di parlare di ciò che aveva visto nelle profondità del tempio. «Quella notte, abbiamo tutti avuto incubi,» dice Diona stancamente, «ma nessuno peggiore di quelli di Meda,» le cui urla svegliarono gli altri due volte quella notte.
+* Questa mattina, Diona e Coryllus si svegliarono e scoprirono che Meda e Duras erano scomparsi. Diona è determinata a rintracciarli attraverso il tempio, mentre Coryllus è convinto che i due siano «già spacciati» — e che se lui e Diona li seguiranno, Heinrich e i suoi compari teschiardente si assicureranno che li raggiungano nella morte.
 
-If the players seem inclined to do so, or if the players previously mentioned their friendship with Chief Diegia’s family: Diona asks the players to help her find Meda and Duras, while Coryllus asks the players to convince Diona that her plan is “insanity." (Neither of them, Coryllus notes darkly, are in any fit condition to sneak anywhere, let alone fight. Diona retorts that it’s her duty as heir to her mother’s seat to save them if she can—"and bury them if I can’t.")
+Se i giocatori sembrano inclini a farlo, o se i giocatori hanno precedentemente menzionato la loro amicizia con la famiglia della Capo Diegia: Diona chiede ai giocatori di aiutarla a trovare Meda e Duras, mentre Coryllus chiede ai giocatori di convincere Diona che il suo piano è «follia». (Nessuno dei due, nota Coryllus con tono cupo, è in condizione di sgattaiolare da nessuna parte, tanto meno di combattere. Diona ribatte che è suo dovere di erede al seggio di sua madre salvarli se può — «e seppellirli se non posso.»)
 
-> [!warning]+ **Don't Sleep Here**
-> If the players express an interest in resting within the Amber Temple, Diona and Coryllus warn them against it, sharing that "terrible visions and nightmares" torment and exhaust anyone who dares to do so. "We may need to remain here for the rite," Diona says, "but that doesn't mean you must as well."
-### West Scroll Repository
-This area is largely as described in <span class="citation">X16. West Scroll Repository (p. 187)</span>. However, a search of the south wall reveals two spell scrolls: a *scroll of sending* and a *spell scroll of protection from energy*.
-## S2e. West Gallery
-<span class="citation">This scene takes place in Chapter 13, Area X17.</span>
+> [!warning]+ **Non Dormite Qui**
+> Se i giocatori esprimono interesse a riposare all'interno del Tempio d'Ambra, Diona e Coryllus li mettono in guardia, rivelando che «terribili visioni e incubi» tormentano e sfiniscono chiunque osi farlo. «Noi dobbiamo restare qui per il rito,» dice Diona, «ma questo non significa che dobbiate farlo anche voi.»
+### Deposito di Pergamene Ovest
+Quest'area è in gran parte come descritta in <span class="citation">X16. Deposito di Pergamene Ovest (p. 187)</span>. Tuttavia, una ricerca della parete sud rivela due pergamene magiche: una *pergamena di invio* e una *pergamena di protezione dall'energia*.
+## S2e. Galleria Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X17.</span>
 
-This area is largely as described in <span class="citation">X17. Upper West Hall (p. 187)</span>. However, remove the *staff of frost*.
+Quest'area è in gran parte come descritta in <span class="citation">X17. Sala Superiore Ovest (p. 187)</span>. Tuttavia, rimuovete il *bastone del gelo*.
 
-> [!lore]+ **The Charred Corpse**
-> Jakarion was not Vilnius’s mentor, but a mage that came to the temple two years ago seeking the vestiges’ power.
+> [!lore]+ **Il Cadavere Carbonizzato**
+> Jakarion non era il mentore di Vilnius, bensì un mago venuto al tempio due anni fa in cerca del potere dei vestigia.
 
-> [!lore]+ **The Flameskulls**
-> Patrina created the three **flameskulls** that dwell here approximately four centuries ago, shortly after sealing away Exethanter’s spirit. To do so, she used the skeletal remains of wizards killed in the temple’s downfall. The flameskulls, which are named Petra, Dominik, and Gaspar, retain the following hazy memories of their old lives:
+> [!lore]+ **I Teschiardente**
+> Patrina creò i tre **teschiardente** che dimorano qui circa quattro secoli fa, poco dopo aver sigillato lo spirito di Exethanter. Per farlo, usò i resti scheletrici di maghi uccisi durante la caduta del tempio. I teschiardente, che si chiamano Petra, Dominik e Gaspar, conservano i seguenti vaghi ricordi delle loro vite passate:
 >
-> * In life, they were wizards, and members of a secret society. (None of the three remember why this secret society existed, or what it did.)
-> * Petra was killed when she attempted to “borrow" (i.e., steal) another’s property. (Petra doesn’t remember what she stole.)
-> * Dominik died by being stabbed in the back. (He believes, correctly, that the culprit was a rival who envied his magical prowess.)
-> * Gaspar died when he killed himself and an assailant in a fiery murder-suicide.
+> * In vita, erano maghi e membri di una società segreta. (Nessuno dei tre ricorda perché questa società segreta esistesse, o cosa facesse.)
+> * Petra fu uccisa quando tentò di "prendere in prestito" (cioè rubare) la proprietà di un altro. (Petra non ricorda cosa rubò.)
+> * Dominik morì pugnalato alle spalle. (Crede, correttamente, che il colpevole fosse un rivale che invidiava la sua abilità magica.)
+> * Gaspar morì quando uccise sé stesso e un assalitore in un omicidio-suicidio con il fuoco.
 >
-> The centuries alone have left the flameskulls bored, lonely, and insane. Although Patrina’s commands compel them to guard the temple from intruders, the three crave entertainment and companionship above all else. The three flameskulls also bear the following unique traits:
+> I secoli trascorsi in solitudine hanno reso i teschiardente annoiati, soli e folli. Sebbene i comandi di Patrina li costringano a difendere il tempio dagli intrusi, i tre bramano divertimento e compagnia sopra ogni altra cosa. I tre teschiardente possiedono inoltre i seguenti tratti unici:
 >
-> * **Petra’s** flames burn a delicate violet. She has wrapped her skull in copper, silver, and gold “chains’ of melted coins, which she constantly rearranges with her *mage hand.* She enjoys admiring her (distorted) reflection in the temple’s amber walls, and is drawn to handsomeness, beauty and other exceptional physical features. If a player catches her eye, she demands that they remain indefinitely as her “pet," attacking if openly defied. (The players can calm her, however, with a DC 11 Charisma (Persuasion or Deception) check and suitable promises or flattery.)
-> * **Dominik’s** flames burn a deep blue. He has fused a gold medallion bearing the Amber Temple’s symbol into his forehead, and has a monotonous, gravelly voice. He hates company and demands that the players depart his presence, threatening to burn them alive if they linger or approach him. The third time the players refuse Dominik’s demands, he attacks, though the players can calm him by empathizing with his discomfort and succeeding on a DC 11 Charisma (Persuasion) check.
-> * **Gaspar** is wreathed in a tangle of orange-white flames that spark and pop. His skull is blackened with multiple scorch marks, both ancient and fresh, and several of his teeth are missing. He giggles and laughs incessantly (especially at gruesome or painful things), and adores fire and suffering—both others’ and his own. He enjoys using his magic to “poke" and “investigate" others—with his *mage hand* if they’re lucky, and with his *fire ray* if they’re not. (When Gaspar uses his *fire ray* in this way, he can control its movements, as if it were a *flaming sphere*.)
+> * Le fiamme di **Petra** ardono di un delicato violetto. Ha avvolto il suo teschio in "catene" di monete fuse in rame, argento e oro, che riarrangia costantemente con la sua *mano magica*. Ama ammirare il suo riflesso (distorto) nelle pareti d'ambra del tempio, ed è attratta dalla bellezza, dall'avvenenza e da altri tratti fisici eccezionali. Se un giocatore cattura il suo sguardo, pretende che resti indefinitamente come suo "animale domestico", attaccando se apertamente sfidato. (I giocatori possono calmarla, tuttavia, con una prova di Carisma (Persuasione o Inganno) con CD 11 e promesse o lusinghe adeguate.)
+> * Le fiamme di **Dominik** ardono di un blu profondo. Ha fuso un medaglione d'oro recante il simbolo del Tempio d'Ambra nella sua fronte, e ha una voce monotona e roca. Odia la compagnia e pretende che i giocatori lascino la sua presenza, minacciando di bruciarli vivi se indugiano o si avvicinano. La terza volta che i giocatori rifiutano le richieste di Dominik, egli attacca, sebbene i giocatori possano calmarlo empatizzando col suo disagio e superando una prova di Carisma (Persuasione) con CD 11.
+> * **Gaspar** è avvolto in un groviglio di fiamme bianco-arancio che crepitano e scoppiettano. Il suo teschio è annerito da molteplici segni di bruciatura, sia antichi che recenti, e gli mancano diversi denti. Ridacchia e ride incessantemente (specialmente per cose macabre o dolorose) e adora il fuoco e la sofferenza — sia altrui che propria. Ama usare la sua magia per "punzecchiare" e "investigare" gli altri — con la sua *mano magica* se sono fortunati, e col suo *raggio di fuoco* se non lo sono. (Quando Gaspar usa il suo *raggio di fuoco* in questo modo, può controllarne i movimenti, come fosse una *sfera fiammeggiante*.)
 >
-> If one flameskull attacks the players, the others don’t interfere. (If asked why, the flameskulls freely share that they can’t be permanently killed, and will resurrect shortly after their “deaths.") However, the flameskulls attack any player that attempts to permanently kill a flameskull using the means described in their ***undead restoration*** feature.
+> Se un teschiardente attacca i giocatori, gli altri non interferiscono. (Se interrogati sul perché, i teschiardente rivelano liberamente che non possono essere uccisi permanentemente, e risusciteranno poco dopo la loro "morte".) Tuttavia, i teschiardente attaccano qualsiasi giocatore che tenti di uccidere permanentemente un teschiardente usando i mezzi descritti nella loro caratteristica ***rigenerazione non morta***.
 
 ![[Flameskulls.png]]
 <span class="credit">"Flameskulls" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The flameskulls won’t attack the players if “Heinrich" previously granted them permission to explore the temple. Otherwise, the flameskulls warn the players not to proceed on pain of death, with Petra chirping that she would “hate to see a potential pet’s face charred and ruined." (Petra is, however, glad to invite any trespassers to remain indefinitely as her “pet"—so long as they promise not to leave her hall.)
+I teschiardente non attaccano i giocatori se "Heinrich" ha precedentemente concesso loro il permesso di esplorare il tempio. Altrimenti, i teschiardente avvertono i giocatori di non procedere sotto pena di morte, con Petra che cinguetta che «detesterei vedere il volto di un potenziale animale domestico incenerito e rovinato.» (Petra è, tuttavia, lieta di invitare qualsiasi intruso a restare indefinitamente come suo "animale domestico" — purché promettano di non lasciare la sua sala.)
 
-> [!abstract]+ **Heinrich's Greeting**
-> If the players enter this area without first encountering "Heinrich" in [[#S2a. Entry Hall]], he uses his ***teleport*** to appear behind the **flameskulls**, then greets the players as described in [[#Overlook]].
+> [!abstract]+ **Il Saluto di Heinrich**
+> Se i giocatori entrano in quest'area senza aver prima incontrato "Heinrich" nella [[#S2a. Sala d'Ingresso]], egli usa il suo ***teletrasporto*** per apparire dietro i **teschiardente**, poi saluta i giocatori come descritto nella [[#Soppalco]].
 
-If the players befriend them, the flameskulls are willing to share the following information if asked:
+Se i giocatori fanno amicizia coi teschiardente, questi sono disposti a condividere le seguenti informazioni se interrogati:
 
-* In life, they were wizards, and members of a secret society. (The flameskulls can’t agree whether they were members of the same secret society, or three different societies, with each flameskull taking a different position each time the argument arises.)
-* They were animated and bound by Patrina Velikovna, a dusk elf archmage, over four centuries ago. Patrina commanded them to guard the temple from all intruders.
-* Although Patrina occasionally brought guests to the temple, the flameskulls haven’t received any invited guests in centuries. A player who succeeds on a DC 15 Charisma (Persuasion) check can convince the flameskulls to divulge the identities of Patrina’s guests: a man named Strahd, an architect named Artimus, and a wizard whose name began with a “K." (“Kazoo?" Gaspar suggests helpfully.) 
-* Petra is bitter that Patrina wouldn’t allow her to keep Strahd as a pet—"tall and handsome, he was, if a bit mature"—while Dominik resents that Artimus claimed <span class="citation">X20. Architect’s Room (p. 187)</span> as his “workshop." Gasper, meanwhile, remembers “Kazoo’s" visit with fondness, and cheerfully recounts the time he convinced the wizard to cast *immolation* on him. (“You should try it," Gasper says. "Very cozy.")
-* Several years after Patrina first raised them, she abruptly vanished. The flameskulls haven’t heard from her since. “Since then," Dominik says coldly, “we’ve had no visitors but thieves." (If confronted, Dominik reluctantly concedes that the Mountain Folk have visited the temple in peace before, but notes, with some wistfulness, that Heinrich—the flameskulls’ current master—revoked the terms of their bargain.)
+* In vita, erano maghi e membri di una società segreta. (I teschiardente non riescono a mettersi d'accordo se fossero membri della stessa società segreta o di tre diverse, con ciascun teschiardente che prende una posizione differente ogni volta che la discussione sorge.)
+* Furono animati e vincolati da Patrina Velikovna, un'arcimaga elfa del crepuscolo, oltre quattro secoli fa. Patrina ordinò loro di difendere il tempio da tutti gli intrusi.
+* Sebbene Patrina portasse occasionalmente ospiti al tempio, i teschiardente non hanno ricevuto ospiti invitati da secoli. Un giocatore che supera una prova di Carisma (Persuasione) con CD 15 può convincere i teschiardente a rivelare le identità degli ospiti di Patrina: un uomo di nome Strahd, un architetto di nome Artimus e un mago il cui nome iniziava con la "K". («Kazoo?» suggerisce Gaspar con sollecitudine.)
+* Petra è amareggiata che Patrina non le abbia permesso di tenere Strahd come animale domestico — «alto e bello, era, sebbene un po' maturo» — mentre Dominik si risente che Artimus abbia reclamato <span class="citation">X20. Stanza dell'Architetto (p. 187)</span> come suo "laboratorio". Gaspar, nel frattempo, ricorda la visita di "Kazoo" con gioia, e racconta allegramente la volta in cui convinse il mago a lanciare *immolazione* su di lui. («Dovreste provare,» dice Gaspar. «Molto accogliente.»)
+* Diversi anni dopo che Patrina li aveva rianimati per la prima volta, ella scomparve bruscamente. I teschiardente non hanno più avuto sue notizie da allora. «Da allora,» dice Dominik freddamente, «non abbiamo avuto visitatori se non ladri.» (Se messo alle strette, Dominik ammette con riluttanza che i Montanari hanno visitato il tempio in pace in passato, ma nota, con una certa nostalgia, che Heinrich — l'attuale padrone dei teschiardente — ha revocato i termini del loro accordo.)
 
-> [!abstract]+ **Loose Lips**
-> If the players have delighted Gaspar by indulging his love of fire, he excitedly adds that, ten days ago, a strange creature appeared in the [[#Nave]]: a humanoid jackal that claimed to be Patrina’s heir. Although Petra scolds Gaspar for sharing “the Master’s secrets," she can confirm that the creature, which called itself Neferon, produced a copy of a last will and testament declaring him to be Patrina’s heir. 
+> [!abstract]+ **Lingue Sciolte**
+> Se i giocatori hanno deliziato Gaspar assecondando il suo amore per il fuoco, egli aggiunge con entusiasmo che, dieci giorni fa, una strana creatura apparve nella [[#Navata]]: un umanoide sciacallo che affermava di essere l'erede di Patrina. Sebbene Petra rimproveri Gaspar per aver condiviso «i segreti del Padrone», può confermare che la creatura, che si chiamava Neferon, produsse una copia di un testamento che lo dichiarava erede di Patrina.
 >
-> A player who succeeds on a DC 15 Charisma (Persuasion) check can convince Dominik to share the text of Patrina’s alleged will, which read: “I, Patrina Velikovna, being of sound mind and body, in consideration of his many years of friendship, and in consideration of my lack of any living blood relatives, do hereby name Neferon of Gehenna my sole heir and beneficiary, inheritor of all lands, titles, properties, and fealties owed to me."
+> Un giocatore che supera una prova di Carisma (Persuasione) con CD 15 può convincere Dominik a condividere il testo del presunto testamento di Patrina, che recitava: «Io, Patrina Velikovna, sana di mente e di corpo, in considerazione dei suoi molti anni di amicizia, e in considerazione della mia mancanza di parenti di sangue viventi, nomino con la presente Neferon di Gehenna mio unico erede e beneficiario, ereditiere di tutte le terre, titoli, proprietà e fedeltà a me dovute.»
 >
-> If asked, Petra reluctantly confirms that “Heinrich" is Neferon in disguise, but quietly wails that they “mustn’t tell him" that she told him so. (Her flames flaring a purplish red, she whispers dangerously that she’ll “make sure they regret it if they do.")
+> Se interrogata, Petra conferma con riluttanza che "Heinrich" è Neferon sotto mentite spoglie, ma piagnucola sommessamente che «non devono dirgli» che gliel'ha detto. (Con le fiamme che divampano in un rosso purpureo, sussurra minacciosamente che «si assicurerà che se ne pentano se lo fanno.»)
 
-> [!abstract]+ **Patrina’s Heir**
-> If the players inform the flameskulls that Kasimir is Patrina’s brother, Dominik responds with surprise, noting such a thing would be “impossible." If asked why, Dominik gravely informs the players that they or Kasimir must be lying. (“Mistress Velikovna’s will clearly stated she had no living blood relatives," he rasps.)
+> [!abstract]+ **L'Erede di Patrina**
+> Se i giocatori informano i teschiardente che Kasimir è il fratello di Patrina, Dominik risponde con sorpresa, notando che una cosa simile sarebbe «impossibile». Se interrogato sul perché, Dominik informa gravemente i giocatori che loro o Kasimir devono star mentendo. («Il testamento della Padrona Velikovna affermava chiaramente che non aveva parenti di sangue viventi,» raspa.)
 >
-> The players can convince the flameskulls that Kasimir is Patrina’s brother by succeeding on a DC 23 Charisma (Persuasion) check. The players make the check with advantage if they provide some form of proof of their claims, and succeed automatically if their proof is indisputable. On a failure, Dominik informs the players that the flameskulls do not suffer insults to their master’s honor lightly, and that the players had best offer proof before making such accusations. (Dominik confirms, however, that if the players prove their story, their fealty would pass from Heinrich to Kasimir, as Patrina’s sole living blood relative.)
+> I giocatori possono convincere i teschiardente che Kasimir è il fratello di Patrina superando una prova di Carisma (Persuasione) con CD 23. I giocatori effettuano la prova con vantaggio se forniscono qualche forma di prova delle loro affermazioni, e riescono automaticamente se la loro prova è indiscutibile. In caso di fallimento, Dominik informa i giocatori che i teschiardente non tollerano insulti all'onore del loro padrone alla leggera, e che i giocatori farebbero bene a offrire prove prima di fare tali accuse. (Dominik conferma, tuttavia, che se i giocatori dimostrano la loro storia, la loro fedeltà passerebbe da Heinrich a Kasimir, in quanto unico parente di sangue vivente di Patrina.)
 >
-> If the players convince the flameskulls that Kasimir is Patrina’s heir, they cheerfully obey Kasimir as their new master. (Due to the enchantment animating them, the flameskulls can’t leave the temple.) However, if the flameskulls subsequently encounter Patrina’s spirit in [[#S6c. Amber Vault]], they turn on the players and serve Patrina’s commands faithfully.
+> Se i giocatori convincono i teschiardente che Kasimir è l'erede di Patrina, essi obbediscono allegramente a Kasimir come loro nuovo padrone. (A causa dell'incantesimo che li anima, i teschiardente non possono lasciare il tempio.) Tuttavia, se i teschiardente incontrano successivamente lo spirito di Patrina nella [[#S6c. Cripta d'Ambra]], si rivoltano contro i giocatori e servono fedelmente i comandi di Patrina.
 
-If the players befriend the flameskulls, a player who asks about the *Sunsword* and succeeds on a DC 11 Charisma (Persuasion) check can convince the flameskulls to share the following additional information:
+Se i giocatori fanno amicizia coi teschiardente, un giocatore che chiede della *Lama del Sole* e supera una prova di Carisma (Persuasione) con CD 11 può convincere i teschiardente a condividere le seguenti informazioni aggiuntive:
 
-* Several months before her disappearance, Patrina brought a platinum sword hilt to the temple, its blade shattered and lost. The hilt was clearly magical, and power radiated from the sapphire set into its guard.
-* Patrina spent many weeks alone with the hilt in her workshop. The flameskulls don’t know what happened to it afterward, but recall that Patrina mentioned placing it “beneath the roots of evil," in an “amber home" where immortals feared to tread.
-## S2f. East Annex
-<span class="citation">This scene takes place in Chapter 13, Area X6.</span>
+* Diversi mesi prima della sua scomparsa, Patrina portò un'elsa di spada in platino al tempio, con la lama in frantumi e perduta. L'elsa era chiaramente magica, e il potere irradiava dallo zaffiro incastonato nella sua guardia.
+* Patrina trascorse molte settimane da sola con l'elsa nel suo laboratorio. I teschiardente non sanno cosa ne sia stato in seguito, ma ricordano che Patrina menzionò di averla posta «sotto le radici del male», in una «dimora d'ambra» dove gli immortali temevano di avventurarsi.
+## S2f. Annesso Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X6.</span>
 
-This area is largely as described in <span class="citation">X6. Southeast Annex (p. 185)</span>. However, there are no flameskulls in <span class="citation">X33a. Vault of Shalx (p. 191)</span> below.
-## S2g. East Gallery
-<span class="citation">This scene takes place in Chapter 13, Area X8.</span>
+Quest'area è in gran parte come descritta in <span class="citation">X6. Annesso Sudest (p. 185)</span>. Tuttavia, non ci sono teschiardente in <span class="citation">X33a. Cripta di Shalx (p. 191)</span> sottostante.
+## S2g. Galleria Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X8.</span>
 
-This area is largely as described in <span class="citation">X8. Upper East Hall (p. 185)</span>. However, revise the third sentence to read:
+Quest'area è in gran parte come descritta in <span class="citation">X8. Sala Superiore Est (p. 185)</span>. Tuttavia, rivisitate la terza frase affinché reciti:
 
 <div class="description">
-<p>A trio of arrow slits cut into the western wall, directly across from a wide door that stands closed to the east. A thin carpet of mist rolls across the floor from beneath it.</p>
+<p>Un trio di feritoie è intagliato nella parete occidentale, direttamente di fronte a un'ampia porta chiusa a est. Un sottile tappeto di nebbia scorre sul pavimento da sotto di essa.</p>
 </div>
 
-A creature that passes through the mist feels as though it is being watched.
+Una creatura che attraversa la nebbia avverte la sensazione di essere osservata.
 
-> [!lore]+ **The Mist**
-> The mist that continuously flows from <span class="citation">X9. Lecture Hall (p. 185)</span> marks the lair of Vilnius, the Dark Powers’ first victim. As the mist flows forth from the temple via <span class="citation">X2. Entrance (p. 183)</span>, it becomes the circle of mist that traps souls within the Amber Temple’s walls.
-## S2h. East Garrison
-<span class="citation">This scene takes place in Chapter 13, Areas X2b and X3.</span>
-### East Barracks
-This area is largely as described in <span class="citation">X3. Empty Barracks (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 12 or greater notices the faded outlines of an ancient magic circle carved into the floor at the room’s center. A player who succeeds on a DC 14 Intelligence (Arcana) check identifies it as a basic summoning circle, often used for conjuring familiars.
-### East Guard Post
-This area is largely as described in <span class="citation">X2b. Guard Room (p. 183)</span>. However, revise the second sentence of this area's description to read:
+> [!lore]+ **La Nebbia**
+> La nebbia che fluisce continuamente da <span class="citation">X9. Sala delle Lezioni (p. 185)</span> segna il covo di Vilnius, la prima vittima dei Poteri Oscuri. Mentre la nebbia scorre dal tempio attraverso <span class="citation">X2. Ingresso (p. 183)</span>, diventa il cerchio di nebbia che intrappola le anime all'interno delle mura del Tempio d'Ambra.
+## S2h. Guarnigione Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X2b e X3.</span>
+### Caserma Est
+Quest'area è in gran parte come descritta in <span class="citation">X3. Caserma Vuota (p. 183)</span>. Tuttavia, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 12 nota i contorni sbiaditi di un antico cerchio magico inciso nel pavimento al centro della stanza. Un giocatore che supera una prova di Intelligenza (Arcano) con CD 14 lo identifica come un cerchio di evocazione basilare, spesso usato per evocare famigli.
+### Posto di Guardia Est
+Quest'area è in gran parte come descritta in <span class="citation">X2b. Sala della Guardia (p. 183)</span>. Tuttavia, rivisitate la seconda frase della descrizione di quest'area affinché reciti:
 
 <div class="description">
-<p>Slumped in the northeast corner is a frozen, desiccated corpse wearing a black robe and pointed hat. Its right hand appears to be clutched around something at its neck.</p>
+<p>Rannicchiato nell'angolo nordest vi è un cadavere congelato e disseccato che indossa una veste nera e un cappello a punta. La sua mano destra pare stringere qualcosa al collo.</p>
 </div>
 
-The corpse, which has pale, splotchy green skin, belongs to Dorina, a foul-tempered **Barovian witch** who came to the Amber Temple nine years ago bearing an *amber shard of Khirad*. A player who inspects the corpse finds that its right hand is empty, with two of its fingers snapped off. (A player who searches for the missing fingers finds them on the floor nearby.) A successful DC 15 Wisdom (Nature or Medicine) check reveals that the fingers were snapped off within the past several days. In addition, a player who searches the witch’s corpse finds a single frozen *potion of healing* within its cloak.
+Il cadavere, che ha la pelle pallida e chiazzata di verde, appartiene a Dorina, una **strega baroviana** dal carattere irascibile che venne al Tempio d'Ambra nove anni fa recando un *frammento d'ambra di Khirad*. Un giocatore che esamina il cadavere scopre che la sua mano destra è vuota, con due delle sue dita spezzate. (Un giocatore che cerca le dita mancanti le trova sul pavimento lì vicino.) Una prova riuscita di Saggezza (Natura o Medicina) con CD 15 rivela che le dita furono spezzate negli ultimi giorni. Inoltre, un giocatore che perquisisce il cadavere della strega trova un'unica *pozione curativa* congelata nel suo mantello.
 
-Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the unfinished business: “I must bring my amber shard to Khirad’s amber sarcophagus and ask Khirad how to escape Barovia." If the players investigate her corpse, Dorina emerges from the Ethereal Plane using her *etherealness* feature. When she does, if any player has a passive Wisdom (Perception) score of 15 or greater, read:
+Il **fantasma** di Dorina infesta ancora questa stanza dal Piano Etereo, e ha l'obiettivo incompiuto: «Devo portare il mio frammento d'ambra al sarcofago d'ambra di Khirad e chiedere a Khirad come fuggire da Barovia.» Se i giocatori indagano sul suo cadavere, Dorina emerge dal Piano Etereo usando la sua caratteristica *eterealità*. Quando lo fa, se un giocatore ha un punteggio passivo di Saggezza (Percezione) pari o superiore a 15, leggete:
 
 <div class="description">
-<p>An ethereal silhouette drifts forth from the wall behind you, resembling a green-skinned woman wearing a black robe and pointed hat.</p>
+<p>Una sagoma eterea scivola fuori dalla parete dietro di voi, con le sembianze di una donna dalla pelle verde che indossa una veste nera e un cappello a punta.</p>
 </div>
 
-Once she emerges, Dorina immediately attempts to use her ***possession*** to possess a member of the party, preferring to target a player that has already noticed her. If her attempt fails, she sullenly drifts back into the floor, her teeth bared in a defiant snarl.
+Una volta emersa, Dorina tenta immediatamente di usare la sua ***possessione*** per impossessarsi di un membro del gruppo, preferendo prendere di mira un giocatore che l'abbia già notata. Se il suo tentativo fallisce, essa si ritira scontrosa nel pavimento, coi denti scoperti in un ringhio di sfida.
 
-> [!info]+ **Roleplaying Dorina**
-> If Dorina successfully gains control of a player’s body, provide that player the following information: 
-> 
+> [!info]+ **Interpretare Dorina**
+> Se Dorina riesce a prendere il controllo del corpo di un giocatore, fornite a quel giocatore le seguenti informazioni:
+>
 > ---
->  
-> You have been possessed by Dorina's ghost. While your body is possessed, you should roleplay as follows: 
-> * You want to deceive your companions into believing that you have not been possessed. 
-> * You want to slip away unseen, to head further into the Temple via the upper east hall. 
-> * You are ill-tempered, with a distaste for the Mountain Folk of Soldav. 
-> * You have a visceral aversion to the cold. If your deception fails, you attempt to flee.
-   
-
-> [!abstract]+ **Dorina’s Unfinished Business**
-If Dorina successfully possesses a character, she pretends to be that character but slips away at the first opportunity. If she does so successfully, or if confronted, she attempts to reach Khirad’s sarcophagus in <span class="citation">X33c. Ghastly Vault (p. 192)</span>. 
 >
-> Unless prevented from doing so, Dorina (in the player’s body) then accepts the *dark gift of Khirad* and asks the vestige a single question: “How can Barovia be escaped?" A possessed player hears Khirad’s whispered reply: *When the stars align, and the veil grows thin, the door you seek shall be laid open.*
+> Sei stato posseduto dal fantasma di Dorina. Mentre il tuo corpo è posseduto, dovresti interpretare come segue:
+> * Vuoi ingannare i tuoi compagni facendogli credere che non sei stato posseduto.
+> * Vuoi sgattaiolare inosservato, per dirigerti più in profondità nel Tempio attraverso la sala superiore est.
+> * Sei irascibile, con un disprezzo per i Montanari di Soldav.
+> * Hai un'avversione viscerale per il freddo. Se il tuo inganno fallisce, tenti di fuggire.
+
+
+> [!abstract]+ **L'Obiettivo Incompiuto di Dorina**
+Se Dorina riesce a impossessarsi di un personaggio, finge di essere quel personaggio ma si allontana alla prima opportunità. Se ci riesce, o se viene scoperta, tenta di raggiungere il sarcofago di Khirad in <span class="citation">X33c. Cripta Macabra (p. 192)</span>.
 >
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls a ghost’s general weaknesses, which are as described in <span class="citation">Ghost (<em>Monster Manual</em>, p. 147)</span>. Due to her method of death, Dorina immediately flees a possessed target if that target suffers cold damage or fails a saving throw against the effects of <span class="citation">Extreme Cold (<em>Dungeon Master’s Guide</em>, p. 110)</span>. 
+> A meno che non le venga impedito, Dorina (nel corpo del giocatore) accetta quindi il *dono oscuro di Khirad* e pone al vestigio una sola domanda: «Come si può fuggire da Barovia?» Un giocatore posseduto ode la risposta sussurrata di Khirad: *Quando le stelle si allineeranno, e il velo si assottiglierà, la porta che cerchi ti sarà aperta.*
+>
+> Un giocatore che supera una prova di Intelligenza (Arcano) con CD 15 ricorda le debolezze generali di un fantasma, che sono come descritte in <span class="citation">Fantasma (<em>Manuale dei Mostri</em>, p. 147)</span>. A causa del suo metodo di morte, Dorina fugge immediatamente da un bersaglio posseduto se quel bersaglio subisce danni da freddo o fallisce un tiro salvezza contro gli effetti di <span class="citation">Freddo Estremo (<em>Guida del Dungeon Master</em>, p. 110)</span>.
 
-A player who notices Dorina’s ghost, or who attempts to speak with her after restraining her possessed target, can convince her to speak with them instead by succeeding on a DC 20 Charisma (Persuasion) check, or by claiming to be a servant of Strahd or Baba Lysaga and succeeding on a DC 12 Charisma (Deception) check. Dorina’s ghost can then share the following information if asked:
+Un giocatore che nota il fantasma di Dorina, o che tenta di parlare con lei dopo aver immobilizzato il bersaglio posseduto, può convincerla a parlare con loro superando una prova di Carisma (Persuasione) con CD 20, o affermando di essere un servitore di Strahd o Baba Lysaga e superando una prova di Carisma (Inganno) con CD 12. Il fantasma di Dorina può quindi condividere le seguenti informazioni se interrogato:
 
-* Her name is Dorina. She came to the Amber Temple nine years ago bearing an *amber shard of Khirad*, the Star of Secrets, seeking an answer to how she could escape Barovia.
-* As she ascended Mt. Ghakis, she was attacked by a "monster" (an amber-touched **barlgura**) and lost most of her supplies, leaving her stranded in the Amber Temple with no food or shelter. She froze to death shortly thereafter. Her spirit has been trapped here ever since, though Dorina doesn’t know why. (“The Mist traps us," she hisses. “It binds and ensnares, oh yes.")
-* Several days ago, a young woman—"One of those Ghakis savages," Dorina sneers, her lip curling—"invaded" her place of rest, "looking to steal." The girl took Dorina's amber shard and fled.
+* Il suo nome è Dorina. Venne al Tempio d'Ambra nove anni fa recando un *frammento d'ambra di Khirad*, la Stella dei Segreti, in cerca di una risposta su come fuggire da Barovia.
+* Mentre saliva il Monte Ghakis, fu attaccata da un "mostro" (un **barlgura** toccato dall'ambra) e perse la maggior parte delle sue provviste, rimanendo bloccata nel Tempio d'Ambra senza cibo né riparo. Morì assiderata poco dopo. Il suo spirito è rimasto intrappolato qui da allora, sebbene Dorina non sappia perché. («La Nebbia ci intrappola,» sibila. «Lega e imprigiona, oh sì.»)
+* Diversi giorni fa, una giovane donna — «Una di quei selvaggi del Ghakis,» ringhia Dorina, arricciando il labbro — «invase» il suo luogo di riposo, «cercando di rubare.» La ragazza prese il frammento d'ambra di Dorina e fuggì.
 
-If her ***possession*** attempt fails, Dorina continues to haunt the players until turned or killed, but flees immediately if dealt cold damage. While haunting the players, she uses her ***incorporeal movement*** to end each of her turns outside of the players' line of sight, returning once her ***possession*** has recharged.
+Se il suo tentativo di ***possessione*** fallisce, Dorina continua a perseguitare i giocatori finché non viene respinta o uccisa, ma fugge immediatamente se subisce danni da freddo. Mentre perseguita i giocatori, usa il suo ***movimento incorporeo*** per terminare ciascuno dei suoi turni fuori dalla linea di vista dei giocatori, tornando una volta che la sua ***possessione*** si è ricaricata.
 
-If the players offer to aid her in fulfilling her unfinished business and succeed on a DC 15 Charisma (Persuasion) check, Dorina is willing to share the following additional information if asked:
+Se i giocatori si offrono di aiutarla a compiere il suo obiettivo incompiuto e superano una prova di Carisma (Persuasione) con CD 15, Dorina è disposta a condividere le seguenti informazioni aggiuntive se interrogata:
 
-* She doesn’t know anything about the *Sunsword*. However, the conclave of specters in the [[#Dining Hall]] has dwelled here far longer than she, and may know the secret to finding it.
-* The mage that recently arrived in the temple (“Heinrich") is not human, but a fiend of the Lower Planes. It possesses a small box made of bone, which seems to bear some incredible value to it. It has hidden this box away deep within the temple.
-# S3. Catacombs
-<span class="citation">This scene takes place in Chapter 13, Areas X31, X31a, and X31b.</span>
-## S3a. Central Catacombs
-This area is largely as described in <span class="citation">X31. Central Catacombs (p. 189)</span>. However, if the **death slaad** Nardag (currently located in [[#S3b. West Catacombs]]) hears the players enter, it uses its ***shapechange*** feature to assume the form of a young human woman and conceals its greatsword within one of the amber husks in the western catacomb alcoves. It then calls out to the players, hoping to lure them into a false sense of security. Read:
+* Non sa nulla della *Lama del Sole*. Tuttavia, il conclave di spettri nella [[#Sala da Pranzo]] dimora qui da molto più tempo di lei, e potrebbe conoscere il segreto per trovarla.
+* Il mago arrivato di recente al tempio ("Heinrich") non è umano, bensì un demone dei Piani Inferiori. Possiede una piccola scatola di osso, che sembra avere un valore incredibile per lui. Ha nascosto questa scatola nelle profondità del tempio.
+# S3. Catacombe
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X31, X31a e X31b.</span>
+## S3a. Catacombe Centrali
+Quest'area è in gran parte come descritta in <span class="citation">X31. Catacombe Centrali (p. 189)</span>. Tuttavia, se lo **slaad della morte** Nardag (attualmente situato nelle [[#S3b. Catacombe Ovest]]) sente i giocatori entrare, usa la sua caratteristica ***cambiaforma*** per assumere la forma di una giovane donna umana e nasconde il suo spadone all'interno di uno dei gusci d'ambra nelle alcove delle catacombe occidentali. Poi chiama i giocatori, sperando di attirarli in un falso senso di sicurezza. Leggete:
 
 <div class="description">
-<p>A trembling woman's voice calls out from the western corridor. "H-hello? Is someone there?"</p>
+<p>La voce tremante di una donna chiama dal corridoio occidentale. «S-salve? C'è qualcuno?»</p>
 </div>
 
-> [!info]+ **The Slaad**
-On the night before the players’ arrival at the Amber Temple, a **death slaad** named Nardag came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
+> [!info]+ **Lo Slaad**
+> La notte prima dell'arrivo dei giocatori al Tempio d'Ambra, uno **slaad della morte** di nome Nardag si imbatté in una nube di nebbia che vagava per il piano di Limbo. Incuriosito, e percependo il male dei Poteri Oscuri attraverso la nebbia, lo slaad della morte si gettò avidamente nella nebbia, dopodiché fu trasportato al Tempio d'Ambra a Barovia, dove il confine tra i mondi era più debole.
 >
-> After initially appearing in <span class="citation">X8. Upper East Hall (p. 185)</span>, Nardag sensed Neferon’s presence and immediately attacked. Ultimately, after fleeing Nardag’s attack, Neferon lured the slaad into the catacombs and sealed it there.
+> Dopo essere apparso inizialmente in <span class="citation">X8. Sala Superiore Est (p. 185)</span>, Nardag percepì la presenza di Neferon e attaccò immediatamente. Alla fine, dopo essere fuggito dall'attacco di Nardag, Neferon attirò lo slaad nelle catacombe e lo sigillò lì.
 >
-> Nardag knows it can escape the catacombs by casting *plane shift* to enter the Ethereral Plane. It has decided to remain, however, for two reasons. First, it enjoys basking in the miasma that birthed the Dark Powers, which it has adopted as unholy “gods" of darkness and death. Second, when it arrived in Barovia, Nardag carried a **blue slaad tadpole**, which it has fed many of the cadavers resting in <span class="citation">X31b. East Catacombs (p. 191)</span>. The **blue slaad**, which Nardag has named “Bluetspur," grew rapidly to adulthood overnight, but obeys Nardag out of reverence for its greater strength.
-## S3b. West Catacombs
-This area is largely as described in <span class="citation">X31a. West Catacombs (p. 191)</span>. However, it is inhabited by Nardag, a **death slaad** that can speak Common. If Nardag is expecting the players, add the following to the end of this area’s description:
+> Nardag sa di poter fuggire dalle catacombe lanciando *viaggio planare* per entrare nel Piano Etereo. Ha deciso di restare, tuttavia, per due ragioni. Primo, gode nel crogiolarsi nel miasma che generò i Poteri Oscuri, che ha adottato come empi "dèi" dell'oscurità e della morte. Secondo, quando arrivò a Barovia, Nardag portava con sé un **girino di slaad blu**, che ha nutrito con molti dei cadaveri che riposano in <span class="citation">X31b. Catacombe Est (p. 191)</span>. Lo **slaad blu**, che Nardag ha chiamato "Bluetspur", è cresciuto rapidamente fino all'età adulta durante la notte, ma obbedisce a Nardag per riverenza verso la sua forza superiore.
+## S3b. Catacombe Ovest
+Quest'area è in gran parte come descritta in <span class="citation">X31a. Catacombe Ovest (p. 191)</span>. Tuttavia, è abitata da Nardag, uno **slaad della morte** che parla Comune. Se Nardag si aspetta i giocatori, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A young woman with long, braided hair sits on the floor, her back propped up against the wall behind her. One of her legs is twisted at an odd angle, and her teeth are gritted in pain.</p>
+<p>Una giovane donna con lunghi capelli intrecciati siede sul pavimento, con la schiena appoggiata alla parete dietro di lei. Una delle sue gambe è piegata a un angolo innaturale, e stringe i denti dal dolore.</p>
 </div>
 
-If the players reveal themselves or greet her, the woman—who introduces herself as "Lorelei"—asks whether they're "friends of the creature that locked her here." "Lorelei" can share the following false information if asked:
+Se i giocatori si rivelano o la salutano, la donna — che si presenta come "Lorelei" — chiede se siano «amici della creatura che l'ha rinchiusa qui.» "Lorelei" può condividere le seguenti informazioni false se interrogata:
 
-* Her name is Lorelei. She found herself abruptly spirited away from her home a day ago and found herself here—a place she’s never seen before, and without any food or supplies.
-* Upon her arrival, she was attacked by the "demon" that dwells in these amber halls. "It looks like a man," she croaks, "but it's not." She fled, twisting her ankle in the process, and the “demon" locked her in here. She's been trying to figure out how to escape ever since.
+* Il suo nome è Lorelei. Si ritrovò improvvisamente trasportata via dalla sua casa un giorno fa e si trovò qui — un luogo che non ha mai visto prima, e senza cibo né provviste.
+* Al suo arrivo, fu attaccata dal "demone" che dimora in queste sale d'ambra. «Ha l'aspetto di un uomo,» gracchia, «ma non lo è.» Fuggì, storpiandosi la caviglia nel processo, e il "demone" la rinchiuse qui. Da allora ha cercato un modo per scappare.
 
-A player with a passive Wisdom (Insight) score of 15 or greater notices that, despite the freezing temperatures, "Lorelei" isn't shivering, and doesn't appear to be cold despite her unseasonal clothes. A player with a passive Wisdom (Perception) score of 17 or greater notices a metallic glint in the alcove behind “Lorelei." (The glint belongs to Nardag’s greatsword.)
+Un giocatore con un punteggio passivo di Saggezza (Intuizione) pari o superiore a 15 nota che, nonostante le temperature gelide, "Lorelei" non trema e non sembra avere freddo nonostante i suoi abiti fuori stagione. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 17 nota un luccichio metallico nell'alcova dietro "Lorelei". (Il luccichio appartiene allo spadone di Nardag.)
 
-"Lorelei" pretends to be a terrified, defenseless victim of the Mists, and thanks the players profusely for any aid or information they are willing to share with her. She releases her disguise, retrieves her greatsword, and attacks the players if the players attack her, reveal or challenge her true nature, attempt to take her greatsword, or discover the **blue slaad** in [[#S3c. East Catacombs]]. When Lorelei attacks, read:
+"Lorelei" finge di essere una vittima terrorizzata e indifesa delle Nebbie, e ringrazia profusamente i giocatori per qualsiasi aiuto o informazione siano disposti a condividere con lei. Abbandona il suo travestimento, recupera il suo spadone e attacca i giocatori se questi la attaccano, rivelano o mettono in discussione la sua vera natura, tentano di prendere il suo spadone, o scoprono lo **slaad blu** nelle [[#S3c. Catacombe Est]]. Quando Lorelei attacca, leggete:
 
 <div class="description">
-<p>The woman's form swells and bulges, her skin growing pallid, ash-grey scales. Her eyes lighten to a pale light-grey, her shoulders broadening as sharp, coal-black spines burst from the flesh beneath. Her stomach sags, clothes falling away, until a bulbous, flabby, clawed, toad-like creature stands before you.</p>
-<p>It bares its maw, revealing rows of shark-like, razor-sharp teeth beneath flat, slitted nostrils. "Finally!" it howls gleefully, and throws itself at you.</p>
+<p>La forma della donna si gonfia e deforma, la sua pelle diventa pallida, scaglie grigio-cenere. I suoi occhi si schiariscono in un grigio chiaro pallido, le spalle si allargano mentre spine appuntite, nero carbone, erompono dalla carne sottostante. Lo stomaco si affloscia, i vestiti cadono, finché una creatura bulbosa, flaccida, artigliata e simile a un rospo si erge davanti a voi.</p>
+<p>Spalanca le fauci, rivelando file di denti affilati come rasoi, simili a quelli di uno squalo, sotto narici piatte e fesse. «Finalmente!» ulula con gioia, e si lancia su di voi.</p>
 </div>
 
-When Nardag attacks, the **blue slaad** in [[#S3c. East Catacombs]] emerges and joins the battle alongside it. Both slaad fight to the death.
+Quando Nardag attacca, lo **slaad blu** nelle [[#S3c. Catacombe Est]] emerge e si unisce alla battaglia al suo fianco. Entrambi gli slaad combattono fino alla morte.
 
-> [!info]+ **Nardag’s Tactics**
-> In combat, Nardag begins by casting *cloudkill*, then attacks with its ***greatsword*** and ***bite***. It prefers to attack whichever creature is most wounded or terrified; if no suitable target is available, it moves to attack a random creature it can see within 30 feet.
+> [!info]+ **Tattiche di Nardag**
+> In combattimento, Nardag inizia lanciando *nube mortale*, poi attacca col suo ***spadone*** e ***morso***. Preferisce attaccare qualunque creatura sia più ferita o terrorizzata; se non è disponibile un bersaglio adatto, si muove per attaccare una creatura casuale che può vedere entro 9 metri.
 
-> [!warning]+ **Assymetric Blindness**
-> Remember that, because Nardag has blindsight, it attacks players blinded by its *cloudkill* with advantage, while imposing disadvantage on their attacks. In addition, don’t forget that a blinded spellcaster can’t cast spells that require sight (e.g., *polymorph*).
+> [!warning]+ **Cecità Asimmetrica**
+> Ricordate che, poiché Nardag ha vista cieca, attacca i giocatori accecati dalla sua *nube mortale* con vantaggio, imponendo allo stesso tempo svantaggio ai loro attacchi. Inoltre, non dimenticate che un incantatore accecato non può lanciare incantesimi che richiedono la vista (es. *metamorfosi*).
 
-> [!info]+ **Nardag’s Worship**
-> Nardag can sense the presence of the Dark Powers within the temple, and seeks to kill the players as offerings to them. As it fights, it gleefully asks the players whether they can “sense them—the powers of darkness that rule the twisting mists." If the players confuse the Dark Powers with the amber vestiges, Nardag angrily corrects them, snarling: “They are not as those weak, sniveling remnants. They are greater and above them. They suffuse each gulp of air you swallow; each thought that drips through your skulls. They are in your blood, in your veins, and in your hearts. They are Death incarnate—misery and pain and despair and *beauty*—and I will make you an offering to them!"
-## S3c. East Catacombs
-This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, a **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
+> [!info]+ **Il Culto di Nardag**
+> Nardag può percepire la presenza dei Poteri Oscuri all'interno del tempio e cerca di uccidere i giocatori come offerte a loro. Mentre combatte, chiede gioiosamente ai giocatori se possono «sentirli — i poteri dell'oscurità che governano le nebbie tortuose.» Se i giocatori confondono i Poteri Oscuri con i vestigia d'ambra, Nardag li corregge con rabbia, ringhiando: «Non sono come quei deboli, piagnucolosi resti. Sono più grandi e al di sopra di essi. Permeano ogni boccata d'aria che ingoiate; ogni pensiero che gocciola attraverso i vostri teschi. Sono nel vostro sangue, nelle vostre vene e nei vostri cuori. Sono la Morte incarnata — miseria e dolore e disperazione e *bellezza* — e vi farò un'offerta a loro!»
+## S3c. Catacombe Est
+Quest'area è in gran parte come descritta in <span class="citation">X31b. Catacombe Est (p. 191)</span>. Tuttavia, uno **slaad blu** di nome Bluetspur si trova sul lato orientale di questa camera, mascherato dall'incantesimo *immagine maggiore* di Nardag. Mentre attiva, l'*immagine maggiore* camuffa l'ambiente circostante lo slaad blu per apparire come un corridoio vuoto.
 
-A player with a passive Intelligence (Investigation) score of 15 or greater who approaches the illusion notices that the corridor’s contents don’t seem to obey the ordinary laws of parallax motion (almost as though the corridor is not three-dimensional, but flat).
+Un giocatore con un punteggio passivo di Intelligenza (Indagare) pari o superiore a 15 che si avvicina all'illusione nota che il contenuto del corridoio non sembra obbedire alle normali leggi del moto di parallasse (quasi come se il corridoio non fosse tridimensionale, ma piatto).
 
-Bluetspur attacks any creature that passes through the illusion, perceives it, or attacks it. If it attacks, the **death slaad** Nardag in [[#S3b. West Catacombs]] removes its disguise and joins it in battle. Both slaad fight to the death.
+Bluetspur attacca qualsiasi creatura che attraversi l'illusione, la percepisca o la attacchi. Se attacca, lo **slaad della morte** Nardag nelle [[#S3b. Catacombe Ovest]] rimuove il suo travestimento e si unisce alla battaglia. Entrambi gli slaad combattono fino alla morte.
 
-> [!combat]- **Combat - The East Catacombs**  
-> **Combat Level**: Bruising 
-> **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
-> **Expected HP Consumption:** 27%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - Le Catacombe Est**
+> **Livello di Combattimento**: Impegnativo
+> **Livello dei Personaggi Previsto**: 8
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4), Kasimir Velikov (GS 6)
+> **Consumo PF Previsto:** 27%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
 > | Bluetspur | 1 | 1 | 1 | 1 |
 > | Nardag | 1 | 1 | 1 | 1 |
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Change Nardag to a **green slaad**. |
-> | 4 | Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg. |
-> | 6 | Change Bluetspur to a **gray slaad**. |
+> | 3 | Cambiate Nardag in uno **slaad verde**. |
+> | 4 | Cambiate Bluetspur in uno **slaad rosso**, eccetto che il suo attacco ***artiglio*** infligge la Fase Caotica di uno **slaad blu** invece dell'uovo di uno **slaad rosso**. |
+> | 6 | Cambiate Bluetspur in uno **slaad grigio**. |
 
-> [!info]+ **Curing Chaos Phage**
-> The players can cure the **blue slaad's** ***chaos phage*** disease by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
-# S4. Western Temple
-## S4a. Western Temple, Main Floor
-### Brewing Room
-<span class="citation">This scene takes place in Chapter 13, Area X19.</span>
+> [!info]+ **Curare la Fase Caotica**
+> I giocatori possono curare la malattia ***fase caotica*** dello **slaad blu** usando la caratteristica ***tocco guaritore*** di Ithuriel, un incantesimo *ristorare inferiore* o qualsiasi altro mezzo per curare una malattia.
+# S4. Tempio Occidentale
+## S4a. Tempio Occidentale, Piano Principale
+### Sala delle Pozioni
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X19.</span>
 
-This area is as described in <span class="citation">X19. Potion Storage (p. 187)</span>.
-### Architect’s Room
-<span class="citation">This scene takes place in Chapter 13, Area X20.</span>
+Quest'area è come descritta in <span class="citation">X19. Deposito delle Pozioni (p. 187)</span>.
+### Stanza dell'Architetto
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X20.</span>
 
-This area is largely as described in <span class="citation">X20. Architect’s Room (p. 187)</span>. However, a player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
+Quest'area è in gran parte come descritta in <span class="citation">X20. Stanza dell'Architetto (p. 187)</span>. Tuttavia, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 10 osserva deboli segni di graffi lungo il fondo del forziere. (I segni sono stati lasciati dall'apertura del fondo falso del forziere.)
 
-In addition, replace the *tome of understanding* with a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old quill pens.
+Inoltre, sostituite il *tomo della comprensione* con un set di *occhi del dettaglio*, due vecchie pergamene, una bottiglia d'inchiostro ammuffita e tre vecchie penne d'oca.
 
-The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
+La prima pergamena contiene uno schizzo preciso di tre sarcofagi d'ambra, le cui facciate sono incise con i seguenti disegni da sinistra a destra: (1) un albero nodoso circondato da un canale; (2) un tomo su un piedistallo; e (3) un occhio su una collina. Una freccia punta a un cerchio attorno al sarcofago più a sinistra (quello raffigurante l'albero) da diverse righe di rune complesse e formule arcane. (Un giocatore che supera una prova di Intelligenza (Arcano) con CD 18 identifica le rune e le formule come appunti riguardanti un qualche tipo di magia di evocazione — specificamente, magia simile all'incantesimo *semipiano*.) Una nota scarabocchiata sotto le formule recita: "Parametro di integrità + rune di duplicazione + funzione di inversione = semipiano fisico nascosto all'interno della manifestazione psichica. Ma chi l'ha alterato, e perché?"
 
 ![[Khazan notes 1.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
+La seconda pergamena contiene uno schizzo simile di <span class="citation">K60. Cima della Torre Nord (p. 74)</span> di Castel Ravenloft, incluso <span class="citation">K20. Cuore del Dolore (p. 59)</span> sottostante. Una nota scarabocchiata in fondo recita: "Composizione: sangue cristallizzato. Mezzo di sospensione: Sconosciuto (non magico). Note: Altamente conduttivo alle energie arcane, con capacità di immagazzinamento potenzialmente eccezionali. La firma arcana risuona con le nebbie attorno alla valle. Perché?" (L'ultima parola è sottolineata tre volte.)
 
 ![[Khazan notes 2.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!lore]+ **Khazan’s Notes**
-> In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *Brightblade*).
+> [!lore]+ **Gli Appunti di Khazan**
+> Negli anni tra la caduta di Strahd e la morte di Khazan stesso, Khazan tornò al Tempio d'Ambra più volte per indagare i segreti della lichdom e approfondire la conoscenza che vi dimorava. Fu durante una di queste visite che Khazan rilevò le sottili energie magiche emananti dal sarcofago d'ambra del Vampyr in <span class="citation">X42. Cripta d'Ambra (p. 195)</span>. Ulteriori indagini rivelarono che il sarcofago portava un incantesimo complesso e potente — uno capace di duplicare lo "spazio mentale" psichico di un vestigio sigillato, stabilizzarlo come semipiano fisico e nasconderlo all'interno del collegamento psichico del vestigio. Tuttavia, Khazan non scoprì mai il creatore dell'incantesimo (Patrina) o il suo scopo (nascondere l'elsa della *Lama Lucente* spezzata).
 >
-> As Strahd’s arcane advisor, Khazan also returned to Castle Ravenloft on multiple occasions to analyze the Heart of Sorrow, which had mysteriously manifested within the North Tower when the Mists first fell. Centuries later, when Strahd first learned of the Grand Conjunction, Strahd used Khazan’s notes as the basis for his ultimate scheme to channel the Fanes’ power into the Heart of Sorrow —and thereby escape from Barovia.
-### West Temple Stair
-<span class="citation">This scene takes place in Chapter 13, Areas X18 and X21.</span>
+> Come consigliere arcano di Strahd, Khazan tornò anche a Castel Ravenloft in molteplici occasioni per analizzare il Cuore del Dolore, che si era misteriosamente manifestato all'interno della Torre Nord quando le Nebbie calarono per la prima volta. Secoli dopo, quando Strahd venne a conoscenza della Grande Congiunzione, Strahd usò gli appunti di Khazan come base per il suo piano definitivo di incanalare il potere dei Fani nel Cuore del Dolore — e così fuggire da Barovia.
+### Scala del Tempio Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X18 e X21.</span>
 
-This area is as described in <span class="citation">X18. Hallway (p. 187)</span> and <span class="citation">X21. West Staircase (p. 187)</span>. 
-### Dining Hall
-<span class="citation">This scene takes place in Chapter 13, Area X22.</span>
+Quest'area è come descritta in <span class="citation">X18. Corridoio (p. 187)</span> e <span class="citation">X21. Scala Ovest (p. 187)</span>.
+### Sala da Pranzo
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X22.</span>
 
-This area is largely as described in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, there are two ewers on the table: the green copper ewer described in <span class="citation">X22. Northwest Annex (p. 187)</span>, and an ordinary wooden pitcher. When the *programmed illusion* spell activates, the green copper ewer is disguised to resemble the wooden pitcher, and vice-versa.
+Quest'area è in gran parte come descritta in <span class="citation">X22. Annesso Nordovest (p. 187)</span>. Tuttavia, ci sono due brocche sul tavolo: la brocca di rame verde descritta in <span class="citation">X22. Annesso Nordovest (p. 187)</span> e una comune brocca di legno. Quando l'incantesimo *illusione programmata* si attiva, la brocca di rame verde viene mascherata per somigliare alla brocca di legno, e viceversa.
 
-In addition, replace two of the **specters** with **wraiths**. The spirits don’t attack if the players pick up the ewer. Instead, after entering this room, a player with a passive Wisdom (Perception) score of 15 or greater feels a prickling on the back of their neck, and feels as though they are being watched. A player with a passive Wisdom (Perception) score of 20 or greater senses an ethereal presence in the room with them. A player who attempts to sense this presence’s disposition and succeeds on a DC 20 Wisdom (Insight) check receives a feeling of wariness and curiosity.
+Inoltre, sostituite due degli **spettri** con **ombre vendicatrici**. Gli spiriti non attaccano se i giocatori prendono la brocca. Invece, dopo essere entrato in questa stanza, un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 avverte un formicolio sulla nuca, e ha la sensazione di essere osservato. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 20 percepisce una presenza eterea nella stanza. Un giocatore che tenta di percepire la disposizione di questa presenza e supera una prova di Saggezza (Intuizione) con CD 20 riceve una sensazione di diffidenza e curiosità.
 
-The spirits emerge if a player picks up the ewer or greets the unseen presence and succeeds on a DC 10 Charisma (Persuasion) check. A player makes the check with advantage if they mention the *Sunsword* or forswear any interest in accepting the vestiges’ gifts. When the spirits appear, read:
+Gli spiriti emergono se un giocatore prende la brocca o saluta la presenza invisibile e supera una prova di Carisma (Persuasione) con CD 10. Un giocatore effettua la prova con vantaggio se menziona la *Lama del Sole* o rinuncia a qualsiasi interesse nell'accettare i doni dei vestigia. Quando gli spiriti appaiono, leggete:
 
 <div class="description">
-<p>Seven ghostly figures emerge from the walls. Each wears a simple robe, and several carry staves, wands, or books wrapped under their arms. Bloated veins bulge from their pallid, translucent flesh, their faces sagging or frozen in expressions of ghastly horror.</p>
-<p>Two of the figures seem darker than the others, their eyes flashing with pale, yellow light. One floats forward, its voice rasping through the air: “Why do you intrude upon the prison of the damned?"</p>
+<p>Sette figure spettrali emergono dalle pareti. Ciascuna indossa una veste semplice, e alcune portano bastoni, bacchette o libri sotto le braccia. Vene gonfie sporgono dalla loro carne pallida e traslucida, i volti cadenti o congelati in espressioni di orrore raccapricciante.</p>
+<p>Due delle figure sembrano più scure delle altre, con gli occhi che lampeggiano di una pallida luce gialla. Una fluttua in avanti, la sua voce che raschia nell'aria: «Perché vi intromettete nella prigione dei dannati?»</p>
 </div>
 
-The two darker figures are the **wraiths**. The others are **specters**. Modify their statistics as follows:
+Le due figure più scure sono le **ombre vendicatrici**. Le altre sono **spettri**. Modificate le loro statistiche come segue:
 
-* Each specter can cast *burning hands* once per day. When cast in this way, the spell deals necrotic damage instead of fire.
-* Each wraith can cast *counterspell* once per day and *dispel magic* twice per day. When another creature’s spell is countered in this way, the creature must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its next turn.
+* Ogni spettro può lanciare *mani brucianti* una volta al giorno. Quando lanciato in questo modo, l'incantesimo infligge danni necrotici invece che da fuoco.
+* Ogni ombra vendicatrice può lanciare *controincantesimo* una volta al giorno e *dissolvi magie* due volte al giorno. Quando l'incantesimo di un'altra creatura viene contrastato in questo modo, la creatura deve superare un tiro salvezza su Saggezza con CD 14 o essere spaventata fino alla fine del suo prossimo turno.
 
-> [!lore]+ **The Poisoned Mages**
-> When Vilnius poisoned his master, the **archmage** Exethanter, seven other mages—five apprentices and two senior mages—died alongside him. Their spirits live on as the **specters** and **wraiths** that haunt this room, bound to the Amber Temple for eternity by the will of the Dark Powers. 
+> [!lore]+ **I Maghi Avvelenati**
+> Quando Vilnius avvelenò il suo maestro, l'**arcimago** Exethanter, sette altri maghi — cinque apprendisti e due maghi anziani — morirono insieme a lui. I loro spiriti sopravvivono come gli **spettri** e le **ombre vendicatrici** che infestano questa stanza, vincolati al Tempio d'Ambra per l'eternità dalla volontà dei Poteri Oscuri.
 >
-> These spirits remember that they were once members of the secret society that built the Amber Temple, that this society existed to imprison evil vestiges, and that the society’s third generation—theirs—destroyed itself in a storm of paranoia, anger, and greed. The spirits also believe (correctly) that Vilnius, who dined but did not die with them, is the one who killed them. The spirits sense that Vilnius’s spirit is the anchor that traps them here, and wish to see him destroyed so that their souls might be freed. The spirits further know that Vilnius desires his master’s staff (see [[#Shrine of Temptation]]), and, due to their hatred of him, will do anything to stop him from obtaining it.
+> Questi spiriti ricordano di essere stati un tempo membri della società segreta che edificò il Tempio d'Ambra, che questa società esisteva per imprigionare vestigia malvagi, e che la terza generazione della società — la loro — si autodistrusse in una tempesta di paranoia, rabbia e avidità. Gli spiriti credono inoltre (correttamente) che Vilnius, che cenò ma non morì con loro, sia colui che li uccise. Gli spiriti percepiscono che lo spirito di Vilnius è l'àncora che li intrappola qui, e desiderano vederlo distrutto affinché le loro anime possano essere liberate. Gli spiriti sanno inoltre che Vilnius desidera il bastone del suo maestro (vedi [[#Santuario della Tentazione]]), e, a causa del loro odio verso di lui, faranno qualsiasi cosa per impedirgli di ottenerlo.
 
-The spirits are willing to share the following information if asked:
+Gli spiriti sono disposti a condividere le seguenti informazioni se interrogati:
 
-* They are the spirits of mages and apprentices who perished in the Amber Temple long ago.
-* The Amber Temple was founded by mages who lived a century before them, who sought to imprison the vestiges of powerful, evil beings so that they would not be resurrected. (The spirits can confirm that these founders’ remains are sealed in [[#S3. Catacombs]].)
-* The spirits were murdered by Vilnius, the apprentice to the leader of the Temple's secret order: an archmage named Exethanter. Vilnius did so by poisoning the wine in Exethanter’s ewer. (Although Exethanter was also a victim of Vilnius’s betrayal, his ghost vanished from the temple approximately a year after the arrival of the dusk elf mage Patrina Velikovna. The spirits aren’t sure what happened to him, but suspect Patrina was responsible.)
-* If asked why Vilnius killed them, the specters share their belief that he was corrupted by "the call of amber," as so many of their colleagues were "in those final days."
-* Since Vilnius’s betrayal, the temple has fallen into the grasp of dark powers, which the spirits believe were born from the evil miasma the vestiges exude. The spirits felt those Dark Powers in their nightmares while they lived, and feel those Dark Powers’ presence entrapping them within the temple now. “They belong to the mists," a wraith rasps, “and the mists belongs to them."
+* Sono gli spiriti di maghi e apprendisti che perirono nel Tempio d'Ambra molto tempo fa.
+* Il Tempio d'Ambra fu fondato da maghi che vissero un secolo prima di loro, i quali cercarono di imprigionare i vestigia di potenti esseri malvagi affinché non potessero essere resuscitati. (Gli spiriti possono confermare che i resti di questi fondatori sono sigillati nelle [[#S3. Catacombe]].)
+* Gli spiriti furono assassinati da Vilnius, l'apprendista del capo dell'ordine segreto del Tempio: un arcimago di nome Exethanter. Vilnius lo fece avvelenando il vino nella brocca di Exethanter. (Sebbene anche Exethanter fosse vittima del tradimento di Vilnius, il suo fantasma scomparve dal tempio circa un anno dopo l'arrivo della maga elfa del crepuscolo Patrina Velikovna. Gli spiriti non sono certi di cosa gli sia accaduto, ma sospettano che Patrina ne fosse responsabile.)
+* Se interrogati sul perché Vilnius li uccise, gli spettri condividono la loro convinzione che fu corrotto dal "richiamo dell'ambra", come tanti dei loro colleghi lo furono "in quei giorni finali."
+* Dopo il tradimento di Vilnius, il tempio cadde nelle grinfie di poteri oscuri, che gli spiriti credono siano nati dal miasma malvagio che i vestigia esudano. Gli spiriti sentirono quei Poteri Oscuri nei loro incubi mentre erano vivi, e sentono la presenza di quei Poteri Oscuri che li intrappola nel tempio ora. «Appartengono alle nebbie,» raspa un'ombra vendicatrice, «e le nebbie appartengono a loro.»
 
-> [!abstract]+ **The Spirits of Amber**
-> If any player possesses an amber shard, either openly or secretly, the wraiths sense its presence (though not its precise location) and challenge the players to justify why they carry “a shard of evil’s touch." 
+> [!abstract]+ **Gli Spiriti dell'Ambra**
+> Se un giocatore possiede un frammento d'ambra, apertamente o in segreto, le ombre vendicatrici ne percepiscono la presenza (ma non la posizione precisa) e sfidano i giocatori a giustificare perché portano «un frammento del tocco del male.»
 >
-> The players can calm the spirits by succeeding on a DC 15 Charisma (Persuasion or Deception) check, made with advantage if they reveal an amber shard and offer it to the spirits, and made with disadvantage if any player has reached Stage Three of an amber shard’s Amber Corruption. On a failure, the spirits warn the players that they cannot allow any who seek the vestiges’ power to depart their chamber alive, and attack.
+> I giocatori possono calmare gli spiriti superando una prova di Carisma (Persuasione o Inganno) con CD 15, effettuata con vantaggio se rivelano un frammento d'ambra e lo offrono agli spiriti, e con svantaggio se un giocatore ha raggiunto lo Stadio Tre della Corruzione d'Ambra di un frammento d'ambra. In caso di fallimento, gli spiriti avvertono i giocatori che non possono permettere a chi cerca il potere dei vestigia di lasciare viva la loro camera, e attaccano.
 >
-> On initiative count 20 of the first round of combat, the doors leading from <span class="citation">X22. Northwest Annex (p. 187)</span> slam shut and magically lock, requiring a successful DC 20 Strength check to force open.
+> Al conteggio di iniziativa 20 del primo round di combattimento, le porte che conducono da <span class="citation">X22. Annesso Nordovest (p. 187)</span> si chiudono di colpo e si bloccano magicamente, richiedendo una prova di Forza con CD 20 riuscita per essere forzate.
 
-The spirits won’t share further information (e.g., the location of the *Sunsword*, or the password to open <span class="citation">X40. Sealed Treasury (p. 194)</span>) unless the players first destroy Vilnius’s spirit in <span class="citation">X9. Lecture Hall (p. 185)</span> and return with the amulet he wears, which is shaped like an upside-down “V." If the players agree to do so, the wraiths can share the following additional information:
+Gli spiriti non condividono ulteriori informazioni (es. la posizione della *Lama del Sole* o la password per aprire <span class="citation">X40. Tesoreria Sigillata (p. 194)</span>) a meno che i giocatori non distruggano prima lo spirito di Vilnius in <span class="citation">X9. Sala delle Lezioni (p. 185)</span> e tornino con l'amuleto che indossa, a forma di "V" capovolta. Se i giocatori accettano di farlo, le ombre vendicatrici possono condividere le seguenti informazioni aggiuntive:
 
-* Vilnius is no ordinary spirit. He is semi-corporeal and, as far as the wraiths know, may never have truly died.
-* Vilnius’s soul anchors the mists that surround the temple. If the players destroy him, the mists should disappear, freeing the trapped souls.
-* Vilnius’s soul, however, is anchored to his **quasit** familiar, Jakarion, and vice-versa. So long as either lives, the other cannot truly die, returning to life twenty-four hours after its “death." (The wraiths, if asked, can share all information regarding a **quasit’s** statistics, including its ***shapechanger*** and ***invisibility*** features.)
-* Vilnius’s amulet once belonged to his master, Exethanter, but Vilnius stole it from Exethanter’s corpse.
+* Vilnius non è uno spirito ordinario. È semi-corporeo e, per quanto ne sanno le ombre vendicatrici, potrebbe non essere mai veramente morto.
+* L'anima di Vilnius àncora le nebbie che circondano il tempio. Se i giocatori lo distruggono, le nebbie dovrebbero scomparire, liberando le anime intrappolate.
+* L'anima di Vilnius, tuttavia, è ancorata al suo famiglio **quasit**, Jakarion, e viceversa. Finché uno dei due vive, l'altro non può veramente morire, tornando in vita ventiquattro ore dopo la sua "morte". (Le ombre vendicatrici, se interrogate, possono condividere tutte le informazioni riguardanti le statistiche di un **quasit**, incluse le sue caratteristiche ***cambiaforma*** e ***invisibilità***.)
+* L'amuleto di Vilnius apparteneva un tempo al suo maestro, Exethanter, ma Vilnius lo rubò dal cadavere di Exethanter.
 
-> [!info]+ **The Grateful Dead**
-> If the players return with Vilnius’s amulet, the spirits are willing to share the following additional information if asked:
+> [!info]+ **I Morti Riconoscenti**
+> Se i giocatori tornano con l'amuleto di Vilnius, gli spiriti sono disposti a condividere le seguenti informazioni aggiuntive se interrogati:
 >
-> * The wall between <span class="citation">X39. Plundered Treasury (p. 194)</span> and <span class="citation">X40. Sealed Treasury (p. 194)</span> conceals a secret door, as described in <span class="citation">X5b. Secret Door (p. 184)</span>.
-> * The doors to <span class="citation">X40. Sealed Treasury (p. 194)</span> can be unlocked with a password, which is as described in <span class="citation">X40. Sealed Treasury (p. 194)</span>.
-> * Nearly four centuries ago, the dusk elf Patrina Velikovna came to the temple seeking the tutelage of Exethanter’s spirit. However, she plotted against him in secret, and sealed his spirit away for as long as she lived. 
-> * Some years after claiming the temple as her own, Patrina brought other men to the temple, including a noble named Strahd von Zarovich, a powerful mage called Khazan, and an architect named Artimus.
-> * Patrina vanished a little over a year after Strahd’s first visit. However, a few days before she disappeared, one of the wraiths watched her place the platinum hilt of a shattered sword within the western sarcophagus of <span class="citation">X42. Amber Vault (p. 195)</span>. (“The amber rippled as though it were water," the wraith recalls, “and the hilt vanished within.")
+> * La parete tra <span class="citation">X39. Tesoreria Saccheggiata (p. 194)</span> e <span class="citation">X40. Tesoreria Sigillata (p. 194)</span> nasconde una porta segreta, come descritto in <span class="citation">X5b. Porta Segreta (p. 184)</span>.
+> * Le porte di <span class="citation">X40. Tesoreria Sigillata (p. 194)</span> possono essere sbloccate con una password, che è come descritta in <span class="citation">X40. Tesoreria Sigillata (p. 194)</span>.
+> * Quasi quattro secoli fa, l'elfa del crepuscolo Patrina Velikovna venne al tempio in cerca dell'insegnamento dello spirito di Exethanter. Tuttavia, complottò contro di lui in segreto, e sigillò il suo spirito finché ella fosse rimasta in vita.
+> * Alcuni anni dopo aver reclamato il tempio come proprio, Patrina portò altri uomini al tempio, tra cui un nobile di nome Strahd von Zarovich, un potente mago chiamato Khazan e un architetto di nome Artimus.
+> * Patrina scomparve poco più di un anno dopo la prima visita di Strahd. Tuttavia, pochi giorni prima della sua scomparsa, una delle ombre vendicatrici la osservò deporre l'elsa di platino di una spada in frantumi all'interno del sarcofago occidentale di <span class="citation">X42. Cripta d'Ambra (p. 195)</span>. («L'ambra si increspò come fosse acqua,» ricorda l'ombra vendicatrice, «e l'elsa svanì al suo interno.»)
 
-> [!abstract]+ **An Icy Reception**
-> If the players return to this room bearing the *staff of frost* from the [[#Shrine of Temptation]], the spirits manifest and command them to return the staff to its “vault," where the “betrayer" (Vilnius) cannot reach it. If the players refuse, the spirits attack, as described above.
-### Shrine of Temptation
-<span class="citation">This scene takes place in Chapter 13, Area X24.</span>
+> [!abstract]+ **Un'Accoglienza Gelida**
+> Se i giocatori tornano in questa stanza portando il *bastone del gelo* dal [[#Santuario della Tentazione]], gli spiriti si manifestano e ordinano loro di restituire il bastone al suo "deposito", dove il "traditore" (Vilnius) non può raggiungerlo. Se i giocatori rifiutano, gli spiriti attaccano, come descritto sopra.
+### Santuario della Tentazione
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X24.</span>
 
-This area is largely as described in <span class="citation">X24. West Shrine (p. 188)</span>. However, add the following to the end of this area's description:
+Quest'area è in gran parte come descritta in <span class="citation">X24. Santuario Ovest (p. 188)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A tall, glittering staff shaped like a jagged icicle lies across the statue's arms.</p>
+<p>Un alto bastone luccicante a forma di ghiacciolo frastagliato giace tra le braccia della statua.</p>
 </div>
 
-The staff is a *staff of frost*, with the following changes:
+Il bastone è un *bastone del gelo*, con le seguenti modifiche:
 
-* It has a maximum of five charges.
-* Its wielder can spend two charges to cast *fabricate* with a casting time of 1 minute, requiring no raw materials to do so. When cast in this way, the object created is formed entirely of ice and lasts for 10 minutes, at which point it melts away.
-* If the staff touches or overlaps with the effects of a cantrip or 1st-level spell (e.g., *mage hand*, *entangle*, or *minor illusion*), that spell is dispelled. (*This doesn't affect spells with an instantaneous duration, such as lightning bolt, or spells that only affect a particular creature or object, such as hold person.*)
-* The staff is cursed. While attuned to the staff, a character gains the flaw described in <span class="citation">X42. Amber Vault, West Sarcophagus (p. 195)</span>. In addition, if a creature other than Vilnius removes the staff from the Amber Temple, the staff vanishes and returns to its original position in the [[#Shrine of Temptation]]. (The curse ends if Vilnius is destroyed.)
+* Ha un massimo di cinque cariche.
+* Il suo portatore può spendere due cariche per lanciare *fabbricare* con un tempo di lancio di 1 minuto, senza richiedere materie prime. Quando lanciato in questo modo, l'oggetto creato è formato interamente di ghiaccio e dura 10 minuti, dopodiché si scioglie.
+* Se il bastone tocca o si sovrappone agli effetti di un trucchetto o incantesimo di 1° livello (es. *mano magica*, *intralciare* o *illusione minore*), quell'incantesimo viene dissolto. (*Questo non influenza incantesimi con durata istantanea, come fulmine, o incantesimi che influenzano solo una creatura o oggetto particolare, come blocca persone.*)
+* Il bastone è maledetto. Mentre è sintonizzato col bastone, un personaggio acquisisce il difetto descritto in <span class="citation">X42. Cripta d'Ambra, Sarcofago Ovest (p. 195)</span>. Inoltre, se una creatura diversa da Vilnius rimuove il bastone dal Tempio d'Ambra, il bastone svanisce e ritorna alla sua posizione originale nel [[#Santuario della Tentazione]]. (La maledizione termina se Vilnius viene distrutto.)
 
-The first time a player picks up the *staff of frost*, if they did so at Vilnius’s request, a soft woman’s voice whispers into their mind: “*Vilnius doesn’t deserve this staff. Use its power to deceive him, and take it for yourself.*"
+La prima volta che un giocatore prende il *bastone del gelo*, se lo ha fatto su richiesta di Vilnius, una dolce voce di donna sussurra nella sua mente: «*Vilnius non merita questo bastone. Usa il suo potere per ingannarlo, e prendilo per te.*»
 
-> [!info]+ **The Whispering Voice**
-> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#The Abbot’s Redemption|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
-## S4b. Western Temple, Lower Floor
-### West Hall
-<span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
+> [!info]+ **La Voce Sussurrante**
+> La voce sussurrante appartiene ai Poteri Oscuri, che sperano di impedire a Vilnius di ottenere il *bastone del gelo*. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 discerne che la voce della donna maschera una cacofonia di sussurri che precedono le sue parole. Se il giocatore ha precedentemente udito i sussurri dei Poteri Oscuri in [[Arc O - Dinner with the Devil#Varushka's Grief|Arco O - Cena col Diavolo]] o [[Arc Q - A Shining Beacon#The Abbot's Redemption|Arco Q - Un Faro Luminoso]], riconosce i sussurri come gli stessi.
+## S4b. Tempio Occidentale, Piano Inferiore
+### Sala Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X5d e X36.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X36. Lower West Hall (p.194)</span>. However, remove the **death slaad**, and if any player inspects their reflection, read:
+Quest'area è in gran parte come descritta in <span class="citation">X5d. Riflessi d'Ambra (p. 184)</span> e <span class="citation">X36. Sala Inferiore Ovest (p. 194)</span>. Tuttavia, rimuovete lo **slaad della morte**, e se un giocatore esamina il proprio riflesso, leggete:
 
 <div class="description">
-<p>For a brief instant, a silhouette flickers across the reflection, mere inches behind yours.</p>
+<p>Per un breve istante, una sagoma guizza attraverso il riflesso, a pochi centimetri dietro di voi.</p>
 </div>
 
-The player must then make a Wisdom (Perception) check. On a result of 15 or greater, add:
+Il giocatore deve quindi effettuare una prova di Saggezza (Percezione). Con un risultato di 15 o superiore, aggiungete:
 
 <div class="description">
-<p>The silhouette resembles a tall, dusky-skinned woman, her dark eyes fixed upon yours.</p>
+<p>La sagoma assomiglia a una donna alta dalla pelle scura, i suoi occhi cupi fissi nei vostri.</p>
 </div>
 
-On a result of 20 or greater, add:
+Con un risultato di 20 o superiore, aggiungete:
 
 <div class="description">
-<p>The tops of the woman’s ears rise above her raven-black hair, showing pointed tips.</p>
+<p>Le punte delle orecchie della donna spuntano sopra i suoi capelli corvini, mostrando estremità appuntite.</p>
 </div>
 
-The silhouette vanishes as quickly as it appeared.
+La sagoma svanisce con la stessa rapidità con cui è apparsa.
 
-> [!info]+ **The Amber Apparition**
-> The silhouette belongs to Patrina’s spirit, which has a limited capacity to observe events within the Amber Temple. If asked, Kasimir can confirm, with some surprise, that the silhouette’s features resemble Patrina’s. “But her body lies in Castle Ravenloft’s crypts," he notes, frowning. “Perhaps it was an echo—a reflection of the temple’s own memory?"
-### West Quarters
-<span class="citation">This scene takes place in Chapter 13, Areas X37 and X38.</span>
+> [!info]+ **L'Apparizione d'Ambra**
+> La sagoma appartiene allo spirito di Patrina, che ha una capacità limitata di osservare gli eventi all'interno del Tempio d'Ambra. Se interrogato, Kasimir può confermare, con una certa sorpresa, che i lineamenti della sagoma assomigliano a quelli di Patrina. «Ma il suo corpo giace nelle cripte di Castel Ravenloft,» nota, aggrottando le sopracciglia. «Forse era un'eco — un riflesso della memoria stessa del tempio?»
+### Alloggi Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X37 e X38.</span>
 
-This area is as described in <span class="citation">X37. Wizard’s Bedchamber (p. 194)</span> and <span class="citation">X38. Haunted Room (p. 194)</span>.
-### West Vaults
+Quest'area è come descritta in <span class="citation">X37. Camera da Letto del Mago (p. 194)</span> e <span class="citation">X38. Stanza Infestata (p. 194)</span>.
+### Cripte Ovest
 
-> [!info]+ **The Amber Sarcophagi**
-> The amber sarcophagi throughout the Amber Temple are largely as described in <span class="citation">Amber Sarcophagi (p. 191)</span>. However, accepting a dark gift can’t change a creature’s alignment. In addition, only one creature can form a telepathic link with a particular vestige at a time.
+> [!info]+ **I Sarcofagi d'Ambra**
+> I sarcofagi d'ambra in tutto il Tempio d'Ambra sono in gran parte come descritti in <span class="citation">Sarcofagi d'Ambra (p. 191)</span>. Tuttavia, accettare un dono oscuro non può cambiare l'allineamento di una creatura. Inoltre, solo una creatura alla volta può formare un collegamento telepatico con un particolare vestigio.
 
-> [!info]+ **Take One**
-> A player can’t accept more than one dark gift. Once a player accepts a vestige’s dark gift, all other vestiges within the temple refuse to offer them any additional dark gift, noting with distaste that their soul is “tainted" by another’s power.
+> [!info]+ **Prendine Uno**
+> Un giocatore non può accettare più di un dono oscuro. Una volta che un giocatore accetta il dono oscuro di un vestigio, tutti gli altri vestigia all'interno del tempio rifiutano di offrirgli ulteriori doni oscuri, notando con disgusto che la sua anima è "corrotta" dal potere di un altro.
 
-> [!info]+ **Stages of Corruption**
-> The first time a player fails a Charisma saving throw after using a vestige’s dark gift, that player immediately progresses to Stage Four of that vestige’s amber corruption, as described below. The player doesn’t receive the effects of Stage Three of that vestige’s [[Amber Shards#Stage Three|amber corruption]], and loses the effects of the vestige’s Stage Three amber corruption if they already possessed them.
-#### Breached Vault
-<span class="citation">This scene takes place in Chapter 13, Area X33d</span>
+> [!info]+ **Stadi di Corruzione**
+> La prima volta che un giocatore fallisce un tiro salvezza su Carisma dopo aver usato il dono oscuro di un vestigio, quel giocatore progredisce immediatamente allo Stadio Quattro della corruzione d'ambra di quel vestigio, come descritto sotto. Il giocatore non riceve gli effetti dello Stadio Tre della [[Amber Shards#Stage Three|corruzione d'ambra]] di quel vestigio, e perde gli effetti dello Stadio Tre della corruzione d'ambra del vestigio se li possedeva già.
+#### Cripta Violata
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33d</span>
 
-This area is largely as described in <span class="citation">X33d. Breached Vault (p. 192)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, no **nothics** dwell in this chamber. In addition, modify the sarcophagi in this room (and their dark gifts) as described below.
+Quest'area è in gran parte come descritta in <span class="citation">X33d. Cripta Violata (p. 192)</span> e <span class="citation">Sarcofagi d'Ambra (p. 191)</span>. Tuttavia, nessun **nothic** dimora in questa camera. Inoltre, modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto.
 
-> [!info]+ **West Sarcophagus (Tomb of Delban).** 
-> If a player touches this sarcophagus, read:
+> [!info]+ **Sarcofago Ovest (Tomba di Delban).**
+> Se un giocatore tocca questo sarcofago, leggete:
 >
 > ---
 >
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, frozen wasteland. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una vasta distesa ghiacciata. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
 >
-> *Before you, strange, twisted monuments of ice arc unnaturally in leaping spirals and immense, impossible architectures, while shards of frost swirl on the wind, as thin and sharp as razors. Several hundred yards away, the earth falls away to reveal a deep, mile-wide pit, its sides rimmed in snow and frost. A constant column of red-hot magma rises in great, shifting blobs from the pit’s miles-deep base, swirling into the skies above as the pit’s bottom slowly darkens and cools. *The column of lava rises far into the atmosphere, turning black with cold until, finally, it is devoured by a frigid, blue-white star that hangs over the horizon.*
+> *Davanti a voi, strani e contorti monumenti di ghiaccio si arcuano innaturalmente in spirali vorticose e immense architetture impossibili, mentre schegge di brina turbinano nel vento, sottili e affilate come rasoi. A diverse centinaia di metri di distanza, la terra cede per rivelare una profonda fossa di oltre un chilometro e mezzo di ampiezza, coi bordi orlati di neve e brina. Una colonna costante di magma incandescente si eleva in grandi chiazze mutevoli dal fondo della fossa, profondo chilometri, turbinando nei cieli sopra mentre il fondo della fossa lentamente si oscura e si raffredda. La colonna di lava sale in alto nell'atmosfera, annerendosi col freddo finché, infine, viene divorata da una frigida stella bianco-azzurra che pende sull'orizzonte.*
 >
-> *The earth trembles and, as the star orbits through the skies, you feel a terrible gaze fall upon you. A rumbling voice echoes through the air: “I AM DELBAN, THE STAR OF ICE AND HATE. DO YOU COME TO SEEK MY GIFT?"*
+> *La terra trema e, mentre la stella orbita nei cieli, sentite un terribile sguardo posarsi su di voi. Una voce rimbombante echeggia nell'aria: «IO SONO DELBAN, LA STELLA DEL GHIACCIO E DELL'ODIO. SIETE VENUTI A CERCARE IL MIO DONO?»*
 >
 > ---
-> 
-> If the player expresses interest in Delban’s gift, Delban offers the player the power to unleash “the cold of the void beyond the stars." To accept, the player must enter the column of lava and allow Delban to devour them.
-> 
-> ***Delban’s Gift.*** Delban’s dark gift allows a player to cast _cone of cold_ without components three times per day. A player who accepts Delban’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Delban’s [[Amber Shards#Amber Corruption|Amber Corruption]].
 >
-> Each time the player uses Delban’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Delban’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Delban’s dark gift, and resets to 5 each time the player gains an additional stage of Delban’s amber corruption.
+> Se il giocatore esprime interesse per il dono di Delban, Delban offre al giocatore il potere di scatenare "il freddo del vuoto oltre le stelle". Per accettare, il giocatore deve entrare nella colonna di lava e permettere a Delban di divorarlo.
 >
-> * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “I burn with frigid fury at the meaningless of life." Their eyes emit a bright, spectral light, and the temperature is always frigid around them. 
-> * **Stage Five.** The player gains a **coldlight walker**’s (<span class="citation"><em>Icewind Dale: Rime of the Frostmaiden</em>, p. 284)</span> ***blinding light***, ***icy doom***, ***unusual nature***, and ***cold ray*** features, and the flaw: “I delight in reminding mortals of the fragility of their pathetic lives."
-> * **Stage Six.** The player transforms into a **coldlight walker** under the DM's control.
-
-If the player passes through the amber archway or accepts Delban’s gift, the telepathic connection ends, and the player returns to their previous senses.
-
-> [!info]+ **North Sarcophagus (Tomb of the Devourer).**  
-> If a player approaches this sarcophagus while in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the *twilight crest* from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows purple and emits a soft, keening hum.  (The light and hum fade after 1 minute, or if the item is removed from the room.)
-
-> [!lore]+ **The Broken Sarcophagus**
-> When the wizards of the Amber Temple first set off to contain the vestiges of evil entities, the vestige of the Devourer—the youngest sister of the Ladies of the Fanes, once known as the Dreamer—was the first that they found. They extracted her divine soul from the Whispering Wall, her corpse, and sealed it away within an amber sarcophagus. Still inexperienced in the art of sealing vestiges, the wizards’ ritual overlooked a single parameter in the Devourer’s binding—and ever since, a thin layer of the Dreamer’s mist has blanketed the temple floor. When the Dark Powers first wove Vilnius’s prison, it was this mist, tinged with divine power, that they used to do so. Two millenia later, the Dark Powers, empowered by Strahd’s evil and the nourishment they had taken from the souls entrapped in the Amber Temple, spun Mists of their own, which they used to imprison the land of Barovia.
+> ***Dono di Delban.*** Il dono oscuro di Delban permette a un giocatore di lanciare _cono di freddo_ senza componenti tre volte al giorno. Un giocatore che accetta il dono oscuro di Delban riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Delban.
 >
-> Since her sealing, the Devourer’s vestige slept silently in its sarcophagus . . . until, three months ago, Strahd von Zarovich came seeking its knowledge of soul magic. When the Devourer’s vestige refused to share its secrets with him, Strahd tore it from its sarcophagus and sealed it away within the Heart of Sorrow at the peak of Castle Ravenloft, where he could use the Fanes’ power to compel it to answer. Now, only scraps of the Devourer’s power cloak the shattered remnants of her millenia-old prison, echoing faintly with the tingues of the mantle she once wore.
+> Ogni volta che il giocatore usa il dono oscuro di Delban, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Delban, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Delban, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Delban.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Costituzione e il difetto: "Ardo di furia gelida per l'insignificanza della vita." I suoi occhi emettono una luce spettrale brillante, e la temperatura è sempre gelida attorno a lui.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***luce accecante***, ***destino gelido***, ***natura insolita*** e ***raggio di freddo*** di un **camminatore di luce fredda** (<span class="citation"><em>Icewind Dale: Rime of the Frostmaiden</em>, p. 284)</span>, e il difetto: "Godo nel ricordare ai mortali la fragilità delle loro patetiche vite."
+> * **Stadio Sei.** Il giocatore si trasforma in un **camminatore di luce fredda** sotto il controllo del DM.
 
-> [!info]+ **East Sarcophagus (Tomb of Drizlash)**  
-> If a creature touches this sarcophagus, read:  
->  
-> ---
->  
->  *As you touch the sarcophagus, the room melts away around you, to be replaced by a towering, decrepit stone hall. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Thick webbing cloaks the vaulted halls and ceilings, each web bearing dozens of small, silk-woven sacs the size of a man’s head. Each sac bulges and writhes with thousands of tiny, unseen forms, which flicker with a pale, eerie blue light.*  
->  
-> *Before you, ancient gnawed bones cover the floor, surrounded by rusted weapons and armor. At the center of it all, resting upon a web that rises from floor to ceiling, stands an enormous arachnid, its bloated body covered with sharp, bluish-white spines. A humanoid torso rises from its back, ending in the head of an ancient, wizened crone. Eight eyes spread across her face; as she speaks, a ninth, gray eye opens atop her forehead.*  
->  
-> *“I am Drizlash," she rasps, “the Nine-Eyed Spider. Have you come to accept my gift?"*  
->  
-> ---
->  
-> If the player expresses interest in Drizlash’s gift, she offers the player the power to “defy the pull of the world—to walk untethered from earthly binds." To accept, the player must swallow a fist-sized egg sac offered by one of Drizlash’s eight legs.  
->  
-> If the player passes through the amber archway or accepts Drizlash’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Drizlash’s Gift.*** Drizlash’s dark gift allows a player to cast, without components, _spider climb_ (at will) and _blink_ (three times per day). A player who accepts Drizlash’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Drizlash’s [[Amber Shards#Amber Corruption|Amber Corruption]].
->  
-> Each time the player uses Drizlash’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Drizlash’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Drizlash’s dark gift, and resets to 5 each time the player gains an additional stage of Drizlash’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Dexterity score and the flaw: “Only raw flesh can satiate my hunger, and I am always hungry." Its skin becomes a pale white-blue, and fangs grow in its mouth.  
-> * **Stage Five.** The player gains a **phase spider’s** ***web walker***, ***multiattack***, ***bite***, and ***ethereal sight*** features, and the flaw: “I suffer from extreme paranoia, and am quick to anger."
-> * *Stage Six.* The player transforms into a **phase spider** under the DM’s control. 
-#### Vault of Harkotha
-<span class="citation">This scene takes place in Chapter 13, Area X33e</span>
+Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Delban, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
 
-This area is largely as described in <span class="citation">X33e. Vault of Harkotha (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+> [!info]+ **Sarcofago Nord (Tomba del Divoratore).**
+> Se un giocatore si avvicina a questo sarcofago in possesso della statuetta di farfalla da [[Arc J - The Stolen Gem#J4a. Kavan's Cairn|J4a. Il Tumulo di Kavan]], o del *cimiero del crepuscolo* da [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. Il Muro dei Sussurri]], l'oggetto brilla di viola ed emette un ronzio soffice e lamentoso. (La luce e il ronzio svaniscono dopo 1 minuto, o se l'oggetto viene rimosso dalla stanza.)
 
-> [!info]+ **North Sarcophagus (Tomb of Yrrga).** 
-> If a player touches this sarcophagus, read:
-> 
+> [!lore]+ **Il Sarcofago Spezzato**
+> Quando i maghi del Tempio d'Ambra partirono per la prima volta per contenere i vestigia di entità malvagie, il vestigio del Divoratore — la sorella minore delle Signore dei Fani, un tempo conosciuta come la Sognatrice — fu il primo che trovarono. Estrassero la sua anima divina dal Muro dei Sussurri, il suo cadavere, e la sigillarono all'interno di un sarcofago d'ambra. Ancora inesperti nell'arte di sigillare i vestigia, il rituale dei maghi trascurò un singolo parametro nel vincolo del Divoratore — e da allora, un sottile strato della nebbia della Sognatrice ha ricoperto il pavimento del tempio. Quando i Poteri Oscuri per la prima volta tessero la prigione di Vilnius, fu questa nebbia, tinta di potere divino, che usarono per farlo. Due millenni più tardi, i Poteri Oscuri, potenziati dal male di Strahd e dal nutrimento che avevano tratto dalle anime intrappolate nel Tempio d'Ambra, tesserono Nebbie proprie, che usarono per imprigionare la terra di Barovia.
+>
+> Dalla sua sigillatura, il vestigio del Divoratore dormì silenziosamente nel suo sarcofago... finché, tre mesi fa, Strahd von Zarovich venne a cercare la sua conoscenza della magia delle anime. Quando il vestigio del Divoratore rifiutò di condividere i suoi segreti con lui, Strahd lo strappò dal suo sarcofago e lo sigillò all'interno del Cuore del Dolore sulla cima di Castel Ravenloft, dove poteva usare il potere dei Fani per costringerlo a rispondere. Ora, solo brandelli del potere del Divoratore ammantano i resti frantumati della sua prigione millenaria, echeggiando debolmente con le sfumature del manto che un tempo indossava.
+
+> [!info]+ **Sarcofago Est (Tomba di Drizlash)**
+> Se una creatura tocca questo sarcofago, leggete:
+>
 > ---
 >
-> *As you touch this sarcophagus, the room melts away around you, to be replaced by a circular glass platform. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un'imponente e decrepita sala di pietra. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
 >
-> *This platform floats in an endless, shadowed void, with countless stars twinkling in the distance. At the platform’s center, upon a raised glass pillar, rests a spherical object covered in a fine red cloth.*
+> *Fitte ragnatele ammantano le sale a volta e i soffitti, ogni tela che reca dozzine di piccoli bozzoli avvolti nella seta della grandezza di una testa umana. Ogni bozzolo si gonfia e si contorce con migliaia di piccole forme invisibili, che tremolano con una pallida, inquietante luce blu.*
 >
-> *The distant stars shimmer, then coalesce, forming a woman’s silhouette. Her eyes are a pair of swirling spiral galaxies, and when she speaks, the cosmos themselves seem to tremble.*
+> *Davanti a voi, antiche ossa rosicchiate coprono il pavimento, circondate da armi e armature arrugginite. Al centro di tutto, appollaiato su una ragnatela che sale dal pavimento al soffitto, si erge un enorme aracnide, il suo corpo rigonfio ricoperto di spine acuminate bianco-azzurre. Un torso umanoide si eleva dalla sua schiena, terminando nella testa di un'antica megera avvizzita. Otto occhi sono sparsi sul suo viso; quando parla, un nono occhio grigio si apre sulla sua fronte.*
 >
-> “*I am Yrrga, the Eye of Shadows*," she intones. “Do you seek my gift?"
-> 
+> *«Io sono Drizlash,» raspa, «il Ragno dai Nove Occhi. Siete venuti ad accettare il mio dono?»*
+>
 > ---
 >
-> If the player expresses interest in Yrrga’s gift, she offers the player the power to “see the true nature of things, without illusions or lies." To accept, the player must lift the cloth and gaze into the glass orb that lies beneath it.
+> Se il giocatore esprime interesse per il dono di Drizlash, ella offre al giocatore il potere di "sfidare l'attrazione del mondo — di camminare liberi dai vincoli terreni." Per accettare, il giocatore deve ingoiare un bozzolo grande come un pugno offerto da una delle otto zampe di Drizlash.
 >
-> If the player passes through the amber archway or accepts Yrrga’s gift, the telepathic connection ends, and the player returns to their previous senses.
-> 
-> ***Yrrga’s Gift.*** Yrrga’s dark gift allows a player to cast _true seeing_ without components at will. A player who accepts Yrrga’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yrrga’s [[Amber Shards#Amber Corruption|Amber Corruption]].
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Drizlash, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
 >
-> Each time the player uses Yrrga’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Yrrga’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Yrrga’s dark gift, and resets to 5 each time the player gains an additional stage of Yrrga’s amber corruption.
+> ***Dono di Drizlash.*** Il dono oscuro di Drizlash permette a un giocatore di lanciare, senza componenti, _camminata del ragno_ (a volontà) e _intermittenza_ (tre volte al giorno). Un giocatore che accetta il dono oscuro di Drizlash riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Drizlash.
 >
-> * **Stage Four.** The player gains a +3 bonus to their Wisdom score and the flaw: “I loathe manifestations of order and trust." Their flesh grows pale and malleable, and their organs seem to twist and writhe beneath their skin.
-> * **Stage Five.** The player gains a **lesser star spawn emissary’s** ***unusual nature***, ***lashing maw***, and ***psychic orb*** features, and the flaw: “I seek to foment hatred and discord wherever I go."
-> * **Stage Six.** The player transforms into a **lesser star spawn emissary** under the DM’s control with no legendary resistances or legendary actions, and without its ***aberrant rejuvenation*** feature.
-
-> [!info]+ **West Sarcophagus (Tomb of Taar Haak).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a desolate wasteland. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Mountainous canyons, ridges, and chasms cut through the earth like gaping wounds, bubbling with streams and geysers of churning lava. Each molten river flows into a large, central basin, framed by a semicircle of five great mountains that tower above the rest.*  
->  
-> *Rising from the surface of the lake of lava, far above the cracked black stone and spouts of impossible heat, is an immense hydra clad in dark, platinum scales. Instead of one head, it has five, each maw wide enough to devour an entire village.*  
->  
-> ***“I am the Great Taar Haak,"*** *it rumbles,* ***“the Five-Headed Destroyer. Have you the strength to claim my gift?"***
->  
-> ---  
->  
-> If the player expresses interest in Taar Haak’s gift, Taar Haak offers the player the “strength of titans." To accept, the player must wade into the lake of fire and be baptized beneath Taar Haak’s monstrous claw.  
->  
-> If the player passes through the amber archway or accepts Taar Haak’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Taar Haak’s Gift.*** Taar Haak’s dark gift allows a player to cast, without components, the *enlarge/reduce* spell (self only, at-will) and *enhance ability* (Strength and self only, at-will). A player who accepts Taar Haak’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Taar Haak’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
+> Ogni volta che il giocatore usa il dono oscuro di Drizlash, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Drizlash, come descritto sotto. La CD aumenta di 3 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Drizlash, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Drizlash.
 >
-> Each time the player uses Taar Haak’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Taar Haak’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Taar Haak’s dark gift, and resets to 5 each time the player gains an additional stage of Taar Haak’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Strength score and the flaw: “I’m always hungry for a fight, and I love taking gruesome trophies from my victims." Its muscles swell to a larger size, and short, orange fur covers its body.  
-> * **Stage Five.** The player gains a **barlgura’s** ***reckless***, ***running leap***, ***multiattack***, ***bite***, and ***fist*** attacks, as well as its climbing speed, and the flaw: “I’d tear someone limb from limb with barely the slightest provocation."
-> * **Stage Six.** The player transforms into a **barlgura** under the DM’s control.  
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Destrezza e il difetto: "Solo la carne cruda può saziare la mia fame, e ho sempre fame." La sua pelle diventa pallida bianco-azzurra, e delle zanne gli crescono in bocca.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***camminata nelle ragnatele***, ***multiattacco***, ***morso*** e ***vista eterea*** di un **ragno delle fasi**, e il difetto: "Soffro di paranoia estrema e sono facile all'ira."
+> * *Stadio Sei.* Il giocatore si trasforma in un **ragno delle fasi** sotto il controllo del DM.
+#### Cripta di Harkotha
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33e</span>
 
-> [!info]+ **South Sarcophagus (Tomb of Yog).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a gargantuan, dark cavern. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *From the cavern’s arched ceiling, hundreds of feet overhead, six stone ridges extend like spirals along the walls of the cavern, descending in a twisted helix toward the floor far below. The six ridges meet at the cavern’s base, converging to encircle a deep, dark hole filled with thick, bubbling tar.*  
->  
-> *A shadow flickers from the highest stone ridge; as it steps into the dim, gray light, its features solidify, forming an enormous, black-furred hyena whose coat resembles dark, metallic spines. Thick tar oozes continually from its pores, and its yellow eyes gleam in the cavern’s darkness.*  
->  
-> *“I am Yog, the Invincible," it growls, looking down toward you. “Do you seek my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Yog’s gift, Yog offers the player the power of "unyielding endurance—to never fall, never falter." To accept, the player must step into the bubbling tar pit and allow themselves to be submerged.  
->  
-> If the player passes through the amber archway or accepts Yog’s gift, the telepathic connection ends, and the player returns to their previous senses.
->  
-> ***Yog’s Gift.*** Yog’s dark gift allows a player to cast, without components, _stoneskin_ (three times per day). A player who accepts Yog’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Yog’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Yog’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Yog’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Yog’s dark gift, and resets to 5 each time the player gains an additional stage of Yog’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “Pain is meaningless to me, and I revel in suffering—mine or others." A line of jagged black spikes grows along their spine, and its eyes glow a bright, sickly yellow.
-> * **Stage Five.** The player gains a **shoosuva’s** ***rampage***, ***multiattack***, ***tail stinger***, and ***bite*** features, and the flaw: “Once I’ve entered battle, I can’t distinguish between friend and foe."
-> * **Stage Six.** The player transforms into a **shoosuva** under the DM’s control.  
-#### Vault of Thangob
-<span class="citation">This scene takes place in Chapter 13, Area X33f</span>
+Quest'area è in gran parte come descritta in <span class="citation">X33e. Cripta di Harkotha (p. 193)</span> e <span class="citation">Sarcofagi d'Ambra (p. 191)</span>. Tuttavia, modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto.
 
-This area is largely as described in <span class="citation">X33f. Vault of Thangob (p. 193)</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
+> [!info]+ **Sarcofago Nord (Tomba di Yrrga).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate questo sarcofago, la stanza si dissolve attorno a voi, sostituita da una piattaforma circolare di vetro. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Questa piattaforma galleggia in un vuoto infinito e ombreggiato, con innumerevoli stelle che brillano in lontananza. Al centro della piattaforma, su un pilastro di vetro rialzato, giace un oggetto sferico coperto da un fine drappo rosso.*
+>
+> *Le stelle distanti luccicano, poi si uniscono, formando la sagoma di una donna. I suoi occhi sono una coppia di galassie a spirale vorticanti, e quando parla, il cosmo stesso sembra tremare.*
+>
+> «*Io sono Yrrga, l'Occhio delle Ombre*,» intona. «Cercate il mio dono?»
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Yrrga, ella offre al giocatore il potere di "vedere la vera natura delle cose, senza illusioni né menzogne." Per accettare, il giocatore deve sollevare il drappo e fissare il globo di vetro sottostante.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Yrrga, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Yrrga.*** Il dono oscuro di Yrrga permette a un giocatore di lanciare _vista veritiera_ senza componenti a volontà. Un giocatore che accetta il dono oscuro di Yrrga riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Yrrga.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Yrrga, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Yrrga, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Yrrga, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Yrrga.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Saggezza e il difetto: "Detesto le manifestazioni di ordine e fiducia." La sua carne diventa pallida e malleabile, e i suoi organi sembrano torcersi e contorcersi sotto la pelle.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***natura insolita***, ***fauci flagellanti*** e ***globo psichico*** di un **emissario delle progenie stellari inferiore**, e il difetto: "Cerco di fomentare odio e discordia ovunque vada."
+> * **Stadio Sei.** Il giocatore si trasforma in un **emissario delle progenie stellari inferiore** sotto il controllo del DM senza resistenze leggendarie né azioni leggendarie, e senza la sua caratteristica ***ringiovanimento aberrante***.
 
-> [!info]+ **West Sarcophagus (Norganas).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, decrepit chapel. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Before you, stone coffins carved with pentagrams fill the sanctuary in long, perfect rows, their covers removed to reveal the ancient dead that lie within. At the chapel’s far end, atop a tall, granite dais, stands an additional coffin carved from pure obsidian.*  
->  
-> *A living shadow floats above the obsidian coffin, clad in twisted darkness and an elaborate bone helm. Cold, gray eyes flicker beneath its visor; when the shadow speaks, its voice grinds like the sound of bone against bone.*  
->  
-> *“I am Norganas, the Finger of Oblivion," it rasps. “Will you accept my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Norganas’s gift, it offers the player the power to “turn life into undeath." To accept, the player must lie within the coffin and pull the cover shut over itself.  
->  
-> If the player passes through the amber archway or accepts Norganas’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Norganas’s Gift.*** Norganas’s dark gift allows a player to cast _finger of death_ without components three times per day. A player who accepts Norganas’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Norganas’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Norganas’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Norganas’s amber corruption, as described below. The DC increases by 10 each additional time the player uses Norganas’s dark gift, and resets to 10 each time the player gains an additional stage of Norganas’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “I do not feel joy, sorrow, or love—only hate, rage, and apathy." Its flesh becomes translucent and clouded in shadow, and its eyes glow yellow.
-> * **Stage Five.** The player gains a **wraith’s** ***incorporeal movement*** and ***life drain*** features, and the flaw: “I despise reminders of what I once was, and what I have become."
-> * **Stage Six.** The player transforms into a **wraith** under the DM’s control.
+> [!info]+ **Sarcofago Ovest (Tomba di Taar Haak).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una distesa desolata. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Canyon montagnosi, creste e crepacci tagliano la terra come ferite spalancate, gorgoglianti di fiumi e geyser di lava ribollente. Ogni fiume di magma scorre in un grande bacino centrale, incorniciato da un semicerchio di cinque grandi montagne che torreggiano sopra le altre.*
+>
+> *Dalla superficie del lago di lava, ben al di sopra della pietra nera crepata e degli zampilli di calore impossibile, si erge un'immensa idra ricoperta di scure scaglie di platino. Invece di una testa, ne ha cinque, ogni fauci abbastanza ampia da divorare un intero villaggio.*
+>
+> ***«Io sono il Grande Taar Haak,»*** *rimbomba,* ***«il Distruttore dalle Cinque Teste. Avete la forza di reclamare il mio dono?»***
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Taar Haak, Taar Haak offre al giocatore la "forza dei titani." Per accettare, il giocatore deve guadare il lago di fuoco e farsi battezzare sotto l'artiglio mostruoso di Taar Haak.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Taar Haak, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Taar Haak.*** Il dono oscuro di Taar Haak permette a un giocatore di lanciare, senza componenti, l'incantesimo *ingrandire/ridurre* (solo su sé stesso, a volontà) e *potenziare abilità* (solo Forza e solo su sé stesso, a volontà). Un giocatore che accetta il dono oscuro di Taar Haak riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Taar Haak.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Taar Haak, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Taar Haak, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Taar Haak, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Taar Haak.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Forza e il difetto: "Ho sempre fame di rissa, e adoro prendere trofei macabri dalle mie vittime." I suoi muscoli si gonfiano a dimensioni maggiori, e una corta pelliccia arancione ricopre il suo corpo.
+> * **Stadio Cinque.** Il giocatore ottiene gli attacchi ***sconsiderato***, ***balzo in corsa***, ***multiattacco***, ***morso*** e ***pugno*** di un **barlgura**, così come la sua velocità di arrampicata, e il difetto: "Farei a pezzi qualcuno con appena la minima provocazione."
+> * **Stadio Sei.** Il giocatore si trasforma in un **barlgura** sotto il controllo del DM.
 
-> [!info]+ **South Sarcophagus (Tomb of Vaund).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, impenetrable void. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *The ground beneath your feet shimmers with a thin layer of liquid water. Before you, a tall silver mirror stands alone amidst the darkness. Rather than your reflection, however, a golden mask hovers in the mirror’s depths, its surface carved to resemble a smiling human face.*  
->  
-> *“I am Vaund, the Evasive," the mask whispers. “Have you come to seek my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Vaund’s gift, Vaund offers the player the power to “flee from sight." To accept, the player must step through the surface of the mirror.  
->  
-> If the player passes through the amber archway or accepts Vaund’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Vaund’s Gift.*** Vaund’s dark gift allows a player to cast the _greater invisibility_ spell without components three times per day. A player who accepts Vaund’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Vaund’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Vaund’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Vaund’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Vaund’s dark gift, and resets to 5 each time the player gains an additional stage of Vaund’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Dexterity score and the flaw: “I do not feel joy, sorrow, or love—only hate, rage, and apathy." Its skin becomes a pale, ethereal blue, and its lips freeze into a permanent, ghoulish smile.  
-> * **Stage Five.** The player gains an **invisible stalker’s** ***air form***, ***multiattack***, and ***wind swipe*** features, and the flaw: “I despise reminders of what I once was, and what I have become."  
-> * **Stage Six.** The player transforms into an **invisible stalker** under the DM’s control.  
+> [!info]+ **Sarcofago Sud (Tomba di Yog).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una caverna gargantuesca e oscura. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Dal soffitto arcuato della caverna, a centinaia di metri sopra di voi, sei creste di pietra si estendono come spirali lungo le pareti della caverna, scendendo in un'elica contorta verso il pavimento in basso. Le sei creste si incontrano alla base della caverna, convergendo per circondare una buca profonda e oscura colma di catrame denso e ribollente.*
+>
+> *Un'ombra guizza dalla cresta di pietra più alta; mentre esce nella fioca luce grigia, i suoi lineamenti si solidificano, formando un'enorme iena dal pelo nero il cui manto assomiglia a spine scure e metalliche. Catrame denso trasuda continuamente dai suoi pori, e i suoi occhi gialli brillano nell'oscurità della caverna.*
+>
+> *«Io sono Yog, l'Invincibile,» ringhia, guardando verso di voi dall'alto. «Cercate il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Yog, Yog offre al giocatore il potere della "resistenza indomabile — non cadere mai, non vacillare mai." Per accettare, il giocatore deve entrare nella fossa di catrame ribollente e lasciarsi sommergere.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Yog, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Yog.*** Il dono oscuro di Yog permette a un giocatore di lanciare, senza componenti, _pelle di pietra_ (tre volte al giorno). Un giocatore che accetta il dono oscuro di Yog riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Yog.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Yog, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Yog, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Yog, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Yog.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Costituzione e il difetto: "Il dolore è insignificante per me, e mi crogiolo nella sofferenza — mia o altrui." Una linea di spine nere frastagliate cresce lungo la sua spina dorsale, e i suoi occhi brillano di un giallo vivo e malsano.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***frenesia***, ***multiattacco***, ***pungiglione caudale*** e ***morso*** di uno **shoosuva**, e il difetto: "Una volta entrato in battaglia, non riesco a distinguere amici da nemici."
+> * **Stadio Sei.** Il giocatore si trasforma in uno **shoosuva** sotto il controllo del DM.
+#### Cripta di Thangob
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33f</span>
 
-> [!info]+ **East Sarcophagus (Tomb of Seriach).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by an arid hellscape forged of black volcanic rock. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *From above, a crimson sky blazes with impossible heat; below, gouts of lava burst and flow from deep fissures that scar the rocky earth. Before you, two fiery hounds stand upon a tall stone ledge, smoke and embers steaming from their nostrils as magma drips from their maws like saliva.*  
->  
-> *Between them stands a figure clad in black steel armor inlaid with crimson markings. Its shoulders are rimmed with spikes, and scarlet eyes burn from the shadows of its devil-horned helmet. It wields a chain-metal whip in either hand, their spiked lengths crackling with swirling flames.*  
->  
-> *“I am Seriach, the Hell Hound Whisperer," the figure sneers. “Have you come to ask for my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Seriach’s gift, he offers the player the power to “call and command the hounds of the Nine Hells." To accept, the player must allow the two **hell hounds** to kill and devour them.  
->  
-> If the player passes through the amber archway or accepts Seriach’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Seriach’s Gift.*** Seriach’s dark gift allows a player to gain the effects of a ***summon fiend*** spell twice a day. (When cast in this way, the spell conjures a **hell hound**, rather than its ordinary fiendish spirit.) A player who accepts Seriach’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Seriach’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Seriach’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Seriach’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Seriach’s dark gift, and resets to 5 each time the player gains an additional stage of Seriach’s amber corruption.
->  
-> * **Stage Four.** The player gains a +3 bonus to their Strength score and the flaw: “I must regularly indulge my hunger for killing." A cloud of smoke and embers constantly emits from their mouth, which grows pronounced, canine fangs, and their fingers grow sharp, bestial claws.  
-> * **Stage Five.** The player gains a **hell hound’s** ***keen hearing and smell*** and ***bite*** features, as well as its movement speed, and the flaw: “A weakened ally is little better than prey."  
-> * **Stage Six.** The player transforms into a **hell hound** under the DM’s control.  
-# S5. Eastern Temple
-## S5a. Eastern Temple, Main Floor
-### Lecture Hall
-<span class="citation">This scene takes place in Chapter 13, Area X9.</span>
+Quest'area è in gran parte come descritta in <span class="citation">X33f. Cripta di Thangob (p. 193)</span>. Tuttavia, modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto.
 
-This area is largely as described in <span class="citation">X9. Lecture Hall (p. 185)</span>. However, modify the first sentence of this area's description to replace "brightly lit" with "dimly lit." In addition, add the following sentence to the end of this area's description:
+> [!info]+ **Sarcofago Ovest (Norganas).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una vasta cappella decrepita. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Davanti a voi, bare di pietra incise con pentagrammi riempiono il santuario in lunghe file perfette, i coperchi rimossi per rivelare gli antichi morti che giacciono all'interno. All'estremità della cappella, sopra un alto dais di granito, si erge un'ulteriore bara scolpita in pura ossidiana.*
+>
+> *Un'ombra vivente fluttua sopra la bara di ossidiana, avvolta in oscurità contorta e un elaborato elmo d'osso. Freddi occhi grigi guizzano sotto la sua visiera; quando l'ombra parla, la sua voce stride come il suono di osso contro osso.*
+>
+> *«Io sono Norganas, il Dito dell'Oblio,» raspa. «Accetterete il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Norganas, esso offre al giocatore il potere di "trasformare la vita in non morte." Per accettare, il giocatore deve giacere nella bara e tirare il coperchio sopra di sé.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Norganas, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Norganas.*** Il dono oscuro di Norganas permette a un giocatore di lanciare _dito della morte_ senza componenti tre volte al giorno. Un giocatore che accetta il dono oscuro di Norganas riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Norganas.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Norganas, deve superare un tiro salvezza su Carisma con CD 10 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Norganas, come descritto sotto. La CD aumenta di 10 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Norganas, e si resetta a 10 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Norganas.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Costituzione e il difetto: "Non provo gioia, dolore o amore — solo odio, rabbia e apatia." La sua carne diventa traslucida e avvolta nell'ombra, e i suoi occhi brillano di giallo.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***movimento incorporeo*** e ***risucchio vitale*** di un'**ombra vendicatrice**, e il difetto: "Disprezzo i ricordi di ciò che ero un tempo, e di ciò che sono diventato."
+> * **Stadio Sei.** Il giocatore si trasforma in un'**ombra vendicatrice** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Sud (Tomba di Vaund).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un vuoto vasto e impenetrabile. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Il terreno sotto i vostri piedi luccica con un sottile strato d'acqua liquida. Davanti a voi, un alto specchio d'argento si erge solitario nell'oscurità. Invece del vostro riflesso, tuttavia, una maschera dorata fluttua nelle profondità dello specchio, la sua superficie scolpita a somiglianza di un volto umano sorridente.*
+>
+> *«Io sono Vaund, l'Elusivo,» sussurra la maschera. «Siete venuti a cercare il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Vaund, Vaund offre al giocatore il potere di "fuggire dalla vista." Per accettare, il giocatore deve attraversare la superficie dello specchio.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Vaund, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Vaund.*** Il dono oscuro di Vaund permette a un giocatore di lanciare l'incantesimo _invisibilità superiore_ senza componenti tre volte al giorno. Un giocatore che accetta il dono oscuro di Vaund riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Vaund.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Vaund, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Vaund, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Vaund, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Vaund.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Destrezza e il difetto: "Non provo gioia, dolore o amore — solo odio, rabbia e apatia." La sua pelle diventa di un pallido blu etereo, e le sue labbra si congelano in un permanente sorriso macabro.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***forma d'aria***, ***multiattacco*** e ***colpo di vento*** di un **inseguitore invisibile**, e il difetto: "Disprezzo i ricordi di ciò che ero un tempo, e di ciò che sono diventato."
+> * **Stadio Sei.** Il giocatore si trasforma in un **inseguitore invisibile** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Est (Tomba di Seriach).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un paesaggio infernale arido forgiato di roccia vulcanica nera. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Dall'alto, un cielo cremisi arde di calore impossibile; in basso, getti di lava eruttano e scorrono da profonde fessure che segnano la terra rocciosa. Davanti a voi, due segugi infuocati si ergono su un alto ripiano di pietra, fumo e braci che fumano dalle loro narici mentre magma cola dalle loro fauci come saliva.*
+>
+> *Tra loro si erge una figura rivestita di armatura d'acciaio nero intarsiata di segni cremisi. Le sue spalle sono orlate di punte, e occhi scarlatti ardono dalle ombre del suo elmo cornuto da diavolo. Brandisce una frusta di maglia in ciascuna mano, le loro lunghezze chiodate che scoppiettano di fiamme vorticose.*
+>
+> *«Io sono Seriach, il Sussurratore dei Segugi Infernali,» ghigna la figura. «Siete venuti a chiedere il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Seriach, egli offre al giocatore il potere di "chiamare e comandare i segugi dei Nove Inferni." Per accettare, il giocatore deve permettere ai due **segugi infernali** di ucciderlo e divorarlo.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Seriach, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Seriach.*** Il dono oscuro di Seriach permette a un giocatore di ottenere gli effetti di un incantesimo ***evoca immondo*** due volte al giorno. (Quando lanciato in questo modo, l'incantesimo evoca un **segugio infernale**, invece del suo normale spirito immondo.) Un giocatore che accetta il dono oscuro di Seriach riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Seriach.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Seriach, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Seriach, come descritto sotto. La CD aumenta di 3 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Seriach, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Seriach.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Forza e il difetto: "Devo regolarmente soddisfare la mia fame di uccidere." Una nube di fumo e braci emana costantemente dalla sua bocca, che sviluppa zanne canine pronunciate, e le sue dita sviluppano artigli appuntiti e bestiali.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***udito e olfatto acuti*** e ***morso*** di un **segugio infernale**, così come la sua velocità di movimento, e il difetto: "Un alleato indebolito è poco meglio di una preda."
+> * **Stadio Sei.** Il giocatore si trasforma in un **segugio infernale** sotto il controllo del DM.
+# S5. Tempio Orientale
+## S5a. Tempio Orientale, Piano Principale
+### Sala delle Lezioni
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X9.</span>
+
+Quest'area è in gran parte come descritta in <span class="citation">X9. Sala delle Lezioni (p. 185)</span>. Tuttavia, modificate la prima frase della descrizione di quest'area per sostituire "luminosamente illuminata" con "debolmente illuminata." Inoltre, aggiungete la seguente frase alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A thick layer of mist rolls lazily across the floor of this chamber.</p>
+<p>Un folto strato di nebbia scorre pigramente sul pavimento di questa camera.</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 15 or greater notices that the mist flows *up* the stairs, rather than down—and that its source seems to be the lectern at the front of the room. 
+Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 nota che la nebbia scorre *verso l'alto* lungo le scale, invece che verso il basso — e che la sua fonte sembra essere il leggio nella parte anteriore della stanza.
 
 > [!lore]+ **Vilnius**
-> The mage Exethanter first discovered Vilnius as a child in the streets of a distant city while away from the Amber Temple on a recruitment mission. Then, Exethanter was not the temple’s archmage, but a senior mage of the society, and Vilnius an orphaned urchin who learned to cast *mage hand* and *prestidigitation* from pilfered scrolls to steal from merchants in the city market. When he caught Vilnius attempting to steal his purse, Exethanter was not angered, but impressed by the boy’s aptitude for magic, and invited him to become his apprentice. Though Vilnius was suspicious of Exethanter’s generosity, he nonetheless accepted, too eager to escape the city streets.
+> Il mago Exethanter scoprì per la prima volta Vilnius da bambino nelle strade di una città lontana, mentre era lontano dal Tempio d'Ambra per una missione di reclutamento. Allora, Exethanter non era l'arcimago del tempio, ma un mago anziano della società, e Vilnius un orfano che aveva imparato a lanciare *mano magica* e *prestidigitazione* da pergamene rubate per derubare i mercanti nel mercato della città. Quando colse Vilnius nel tentativo di rubargli la borsa, Exethanter non si adirò, ma rimase impressionato dall'attitudine del ragazzo per la magia, e lo invitò a diventare suo apprendista. Sebbene Vilnius fosse sospettoso della generosità di Exethanter, accettò comunque, troppo desideroso di fuggire dalle strade della città.
 >
-> At the Amber Temple, Vilnius grew quickly under Exethanter’s tutelage, devouring his lessons with a hunger that occasionally unnerved his other teachers. Yet Exethanter grew fond of Vilnius and his intellect, continuing their studies together even after Exethanter ascended to take the place of Temple archmage when the position was vacated.
+> Al Tempio d'Ambra, Vilnius crebbe rapidamente sotto la guida di Exethanter, divorando le sue lezioni con una fame che occasionalmente innervosiva i suoi altri insegnanti. Eppure Exethanter si affezionò a Vilnius e al suo intelletto, continuando i loro studi insieme anche dopo che Exethanter ascese a prendere il posto di arcimago del Tempio quando la posizione fu vacante.
 >
-> Vilnius, however, never entirely escaped the suspicion and self-sufficiency he first learned on the streets. When the temple’s vestiges began to stir in their sleep, and the first rumblings of unrest began to spread through the society, Vilnius was among the first to cloister himself away from the others, leery that any (or all) of them might envy his position as Exethanter's apprentice and plot to usurp or kill him. It was Vilnius who first secretly convinced his peer, a young mage named Helwa, to invade an amber vault and claim the dark gift of a vestige that lay within, hopeful that this crime would eliminate the woman as a rival for Exethanter's favor.
-> 
-> When Helwa murdered a fellow mage, Vilnius took it as confirmation that the other wizards could not be trusted. The vestiges’ whispers only drove him deeper into madness and paranoia, accentuating his suspicions. When, following a sharp and heated argument, Exethanter coldly remarked that he had “perhaps made a mistake in plucking Vilnius from the streets," Vilnius concluded that Exethanter meant to dispose of and replace him.
+> Vilnius, tuttavia, non sfuggì mai del tutto al sospetto e all'autosufficienza che aveva imparato per la prima volta nelle strade. Quando i vestigia del tempio cominciarono ad agitarsi nel sonno, e i primi fermenti di inquietudine iniziarono a diffondersi nella società, Vilnius fu tra i primi a rinchiudersi lontano dagli altri, diffidente che qualcuno (o tutti) potessero invidiare la sua posizione di apprendista di Exethanter e complottare per usurparlo o ucciderlo. Fu Vilnius che per primo convinse segretamente una sua pari, una giovane maga di nome Helwa, a invadere una cripta d'ambra e reclamare il dono oscuro di un vestigio che vi giaceva, sperando che questo crimine eliminasse la donna come rivale per il favore di Exethanter.
 >
-> That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Shrine of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
+> Quando Helwa assassinò un compagno mago, Vilnius lo prese come conferma che gli altri maghi non potevano essere fidati. I sussurri dei vestigia lo spinsero solo più in profondità nella follia e nella paranoia, accentuando i suoi sospetti. Quando, a seguito di un aspro e acceso litigio, Exethanter osservò freddamente che "forse aveva commesso un errore nello strappare Vilnius dalle strade," Vilnius concluse che Exethanter intendesse sbarazzarsi di lui e sostituirlo.
 >
-> As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
-> 
-> The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation">X9. Lecture Hall (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoner, and the Amber Temple their first prison.
-> 
-> Since then, Vilnius has become something less than human — and something more. He believes himself to be alive, and fears the dead that dwell elsewhere in the temple. He dares not venture forth from the lecture hall, but believes—correctly—that if only he could return to the [[#Shrine of Temptation]] to claim his master's staff, he could walk freely from the temple without fear.
+> Quella notte, mentre Vilnius e diversi altri maghi cenavano con Exethanter, com'era consuetudine, Vilnius — un prodigio della magia illusoria — travestì sottilmente la brocca incantata di Exethanter come una brocca ordinaria, e invece riempì i calici degli altri con una brocca travestita piena di vino avvelenato. Gli altri maghi morirono in modo raccapricciante a tavola; solo Exethanter, percependo il pericolo, barcollò attraverso il [[#Santuario della Tentazione]] verso i suoi alloggi, cercando un antidoto — solo per cadere e lasciare il suo bastone sulla statua lì mentre moriva.
+>
+> Mentre osservava il suo maestro morire, Vilnius fu sopraffatto dal terrore della prospettiva che lo spirito vendicativo di Exethanter potesse tornare. Per proteggersi, rubò l'amuleto del **guardiano di scudo**, poi si nascose in <span class="citation">X9. Sala delle Lezioni (p. 185)</span>.
+>
+> I Poteri Oscuri nacquero dal tradimento di Vilnius quella notte, sorgendo dal miasma oscuro che riempiva le sale del tempio. Bramando il nutrimento della paranoia e della paura impazzite di Vilnius, i Poteri Oscuri usarono il loro nuovo potere per intrappolarlo in <span class="citation">X9. Sala delle Lezioni (p. 185)</span>; lì, il suo corpo deperì lentamente nel corso dei secoli, finché non rimase poco più di un'ombra. Vilnius divenne il primo prigioniero dei Poteri Oscuri, e il Tempio d'Ambra la loro prima prigione.
+>
+> Da allora, Vilnius è diventato qualcosa di meno che umano — e qualcosa di più. Crede di essere vivo, e teme i morti che dimorano altrove nel tempio. Non osa avventurarsi fuori dalla sala delle lezioni, ma crede — correttamente — che se solo potesse tornare al [[#Santuario della Tentazione]] per reclamare il bastone del suo maestro, potrebbe uscire liberamente dal tempio senza timore.
 
-When the players first approach or confront Vilnius, if they bear bright lights, Vilnius hisses and shies away from them, hissing that the light is “too bright" and warning them that “something might see."
+Quando i giocatori si avvicinano per la prima volta o confrontano Vilnius, se portano luci brillanti, Vilnius sibila e si ritrae da loro, sibilando che la luce è "troppo forte" e avvertendoli che "qualcosa potrebbe vedere."
 
 ![[Vilnius.png]]
 <span class="credit">"Vilnius" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!info]+ **Vilnius’s Shadow**
-> A player with a passive Wisdom (Perception) score of 18 or greater, or 15 if Vilnius is standing in bright light, notices that Vilnius doesn’t cast a shadow. If the players confront Vilnius regarding his lack of a shadow, read:
+> [!info]+ **L'Ombra di Vilnius**
+> Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 18, o 15 se Vilnius si trova in luce brillante, nota che Vilnius non proietta un'ombra. Se i giocatori confrontano Vilnius riguardo alla sua mancanza di ombra, leggete:
 >
 > ---
 >
-> *Vilnius’s eyes narrow, and his pallid flesh seems to cling even tighter to his sallow, angled cheekbones. He pauses for a moment, tilting his head as though listening to an unseen voice, then nods. “It is decided, then," he says.*
+> *Gli occhi di Vilnius si restringono, e la sua carne pallida sembra stringersi ancora più forte ai suoi zigomi giallastri e sporgenti. Si ferma per un momento, inclinando la testa come se ascoltasse una voce invisibile, poi annuisce. «È deciso, allora,» dice.*
 >
-> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a sickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
+> *I suoi occhi si oscurano, poi diventano neri come voragini, mentre le nebbie si agitano e vorticano attorno a lui. La sua mano si alza verso un oggetto sotto il suo mantello, che brilla di una malsana luce ambrata — mentre, dal pavimento accanto a lui, un'enorme testa metallica comincia a emergere dalle nebbie, seguita da spalle forgiate d'acciaio, un torso di metallo e arti scolpiti di legno spesso e chiodato.*
 >
-> *"Remove them," Vilnius rasps.*
->
-> ---
->
-> Vilnius and the **shield guardian** then attack.
-
-> [!abstract]+ **Attacking Vilnius**
-> If the players attack Vilnius or display hostile intent, read:
+> *«Rimuoveteli,» raspa Vilnius.*
 >
 > ---
 >
-> *Vilnius throws back his head and wails. “You are all dead!" he cries. “All dead!*" ^[Inspired by Robert Jordan, *The Eye of the World*.]
->
-> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a thickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
->
-> *"Defend me," Vilnius rasps.*
-> 
-> ---
->
-> Vilnius and the **shield guardian** then attack.
+> Vilnius e il **guardiano di scudo** poi attaccano.
 
-> [!info]+ **Jakarion the Quasit**
-> Vilnius’s **quasit** familiar, Jakarion, dwells invisibly upon his shoulder in the form of a **toad**. If combat appears likely, Jakarion uses its ***shapechanger*** feature to assume the form of a bat, then flies away from Vilnius, hoping to avoid taking damage. A player with a passive Wisdom (Perception) score of 20 or greater notices the toad’s depression upon Vilnius’s shoulder, while a player with a passive Wisdom (Perception) score of 15 or greater hears the sound of flapping wings as Jakarion flees Vilnius’s side.
-
-Vilnius is suspicious of the players and their intentions, and asks warily whether they are “dead, like the others." A successful DC 10 Charisma (Persuasion) check can convince him to share the following information:
-
-* He is Vilnius, a resident of the Amber Temple, and the sole survivor of a terrible calamity that struck it. (Vilnius won’t share the calamity’s nature, and only shudders, shaking his head, if asked to recount it.)
-* He’s been here by himself “for a long time," surviving mostly by eating vermin. “There haven’t been many rats for a while now," Vilnius murmurs, his hands trembling. “I’ve been hungry—so hungry." (Vilnus refuses any food the players seek to share with him, secretly fearful that it might contain poison.)
-* He believes that the creatures elsewhere in the temple intend to kill him. “They are dead things," he whispers—"demons that wear the faces of men. If you listen, you can hear their true forms shifting beneath their skin."
-* He doesn’t dare exit this hall without his master’s staff, which lies in the temple’s northwestern shrine. “Without it," Vilnius rasps, “I shall surely die as soon as I depart this room." (Vilnius can’t be convinced otherwise.)
-* Vilnius’s master was named Exethanter. “He knew I couldn’t follow him to the staff," Vilnius snarls, his hand curling into a fist. “Even in death, he chose to hurt me—to keep me here." (Vilnius stubbornly claims not to know how Exethanter died, though a DC 11 Wisdom (Insight) check reveals this to be a lie.)
-
-If the players ask Vilnius for information about Patrina or the *Sunsword*, he agrees to share what he knows in exchange for his master’s staff, which the players can retrieve from the [[#Shrine of Temptation]].
-
-> [!abstract]+ **Denying Vilnius**
-> If the players return to Vilnius with Exethanter’s *staff of frost*, he anxiously demands they give it to him immediately. If the players refuse to do so, read:
+> [!abstract]+ **Attaccare Vilnius**
+> Se i giocatori attaccano Vilnius o mostrano intento ostile, leggete:
 >
 > ---
 >
-> *Vilnius throws his head back and howls with rage. “So be it," he snarls.*
+> *Vilnius getta indietro la testa e ulula. «Siete tutti morti!» grida. «Tutti morti!»*^[Ispirato a Robert Jordan, *L'Occhio del Mondo*.]
 >
-> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a thickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
+> *I suoi occhi si oscurano, poi diventano neri come voragini, mentre le nebbie si agitano e vorticano attorno a lui. La sua mano si alza verso un oggetto sotto il suo mantello, che brilla di una densa luce ambrata — mentre, dal pavimento accanto a lui, un'enorme testa metallica comincia a emergere dalle nebbie, seguita da spalle forgiate d'acciaio, un torso di metallo e arti scolpiti di legno spesso e chiodato.*
 >
-> *"Remove them," Vilnius rasps.*
->
-> ---
->
-> Vilnius and the **shield guardian** then attack.
-
-> [!abstract]+ **Vilnius’s Staff**
-> If the players give Vilnius Exethanter’s *staff of frost*, read:
+> *«Difendimi,» raspa Vilnius.*
 >
 > ---
 >
-> *An unholy light kindles in Vilnius’s eyes as his hands wrap around the staff. “Finally," he whispers, caressing it softly.*
->
-> *His gaze darts up to yours, and his thin lips twitch into a smile. “You have done well," he says softly. “Now, I think your souls shall serve me a final time—for before I depart these halls, I shall sate this cursed hunger."*
->
-> *His eyes darken, then blacken to voids, as the mists churn and swirl around him. His hand rises to an object beneath his cloak, which shines with a thickly amber light—as, from the floor beside him, an enormous metallic head begins to rise from the mists, followed by steel-forged shoulders, a metal torso, and limbs carved of thick, studded wood.*
->
-> *"Break them," Vilnius rasps.*
+> Vilnius e il **guardiano di scudo** poi attaccano.
 
-> [!combat]- **Combat - The Lecture Hall**  
-> **Combat Level**: Bruising 
-> **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
-> **Expected HP Consumption:** 23%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!info]+ **Jakarion il Quasit**
+> Il famiglio **quasit** di Vilnius, Jakarion, dimora invisibilmente sulla sua spalla nella forma di un **rospo**. Se il combattimento appare probabile, Jakarion usa la sua caratteristica ***cambiaforma*** per assumere la forma di un pipistrello, poi vola via da Vilnius, sperando di evitare di subire danni. Un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 20 nota la depressione del rospo sulla spalla di Vilnius, mentre un giocatore con un punteggio passivo di Saggezza (Percezione) pari o superiore a 15 sente il suono di ali che sbattono mentre Jakarion fugge dal fianco di Vilnius.
+
+Vilnius è sospettoso dei giocatori e delle loro intenzioni, e chiede con diffidenza se siano "morti, come gli altri." Una prova di Carisma (Persuasione) con CD 10 riuscita può convincerlo a condividere le seguenti informazioni:
+
+* Lui è Vilnius, un residente del Tempio d'Ambra, e l'unico sopravvissuto di una terribile calamità che lo colpì. (Vilnius non condivide la natura della calamità, e rabbrividisce soltanto, scuotendo la testa, se gli viene chiesto di raccontarla.)
+* È qui da solo "per molto tempo", sopravvivendo principalmente mangiando vermi. «Non ci sono stati molti topi per un po' ormai,» mormora Vilnius, con le mani tremanti. «Ho avuto fame — così tanta fame.» (Vilnius rifiuta qualsiasi cibo i giocatori cerchino di condividere con lui, segretamente timoroso che possa contenere veleno.)
+* Crede che le creature altrove nel tempio intendano ucciderlo. «Sono cose morte,» sussurra — «demoni che indossano i volti degli uomini. Se ascoltate, potete sentire le loro vere forme che si muovono sotto la loro pelle.»
+* Non osa uscire da questa sala senza il bastone del suo maestro, che giace nel santuario nordoccidentale del tempio. «Senza di esso,» raspa Vilnius, «morirò sicuramente non appena lascerò questa stanza.» (Vilnius non può essere convinto del contrario.)
+* Il maestro di Vilnius si chiamava Exethanter. «Sapeva che non potevo seguirlo al bastone,» ringhia Vilnius, stringendo la mano a pugno. «Anche nella morte, scelse di ferirmi — di tenermi qui.» (Vilnius afferma ostinatamente di non sapere come Exethanter sia morto, sebbene una prova di Saggezza (Intuizione) con CD 11 riveli che questa è una menzogna.)
+
+Se i giocatori chiedono a Vilnius informazioni su Patrina o la *Lama del Sole*, egli accetta di condividere ciò che sa in cambio del bastone del suo maestro, che i giocatori possono recuperare dal [[#Santuario della Tentazione]].
+
+> [!abstract]+ **Rifiutare Vilnius**
+> Se i giocatori tornano da Vilnius con il *bastone del gelo* di Exethanter, egli esige ansiosamente che glielo diano immediatamente. Se i giocatori rifiutano di farlo, leggete:
+>
+> ---
+>
+> *Vilnius getta la testa indietro e ulula di rabbia. «E così sia,» ringhia.*
+>
+> *I suoi occhi si oscurano, poi diventano neri come voragini, mentre le nebbie si agitano e vorticano attorno a lui. La sua mano si alza verso un oggetto sotto il suo mantello, che brilla di una densa luce ambrata — mentre, dal pavimento accanto a lui, un'enorme testa metallica comincia a emergere dalle nebbie, seguita da spalle forgiate d'acciaio, un torso di metallo e arti scolpiti di legno spesso e chiodato.*
+>
+> *«Rimuoveteli,» raspa Vilnius.*
+>
+> ---
+>
+> Vilnius e il **guardiano di scudo** poi attaccano.
+
+> [!abstract]+ **Il Bastone di Vilnius**
+> Se i giocatori danno a Vilnius il *bastone del gelo* di Exethanter, leggete:
+>
+> ---
+>
+> *Una luce empia si accende negli occhi di Vilnius mentre le sue mani si stringono attorno al bastone. «Finalmente,» sussurra, accarezzandolo dolcemente.*
+>
+> *Il suo sguardo scatta verso il vostro, e le sue labbra sottili si contraggono in un sorriso. «Avete fatto bene,» dice sommessamente. «Ora, credo che le vostre anime mi serviranno un'ultima volta — poiché prima di lasciare queste sale, sazierò questa fame maledetta.»*
+>
+> *I suoi occhi si oscurano, poi diventano neri come voragini, mentre le nebbie si agitano e vorticano attorno a lui. La sua mano si alza verso un oggetto sotto il suo mantello, che brilla di una densa luce ambrata — mentre, dal pavimento accanto a lui, un'enorme testa metallica comincia a emergere dalle nebbie, seguita da spalle forgiate d'acciaio, un torso di metallo e arti scolpiti di legno spesso e chiodato.*
+>
+> *«Spezzateli,» raspa Vilnius.*
+
+> [!combat]- **Combattimento - La Sala delle Lezioni**
+> **Livello di Combattimento**: Impegnativo
+> **Livello dei Personaggi Previsto**: 8
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4), Kasimir Velikov (GS 6)
+> **Consumo PF Previsto:** 23%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Shield Guardian | 1 | 1 | 1 | 1 |
+> | Guardiano di Scudo | 1 | 1 | 1 | 1 |
 > | Vilnius | 1 | 1 | 1 | 1 |
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage. |
-> | 4 | Reduce the **shield guardian's** hit points to 123. |
-> | 6 | Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit. |
+> | 3 | Riducete la CA del **guardiano di scudo** a 15. Riducete i suoi punti ferita a 93, la sua Forza a 16, la sua Destrezza a 4, e la sua Costituzione a 16. Riducete il suo bonus di competenza a +2. Riducete il suo attacco ***pugno*** a +5 al tiro per colpire e 1d6 + 3 danni contundenti. |
+> | 4 | Riducete i punti ferita del **guardiano di scudo** a 123. |
+> | 6 | Aumentate la CA del **guardiano di scudo** a 18. Aumentate i suoi punti ferita a 161 e la sua Destrezza a 10. Aumentate il suo bonus di competenza a +4. Aumentate il suo attacco ***pugno*** a +8 al tiro per colpire. |
 
 <div class="statblock">
-<h2>Vilnius, First Prisoner</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Vilnius, Primo Prigioniero</h2>
+<em>Non morto medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 12  
+<strong>Classe Armatura</strong> 12
 <br>
-<strong>Hit Points</strong> 105 (14d8 + 42)  
+<strong>Punti Ferita</strong> 105 (14d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.  
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1161,1040 +1161,894 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Arcana +8, Stealth +8  
+<strong>Competenze</strong> Arcano +8, Furtività +8
 <br>
-<strong>Damage Vulnerabilities</strong> radiant  
+<strong>Vulnerabilità ai Danni</strong> radianti
 <br>
-<strong>Damage Resistances</strong> acid, cold, fire, lightning, thunder  
+<strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Immunità ai Danni</strong> necrotici, veleno
 <br>
-<strong>Condition Immunities</strong> exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<strong>Immunità alle Condizioni</strong> affaticamento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, privo di sensi
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 12
 <br>
-<strong>Languages</strong> Common, Abyssal  
+<strong>Linguaggi</strong> Comune, Abissale
 <br>
-<strong>Challenge</strong> 9 (5,000 XP)  
-<strong>Proficiency Bonus</strong> +4  <br>
+<strong>Grado di Sfida</strong> 9 (5.000 PE)
+<strong>Bonus di Competenza</strong> +4  <br>
 <hr>
-<p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
-<p><strong><em>Illusionist Prodigy.</em></strong> Vilnius can concentrate on up to five spells at a time, provided all spells are of the illusion school. If he would lose concentration on one, he loses concentration on all of them.</p>
-<p><strong><em>Shadowed Restoration.</em></strong> If killed, Vilnius reforms in 24 hours if Jakarion is still alive, reviving with all his hit points. His new body appears in an unoccupied space within the Lecture Hall.</p>
-<p><strong><em>Find Familiar.</em></strong> Vilnius can cast <em>find familiar</em> as a ritual without components.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vilnius makes two attacks with his dagger and casts *major image* or *phantasmal force* twice.</p>
-<p><strong><em>Dagger.</em></strong> Melee or Ranged Weapon Attack: <span class="highlight">+8 to hit</span>, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> <span class="highlight">6 (1d4 + 4)</span> piercing damage plus <span class="highlight">21 (6d6) necrotic damage</span>, and the target must succeed on a <span class="highlight">DC 16 Constitution saving throw</span> or be <span class="highlight">poisoned</span> until the end of its next turn.</p>
-<p><strong><em>Phantasmal Force.</em></strong> Vilnius casts <em>phantasmal force</em>. A creature that fails its saving throw against the spell can repeat the saving throw at the end of each of its turns.</p>
-<p><strong><em>Major Image.</em></strong> Vilnius casts <em>major image</em>.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Blur.</em></strong> Vilnius casts <em>blur</em>.</p>
-<p><strong><em>Mirror Image.</em></strong> Vilnius casts <em>mirror image</em>. The spell lasts for 1 minute or until Vilnius loses his concentration.</p>
-<h3>Reactions</h3>
-<p><strong><em>Illusionist’s Trick.</em></strong> <em>Trigger:</em> A creature attacks or casts a spell targeting Vilnius, one of his allies, or an illusion resembling them. <em>Response:</em> If the target is an illusion identical to one of Vilnius’s allies, or an ally identical to one of his illusions, the two swap places, as though teleported by a <em>misty step</em> spell.</p>
-<p><strong><em>Horrifying Visage (1/Day).</em></strong> <em>Trigger:</em> Vilnius takes damage from a creature he can see. <em>Effect:</em> Each non-undead creature of Vilnius’s choice within <span class="highlight">30 feet</span> must make a <span class="highlight">DC 16 Wisdom saving throw</span> or be <span class="highlight">frightened</span> for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+<p><strong><em>Amorfo.</em></strong> Vilnius può muoversi attraverso uno spazio stretto fino a 2,5 cm senza spendere movimento extra per farlo.</p>
+<p><strong><em>Prodigio dell'Illusione.</em></strong> Vilnius può concentrarsi su fino a cinque incantesimi alla volta, a condizione che tutti gli incantesimi appartengano alla scuola di illusione. Se perde la concentrazione su uno, la perde su tutti.</p>
+<p><strong><em>Rigenerazione nell'Ombra.</em></strong> Se ucciso, Vilnius si riforma in 24 ore se Jakarion è ancora vivo, tornando con tutti i suoi punti ferita. Il suo nuovo corpo appare in uno spazio non occupato nella Sala delle Lezioni.</p>
+<p><strong><em>Trova Famiglio.</em></strong> Vilnius può lanciare <em>trova famiglio</em> come rituale senza componenti.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vilnius effettua due attacchi col suo pugnale e lancia *immagine maggiore* o *forza fantasma* due volte.</p>
+<p><strong><em>Pugnale.</em></strong> Attacco con Arma da Mischia o a Distanza: <span class="highlight">+8 al tiro per colpire</span>, portata 1,5 m o gittata 6/18 m, un bersaglio. <em>Colpito:</em> <span class="highlight">6 (1d4 + 4)</span> danni perforanti più <span class="highlight">21 (6d6) danni necrotici</span>, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Costituzione con CD 16</span> o essere <span class="highlight">avvelenato</span> fino alla fine del suo prossimo turno.</p>
+<p><strong><em>Forza Fantasma.</em></strong> Vilnius lancia <em>forza fantasma</em>. Una creatura che fallisce il suo tiro salvezza contro l'incantesimo può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni.</p>
+<p><strong><em>Immagine Maggiore.</em></strong> Vilnius lancia <em>immagine maggiore</em>.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Sfocatura.</em></strong> Vilnius lancia <em>sfocatura</em>.</p>
+<p><strong><em>Immagine Speculare.</em></strong> Vilnius lancia <em>immagine speculare</em>. L'incantesimo dura 1 minuto o finché Vilnius non perde la concentrazione.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Trucco dell'Illusionista.</em></strong> <em>Innesco:</em> Una creatura attacca o lancia un incantesimo che prende di mira Vilnius, uno dei suoi alleati, o un'illusione che li somiglia. <em>Risposta:</em> Se il bersaglio è un'illusione identica a uno degli alleati di Vilnius, o un alleato identico a una delle sue illusioni, i due si scambiano di posto, come teletrasportati da un incantesimo *passo velato*.</p>
+<p><strong><em>Volto Terrificante (1/Giorno).</em></strong> <em>Innesco:</em> Vilnius subisce danni da una creatura che può vedere. <em>Effetto:</em> Ogni creatura non morta a scelta di Vilnius entro <span class="highlight">9 metri</span> deve effettuare un <span class="highlight">tiro salvezza su Saggezza con CD 16</span> o essere <span class="highlight">spaventata</span> per 1 minuto. Una creatura spaventata può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su sé stessa con un successo.</p>
 </div>
 
-> [!info]+ **The Shield Guardian**
-> Over the millenia, the **shield guardian** has become tied to Vilnius's life force. As such, its control amulet doesn't function for any creature but Vilnius.
-### Training Hall
-<span class="citation">This scene takes place in Chapter 13, Area X10.</span>
+> [!info]+ **Il Guardiano di Scudo**
+> Nel corso dei millenni, il **guardiano di scudo** si è legato alla forza vitale di Vilnius. Di conseguenza, il suo amuleto di controllo non funziona per nessuna creatura tranne Vilnius.
+### Sala d'Addestramento
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X10.</span>
 
-This area is largely as described in <span class="citation">X10. Northeast Annex (p. 186)</span>. However, modify the **amber golem**’s statistics as follows:
+Quest'area è in gran parte come descritta in <span class="citation">X10. Annesso Nordest (p. 186)</span>. Tuttavia, modificate le statistiche del **golem d'ambra** come segue:
 
-* It has the AC and hit points of an **iron golem**, and has lost none of its hit points.
-* It has the Strength and ***slam*** attack of an **iron golem**.
-* When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
-* Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+* Ha la CA e i punti ferita di un **golem di ferro**, e non ha perso nessuno dei suoi punti ferita.
+* Ha la Forza e l'attacco ***schianto*** di un **golem di ferro**.
+* Quando usa il suo ***multiattacco***, può sostituire un uso del suo ***schianto*** con un uso della sua abilità ***rallentamento***.
+* La sua abilità ***rallentamento*** influenza tutte le creature che può vedere entro 6 metri da esso.
 
-> [!combat]- **Combat - The Training Hall**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
-> **Expected HP Consumption:** 20%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> [!combat]- **Combattimento - La Sala d'Addestramento**
+> **Livello di Combattimento**: Lieve
+> **Livello dei Personaggi Previsto**: 8
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4), Kasimir Velikov (GS 6)
+> **Consumo PF Previsto:** 20%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Amber Golem | 1 | 1 | 1 | 1 |
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> | Golem d'Ambra | 1 | 1 | 1 | 1 |
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage. |
-> | 4 | Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage. |
-> | 6 | Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage. |
+> | 3 | Riducete i punti ferita del **golem d'ambra** a 153. Riducete i danni del suo attacco ***schianto*** a 14 (3d4 + 7) danni contundenti. |
+> | 4 | Riducete i punti ferita del **golem d'ambra** a 184. Riducete i danni del suo attacco ***schianto*** a 18 (2d10 + 7) danni contundenti. |
+> | 6 | Aumentate i punti ferita del **golem d'ambra** a 236. Aumentate i danni del suo attacco ***schianto*** a 21 (3d8 + 7) danni contundenti. |
 
-### Shrine of Fear
-<span class="citation">This scene takes place in Chapter 13, Areas X12 and X13.</span>
+### Santuario della Paura
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X12 e X13.</span>
 
-This area is largely as described in <span class="citation">X12. East Shrine (p. 186)</span> and <span class="citation">X13. East Archer Post (p. 186)</span>. However, a creature that approaches the shattered statue feels a sense of unease.
+Quest'area è in gran parte come descritta in <span class="citation">X12. Santuario Est (p. 186)</span> e <span class="citation">X13. Posto degli Arcieri Est (p. 186)</span>. Tuttavia, una creatura che si avvicina alla statua in frantumi prova un senso di inquietudine.
 
-In addition, a player with a passive Wisdom (Perception or Survival) score of 15 or greater notices footprints in the frost that lead to the secret door. A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footprints are less than a day old. (The footprints were left by the Mountain Folk Meda.)
-### East Temple Stair
-<span class="citation">This scene takes place in Chapter 13, Area X14.</span>
+Inoltre, un giocatore con un punteggio passivo di Saggezza (Percezione o Sopravvivenza) pari o superiore a 15 nota impronte nella brina che conducono alla porta segreta. Un giocatore che supera una prova di Saggezza (Sopravvivenza) con CD 15 discerne che le impronte hanno meno di un giorno. (Le impronte sono state lasciate dalla Montanara Meda.)
+### Scala del Tempio Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X14.</span>
 
-This area is largely as described in <span class="citation">X14. North Staircase (p. 186)</span>. However, add the following to the end of this area’s description:
-
-<div class="description">
-<p>A trail of footprints breaks the frost and dust, descending into the darkness.</p>
-</div>
-
-A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footprints are less than a day old. (The footprints were left by the Mountain Folk Meda.)
-## S5b. Eastern Temple, Lower Floor
-### East Hall
-<span class="citation">This scene takes place in Chapter 13, Areas X5d and X32.</span>
-
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X32. Lower East Hall (p. 191)</span>. However, remove the **Barovian witches** from this area.
-### East Quarters
-<span class="citation">This scene takes place in Chapter 13, Areas X34 and X35.</span>
-
-This area is as described in <span class="citation">X34. Wizard’s Bedchamber (p. 194)</span> and <span class="citation">X35. Sleeping Guardian (p. 194)</span>.
-### Southeast Vaults
-#### Vault of Shalx
-<span class="citation">This scene takes place in Chapter 13, Area X33a</span>
-
-This area is largely as described in <span class="citation">X33a. Vault of Shalx (p. 193)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **flameskulls** from this area. In addition, the corpse of Duras can be found here (having been pushed by Meda), and modify the sarcophagi in this room (and their dark gifts) as described below.
-
-> [!info]+ **West Sarcophagus (Tomb of Sykane)**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, dark graveyard. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Around you, twisted, decaying vegetation covers sunken, crumbling headstones, which lie forgotten beneath a flat, gray sky. Tall, cast-iron fences stand scattered across the graveyard, their once-proud bars rusted and bent with age.*  
->  
-> *At the cemetery’s center, the soil pulls away to reveal a deep, wide pit, its depths filled with an uncountable mass of humanoid corpses. Atop the pile rests an enormous, gray-pink worm with glistening flesh, its “head" splitting to reveal a round, jawless opening lined with concentric rings of sharp, hooked teeth. As you watch, you see that its flesh is not skin at all, but a writhing mass of millions of tiny, wriggling earthworms woven together like thread.*  
->  
-> *“We are Sykane, the Soul Hungerer," the worm rumbles, a million, tiny voices intermingling to form a booming whole. “Do you seek our gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Sykane’s gift, Sykane offers the player the power to “resurrect those who have passed beyond the veil." To accept, the player must devour one of the earthworms that form Sykane’s flesh.  
->  
-> If the player passes through the amber archway or accepts Sykane’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Sykane’s Gift.*** Sykane’s dark gift allows a player to cast the _raise dead_ spell once per day as an action, without components. A player who accepts Sykane’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Sykane’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Sykane’s dark gift, they must succeed on a DC 20 Charisma saving throw or gain an additional stage of Sykane’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Sykane’s dark gift, and resets to 20 each time the player gains an additional stage of Sykane’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “Expressions of life and joy disgust me." Its eyes become black voids, and its jaw unhinges, drooping uselessly past its neck.  
-> * **Stage Five.** The player gains a **bodak’s** ***aura of annihilation***, ***unusual nature***, and ***fist*** features, as well as the flaw: “I seek out undead, and avoid the living."  
-> * **Stage Six.** The player transforms into a **bodak** under the DM’s control.  
-
-> [!info]+ **South Sarcophagus (Tomb of Zrin-Hala)**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by an endless, flat plain. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Around you, dead brush and browned grasses sway above leagues of dry, cracked soil. Overhead, lances of lightning flash across the sky from churning black storm clouds, followed by pounding eruptions of thunder—but not a drop of rain falls to the parched earth below.*  
->  
-> *Amidst the clouds, at the eye of the storm, the clouds form a humanoid silhouette that crackles and hums with lightning. Its lower body is a black tornado that descends to the ground below, chewing deep gouges through the landscape, and its mouth is a dark, gaping maw.*  
->  
-> **“I am Zrin-Hala, the Howling Storm,"** the storm roars. **“Will you accept my gift?"**  
->  
-> ---  
->  
-> If the player expresses interest in Zrin-Hala’s gift, Zrin-Hala offers the player the power to “command the rage of the storm." To accept, the player must allow Zrin-Hala to spear them in the chest with a bolt of lightning.  
->  
-> If the player passes through the amber archway or accepts Zrin-Hala’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Zrin-Hala’s Gift.*** Zrin-Hala’s dark gift allows a player to cast _call lightning_ and _lightning bolt_ without components twice per day each. A player who accepts Zrin-Hala’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zrin-Hala’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Zrin-Hala’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Zrin-Hala’s amber corruption, as described below. The DC increases by 3 each additional time the player uses Zrin-Hala’s dark gift, and resets to 5 each time the player gains an additional stage of Zrin-Hala’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Strength score and the flaw: “I long to sear the flesh of my foes." Their feet fuse into cloven hooves, two bony horns burst from their head, and their fingernails sharpen into long, jagged claws.  
-> * **Stage Five.** The player gains an **armanite’s** ***claw*** and ***magic resistance*** features, its resistance to lightning damage, and the flaw: “Every creature—friend or foe—is an opportunity to prove my strength."  
-> * **Stage Six.** The player transforms into an **armanite** under the DM’s control.  
-
-> [!info]+ **East Sarcophagus (Tomb of Fekre)**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a tall, dark stone chamber. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Twisted pillars line the chamber’s hall, interspersed with sculptures of snarling serpents. At the far end of the chamber, a dark stone altar rests upon a dais, bearing a painted porcelain bowl. Virulent purple mist bubbles from the basin, filling the air with a fetid, rotted odor.*  
->  
-> *Behind the altar, with one thin, elegant hand atop the bowl’s edge, stands a woman: tall, with pallid, purple-grey skin and a dress of deep violet. Rather than hair, a cluster of gray-green fungi rise from the sides and top of her head, while purple lichens cover her eyes in a shape reminiscent of a masquerade ball’s mask.*  
->  
-> *“I am Fekre, Queen of Poxes," she says. “Who is it that seeks my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Fekre’s gift, she offers the player the power “to command and spread virulence and plague." To accept, the player must drink the purple potion from the ceramic bowl atop the altar.  
->  
-> If the player passes through the amber archway or accepts Fekre’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Fekre’s Gift.*** Fekre’s dark gift allows a player to cast _contagion_ twice per day, without components and with a range of 30 feet. A player who accepts Fekre’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Fekre’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Fekre’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Fekre’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Fekre’s dark gift, and resets to 5 each time the player gains an additional stage of Fekre’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Constitution score and the flaw: “I crave violence." Twin horns sprout from their skull, maggot-infested sores cover their flesh, and a reek of rotten meat follows them wherever they go.  
-> * **Stage Five.** The player gains a **bulezau’s** ***rotting presence***, ***standing leap***, and ***barbed tail*** features, as well as the flaws: “I live for the kill," and “Death holds no fear for me."  
-> * **Stage Six.** The player transforms into a **bulezau** under the DM’s control.
-#### Vault of Maverus
-<span class="citation">This scene takes place in Chapter 13, Area X33b</span>
-
-This area is largely as described in <span class="citation">X33b. Vault of Maverus</span>. However, modify the sarcophagi in this room (and their dark gifts) as described below.
-
-> [!info]+ **North Sarcophagus (Tomb of Savnok).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a grand laboratory. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *This chamber’s circular walls are lined with shelves, which groan beneath the weight of countless components, potions, and whirring devices. The floor, forged of glittering lapis-lazuli, bears the mark of an enormous pentagram marked with myriad runes and sigils. At its center, a white marble pedestal holds an orb carved from crystalline amethyst.*  
->  
-> *Beside the pedestal stands a solitary figure, its features and limbs concealed by a long, white, cowled robe. Its hooded visage shifts toward you, shadows concealing the space beneath.*  
->  
-> *“I am Savnok, the Inscrutable," it murmurs. “Do you seek my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Savnok’s gift, Savnok offers the player the power to “shield the integrity of their mind, and to conceal its inner workings from all who might seek to invade it." To accept, the player must place their hands upon the amethyst orb.  
->  
-> If the player passes through the amber archway or accepts Savnok’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Savnok’s Gift.*** Savnok’s dark gift allows a player to cast _mind blank_ (self only) once per day without components. A player who accepts Savnok’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Savnok’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Savnok’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Savnok’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Savnok’s dark gift, and resets to 5 each time the player gains an additional stage of Savnok’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Strength score and the flaw: “I am prone to bouts of madness." They gain six inches in height, and their skin becomes transparent, rendering their veins, muscles, and organs visible beneath the surface.  
-> * **Stage Five.** The player gains a **star spawn hulk’s** ***psychic mirror***, ***multiattack***, and ***slam*** features, and the flaw: “I am apathetic to all things, but obey all orders my master gives to me." (The player chooses their “master.")  
-> * **Stage Six.** The player transforms into a **star spawn hulk** under the DM’s control.  
-
-> [!info]+ **South Sarcophagus (Tomb of Tarakamedes).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast ossuary. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *This ossuary has been built to resemble a throne room forged entirely of bones. Lightless grey flames burn in countless skull-carved sconces along the walls, which are themselves built of interlocking femurs and decorated with human ribs.*  
->  
-> *A tall throne stands at the chamber’s far end, built of skulls, ribs, clavicles, and femurs, each bone bleached a pale white. Above the throne towers a serpentine gray-scaled wyrm, the features of its eyeless head swallowed up by its own massive, tooth-filled maw. Twin skeletal wings extend from its back, each wing’s bones brushing against the ceiling and walls of the chamber around it.*  
->  
-> *“I am Tarakamedes, the Grave Wyrm," the wyrm rasps. “Have you come to seek my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Tarakamedes' gift, Tarakamedes offers the player the power to “soar above the world below." To accept, the player must seat themselves upon the throne, impaling themselves upon the sharpened bones that extend into their shoulders.
->  
-> If the player passes through the amber archway or accepts Tarakamedes' gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Tarakamedes' Gift.*** Tarakamedes' dark gift allows a player to cast _fly_ three times per day without components. (When cast in this way, the player manifests bony, skeletal wings for the duration of the spell.) A player who accepts Tarakamedes' dark gift instantly receives its disfiguring condition, as described in Stage Three of Tarakamedes’ [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Tarakamedes' dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Tarakamedes' amber corruption, as described below. The DC increases by 3 each additional time the player uses Tarakamedes' dark gift, and resets to 5 each time the player gains an additional stage of Tarakamedes' amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Strength score and the flaw: “I am envious of my betters and cruel to my inferiors." Their fingers become long, bony, and white with crimson tips, while small, vestigial, bone wings emerge from their back.  
-> * **Stage Five.** The player gains a **bone devil’s** ***devil’s sight***, ***multiattack***, ***claw***, and ***sting*** features, and the flaw: “I hate what I cannot have, and lust for all that is valuable or powerful."  
-> * **Stage Six.** The player transforms into a **bone devil** under the DM’s control.
-
-> [!info]+ **East Sarcophagus (Tomb of Shami-Amourae).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a lush, windowless parlor. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Flickering candles light this chamber, which is filled with plush divans, love seats, and futons decorated in shades of pink, pastel green, and scarlet red. A woman lounges upon a futon at the center of the space, surrounded by dozens of soft pillows. Her face is painted a clean, snowy white, but her full lips glisten a deep, sinful crimson. Her hair is pulled into a simple, neat bun atop her head, with all but two fine, dark strands pinned in place by a pair of ivory needles. Two small, crimson horns rise from her head on either side of the bun, their tips filed to soft, round ends.*  
->  
-> *“I am Shami-Amourae," the woman murmurs with a smile, “the Lady of Delights." Her jade-green eyes glitter in the candlelight. “Have you come at last to seek my gift?"*  
->  
-> ---  
->  
-> If the player expresses interest in Shami-Amourae’s gift, she offers the player the power “to sway any soul by your words alone." To accept, the player must kiss Shami-Amourae’s lips.  
->  
-> If the player passes through the amber archway or accepts Shami-Amourae’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Shami-Amourae’s Gift.*** Shami-Amourae’s dark gift allows a player to cast _suggestion_ three times per day without components. A player who accepts Shami-Amourae’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Shami-Amourae’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Shami-Amourae’s dark gift, they must succeed on a DC 5 Charisma saving throw or gain an additional stage of Shami-Amourae’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Shami-Amourae’s dark gift, and resets to 5 each time the player gains an additional stage of Shami-Amourae’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Charisma score and the flaw: “I can’t get enough pleasure. I desire others to create beauty for me at all times." Their hair turns dark red and grows past their waist, their feet fuse into cloven hooves, and two small horns grow from their skull.
-> * **Stage Five.** The player gains an **incubus**’s ***draining kiss*** and ***shapechanger*** features, its telepathy, and the flaw: “I demand worship and loyalty from all that I meet."
-> * **Stage Six.** The player transforms into an **incubus** or **succubus** under the DM’s control.
-### Northeast Vault
-<span class="citation">This scene takes place in Chapter 13, Area X33c.</span>
-
-This area is largely as described in <span class="citation">X33c. Ghastly Vault (p. 192)</span> and <span class="citation">Amber Sarcophagi (p. 191)</span>. However, remove the **ghasts** from this room, and modify the sarcophagi in this room (and their dark gifts) as described below. In addition, add the following to the end of this area’s description:
+Quest'area è in gran parte come descritta in <span class="citation">X14. Scala Nord (p. 186)</span>. Tuttavia, aggiungete il seguente testo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>A lone, hunched creature sits in the middle of the room, a torn fur cloak draped across its shoulders.</p>
+<p>Una scia di impronte rompe la brina e la polvere, scendendo nell'oscurità.</p>
 </div>
 
-The creature, which once was the Mountain Folk Meda, is a **nothic**. When the players first interact with it or otherwise make their presence known, the nothic turns to face them. Read:
+Un giocatore che supera una prova di Saggezza (Sopravvivenza) con CD 15 discerne che le impronte hanno meno di un giorno. (Le impronte sono state lasciate dalla Montanara Meda.)
+## S5b. Tempio Orientale, Piano Inferiore
+### Sala Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X5d e X32.</span>
 
-<div class="description">
-<p>Purple spines arc from this creature’s back, its body lined with warped, ropy muscle. Brown patches cover its leathery flesh, though its hands and arms lighten to a pale, sickly purple, its crooked fingers ending in sharp, hooked talons. A single, large, baleful eye leers from the center of its skull, just above a bony, pointed jaw lined with sharklike teeth. In its right hand, something amber glints from a cord curled within its palm.</p>
-<p> The creature’s eye widens, a hysterical giggle slipping from its throat as a single line of saliva drools from its lipless mouth. “Hello," it says.</p>
-</div>
+Quest'area è in gran parte come descritta in <span class="citation">X5d. Riflessi d'Ambra (p. 184)</span> e <span class="citation">X32. Sala Inferiore Est (p. 191)</span>. Tuttavia, rimuovete le **streghe baroviane** da quest'area.
+### Alloggi Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X34 e X35.</span>
 
-> [!lore]+ **The Nothic**
-> When the Mountain Folk Meda accepted the dark gift of Khirad, the Star of Secrets, her mind was overcome by the power of the knowledge he shared, twisting her body and mind into those of a nothic. In her current form, Meda has lost herself to madness, and no longer cares for anything but her own curiosity—as well as her mirth at her “revelations."
+Quest'area è come descritta in <span class="citation">X34. Camera da Letto del Mago (p. 194)</span> e <span class="citation">X35. Guardiano Dormiente (p. 194)</span>.
+### Cripte Sudest
+#### Cripta di Shalx
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33a</span>
 
-Meda, who acts largely as described in <span class="citation">X33d. Breached Vault (p. 192)</span>, is glad to speak with the players, though her words are almost always cryptic, mad, and interspersed with frequent giggles. If asked, she can share the following information:
+Quest'area è in gran parte come descritta in <span class="citation">X33a. Cripta di Shalx (p. 193)</span> e <span class="citation">Sarcofagi d'Ambra (p. 191)</span>. Tuttavia, rimuovete i **teschiardente** da quest'area. Inoltre, il cadavere di Duras può essere trovato qui (spinto da Meda), e modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto.
 
-* She isn’t sure whether she’s Meda, but, after a moment of pondering, thinks it “sounds familiar." (“I have so many more interesting things to think about than *names,*" she adds, leering.)
-* She sought out the gift of the Star of Secrets to find “answers." (If asked why, she sweeps her claws out to the room around her and crows: “*This!* All of it—answers to it all." She shudders, adding: “And they were delicious."
-* Khirad “showed her the truth"—"the veil, the Mist that lurks and watches and devours and _waits_." If asked to explain further, or if the players appear to doubt her accuracy or sanity, Meda adds: “Haven’t you seen them? Haven’t you _felt_ them? The undying Mist—the ones who watch from afar and from all around us, who peer through the bars of the cage they’ve forged. The ones who are both powerless and all-powerful." (Meda is referring to the Dark Powers, but won’t elaborate further.)
-* The “cage" holds “the prisoner—the caged rat who capers and dances for their sustenance and amusement." With a giggle, Meda adds: “But the day is coming when the cloth upon the cage will slip, when the candle will tip, and the rat will burn through its cage. The stars are stirring and waking; soon, all will commune. All will _touch_ and be one." Her single eye glittering, she whispers: “And it shall be _beautiful._" (Meda is referring to the Grand Conjunction.)
-
-As the conversation unfolds, Meda tilts her head, as though listening to an unseen voice, then smiles and claps her hands. “Let’s play a game," she says in a sing-song voice. “If you can answer my riddle, I’ll tell you a secret." (If the players appear uninterested in Meda’s secret, she giggles and says, “Then perhaps you shall search these halls forever.") Meda is happy to (tantalizingly) hint—but not confirm—that her “secret" relates to the location of the *Sunsword*.
-
-Meda’s riddle is simple: “A rat scrabbles against the walls of his cage. Who is the rat, and who is his cager?" (The “rat" is Strahd, and the “cager" is the Dark Powers. Meda will accept any answer that roughly explains the Dark Powers’ history or identifies their true nature. Meda won't accept "the vestiges of the Amber Temple" as an answer.)
-
-If the players answer her riddle, Meda smiles toothily, congratulates them, and shares the following secret in a low, delighted hiss: “The thing you seek is drowned in blood." (Meda is referring to the canal of blood in [[#The Vampyr’s Sarcophagus]]. She won’t elaborate further.)
-
-> [!info]+ **East Sarcophagus (Tomb of Dahlver-Nar).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a stark white chamber. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *The walls, floor, and ceiling of this chamber are crafted entirely from concentric rings of human teeth. Nine indentations form alcoves along the walls, each holding the floating form of an unconscious humanoid. No two are alike—one bears the pointed ears of an elf, another the stocky build of a dwarf, while a third bears a dragonborn’s reptilian scales.*
-> 
-> *A stone basin stands at the center of the chamber, mounted upon a risen dais with nine sides. Wispy, gray-white liquid strands swirl within the basin, dozens of shifting, ever-morphing faces bubbling from its surface.*
-> *Behind the basin stands a faceless, ten-foot humanoid, its body dotted with nine gaping mouths that drool a thick, viscous saliva. When it speaks, all nine mouths speak in unison, their voices echoing through the small space.*
-> 
-> *"I am Dahlver-Nar," the creature rasps, “He of the Many Teeth. Do you seek my gift?"*
+> [!info]+ **Sarcofago Ovest (Tomba di Sykane)**
+> Se un giocatore tocca questo sarcofago, leggete:
 >
 > ---
->  
-> If the player expresses interest in Dahlver-Nar’s gift, he offers the player the power to “flee death, and instead be born anew." To accept, the player must bathe its head in the liquid within the basin.
->  
-> If the player passes through the amber archway or accepts Dahlver-Nar’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Dahlver-Nar’s Gift.*** Dahlver-Nar’s dark gift allows a player to gain the benefits of a _reincarnate_ spell nine times. A player who accepts Dahlver-Nar’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Dahlver-Nar’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Dahlver-Nar’s dark gift, they must succeed on a DC 20 Charisma saving throw or gain an additional stage of Dahlver-Nar’s amber corruption, as described below. The DC increases by 10 each additional time the player uses Dahlver-Nar’s dark gift, and resets to 20 each time the player gains an additional stage of Dahlver-Nar’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Dexterity score and the flaw: “I have little sense of self—it’s hard to remember who I am or what I care about." Their teeth become long, sharp, and pointed, and their eyes glow a pale yellow.  
-> * **Stage Five.** The player gains a **maurhezi’s** ***assume form***, ***multiattack***, ***bite***, and ***claw*** features, and the flaw: “I hunger for humanoid flesh, but can never sate my urges."  
-> * **Stage Six.** The player transforms into a **maurezhi** under the DM’s control.  
-
-> [!info]+ **South Sarcophagus (Tomb of Zantras).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a grand, opulent throne room. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *Ornate wall hangings decorate this chamber’s grand white marble walls, interspersed with tapestries of gold and purple thread. A golden throne sets atop a raised dais at the room’s end, gilded with platinum and inset with rubies. Upon the throne’s seat, laid upon a soft, violet pillow, rests a golden crown inset with gleaming gems.*
 >
-> *A man sits upon the steps to the dais, slender and handsome. He wears fine robes of deep blues and blacks, and two small horns rise from his forehead. At the sight of you, his lips curl into a smile; he stands, bowing deeply.*
-> 
-> *"Zantras, the Kingmaker, at your service" he says, kneeling. “Have you come to claim your gift, my Lord?"*
-> 
-> ---  
->  
-> If the player expresses interest in Zantras’s gift, he offers the player the power to “command presence, loyalty, and obedience." To accept, the player must sit in the throne and allow Zantras to place the crown upon their head.
->  
-> If the player passes through the amber archway or accepts Zantras’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Zantras’s Gift.*** Zantras’s dark gift allows a player to cast _geas_ (as an action) and _dominate monster_ once per day each without components. A player who accepts Zantras’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Zantras’s [[Amber Shards#Amber Corruption|Amber Corruption]].  
->  
-> Each time the player uses Zantras’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Zantras’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Zantras’s dark gift, and resets to 10 each time the player gains an additional stage of Zantras’s amber corruption.  
->  
-> * **Stage Four.** The player gains a +3 bonus to their Charisma score and the flaw: “I expect my orders to be obeyed, and am easily enraged by disobedience." Their skin turns red, their hands each gain a sixth finger, and they grow a pair of small horns on their brow.  
-> * **Stage Five.** The player gains a **cambion’s** ***fire ray*** feature, and the flaw: “I exult in every opportunity for wickedness and perversion."
-> * **Stage Six.** The player transforms into a **cambion** under the DM’s control.  
-
-> [!info]+ **East Sarcophagus (Tomb of Khirad).**  
-> If a player touches this sarcophagus, read:  
->  
-> ---  
->  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a stone platform standing above an endless black ocean. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
->  
-> *The ocean’s tides are rough, but pockets of stillness bubble up from below, forming stagnant eddies before the currents swallow them up once more. A dark moon eclipses the sun in the skies overhead, its terrible light encircled by dark, shadowed clouds.*
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un vasto cimitero oscuro. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
 >
-> *Floating in the air before the platform, haloed by the light of the eclipse above, is a tall, cowled figure, its features concealed by a long yellow cloak. Its whispers echo in the air all around you, each syllable reflected across the waves below.*
+> *Attorno a voi, vegetazione contorta e in decomposizione ricopre lapidi affondate e sgretolate, dimenticate sotto un cielo piatto e grigio. Alte recinzioni di ferro battuto si ergono sparse per il cimitero, le loro sbarre un tempo fiere arrugginite e piegate dall'età.*
 >
-> *"I am Khirad, the Star of Secrets," the figure whispers. “*Has another come to claim my gift?*"
->  
-> ---  
->  
-> If the player expresses interest in Khirad’s gift, he offers the player the power to “know the unknowable." To accept, the player must dive into the ocean below the platform.
->  
-> If the player passes through the amber archway or accepts Khirad’s gift, the telepathic connection ends, and the player returns to their previous senses.  
->  
-> ***Khirad’s Gift.*** Khirad’s dark gift allows a player to cast *legend lore* and *contact other plane* once per day each. A player who accepts Khirad’s dark gift instantly receives its disfiguring condition, as described in Stage Three of Khirad’s [[Amber Shards#Amber Corruption|Amber Corruption]]. 
+> *Al centro del cimitero, il terreno si ritrae per rivelare una buca profonda e ampia, le cui profondità sono colme di un'innumerevole massa di cadaveri umanoidi. In cima alla pila giace un enorme verme rosa-grigio dalla carne luccicante, la sua "testa" che si apre per rivelare un'apertura rotonda e senza mascelle foderata di anelli concentrici di denti affilati e uncinati. Mentre osservate, vedete che la sua carne non è pelle, ma una massa brulicante di milioni di minuscoli lombrichi che si contorcono, tessuti insieme come fili.*
 >
-> Each time the player uses Khirad’s dark gift, they must succeed on a DC 10 Charisma saving throw or gain an additional stage of Khirad’s amber corruption, as described below. The DC increases by 5 each additional time the player uses Khirad’s dark gift, and resets to 10 each time the player gains an additional stage of Khirad’s amber corruption. 
->  
-> * **Stage Four.** The player gains a +3 bonus to their Intelligence score and the flaw: “I find everything hilarious, and never take anything seriously." Their eyes turn green, purple spines grow from their shoulders and spine, and their teeth sharpen to filed points.
-> * **Stage Five.** The player gains a **nothic’s** ***keen sight***, ***multiattack***, ***claw***, and ***weird insight*** features, as well as the flaw: “I delight in violating the secrets trapped in others’ minds."
-> * **Stage Six.** The player transforms into a **nothic** under the DM’s control.
-# S6. Temple Vaults
-## S6a. West Treasury
-<span class="citation">This scene takes place in Chapter 13, Area X39.</span>
+> *«Noi siamo Sykane, il Divoratore di Anime,» rimbomba il verme, un milione di piccole voci che si intrecciano per formare un insieme fragoroso. «Cercate il nostro dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Sykane, Sykane offre al giocatore il potere di "resuscitare coloro che sono passati oltre il velo." Per accettare, il giocatore deve divorare uno dei lombrichi che formano la carne di Sykane.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Sykane, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Sykane.*** Il dono oscuro di Sykane permette a un giocatore di lanciare l'incantesimo _rianimare i morti_ una volta al giorno come azione, senza componenti. Un giocatore che accetta il dono oscuro di Sykane riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Sykane.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Sykane, deve superare un tiro salvezza su Carisma con CD 20 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Sykane, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Sykane, e si resetta a 20 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Sykane.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Costituzione e il difetto: "Le espressioni di vita e gioia mi disgustano." I suoi occhi diventano vuoti neri, e la sua mascella si disloca, pendendo inutilmente oltre il collo.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***aura di annientamento***, ***natura insolita*** e ***pugno*** di un **bodak**, così come il difetto: "Cerco i non morti ed evito i viventi."
+> * **Stadio Sei.** Il giocatore si trasforma in un **bodak** sotto il controllo del DM.
 
-This area is as described in <span class="citation">X39. Plundered Treasury (p. 194</span>.) 
-## S6b. East Treasury
-<span class="citation">This scene takes place in Chapter 13, Area X40.</span>
+> [!info]+ **Sarcofago Sud (Tomba di Zrin-Hala)**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una pianura infinita e piatta. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Attorno a voi, arbusti secchi e erbe ingiallite ondeggiano sopra leghe di terreno arido e crepato. In alto, lance di fulmini guizzano attraverso il cielo da ribollenti nuvole temporalesche nere, seguite da eruzioni tonanti — ma non una goccia di pioggia cade sulla terra riarsa sottostante.*
+>
+> *Fra le nuvole, all'occhio della tempesta, le nubi formano una sagoma umanoide che crepita e ronza di fulmini. La sua parte inferiore è un tornado nero che scende al suolo sottostante, scavando profondi solchi attraverso il paesaggio, e la sua bocca è una fauci oscura e spalancata.*
+>
+> **«Io sono Zrin-Hala, la Tempesta Ululante,»** ruggisce la tempesta. **«Accetterete il mio dono?»**
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Zrin-Hala, Zrin-Hala offre al giocatore il potere di "comandare la furia della tempesta." Per accettare, il giocatore deve permettere a Zrin-Hala di trafiggerlo nel petto con un fulmine.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Zrin-Hala, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Zrin-Hala.*** Il dono oscuro di Zrin-Hala permette a un giocatore di lanciare _invocare fulmini_ e _fulmine_ senza componenti due volte al giorno ciascuno. Un giocatore che accetta il dono oscuro di Zrin-Hala riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Zrin-Hala.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Zrin-Hala, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Zrin-Hala, come descritto sotto. La CD aumenta di 3 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Zrin-Hala, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Zrin-Hala.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Forza e il difetto: "Bramo di bruciare la carne dei miei nemici." I suoi piedi si fondono in zoccoli fessi, due corna ossee erompono dalla sua testa, e le sue unghie si affilano in lunghi artigli frastagliati.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***artiglio*** e ***resistenza alla magia*** di un **armanite**, la sua resistenza ai danni da fulmine, e il difetto: "Ogni creatura — amica o nemica — è un'opportunità per dimostrare la mia forza."
+> * **Stadio Sei.** Il giocatore si trasforma in un **armanite** sotto il controllo del DM.
 
-This area is largely as described in <span class="citation">X40. Sealed Treasury (p. 194)</span>. However, revise this area’s description to read as follows:
+> [!info]+ **Sarcofago Est (Tomba di Fekre)**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un'alta e oscura camera di pietra. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Pilastri contorti fiancheggiano la sala della camera, intervallati da sculture di serpenti ringhianti. All'estremità della camera, un altare di pietra scura poggia su un dais, recante una ciotola di porcellana dipinta. Nebbia viola virulenta ribolle dal bacino, riempiendo l'aria di un odore fetido e putrido.*
+>
+> *Dietro l'altare, con una mano sottile ed elegante posata sul bordo della ciotola, si erge una donna: alta, dalla pelle pallida viola-grigio e un vestito di viola profondo. Invece di capelli, un gruppo di funghi grigio-verdi spuntano dai lati e dalla cima della sua testa, mentre licheni viola ricoprono i suoi occhi in una forma che ricorda la maschera di un ballo in maschera.*
+>
+> *«Io sono Fekre, Regina dei Morbi,» dice. «Chi è che cerca il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Fekre, ella offre al giocatore il potere "di comandare e diffondere virulenza e pestilenza." Per accettare, il giocatore deve bere la pozione viola dalla ciotola di ceramica sopra l'altare.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Fekre, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Fekre.*** Il dono oscuro di Fekre permette a un giocatore di lanciare _contagio_ due volte al giorno, senza componenti e con una gittata di 9 metri. Un giocatore che accetta il dono oscuro di Fekre riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Fekre.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Fekre, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Fekre, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Fekre, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Fekre.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Costituzione e il difetto: "Bramo la violenza." Due corna spuntano dal suo cranio, piaghe infestate da vermi ricoprono la sua carne, e un puzzo di carne marcia lo segue ovunque vada.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***presenza putrescente***, ***salto da fermo*** e ***coda uncinata*** di un **bulezau**, così come i difetti: "Vivo per uccidere" e "La morte non mi fa paura."
+> * **Stadio Sei.** Il giocatore si trasforma in un **bulezau** sotto il controllo del DM.
+#### Cripta di Maverus
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33b</span>
 
- <div class="description">
-<p>Piles of amber are heaped against the west and east walls of this stone room. The southeast corner holds an additional pile: a mound of treasure.</p>
+Quest'area è in gran parte come descritta in <span class="citation">X33b. Cripta di Maverus</span>. Tuttavia, modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto.
+
+> [!info]+ **Sarcofago Nord (Tomba di Savnok).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un grande laboratorio. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Le pareti circolari di questa camera sono rivestite di scaffali che gemono sotto il peso di innumerevoli componenti, pozioni e dispositivi ronzanti. Il pavimento, forgiato di scintillante lapislazzuli, reca il segno di un enorme pentagramma segnato con miriadi di rune e sigilli. Al suo centro, un piedistallo di marmo bianco regge un globo scolpito di ametista cristallina.*
+>
+> *Accanto al piedistallo si erge una figura solitaria, i cui lineamenti e arti sono celati da una lunga veste bianca col cappuccio. La sua visiera incappucciata si volge verso di voi, le ombre che celano lo spazio al suo interno.*
+>
+> *«Io sono Savnok, l'Imperscrutabile,» mormora. «Cercate il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Savnok, Savnok offre al giocatore il potere di "proteggere l'integrità della propria mente, e di celarne il funzionamento interno a tutti coloro che potrebbero cercare di invaderla." Per accettare, il giocatore deve posare le mani sul globo di ametista.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Savnok, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Savnok.*** Il dono oscuro di Savnok permette a un giocatore di lanciare _vuoto mentale_ (solo su sé stesso) una volta al giorno senza componenti. Un giocatore che accetta il dono oscuro di Savnok riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Savnok.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Savnok, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Savnok, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Savnok, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Savnok.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Forza e il difetto: "Sono soggetto a crisi di follia." Guadagna quindici centimetri di altezza, e la sua pelle diventa trasparente, rendendo le sue vene, muscoli e organi visibili sotto la superficie.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***specchio psichico***, ***multiattacco*** e ***schianto*** di un **colosso delle progenie stellari**, e il difetto: "Sono apatico verso tutto, ma obbedisco a tutti gli ordini che il mio padrone mi dà." (Il giocatore sceglie il suo "padrone".)
+> * **Stadio Sei.** Il giocatore si trasforma in un **colosso delle progenie stellari** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Sud (Tomba di Tarakamedes).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un vasto ossario. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Questo ossario è stato costruito a somiglianza di una sala del trono forgiata interamente di ossa. Fiamme grigie e senza luce ardono in innumerevoli candelabri scolpiti a teschio lungo le pareti, che sono esse stesse costruite di femori incastrati e decorate con costole umane.*
+>
+> *Un alto trono si erge all'estremità della camera, costruito di teschi, costole, clavicole e femori, ogni osso imbiancato di un pallido bianco. Sopra il trono torreggia un verme serpentino dalle scaglie grigie, i lineamenti della sua testa senza occhi inghiottiti dalle sue stesse enormi fauci irte di denti. Due ali scheletriche si estendono dalla sua schiena, le ossa di ciascun'ala che sfiorano il soffitto e le pareti della camera.*
+>
+> *«Io sono Tarakamedes, il Verme della Tomba,» raspa il verme. «Siete venuti a cercare il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Tarakamedes, Tarakamedes offre al giocatore il potere di "librarsi sopra il mondo sottostante." Per accettare, il giocatore deve sedersi sul trono, impalandosi sulle ossa appuntite che si estendono nelle sue spalle.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Tarakamedes, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Tarakamedes.*** Il dono oscuro di Tarakamedes permette a un giocatore di lanciare _volare_ tre volte al giorno senza componenti. (Quando lanciato in questo modo, il giocatore manifesta ali ossee e scheletriche per la durata dell'incantesimo.) Un giocatore che accetta il dono oscuro di Tarakamedes riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Tarakamedes.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Tarakamedes, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Tarakamedes, come descritto sotto. La CD aumenta di 3 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Tarakamedes, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Tarakamedes.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Forza e il difetto: "Sono invidioso dei miei superiori e crudele con i miei inferiori." Le sue dita diventano lunghe, ossute e bianche con punte cremisi, mentre piccole ali ossee vestigiali emergono dalla sua schiena.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***vista del diavolo***, ***multiattacco***, ***artiglio*** e ***pungiglione*** di un **diavolo d'ossa**, e il difetto: "Odio ciò che non posso avere, e bramo tutto ciò che è prezioso o potente."
+> * **Stadio Sei.** Il giocatore si trasforma in un **diavolo d'ossa** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Est (Tomba di Shami-Amourae).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da un lussuoso salotto senza finestre. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Candele tremolanti illuminano questa camera, che è piena di morbidi divani, poltrone e futon decorati in sfumature di rosa, verde pastello e rosso scarlatto. Una donna si adagia su un futon al centro dello spazio, circondata da dozzine di morbidi cuscini. Il suo viso è dipinto di un bianco candido, ma le sue labbra piene luccicano di un cremisi profondo e peccaminoso. I suoi capelli sono raccolti in un semplice e ordinato chignon in cima alla testa, con tutti i fili tranne due fini ciocche scure fissati da un paio di aghi d'avorio. Due piccole corna cremisi spuntano dalla sua testa su entrambi i lati del chignon, le loro punte limate a estremità morbide e arrotondate.*
+>
+> *«Io sono Shami-Amourae,» mormora la donna con un sorriso, «la Signora delle Delizie.» I suoi occhi verde giada brillano alla luce delle candele. «Siete venuti infine a cercare il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Shami-Amourae, ella offre al giocatore il potere "di persuadere qualsiasi anima con le sole parole." Per accettare, il giocatore deve baciare le labbra di Shami-Amourae.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Shami-Amourae, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Shami-Amourae.*** Il dono oscuro di Shami-Amourae permette a un giocatore di lanciare _suggestione_ tre volte al giorno senza componenti. Un giocatore che accetta il dono oscuro di Shami-Amourae riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Shami-Amourae.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Shami-Amourae, deve superare un tiro salvezza su Carisma con CD 5 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Shami-Amourae, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Shami-Amourae, e si resetta a 5 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Shami-Amourae.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Carisma e il difetto: "Non ne ho mai abbastanza di piacere. Desidero che gli altri creino bellezza per me in ogni momento." I suoi capelli diventano rosso scuro e crescono oltre la vita, i suoi piedi si fondono in zoccoli fessi, e due piccole corna crescono dal suo cranio.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***bacio risucchiante*** e ***cambiaforma*** di un **incubus**, la sua telepatia, e il difetto: "Pretendo adorazione e lealtà da tutti coloro che incontro."
+> * **Stadio Sei.** Il giocatore si trasforma in un **incubus** o **succubus** sotto il controllo del DM.
+### Cripta Nordest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X33c.</span>
+
+Quest'area è in gran parte come descritta in <span class="citation">X33c. Cripta Macabra (p. 192)</span> e <span class="citation">Sarcofagi d'Ambra (p. 191)</span>. Tuttavia, rimuovete i **ghast** da questa stanza, e modificate i sarcofagi in questa stanza (e i loro doni oscuri) come descritto sotto. Inoltre, aggiungete il seguente testo alla fine della descrizione di quest'area:
+
+<div class="description">
+<p>Una creatura solitaria e curva siede al centro della stanza, con un mantello di pelliccia strappato drappeggiato sulle spalle.</p>
 </div>
 
-> [!info]+ **How Much Amber?**
-> Each pile of amber is made up of thousands of fist-sized chunks of amber, and is approximately three feet tall and four feet in diameter. A player who succeeds on a DC 15 Intelligence (Investigation) check estimates that each pile contains approximately fifty thousand chunks of amber.
+La creatura, che un tempo era la Montanara Meda, è un **nothic**. Quando i giocatori interagiscono per la prima volta con essa o rendono altrimenti nota la loro presenza, il nothic si volta verso di loro. Leggete:
 
-> [!lore]+ **The Treasury**
-> The wizards of the Amber Temple collected many tons of amber in their quest to seal away the vestiges of evil entities. They then melted the amber down and reforged it into amber sarcophagi, as well as the two **amber golems** built to guard the temple. The treasure here also served as the secret society’s treasury, funding expeditions and supplies, as well as stipends for members and remittances to their families.
+<div class="description">
+<p>Spine viola si arcuano dalla schiena di questa creatura, il suo corpo rivestito di muscoli deformati e fibrosi. Macchie marroni coprono la sua carne coriacea, sebbene le sue mani e braccia schiariscano verso un pallido viola malsano, le sue dita storte che terminano in artigli affilati e uncinati. Un singolo grande occhio malevolo spia dal centro del suo cranio, appena sopra una mascella ossuta e appuntita foderata di denti da squalo. Nella mano destra, qualcosa d'ambra luccica da un cordone arrotolato nel palmo.</p>
+<p>L'occhio della creatura si spalanca, una risatina isterica che scivola dalla sua gola mentre un singolo filo di saliva cola dalla sua bocca senza labbra. «Salve,» dice.</p>
+</div>
 
-The southeast pile, marked **Pile 4** in <span class="citation">X40. Sealed Treasury (p. 194)</span>, contains only the following:
+> [!lore]+ **Il Nothic**
+> Quando la Montanara Meda accettò il dono oscuro di Khirad, la Stella dei Segreti, la sua mente fu sopraffatta dal potere della conoscenza che egli condivise, distorcendo il suo corpo e la sua mente in quelli di un nothic. Nella sua forma attuale, Meda si è persa nella follia, e non si cura più di nulla se non della propria curiosità — così come della sua ilarità per le sue "rivelazioni".
 
-* All cp and gemstones from Pile 1
-* All sp and the silvered rapier from Pile 2
-* The trunk, chest, jewelry, ep, and ceramic statues from Pile 3
-* The iron ingots, holy symbols, copper chalices, and gilded skull from Pile 4
-* The sp, crystal balls, bronze crown, and marble vases from Pile 5
-* The cp and obsidian scepter from Pile 6
+Meda, che agisce in gran parte come descritto in <span class="citation">X33d. Cripta Violata (p. 192)</span>, è lieta di parlare coi giocatori, sebbene le sue parole siano quasi sempre criptiche, folli e intervallate da frequenti risatine. Se interrogata, può condividere le seguenti informazioni:
 
-In addition, the **amber golem** attacks any creature that disturbs any of the piles or approaches the crack in the wall. Modify the golem's statistics as follows:
+* Non è sicura di essere Meda, ma, dopo un momento di riflessione, pensa che "suoni familiare". («Ho così tante cose più interessanti a cui pensare dei *nomi*,» aggiunge, sbirciando.)
+* Cercò il dono della Stella dei Segreti per trovare "risposte". (Se le viene chiesto perché, spazza le sue grinfie verso la stanza intorno a lei e gracchia: «*Questo!* Tutto quanto — risposte a tutto.» Rabbrividisce, aggiungendo: «E sono state deliziose.»)
+* Khirad "le mostrò la verità" — "il velo, la Nebbia che si annida e osserva e divora e *attende*." Se le viene chiesto di spiegare ulteriormente, o se i giocatori sembrano dubitare della sua accuratezza o sanità, Meda aggiunge: «Non li avete visti? Non li avete *sentiti*? La Nebbia imperitura — quelli che osservano da lontano e da tutto intorno a noi, che spiano attraverso le sbarre della gabbia che hanno forgiato. Quelli che sono insieme impotenti e onnipotenti.» (Meda si riferisce ai Poteri Oscuri, ma non approfondirà ulteriormente.)
+* La "gabbia" trattiene "il prigioniero — il topo in gabbia che saltella e danza per il loro nutrimento e divertimento." Con una risatina, Meda aggiunge: «Ma il giorno sta arrivando in cui il drappo sulla gabbia scivolerà, quando la candela si inclinerà, e il topo brucerà attraverso la sua gabbia. Le stelle si stanno agitando e svegliando; presto, tutto comunicherà. Tutto si *toccherà* e sarà uno.» Con il suo singolo occhio scintillante, sussurra: «E sarà *magnifico*.» (Meda si riferisce alla Grande Congiunzione.)
 
-* It has the AC and hit points of an **iron golem**.
-* It has the Strength and ***slam*** attack of an **iron golem**.
-* When it uses its ***multiattack***, it can replace one use of its ***slam*** with a use of its ***slow*** ability.
-* Its ***slow*** ability affects all creatures it can see within 20 feet of it.
+Man mano che la conversazione si sviluppa, Meda inclina la testa, come ascoltando una voce invisibile, poi sorride e batte le mani. «Giochiamo a un gioco,» dice con voce cantilenante. «Se riuscite a risolvere il mio indovinello, vi dirò un segreto.» (Se i giocatori sembrano disinteressati al segreto di Meda, ella ridacchia e dice: «Allora forse cercherete in queste sale per sempre.») Meda è lieta di suggerire (in modo stuzzicante) — ma non confermare — che il suo "segreto" riguarda la posizione della *Lama del Sole*.
 
-> [!combat]- **Combat - The Treasury**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
-> **Expected HP Consumption:** 20%
-> 
-> ### **Enemies:**
-> 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+L'indovinello di Meda è semplice: «Un topo gratta contro le pareti della sua gabbia. Chi è il topo, e chi è il suo carceriere?» (Il "topo" è Strahd, e il "carceriere" sono i Poteri Oscuri. Meda accetterà qualsiasi risposta che spieghi approssimativamente la storia dei Poteri Oscuri o identifichi la loro vera natura. Meda non accetterà "i vestigia del Tempio d'Ambra" come risposta.)
+
+Se i giocatori risolvono il suo indovinello, Meda sorride mostrando i denti, li congratula e condivide il seguente segreto in un sibilo sommesso e deliziato: «La cosa che cercate è annegata nel sangue.» (Meda si riferisce al canale di sangue nel [[#Il Sarcofago del Vampyr]]. Non approfondirà ulteriormente.)
+
+> [!info]+ **Sarcofago Est (Tomba di Dahlver-Nar).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una camera bianca e spoglia. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Le pareti, il pavimento e il soffitto di questa camera sono forgiati interamente di anelli concentrici di denti umani. Nove rientranze formano alcove lungo le pareti, ciascuna che contiene la forma fluttuante di un umanoide privo di sensi. Non ce ne sono due uguali — uno reca le orecchie appuntite di un elfo, un altro la corporatura tozza di un nano, mentre un terzo reca le scaglie rettiliane di un dragonide.*
+>
+> *Un bacino di pietra si erge al centro della camera, montato su un dais rialzato con nove lati. Sottili fili di liquido grigio-bianco vorticano nel bacino, dozzine di volti mutevoli e in continua trasformazione che ribollono dalla sua superficie.*
+>
+> *Dietro il bacino si erge un umanoide senza volto alto tre metri, il suo corpo punteggiato di nove bocche spalancate che sbavano una saliva densa e viscosa. Quando parla, tutte e nove le bocche parlano all'unisono, le loro voci che echeggiano nel piccolo spazio.*
+>
+> *«Io sono Dahlver-Nar,» raspa la creatura, «Colui dai Molti Denti. Cercate il mio dono?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Dahlver-Nar, egli offre al giocatore il potere di "fuggire la morte, e invece rinascere." Per accettare, il giocatore deve immergere la testa nel liquido del bacino.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Dahlver-Nar, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Dahlver-Nar.*** Il dono oscuro di Dahlver-Nar permette a un giocatore di ottenere i benefici di un incantesimo _reincarnazione_ nove volte. Un giocatore che accetta il dono oscuro di Dahlver-Nar riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Dahlver-Nar.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Dahlver-Nar, deve superare un tiro salvezza su Carisma con CD 20 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Dahlver-Nar, come descritto sotto. La CD aumenta di 10 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Dahlver-Nar, e si resetta a 20 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Dahlver-Nar.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Destrezza e il difetto: "Ho poco senso di sé — è difficile ricordare chi sono o cosa mi importa." I suoi denti diventano lunghi, affilati e appuntiti, e i suoi occhi brillano di un pallido giallo.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***assumi forma***, ***multiattacco***, ***morso*** e ***artiglio*** di un **maurezhi**, e il difetto: "Bramo carne umanoide, ma non riesco mai a saziare i miei impulsi."
+> * **Stadio Sei.** Il giocatore si trasforma in un **maurezhi** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Sud (Tomba di Zantras).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una sala del trono opulenta e grandiosa. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Ornati arazzi decorano le grandi pareti di marmo bianco di questa camera, intervallati da tappezzerie di filo d'oro e viola. Un trono dorato siede in cima a un dais rialzato all'estremità della stanza, placcato di platino e intarsiato di rubini. Sul sedile del trono, posata su un morbido cuscino viola, giace una corona d'oro intarsiata di gemme scintillanti.*
+>
+> *Un uomo siede sui gradini del dais, snello e attraente. Indossa vesti eleganti di blu profondi e neri, e due piccole corna spuntano dalla sua fronte. Alla vostra vista, le sue labbra si arricciano in un sorriso; si alza, inchinandosi profondamente.*
+>
+> *«Zantras, il Creatore di Re, al vostro servizio,» dice, inginocchiandosi. «Siete venuti a reclamare il vostro dono, mio Signore?»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Zantras, egli offre al giocatore il potere di "comandare presenza, lealtà e obbedienza." Per accettare, il giocatore deve sedersi sul trono e permettere a Zantras di porgli la corona sul capo.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Zantras, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Zantras.*** Il dono oscuro di Zantras permette a un giocatore di lanciare _costrizione* (come azione) e _dominare mostri_ una volta al giorno ciascuno senza componenti. Un giocatore che accetta il dono oscuro di Zantras riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Zantras.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Zantras, deve superare un tiro salvezza su Carisma con CD 10 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Zantras, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Zantras, e si resetta a 10 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Zantras.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Carisma e il difetto: "Mi aspetto che i miei ordini siano obbediti, e mi infurio facilmente per la disobbedienza." La sua pelle diventa rossa, le sue mani ottengono ciascuna un sesto dito, e un paio di piccole corna crescono sulla sua fronte.
+> * **Stadio Cinque.** Il giocatore ottiene la caratteristica ***raggio di fuoco*** di un **cambion**, e il difetto: "Esulto in ogni opportunità di malvagità e perversione."
+> * **Stadio Sei.** Il giocatore si trasforma in un **cambion** sotto il controllo del DM.
+
+> [!info]+ **Sarcofago Est (Tomba di Khirad).**
+> Se un giocatore tocca questo sarcofago, leggete:
+>
+> ---
+>
+> *Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una piattaforma di pietra che si erge sopra un oceano nero e infinito. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
+>
+> *Le maree dell'oceano sono agitate, ma sacche di calma ribollono dal basso, formando vortici stagnanti prima che le correnti le inghiottano nuovamente. Una luna oscura eclissa il sole nei cieli sopra di voi, la sua luce terribile circondato da nubi oscure e ombrose.*
+>
+> *Fluttuante nell'aria davanti alla piattaforma, aureolata dalla luce dell'eclissi sopra, vi è una figura alta e incappucciata, i cui lineamenti sono celati da un lungo mantello giallo. I suoi sussurri echeggiano nell'aria tutto intorno a voi, ogni sillaba riflessa attraverso le onde sottostanti.*
+>
+> *«Io sono Khirad, la Stella dei Segreti,» sussurra la figura. «*Un altro è venuto a reclamare il mio dono?*»*
+>
+> ---
+>
+> Se il giocatore esprime interesse per il dono di Khirad, egli offre al giocatore il potere di "conoscere l'inconoscibile." Per accettare, il giocatore deve tuffarsi nell'oceano sotto la piattaforma.
+>
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Khirad, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+>
+> ***Dono di Khirad.*** Il dono oscuro di Khirad permette a un giocatore di lanciare *conoscenza delle leggende* e *contattare un altro piano* una volta al giorno ciascuno. Un giocatore che accetta il dono oscuro di Khirad riceve immediatamente la sua condizione deturpante, come descritto nello Stadio Tre della [[Amber Shards#Amber Corruption|Corruzione d'Ambra]] di Khirad.
+>
+> Ogni volta che il giocatore usa il dono oscuro di Khirad, deve superare un tiro salvezza su Carisma con CD 10 o acquisire uno stadio aggiuntivo della corruzione d'ambra di Khirad, come descritto sotto. La CD aumenta di 5 ogni volta aggiuntiva che il giocatore usa il dono oscuro di Khirad, e si resetta a 10 ogni volta che il giocatore acquisisce uno stadio aggiuntivo della corruzione d'ambra di Khirad.
+>
+> * **Stadio Quattro.** Il giocatore ottiene un bonus di +3 al punteggio di Intelligenza e il difetto: "Trovo tutto esilarante, e non prendo mai nulla sul serio." I suoi occhi diventano verdi, spine viola crescono dalle sue spalle e spina dorsale, e i suoi denti si affilano a punte.
+> * **Stadio Cinque.** Il giocatore ottiene le caratteristiche ***vista acuta***, ***multiattacco***, ***artiglio*** e ***intuizione bizzarra*** di un **nothic**, così come il difetto: "Godo nel violare i segreti intrappolati nelle menti altrui."
+> * **Stadio Sei.** Il giocatore si trasforma in un **nothic** sotto il controllo del DM.
+# S6. Cripte del Tempio
+## S6a. Tesoreria Ovest
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X39.</span>
+
+Quest'area è come descritta in <span class="citation">X39. Tesoreria Saccheggiata (p. 194</span>.)
+## S6b. Tesoreria Est
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X40.</span>
+
+Quest'area è in gran parte come descritta in <span class="citation">X40. Tesoreria Sigillata (p. 194)</span>. Tuttavia, rivisitate la descrizione di quest'area affinché reciti:
+
+<div class="description">
+<p>Mucchi d'ambra sono ammassati contro le pareti ovest e est di questa stanza di pietra. L'angolo sudest contiene un mucchio aggiuntivo: un cumulo di tesori.</p>
+</div>
+
+> [!info]+ **Quanta Ambra?**
+> Ogni mucchio d'ambra è composto da migliaia di pezzi d'ambra della grandezza di un pugno, ed è alto circa un metro e largo un metro e venti. Un giocatore che supera una prova di Intelligenza (Indagare) con CD 15 stima che ogni mucchio contenga circa cinquantamila pezzi d'ambra.
+
+> [!lore]+ **La Tesoreria**
+> I maghi del Tempio d'Ambra raccolsero molte tonnellate d'ambra nella loro missione di sigillare i vestigia di entità malvagie. Poi fecero fondere l'ambra e la riforgiarono in sarcofagi d'ambra, così come i due **golem d'ambra** costruiti per difendere il tempio. Il tesoro qui serviva anche come tesoreria della società segreta, finanziando spedizioni e provviste, così come stipendi per i membri e rimesse alle loro famiglie.
+
+Il mucchio sudest, segnato come **Mucchio 4** in <span class="citation">X40. Tesoreria Sigillata (p. 194)</span>, contiene solo il seguente:
+
+* Tutte le mr e pietre preziose dal Mucchio 1
+* Tutti gli ma e lo stocco argentato dal Mucchio 2
+* Il baule, il forziere, i gioielli, i me e le statue di ceramica dal Mucchio 3
+* I lingotti di ferro, i simboli sacri, i calici di rame e il teschio dorato dal Mucchio 4
+* Gli ma, le sfere di cristallo, la corona di bronzo e i vasi di marmo dal Mucchio 5
+* Le mr e lo scettro di ossidiana dal Mucchio 6
+
+Inoltre, il **golem d'ambra** attacca qualsiasi creatura che disturbi uno qualsiasi dei mucchi o si avvicini alla crepa nella parete. Modificate le statistiche del golem come segue:
+
+* Ha la CA e i punti ferita di un **golem di ferro**.
+* Ha la Forza e l'attacco ***schianto*** di un **golem di ferro**.
+* Quando usa il suo ***multiattacco***, può sostituire un uso del suo ***schianto*** con un uso della sua abilità ***rallentamento***.
+* La sua abilità ***rallentamento*** influenza tutte le creature che può vedere entro 6 metri da esso.
+
+> [!combat]- **Combattimento - La Tesoreria**
+> **Livello di Combattimento**: Lieve
+> **Livello dei Personaggi Previsto**: 8
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4), Kasimir Velikov (GS 6)
+> **Consumo PF Previsto:** 20%
+>
+> ### **Nemici:**
+>
+> | |3 Giocatori | 4 Giocatori | 5 Giocatori | 6 Giocatori |
 > |-|-|-|-|-|
-> | Amber Golem | 1 | 1 | 1 | 1 |
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> | Golem d'Ambra | 1 | 1 | 1 | 1 |
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage. |
-> | 4 | Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage. |
-> | 6 | Increase the **amber golem's** hit points to 236. Increase the damage of its ***slam*** attack to 21 (3d8 + 7) bludgeoning damage. |
+> | 3 | Riducete i punti ferita del **golem d'ambra** a 153. Riducete i danni del suo attacco ***schianto*** a 14 (3d4 + 7) danni contundenti. |
+> | 4 | Riducete i punti ferita del **golem d'ambra** a 184. Riducete i danni del suo attacco ***schianto*** a 18 (2d10 + 7) danni contundenti. |
+> | 6 | Aumentate i punti ferita del **golem d'ambra** a 236. Aumentate i danni del suo attacco ***schianto*** a 21 (3d8 + 7) danni contundenti. |
 
-## S6c. Amber Vault
-<span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
+## S6c. Cripta d'Ambra
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X41 e X42.</span>
 
-This area is largely as described in <span class="citation">X41. Fissure (p. 195)</span> and <span class="citation">X42. Amber Vault (p. 195)</span>. However, there are no crates or **vampire spawn** in this chamber. In addition, modify the east and south sarcophagi as described below.
+Quest'area è in gran parte come descritta in <span class="citation">X41. Fessura (p. 195)</span> e <span class="citation">X42. Cripta d'Ambra (p. 195)</span>. Tuttavia, non ci sono casse né **stirpe vampirica** in questa camera. Inoltre, modificate i sarcofagi est e sud come descritto sotto.
 
-> [!info]+ **East Sarcophagus (Tomb of Zhudun)**
-> If a player touches this sarcophagus, read:
+> [!info]+ **Sarcofago Est (Tomba di Zhudun)**
+> Se un giocatore tocca questo sarcofago, leggete:
 >
 > ---
 >
-> *As you touch this sarcophagus, the room melts away around you, to be replaced by the crest of a tall, stark hill. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*
+> *Mentre toccate questo sarcofago, la stanza si dissolve attorno a voi, sostituita dalla cresta di un'alta e spoglia collina. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
 >
-> *The hill overlooks a rugged and desolate landscape. The soil is a pale lavender, split by cold, raised veins of cold, bright blue that snake between the soft, rounded mountains that flow like waves across the land. The sky overhead is an inky black, filled only with thirteen distant stars whose cerulean light flickers coldly across the void.*
+> *La collina domina un paesaggio aspro e desolato. Il terreno è di un pallido lavanda, spaccato da fredde vene rialzate di un azzurro brillante che serpeggiano tra le morbide montagne arrotondate che scorrono come onde attraverso la terra. Il cielo sopra di voi è di un nero inchiostro, riempito solo da tredici stelle distanti la cui luce cerulea tremola freddamente nel vuoto.*
 >
-> *Beneath you, the hill shudders—then splits, forming a crevasse that steadily widens, revealing an immense, white eye below. Across the horizon, dozens, then hundreds of mounds, hills, and mountains do the same, splitting to reveal purple-irised eyes, each larger than a village—and some, miles in the distance, larger than even the greatest cities.*
+> *Sotto di voi, la collina sussulta — poi si spacca, formando un crepaccio che si allarga costantemente, rivelando un immenso occhio bianco sottostante. Attraverso l'orizzonte, dozzine, poi centinaia di collinette, colline e montagne fanno lo stesso, spaccandosi per rivelare occhi dall'iride viola, ciascuno più grande di un villaggio — e alcuni, a miglia di distanza, più grandi anche delle più grandi città.*
 >
-> *The eyes drift in their tectonic sockets, then, lazily, peer toward you. The entire planet rumbles with an alien, hollow voice that is at once a whisper and a shout, once which rings in both your ears and your mind.*
+> *Gli occhi vagano nelle loro orbite tettoniche, poi, pigramente, si rivolgono verso di voi. L'intero pianeta rimbomba con una voce aliena e vuota che è allo stesso tempo un sussurro e un urlo, che risuona sia nelle vostre orecchie che nella vostra mente.*
 >
-> ***I AM ZHUDUN, THE CORPSE STAR,*** the voice says. ***WHO COMES TO SEEK MY GIFT?***
->
-> ---
->
-> If the player expresses interest in Zhudun’s gift, it offers the player the power to “animate the ancient dead." To accept, the player must allow themselves to fall into the great hole of Zhudun’s pupil.
->
-> If the player passes through the amber archway or accepts Zhudun’s gift, the telepathic connection ends, and the player returns to their previous senses.
->
-> ***Zhudun’s Gift.*** A creature that accepts Zhudun’s gift gains the power to perform the Rite of Stolen Life once per day, which is largely as described in <span class="citation">Rite of Stolen Life (<em>Tomb of Annihilation</em> (p. 73))</span>. However, a creature transformed by this ritual into the walking dead has Intelligence, Wisdom, and Charisma scores of 6 and none of its former personality, and obeys its creator without question.
-
-> [!info]+ **South Sarcophagus (Tomb of Tenebrous)**
-> If a player touches this sarcophagus, read:
+> ***IO SONO ZHUDUN, LA STELLA CADAVERE,*** dice la voce. ***CHI VIENE A CERCARE IL MIO DONO?***
 >
 > ---
 >
-> *As you touch this sarcophagus, the room melts away around you, to be replaced by a dark, ancient tomb. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*
+> Se il giocatore esprime interesse per il dono di Zhudun, esso offre al giocatore il potere di "animare gli antichi morti." Per accettare, il giocatore deve lasciarsi cadere nel grande buco della pupilla di Zhudun.
 >
-> *The walls of this tomb are lined with engravings of skeletal lords, mages, and generals commanding armies of the undead. A pair of pedestals stands before you, each carved from enormous, powder-white bones. Upon the left pedestal rests an ancient grimoire bound in human skin; upon the right rests a small metal box inscribed with hundreds of intertwining arcane symbols.*
+> Se il giocatore passa attraverso l'arco d'ambra o accetta il dono di Zhudun, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
 >
-> ---
->
-> The grimoire and box are magically locked, and cannot be opened without Tenebrous’ assent.
->
-> The vestige of Tenebrous does not immediately greet the player when they arrive. Instead, Tenebrous emerges only if the player calls out to it, or if the player attempts to open the grimoire or box. When it does, read:
->
-> ---
->
-> *A towering figure steps forth from the shadows, more than thrice a man’s height. Its corpulent frame is laden with rot-bloated flesh and muscle, and dark sores cover its scarlet skin. Instead of a head, it bears the desiccated skull of a ram; behind it, ragged, batlike wings extend from its shoulders, while its thick-furred legs end with the cloven hooves of a goat.*
->
-> *"Begone," the figure rumbles. “You are not worthy of my gift."*
+> ***Dono di Zhudun.*** Una creatura che accetta il dono di Zhudun ottiene il potere di eseguire il Rito della Vita Rubata una volta al giorno, che è in gran parte come descritto in <span class="citation">Rito della Vita Rubata (<em>Tomb of Annihilation</em> (p. 73))</span>. Tuttavia, una creatura trasformata da questo rituale in un morto vivente ha punteggi di Intelligenza, Saggezza e Carisma pari a 6 e nessuna delle sue precedenti personalità, e obbedisce al suo creatore senza fare domande.
+
+> [!info]+ **Sarcofago Sud (Tomba di Tenebrous)**
+> Se un giocatore tocca questo sarcofago, leggete:
 >
 > ---
 >
-> Tenebrous is willing to share the following information with the player if asked:
+> *Mentre toccate questo sarcofago, la stanza si dissolve attorno a voi, sostituita da una tomba oscura e antica. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.*
 >
-> * It is Tenebrous, the Shadow That Was.
-> * Its dark gift is the secret of lichdom—the key to “true immortality through undeath."
-> * The players are unworthy of its gift because (a) they are “too weak to deserve it" (i.e., they can’t cast 9th-level wizard spells), (b) their “hearts cannot bear its price" (i.e., they are of non-evil alignment), or (c) both. (Tenebrous refuses to elaborate on these reasons.)
-> * It has not blessed a mage with its gift in nearly four centuries. A player who succeeds on a DC 15 Charisma (Persuasion) check and entertains or amuses Tenebrous in some way can convince it to share that this mage was “the elf-girl, whose righteous fury had burned her soul black." Tenebrous shakes its head, mourning its “disappointment that even she could not complete her apotheosis." (Tenebrous is referring to Patrina, and her death at Kasimir’s hands when her ritual remained incomplete.) “And yet," he adds, chuckling darkly, “that is not dead which can eternal lie—and perhaps one day I shall be surprised." (Tenebrous, who is referring to Patrina’s entrapment within the *Sunsword’s* hilt, refuses to elaborate on this.)
-
-> [!lore]+ **The Vestige of Tenebrous**
-> The vestige of Tenebrous is the lost divinity of Orcus, the Demon Prince of Undeath. Orcus briefly ascended to godhood by discovering the Last Word, a word of power capable of destroying deities. In this capacity, Orcus named himself Tenebrous, but died when a group of adventurers used the Last Word against him. Although Orcus was later resurrected, the lost divinity of Tenebrous wandered the planes as a vestige, and was eventually captured and imprisoned by the wizards of the Amber Temple.
-### The Vampyr’s Sarcophagus
-If a player touches the **west sarcophagus** (the tomb of the Vampyr), read:
-
-<div class="description">
-<p>As you touch the sarcophagus, the room melts away around you, to be replaced by a stone chamber sixty feet across. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.</p>
-<p>A tall, black tree stands at the far side of this room, surrounded by patches of dead, yellowed grass and swarms of gnarled, writhing roots. Its trunk weeps endless droplets of crimson blood, which collect in a circular stone canal. From there, the blood flows through four channels toward the room’s edges, where it drains into a deep, fathomless canal that encircles the chamber’s perimeter. Strange shapes and silhouettes swirl in the canal’s depths, briefly bubbling to the surface before sinking into the depths once more.</p>
-<p>The tree’s branches, dead and bare, bear no leaves or fruit—save for one: a luscious red apple that grows from the lowest branch.</p>
-</div>
-
-> [!abstract]+ **The Radiant Relics**
-> If the player carries the [[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]] or [[Character Creation#Justice—The Broken Blade|Broken Blade]], the relic responds as follows:
+> *Le pareti di questa tomba sono rivestite di incisioni di signori, maghi e generali scheletrici che comandano eserciti di non morti. Un paio di piedistalli si erge davanti a voi, ciascuno scolpito da enormi ossa bianco polvere. Sul piedistallo sinistro giace un antico grimorio rilegato in pelle umana; sul destro giace una piccola scatola di metallo incisa con centinaia di simboli arcani intrecciati.*
 >
-> * The medallion flickers with golden light, growing stronger and brighter as it approaches the bloody canal and, eventually, the *Sunsword* concealed beneath it.
-> * The broken blade emits a high-pitched hum and trembles violently, spinning like a compass needle in the direction of the bloody canal and, eventually, the *Sunsword* concealed beneath it.
-#### The Tree
-If the player approaches or interacts with the tree, or otherwise calls out to it, the vestige of the Vampyr emerges to greet them. Read or paraphrase:
-
-<div class="description">
-<p>A knot across the tree’s trunk stirs—then <em>lifts</em>, revealing itself to be the head of an enormous black snake, its length as thick as a man’s torso. The snake’s deep, crimson eyes turn to face you, and a night-black tongue flickers from its fanged mouth.</p>
-<p>"Welcome, little visitor," the serpent hisses. “Have you the will and ambition to claim my gift?"</p>
-</div>
-
-The vestige of the Vampyr can share the following information:
-
-* It is the Vampyr, the gifter of eternal life through perfect undeath. “Many have sought eternal life," it hisses proudly, “but few are wise enough to seek eternal *youth*. For those few strong enough to claim it, my gift preserves them as they are—their beauty, their intellect, their power—forever."
-* Few are strong enough to claim its gift. The canal that surrounds this room is filled with the tormented souls of mortals who have died. “They have tasted Death," the Vampyr purrs, “and wish to be free of it. But they have not tasted my gift, and so remain chained to the grave for eternity. Only those who receive my gift can roam free, unshackled from the worms of the earth."
-* To accept its gift, a player must merely taste of the apple that grows upon the tree. "One bite," the Vampyr purrs, "and you shall know of the secrets of eternal life."
-
-If the player passes through the amber archway or accepts the Vampyr’s gift, the telepathic connection ends, and the player returns to their previous senses. 
-
-> [!info]+ **Accepting the Vampyr’s Gift**
-> The Vampyr’s dark gift is as described in <span class="citation">X42. Amber Vault (p. 195)</span>. However, a player that accepts the gift doesn’t gain an additional flaw.
-
-> [!info]+ **What the Vampyr Knows**
-> The vestige of the Vampyr recalls every creature it’s given its dark gift to, though it has no knowledge of the world beyond its sarcophagus or the existence of the inverted demiplane within its prison that contains the *Sunsword*.
-
-If the player rebuffs the Vampyr’s invitations, it laughs darkly and asks the player if they know “what awaits them after death." Regardless of the player's response, the Vampyr taunts the player with the fact that “their body shall rot in the ground, food for naught but worms." “Your legacy shall die," the Vampyr purrs, “and so you shall die a second time—as though you had never walked the earth at all." 
-
-If the player shared their expectation of an afterlife, the Vampyr adds: “Even should your spirit be taken to the choruses of the Upper Planes, your being shall stagnate; you shall no longer learn or grow or accomplish or *matter*, apart from the energy and change and *life* that made your existence worthwhile. And should you find yourself instead amidst the Lower Planes . . . “ The Vampyr chuckles. “Then you may wish you had never been born at all."
-#### The Canal of Blood
-If the player approaches or inspects the canal of blood encircling the room, read:
-
-<div class="description">
-<p>A churning sea of ethereal figures swirls within the bloody depths, their limbs and claw-like fingers stretching forth in desperate pleas. From time to time, their faces bubble forth to the canal’s surface, shrieking silently in despair, before sinking back into the whirling morass.</p>
-</div>
-
-If the player has a passive Wisdom (Perception) score of 15 or greater, succeeds on a DC 15 Wisdom (Perception) check, or submerges their head in the canal, add:
-
-<div class="description">
-<p>Below the wretched souls, in the depths of the canal, a weak golden light emanates from the space beneath the floor.</p>
-</div>
-
-If the player tries to swim to the bottom of the bloody canal, read:
-
-<div class="description">
-<p>You plunge into the bloody depths, pushing past dozens of writhing specters. Their desperate moans echo through your ears, their ethereal fingers grasping for purchase around your limbs. You feel a tug, and a sudden cold—and look back to see a skull-faced specter gripping your legs.</p>
-</div>
-
-The player can escape the **specter’s** grasp by succeeding on a DC 5 Strength (Athletics) check, reducing it to 11 hit points or fewer, or dealing it any amount of radiant damage. 
-
-The first time the player fails to escape, roll initiative. On each of the specter’s turns, it attacks the player with its ***life drain***. On initiative count 20 of each round except the first, two more **specters** emerge from the depths to approach the player, attempting to grapple the player on initiative count 0. A specter that successfully grapples the player attacks on subsequent turns with its ***life drain.*** A specter flees if reduced to 11 hit points or fewer, or if it takes any amount of radiant damage.
-
-If the player reaches the bottom of the canal, which lies forty feet beneath the surface, read:
-
-<div class="description">
-<p>Below you, the bloody depths abruptly stop, ending with a rippling, shifting membrane. A faint golden light fills the open air beyond.</p>
-</div>
-
-If the player continues past the bottom of the bloody canal, continue to [[#The Stolen Sword]].
-#### The Stolen Sword
-When a player first enters this area, read:
-
-<div class="description">
-<p>Your body breaks the blood’s surface, and gravity abruptly reverses, pulling you into the open air beyond—and a near-perfect reflection of the chamber above, including the silent amber archway. Rather than blood-filled canals, however, the chamber’s ancient, cracked channels are empty and dry, flanked by pale, tender grasses that stand like silent sentries. No black roots pierce the stones of this pavilion; instead, where the black tree once stood, an old lavender cloth lies upon a carved stone pedestal. Something glints a metallic silver beneath the swaddling cloth.</p>
-</div>
-
-The folded lavender cloth holds the broken hilt of the *Sunsword*. If the player reveals the hilt, read:
-
-<div class="description">
-<p>The cloth pulls away, revealing a broken platinum sword hilt, its gleaming metal untarnished by age or wear. Its crossguard curves upward like an eagle's wings, flaring sharply around a sunburst-shaped guard set with a large, deep blue sapphire.</p>
-<p>The sword’s blade seems to have been broken. A half-inch of jagged crystal thrusts forth from the platinum hilt, then ends abruptly in empty air.</p>
-</div>
-
-If the player picks up or touches the blade, read:
-
-<div class="description">
-<p>The sapphire set into the sword’s guard kindles to life, shades of deep purple shimmering within its depths. You feel a shifting presence touch your thoughts, carrying with it a feeling of surprise—followed by fierce, piercing joy.</p>
-</div>
-
-> [!info]+ **Patrina's Phylactery**
-> The *Sunsword* is Patrina’s unfinished phylactery, and contains her disembodied soul. While Patrina’s soul resides within the *Sunsword’s* hilt, it has the properties described in <span class="citation">Sunsword (p. 223)</span>, with the following changes:
+> ---
 >
-> * It can’t be attuned to, and its wielder can’t use it as a *sun blade*. 
-> * It is a neutral evil weapon with an Intelligence of 20, a Wisdom of 17, and a Charisma of 16.
-> * It has no sentience of its own, and derives its sentience from Patrina’s soul. (It otherwise has all of the *Sunsword*’s senses and abilities as a sentient magic item.)
-> * While inhabiting the *Sunsword*, Patrina pretends to have the personality described in <span class="citation">Sunsword (p. 223)</span> in order to convince the players to bring the sword out of Vampyr's sarcophagus.
+> Il grimorio e la scatola sono magicamente chiusi, e non possono essere aperti senza il consenso di Tenebrous.
+>
+> Il vestigio di Tenebrous non saluta immediatamente il giocatore al suo arrivo. Invece, Tenebrous emerge solo se il giocatore lo chiama, o se il giocatore tenta di aprire il grimorio o la scatola. Quando lo fa, leggete:
+>
+> ---
+>
+> *Una figura imponente emerge dalle ombre, più di tre volte l'altezza di un uomo. La sua corporatura corpulenta è carica di carne e muscoli gonfi di putrefazione, e piaghe scure coprono la sua pelle scarlatta. Invece di una testa, reca il teschio disseccato di un ariete; dietro di essa, ali lacere e simili a pipistrelli si estendono dalle sue spalle, mentre le sue gambe dalla folta pelliccia terminano con gli zoccoli fessi di una capra.*
+>
+> *«Andatevene,» rimbomba la figura. «Non siete degni del mio dono.»*
+>
+> ---
+>
+> Tenebrous è disposto a condividere le seguenti informazioni col giocatore se interrogato:
+>
+> * È Tenebrous, l'Ombra Che Fu.
+> * Il suo dono oscuro è il segreto della lichdom — la chiave della "vera immortalità attraverso la non morte."
+> * I giocatori sono indegni del suo dono perché (a) sono "troppo deboli per meritarlo" (cioè, non possono lanciare incantesimi di 9° livello da mago), (b) i loro "cuori non possono sopportarne il prezzo" (cioè, sono di allineamento non malvagio), o (c) entrambi. (Tenebrous rifiuta di approfondire queste ragioni.)
+> * Non ha benedetto un mago col suo dono da quasi quattro secoli. Un giocatore che supera una prova di Carisma (Persuasione) con CD 15 e intrattiene o diverte Tenebrous in qualche modo può convincerlo a rivelare che questo mago era "la ragazza elfa, la cui furia giusta aveva bruciato la sua anima fino a farla diventare nera." Tenebrous scuote la testa, compiangendo la sua "delusione che nemmeno lei poté completare la sua apoteosi." (Tenebrous si riferisce a Patrina, e alla sua morte per mano di Kasimir quando il suo rituale rimase incompleto.) «Eppure,» aggiunge, ridacchiando cupamente, «ciò che non è morto può giacere eternamente — e forse un giorno sarò sorpreso.» (Tenebrous, che si riferisce all'intrappolamento di Patrina all'interno dell'elsa della *Lama del Sole*, rifiuta di approfondire.)
 
-If the player passes through the amber archway while carrying the *Sunsword*’s hilt, read:
+> [!lore]+ **Il Vestigio di Tenebrous**
+> Il vestigio di Tenebrous è la divinità perduta di Orcus, il Principe Demoniaco della Non Morte. Orcus ascese brevemente alla divinità scoprendo l'Ultima Parola, una parola di potere capace di distruggere le divinità. In questa veste, Orcus si nominò Tenebrous, ma morì quando un gruppo di avventurieri usò l'Ultima Parola contro di lui. Sebbene Orcus fosse successivamente resuscitato, la divinità perduta di Tenebrous vagò per i piani come vestigio, e fu infine catturata e imprigionata dai maghi del Tempio d'Ambra.
+### Il Sarcofago del Vampyr
+Se un giocatore tocca il **sarcofago ovest** (la tomba del Vampyr), leggete:
 
 <div class="description">
-<p>You feel another stab of fierce, rippling joy—followed by deep, malevolent satisfaction.</p>
+<p>Mentre toccate il sarcofago, la stanza si dissolve attorno a voi, sostituita da una camera di pietra di diciotto metri di diametro. Dietro di voi, un arco forgiato di ambra cristallina si staglia contro il paesaggio, il suo varco colmo di un luccicante riflesso ambrato della stanza da cui siete venuti.</p>
+<p>Un alto albero nero si erge sul lato opposto di questa stanza, circondato da chiazze d'erba morta e ingiallita e sciami di radici nodose e contorte. Il suo tronco piange gocce infinite di sangue cremisi, che si raccolgono in un canale circolare di pietra. Da lì, il sangue scorre attraverso quattro canali verso i bordi della stanza, dove defluisce in un profondo canale senza fondo che circonda il perimetro della camera. Strane forme e sagome vorticano nelle profondità del canale, ribollendo brevemente in superficie prima di affondare nuovamente nelle profondità.</p>
+<p>I rami dell'albero, morti e spogli, non recano foglie né frutti — salvo uno: una mela rossa e lussureggiante che cresce dal ramo più basso.</p>
 </div>
 
-### Patrina’s Revenge
-If a player exits [[#The Vampyr’s Sarcophagus]] after obtaining the *Sunsword*, read or paraphrase the following text aloud to the other players, replacing “\_\_\_\_\_\_\_\_\_" with the exiting player’s name:
+> [!abstract]+ **Le Reliquie Radianti**
+> Se il giocatore porta il [[Character Creation#Faith—The Sunrise Medallion|Medaglione dell'Alba]] o la [[Character Creation#Justice—The Broken Blade|Lama Spezzata]], la reliquia risponde come segue:
+>
+> * Il medaglione tremola di luce dorata, crescendo più forte e più brillante man mano che si avvicina al canale insanguinato e, infine, alla *Lama del Sole* nascosta al di sotto.
+> * La lama spezzata emette un ronzio acuto e trema violentemente, girando come l'ago di una bussola nella direzione del canale insanguinato e, infine, della *Lama del Sole* nascosta al di sotto.
+#### L'Albero
+Se il giocatore si avvicina o interagisce con l'albero, o altrimenti lo chiama, il vestigio del Vampyr emerge per salutarlo. Leggete o parafrasate:
 
 <div class="description">
-<p>You watch as &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;’s hand sinks into the sarcophagus, the amber around it rippling like water. Then, slowly, as &#95;&#95;&#95;&#95;&#95;&#95;&#95;’s eyes open once more, their hand slowly withdraws from the amber’s surface—this time, with fingers wrapped around a platinum sword hilt.</p>
+<p>Un nodo sul tronco dell'albero si agita — poi si <em>solleva</em>, rivelandosi la testa di un enorme serpente nero, lungo quanto il torso di un uomo. I profondi occhi cremisi del serpente si voltano verso di voi, e una lingua nero notte guizza dalle sue fauci zannute.</p>
+<p>«Benvenuto, piccolo visitatore,» sibila il serpente. «Avete la volontà e l'ambizione di reclamare il mio dono?»</p>
 </div>
 
-At a suitable moment after a player withdraws the *Sunsword* from the sarcophagus, but before they exit <span class="citation">X42. Amber Vault (p. 195)</span>, Patrina’s spirit manifests from the hilt. Read:
+Il vestigio del Vampyr può condividere le seguenti informazioni:
+
+* È il Vampyr, il donatore della vita eterna attraverso la perfetta non morte. «Molti hanno cercato la vita eterna,» sibila con orgoglio, «ma pochi sono abbastanza saggi da cercare l'eterna *giovinezza*. Per quei pochi abbastanza forti da reclamarla, il mio dono li preserva come sono — la loro bellezza, il loro intelletto, il loro potere — per sempre.»
+* Pochi sono abbastanza forti da reclamare il suo dono. Il canale che circonda questa stanza è pieno delle anime tormentate di mortali che sono morti. «Hanno assaggiato la Morte,» fa le fusa il Vampyr, «e desiderano esserne liberi. Ma non hanno assaggiato il mio dono, e così restano incatenati alla tomba per l'eternità. Solo coloro che ricevono il mio dono possono vagare liberi, svincolati dai vermi della terra.»
+* Per accettare il suo dono, un giocatore deve semplicemente assaggiare la mela che cresce sull'albero. «Un morso,» fa le fusa il Vampyr, «e conoscerete i segreti della vita eterna.»
+
+Se il giocatore passa attraverso l'arco d'ambra o accetta il dono del Vampyr, la connessione telepatica termina, e il giocatore torna ai suoi sensi precedenti.
+
+> [!info]+ **Accettare il Dono del Vampyr**
+> Il dono oscuro del Vampyr è come descritto in <span class="citation">X42. Cripta d'Ambra (p. 195)</span>. Tuttavia, un giocatore che accetta il dono non ottiene un difetto aggiuntivo.
+
+> [!info]+ **Cosa Sa il Vampyr**
+> Il vestigio del Vampyr ricorda ogni creatura a cui ha dato il suo dono oscuro, sebbene non abbia conoscenza del mondo oltre il suo sarcofago o dell'esistenza del semipiano invertito all'interno della sua prigione che contiene la *Lama del Sole*.
+
+Se il giocatore rifiuta gli inviti del Vampyr, esso ride cupamente e chiede al giocatore se sa "cosa lo attende dopo la morte." Indipendentemente dalla risposta del giocatore, il Vampyr lo schernisce col fatto che "il suo corpo marcirà nel terreno, cibo per nient'altro che vermi." «La vostra eredità morirà,» fa le fusa il Vampyr, «e così morirete una seconda volta — come se non aveste mai camminato sulla terra.»
+
+Se il giocatore ha condiviso la sua aspettativa di un aldilà, il Vampyr aggiunge: «Anche se il vostro spirito fosse portato ai cori dei Piani Superiori, il vostro essere ristagnerà; non imparerete più né crescerete né realizzerete né *conterete*, a parte l'energia e il cambiamento e la *vita* che hanno reso la vostra esistenza degna di essere vissuta. E se vi trovaste invece fra i Piani Inferiori...» Il Vampyr ridacchia. «Allora potreste desiderare di non essere mai nati.»
+#### Il Canale di Sangue
+Se il giocatore si avvicina o esamina il canale di sangue che circonda la stanza, leggete:
 
 <div class="description">
-<p>The hilt stirs—at first twitching gently, then lurching violently. The sapphire at the center of its guard shimmers, then flares a deep, malevolent violet.</p>
-<p>A thin stream of shadow floods forth from the sapphire, gathering and rising in the air until it forms a feminine silhouette: a tall, slender woman with long, raven-black hair, dusky skin, and long, pointed ears.</p>
-<p>"Now, that’s better," the woman purrs, her violet eyes flashing. She extends her arms, admiring her fingers and palms. “It’s been <em>so</em> long since I last tasted fresh air."</p>
+<p>Un mare ribollente di figure eteree vortica nelle profondità insanguinate, i loro arti e dita artigliate che si protendono in suppliche disperate. Di tanto in tanto, i loro volti ribollono alla superficie del canale, urlando silenziosamente di disperazione, prima di affondare nuovamente nel vortice caotico.</p>
+</div>
+
+Se il giocatore ha un punteggio passivo di Saggezza (Percezione) pari o superiore a 15, supera una prova di Saggezza (Percezione) con CD 15, o immerge la testa nel canale, aggiungete:
+
+<div class="description">
+<p>Sotto le anime disperate, nelle profondità del canale, una debole luce dorata emana dallo spazio sotto il pavimento.</p>
+</div>
+
+Se il giocatore tenta di nuotare fino al fondo del canale insanguinato, leggete:
+
+<div class="description">
+<p>Vi tuffate nelle profondità insanguinate, spingendo oltre dozzine di spettri che si contorcono. I loro gemiti disperati echeggiano nelle vostre orecchie, le loro dita eteree che cercano di aggrapparsi ai vostri arti. Sentite uno strattone, e un freddo improvviso — e guardate indietro per vedere uno spettro dal volto di teschio che vi afferra le gambe.</p>
+</div>
+
+Il giocatore può sfuggire alla presa dello **spettro** superando una prova di Forza (Atletica) con CD 5, riducendolo a 11 punti ferita o meno, o infliggendogli qualsiasi quantità di danni radianti.
+
+La prima volta che il giocatore non riesce a sfuggire, tirate l'iniziativa. In ciascuno dei turni dello spettro, esso attacca il giocatore col suo ***risucchio vitale***. Al conteggio di iniziativa 20 di ogni round tranne il primo, altri due **spettri** emergono dalle profondità per avvicinarsi al giocatore, tentando di afferrarlo al conteggio di iniziativa 0. Uno spettro che riesce ad afferrare il giocatore attacca nei turni successivi col suo ***risucchio vitale***. Uno spettro fugge se ridotto a 11 punti ferita o meno, o se subisce qualsiasi quantità di danni radianti.
+
+Se il giocatore raggiunge il fondo del canale, che si trova dodici metri sotto la superficie, leggete:
+
+<div class="description">
+<p>Sotto di voi, le profondità insanguinate si fermano bruscamente, terminando con una membrana increspata e mutevole. Una debole luce dorata riempie l'aria aperta al di là.</p>
+</div>
+
+Se il giocatore continua oltre il fondo del canale insanguinato, proseguite con [[#La Spada Rubata]].
+#### La Spada Rubata
+Quando un giocatore entra per la prima volta in quest'area, leggete:
+
+<div class="description">
+<p>Il vostro corpo rompe la superficie del sangue, e la gravità si inverte bruscamente, attirandovi nell'aria aperta al di là — e un riflesso quasi perfetto della camera sopra, incluso il silenzioso arco d'ambra. Invece di canali pieni di sangue, tuttavia, gli antichi canali crepati della camera sono vuoti e asciutti, fiancheggiati da erbe pallide e tenere che si ergono come sentinelle silenziose. Nessuna radice nera trafigge le pietre di questo padiglione; invece, dove un tempo si ergeva l'albero nero, un vecchio drappo di lavanda giace su un piedistallo di pietra scolpita. Qualcosa luccica di un argento metallico sotto il panno avvolgente.</p>
+</div>
+
+Il drappo di lavanda piegato contiene l'elsa spezzata della *Lama del Sole*. Se il giocatore rivela l'elsa, leggete:
+
+<div class="description">
+<p>Il drappo si ritrae, rivelando un'elsa di spada spezzata in platino, il suo metallo luccicante non offuscato dall'età o dall'usura. La sua guardia si curva verso l'alto come le ali di un'aquila, slargandosi nettamente attorno a una guardia a forma di raggi solari incastonata con un grande e profondo zaffiro blu.</p>
+<p>La lama della spada sembra essere stata spezzata. Un centimetro e mezzo di cristallo frastagliato sporge dall'elsa di platino, poi termina bruscamente nell'aria vuota.</p>
+</div>
+
+Se il giocatore raccoglie o tocca la lama, leggete:
+
+<div class="description">
+<p>Lo zaffiro incastonato nella guardia della spada si accende a vita, sfumature di viola profondo che luccicano nelle sue profondità. Sentite una presenza mutevole toccare i vostri pensieri, portando con sé un sentimento di sorpresa — seguito da una gioia feroce e penetrante.</p>
+</div>
+
+> [!info]+ **Il Filatterio di Patrina**
+> La *Lama del Sole* è il filatterio incompiuto di Patrina, e contiene la sua anima disincarnata. Mentre l'anima di Patrina risiede nell'elsa della *Lama del Sole*, essa ha le proprietà descritte in <span class="citation">Lama del Sole (p. 223)</span>, con le seguenti modifiche:
+>
+> * Non può essere sintonizzata, e il suo portatore non può usarla come *lama solare*.
+> * È un'arma neutrale malvagia con un'Intelligenza di 20, una Saggezza di 17 e un Carisma di 16.
+> * Non ha sensibilità propria, e deriva la sua sensibilità dall'anima di Patrina. (Possiede altrimenti tutti i sensi e le abilità della *Lama del Sole* come oggetto magico senziente.)
+> * Mentre abita la *Lama del Sole*, Patrina finge di avere la personalità descritta in <span class="citation">Lama del Sole (p. 223)</span> per convincere i giocatori a portare la spada fuori dal sarcofago del Vampyr.
+
+Se il giocatore passa attraverso l'arco d'ambra portando l'elsa della *Lama del Sole*, leggete:
+
+<div class="description">
+<p>Sentite un'altra fitta di gioia feroce e travolgente — seguita da una profonda e malevola soddisfazione.</p>
+</div>
+
+### La Vendetta di Patrina
+Se un giocatore esce dal [[#Il Sarcofago del Vampyr]] dopo aver ottenuto la *Lama del Sole*, leggete o parafrasate il seguente testo ad alta voce agli altri giocatori, sostituendo "\_\_\_\_\_\_\_\_\_" col nome del giocatore che esce:
+
+<div class="description">
+<p>Guardate mentre la mano di &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; affonda nel sarcofago, l'ambra attorno ad essa che si increspa come acqua. Poi, lentamente, mentre gli occhi di &#95;&#95;&#95;&#95;&#95;&#95;&#95; si riaprono, la sua mano si ritrae lentamente dalla superficie dell'ambra — questa volta, con le dita avvolte attorno a un'elsa di spada di platino.</p>
+</div>
+
+In un momento opportuno dopo che un giocatore ritira la *Lama del Sole* dal sarcofago, ma prima che esca da <span class="citation">X42. Cripta d'Ambra (p. 195)</span>, lo spirito di Patrina si manifesta dall'elsa. Leggete:
+
+<div class="description">
+<p>L'elsa si agita — dapprima tremando gentilmente, poi sussultando violentemente. Lo zaffiro al centro della sua guardia luccica, poi divampa di un viola profondo e malevolo.</p>
+<p>Un sottile flusso d'ombra si riversa dallo zaffiro, raccogliendosi e innalzandosi nell'aria finché non forma una sagoma femminile: una donna alta e snella con lunghi capelli corvini, pelle scura e lunghe orecchie appuntite.</p>
+<p>«Ecco, è molto meglio,» fa le fusa la donna, con gli occhi viola che lampeggiano. Estende le braccia, ammirando le sue dita e i palmi. «È passato <em>così</em> tanto tempo dall'ultima volta che ho assaporato l'aria fresca.»</p>
 </div>
 
 ![[PATRINA_transparent_sunsword.png]]
 <span class="credit">"Patrina" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Patrina greets the players with mocking warmth, thanking them for freeing her from her “lengthy imprisonment." “You’ve truly no idea how *unpleasant* it is to have your soul trapped within an inanimate object for nearly four hundred years," she bemoans, inspecting her fingernails carefully, “especially when that object is hidden inside of an isolated demiplane, with no creature to talk to but the maddened ghost of the first creature that thought bloodsucking was some *groundbreaking* new idea."
+Patrina saluta i giocatori con beffardo calore, ringraziandoli per averla liberata dalla sua "lunga prigionia". «Non avete davvero idea di quanto sia *sgradevole* avere la propria anima intrappolata all'interno di un oggetto inanimato per quasi quattrocento anni,» si lamenta, ispezionando attentamente le sue unghie, «specialmente quando quell'oggetto è nascosto dentro un semipiano isolato, senza nessuna creatura con cui parlare se non il fantasma impazzito della prima creatura che pensò che succhiare il sangue fosse una qualche *rivoluzionaria* nuova idea.»
 
-***Patrina’s Schemes.*** Patrina is glad to share the following information if prompted or asked, pausing as necessary or appropriate to allow the players to respond:
+***I Piani di Patrina.*** Patrina è lieta di condividere le seguenti informazioni se sollecitata o interrogata, fermandosi quando necessario o appropriato per permettere ai giocatori di rispondere:
 
-* She is Patrina Velikovna, the sister of Kasimir Velikov. 
-* More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
-* "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
-* Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
-* She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
-* “Of course," Patrina adds, “when the Vistani bore us to the valley, it soon became clear that this was to be our prison—and, in time, our graves." She smiles. “Thankfully, a chance encounter with a knight, a few drinks, and a *touch* of enchantment allowed me to learn of a temple high in the mountains—one that held the secrets to excising the scourge of the von Zaroviches and returning my people to their proper place."
-* She sniffs. "Of course, the old ghost I found here was suspicious about me—but even he crumbled in the end. I had an entire playground of new magic to explore, and I knew that another stupid, selfish old man wasn't about to stop me from getting what was mine." She shrugs. "So I studied. I learned. I waited. And by the time he found out… Well, by then, it was too late, wasn't it?"
-* "With dear Exethanter gone," she continues, "the future was mine for the taking. Most of the vestiges here were pathetic, offering only tainted scraps of power, but one..." She shudders with delight. "One offered *so much more*. Perhaps you've encountered it?"
-* If a player offers any name but "Tenebrous," Patrina is irritated and snaps, "A fool's answer. No, I speak of the vestige of Tenebrous—the gatekeeper of *true* power." If the player names Tenebrous, she nods smugly with a delighted smirk. "Oh, yes. And it wasn't power that would claim and devour me, like so many of these other weaklings offered. No; this was power that had to be *earned*. And I knew I wasn't yet worthy of it."
-* "In the meantime," Patrina continues, "dear Strahd came to the valley, as I'd long expected. By now, I'd realized that von Zarovich himself was only a man—a puppet of the age. If I were to kill him, one of his generals would rise up to take his place. My people would still be entrapped, weak, and squabbling for scraps. No; I realized that if I wanted to claim my people’s future, I needed to *use* that throne Zarovich had erected—not merely vacate it."
-* "Strahd may have been mature for a human," Patrina continues, "but he was so transparently *mortal*, as all humans are. So terrified of death and age—when I finally gained an audience with him, it was easy to prey upon that fear, to nurture it until it became a monster ready to devour his heart. He would have done anything to escape it, then—and I gave him a way out." 
-* "He joined me to visit the Temple," she adds, “at my invitation, of course. He communed with Tenebrous as I had—though he insisted upon visiting with the other vestiges within the temple's vault. It was his own humble curiosity, he assured me; a general, wishing to know of threats within his realm. I indulged his whims, a mistake I now regret."
-* "You may understand my shock, then, when he denied Tenebrous's gift. He claimed, at least then, that matters of empire claimed his attention, preventing him from further delving into the study of magic. I thought it a trick of the light, but there was a glint of hunger in his eyes as he beheld the Vampyr's sarcophagus."
-* "And then—the Federovna girl." Patrina’s mouth twists in distaste. "Strahd’s darling little brother, the accursed prince, finds this comely little village girl and spirits her away to the castle. Strahd spends all of his spare time entertaining the happy couple—but I knew the lust in his eyes for what it was. Our lessons in magic dwindled, and soon ceased. I *bored* him now; in her, he had found a treasure that surpassed any I could offer him." Patrina takes a sharp breath. “And then—the wedding. The day the skies turned red. The day he ascended far beyond my power."
-* Pausing, Patrina shakes her head, then continues: "When I learned what he had become, I redoubled my studies of the dark arts. I knew that he had now grown beyond my power to control. And so I began to pursue Tenebrous's gift more vigorously—until, soon, I had assembled all of the pieces I needed to finalize its enactment."
-* "Tell me," she asks, "do you know the two ingredients of lichdom?" Regardless of the players’ response, Patrina laughs, continuing: "It's simple, really: a prepared phylactery—an object to house your soul—and a potion of transformation. The former, I had already prepared. Oh, it was a *delight* to think of housing my soul within the one thing that now struck fear into Strahd’s heart—his father’s broken blade of searing sunlight, its hilt enchanted and wrought from unbreakable platinum." She smiles ferally. “And to hide it away in the one place to which his heart would never return, and the one place where he would forever fear to tread?" (If the players point out the canal of bloody souls, Patrina nods delightedly. “Death," she hisses, her eyes lighting up, “has always been his source of greatest terror.")
-* “As for the potion . . . " Her eyes fall upon Kasimir (if present), and she shakes her head, tutting with disappointment. “I was betrayed and killed before I could drink it. Eight lives, sacrificed to brew it—wasted." (If the players suggest she sacrificed other dusk elves to brew the potion, she reacts with horror. “I would never harm my own people," she sniffs. “They have suffered enough; the future *belongs* to them. No; it was petty little _humans_ I claimed for my final experiment—_Barovians_, they called themselves, after the first monster of the Von Zarovich clan.")
+* È Patrina Velikovna, la sorella di Kasimir Velikov.
+* Più di quattrocento anni fa («come il mio fratellino vi avrà senza dubbio raccontato,» sbuffa Patrina), «il Vecchio Re Barov» della famiglia von Zarovich decise di estorcere «spiccioli» agli elfi del crepuscolo. «Al caro Zio Erevan la cosa non piacque,» dice, mostrando denti bianchi in un ghigno tetro e predatorio. «E a Barov non piacque che a lui non piacesse. E così, il caro Zio Leoncino vide la sua famiglia passata a fil di spada, le terre saccheggiate e distrutte, i neonati scaraventati contro le mura — tutte quelle *deliziose* parti della guerra.»
+* «Fu nelle conseguenze della caduta di Erevan che il caro Kasimir e io diventammo adulti,» continua. «Immaginate: siete una ragazzina ingenua e delicata di appena un secolo, e tutto ciò che vedete intorno a voi sono i vostri amati concittadini, con le schiene che si spezzano nei campi di lavoro del Vecchio Re Barov. Cosa dovrebbe fare una ragazza?»
+* Che i giocatori rispondano o meno, Patrina continua: «Non reclamo la gloria o l'onore di essere stata la prima a invocare la ribellione, ma reclamerei con piacere la gloria di essere stata tra le prime quando il figlio di Barov salì al trono.» Ridacchia cupamente, un suono basso e gutturale. «Lo pensavamo un ingenuo passerotto — con appena cinquanta estati sulle spalle. Quanto ci sbagliavamo.»
+* Continua: «Ci spezzò di nuovo, ovviamente. Ci lasciò alla mercé dei suoi piccoli viaggiatori preferiti — i Vistani, che potreste aver incontrato. Sapevate che è da lì che vengono i nomi 'Velikov' e 'Velikovna'? Il caro Kasimir temeva che Strahd potesse venire a sapere della nostra parentela col caro Zio, e suggerì di prendere il nome dell'uomo la cui carovana ci aveva accolti.» Alza gli occhi al cielo. «Naturalmente, svolgere il tradizionale rito di sangue dei Vistani per diventare *ufficialmente* parte del clan Velikov potrebbe essere stato un passo troppo in là, ma mio fratello è sempre stato uno per i *sentimentalismi*.»
+* «Naturalmente,» aggiunge Patrina, «quando i Vistani ci portarono nella valle, divenne presto chiaro che questa doveva essere la nostra prigione — e, col tempo, le nostre tombe.» Sorride. «Fortunatamente, un incontro fortuito con un cavaliere, qualche bevuta, e un *tocco* di incantamento mi permisero di apprendere di un tempio in alto nelle montagne — uno che custodiva i segreti per estirpare la piaga dei von Zarovich e restituire al mio popolo il posto che gli spettava.»
+* Sbuffa. «Naturalmente, il vecchio fantasma che trovai qui era sospettoso di me — ma anche lui cedette alla fine. Avevo un intero parco giochi di nuova magia da esplorare, e sapevo che un altro vecchio sciocco ed egoista non mi avrebbe impedito di ottenere ciò che era mio.» Scrolla le spalle. «Così ho studiato. Ho imparato. Ho aspettato. E quando lo scoprì... Beh, a quel punto era troppo tardi, no?»
+* «Con il caro Exethanter fuori gioco,» continua, «il futuro era mio da prendere. La maggior parte dei vestigia qui erano patetici, offrendo solo brandelli corrotti di potere, ma uno...» Rabbrividisce di piacere. «Uno offriva *molto* di più. Forse lo avete incontrato?»
+* Se un giocatore offre un nome diverso da "Tenebrous", Patrina si irrita e sbotta: «Una risposta da sciocchi. No, parlo del vestigio di Tenebrous — il custode del *vero* potere.» Se il giocatore nomina Tenebrous, annuisce compiaciuta con un ghigno deliziato. «Oh, sì. E non era potere che ti reclamava e divorava, come tanti di questi altri deboli offrivano. No; questo era potere che doveva essere *guadagnato*. E sapevo di non esserne ancora degna.»
+* «Nel frattempo,» continua Patrina, «il caro Strahd venne nella valle, come avevo previsto da tempo. A questo punto, mi ero resa conto che von Zarovich stesso era solo un uomo — una marionetta dell'epoca. Se lo avessi ucciso, uno dei suoi generali si sarebbe alzato a prendere il suo posto. Il mio popolo sarebbe stato ancora intrappolato, debole e a litigare per le briciole. No; mi resi conto che se volevo reclamare il futuro del mio popolo, dovevo *usare* quel trono che Zarovich aveva eretto — non semplicemente lasciarlo vacante.»
+* «Strahd poteva essere maturo per un umano,» continua Patrina, «ma era così trasparentemente *mortale*, come tutti gli umani. Così terrorizzato dalla morte e dalla vecchiaia — quando finalmente ottenni un'udienza con lui, fu facile fare leva su quella paura, nutrirla finché non divenne un mostro pronto a divorare il suo cuore. Avrebbe fatto qualsiasi cosa per sfuggirle, allora — e io gli diedi una via d'uscita.»
+* «Mi accompagnò a visitare il Tempio,» aggiunge, «su mio invito, ovviamente. Comunicò con Tenebrous come avevo fatto io — sebbene insistesse nel visitare anche gli altri vestigia nella cripta del tempio. Era la sua umile curiosità, mi assicurò; un generale che desiderava conoscere le minacce nel suo reame. Assecondai i suoi capricci, un errore che ora rimpiango.»
+* «Potete comprendere il mio shock, quindi, quando rifiutò il dono di Tenebrous. Sosteneva, almeno allora, che questioni di impero richiedevano la sua attenzione, impedendogli di approfondire ulteriormente lo studio della magia. Pensai fosse un gioco di luce, ma c'era un luccichio di brama nei suoi occhi quando contemplò il sarcofago del Vampyr.»
+* «E poi — la ragazza Federovna.» La bocca di Patrina si contrae di disgusto. «L'adorato fratellino di Strahd, il maledetto principe, trova questa avvenente ragazzotta di villaggio e la porta di nascosto al castello. Strahd spende tutto il suo tempo libero a intrattenere la coppia felice — ma conoscevo la lussuria nei suoi occhi per quello che era. Le nostre lezioni di magia diminuirono, e presto cessarono. Lo *annoiavo* ormai; in lei, aveva trovato un tesoro che superava qualsiasi cosa io potessi offrirgli.» Patrina prende un respiro secco. «E poi — il matrimonio. Il giorno in cui i cieli divennero rossi. Il giorno in cui ascese ben oltre il mio potere.»
+* Fermandosi, Patrina scuote la testa, poi continua: «Quando seppi cosa era diventato, raddoppiai i miei studi delle arti oscure. Sapevo che era ormai cresciuto oltre il mio potere di controllo. E così iniziai a perseguire il dono di Tenebrous con più vigore — finché, presto, avevo assemblato tutti i pezzi necessari per finalizzarne l'attuazione.»
+* «Ditemi,» chiede, «conoscete i due ingredienti della lichdom?» Indipendentemente dalla risposta dei giocatori, Patrina ride, continuando: «È semplice, davvero: un filatterio preparato — un oggetto per ospitare la vostra anima — e una pozione di trasformazione. Il primo, lo avevo già preparato. Oh, era una *delizia* pensare di ospitare la mia anima nell'unica cosa che ora colpiva di terrore il cuore di Strahd — la lama spezzata di suo padre, fatta di sfolgorante luce solare, la sua elsa incantata e forgiata di platino indistruttibile.» Sorride ferocemente. «E nasconderla nell'unico luogo a cui il suo cuore non avrebbe mai fatto ritorno, e nell'unico luogo dove avrebbe temuto per sempre di avventurarsi?» (Se i giocatori indicano il canale di anime insanguinate, Patrina annuisce deliziata. «La Morte,» sibila, con gli occhi che si illuminano, «è sempre stata la sua fonte di terrore più grande.»)
+* «Quanto alla pozione...» I suoi occhi cadono su Kasimir (se presente), e scuote la testa, cloccando con delusione. «Fui tradita e uccisa prima di poterla bere. Otto vite, sacrificate per prepararla — sprecate.» (Se i giocatori suggeriscono che abbia sacrificato altri elfi del crepuscolo per preparare la pozione, ella reagisce con orrore. «Non farei mai del male al mio stesso popolo,» sbuffa. «Hanno sofferto abbastanza; il futuro *appartiene* a loro. No; furono meschini piccoli _umani_ che reclamai per il mio esperimento finale — _Baroviani_, si chiamavano, dal primo mostro del clan Von Zarovich.»)
 
-If Kasimir is present, Patrina smiles sweetly at him, her voice gaining a musical tone. “Fratricide can truly be a weight upon one’s soul—and not to mention *so* unbecoming." She spreads her hands, shadows wisping through the air to form a cloak across her shoulders. “But fear not, little brother. I’m pleased to share that I’ve thought of a way for you to suitably apologize—and you’ve even brought *friends* to help you do it."
+Se Kasimir è presente, Patrina gli sorride dolcemente, con la voce che acquista un tono musicale. «Il fratricidio può davvero essere un peso sull'anima — e per di più *così* disdicevole.» Allarga le mani, ombre che si disperdono nell'aria formando un mantello sulle sue spalle. «Ma non temere, fratellino. Sono lieta di condividere che ho pensato a un modo per te di scusarti adeguatamente — e hai persino portato degli *amici* per aiutarti a farlo.»
 
-Patrina smiles. “You’ve brought me all the souls I need to finish what I started—and I’ve had nearly four centuries to make the preparations."
+Patrina sorride. «Mi avete portato tutte le anime di cui ho bisogno per finire ciò che avevo iniziato — e ho avuto quasi quattro secoli per fare i preparativi.»
 
-If asked, Patrina is glad to further boast of her plans:
+Se interrogata, Patrina è lieta di vantarsi ulteriormente dei suoi piani:
 
-* She intends to drain the players’ souls into the *Sunsword*, thereby allowing her to regain a body and complete her transformation into a **lich**.
-* Once she's done so, she'll consolidate her power within the Amber Temple, recover her spellbook, and find Strahd. "I shall find the source of his power over this land," she breathes, her eyes wide with delight, "take that power for my own, and *extinguish* him. Instead of a lord, his people shall know a *queen*— and the dusk elves shall rise again to sit atop the world, as we were destined to be."
+* Intende prosciugare le anime dei giocatori nella *Lama del Sole*, permettendole così di riacquistare un corpo e completare la sua trasformazione in un **lich**.
+* Una volta fatto, consoliderà il suo potere all'interno del Tempio d'Ambra, recupererà il suo libro degli incantesimi, e troverà Strahd. «Troverò la fonte del suo potere su questa terra,» respira, con gli occhi spalancati di piacere, «prenderò quel potere per me, e lo *estinguerò*. Invece di un signore, il suo popolo conoscerà una *regina* — e gli elfi del crepuscolo sorgeranno nuovamente per sedere in cima al mondo, come eravamo destinati a essere.»
 
-***Patrina’s Temptation.*** When she has finished sharing her plans, and when the players have had an opportunity to respond, Patrina turns to Kasimir (if present), her expression softening. Read:
-
-<div class="description">
-<p>Patrina’s shadowed form flickers - then reappears alongside Kasimir, her hands resting gently on his shoulders.</p> 
-<p>“Kas," she murmurs. “Leave these outsiders to their fate, and join me to fight for a better future—for our people, for the losses we've suffered, and to avenge the wrongs done to us all."</p>
-<p>Kasimir flinches—and then hesitates, his gaze not quite meeting yours.</p>
-</div>
-
-The players can try to discourage Kasimir from accepting Patrina’s offer. If they do, Patrina makes any or all of the following arguments, which the players may attempt to rebut. Each time the players dispute one of Patrina’s arguments or make an affirmative argument of their own, have one of the arguing players make a DC 17 Charisma (Persuasion) check. The player makes the roll with advantage if their argument has a particularly strong logical or emotional appeal.
-
-Patrina might make one or more of the following arguments (in any order), moving to a new argument each time her previous argument succeeds or fails:
-
-* Patrina asks Kasimir whether his “tantrum in her laboratory" has achieved the results he had hoped for. “Did killing me bring back any of the humans who had already died?" she asks softly. “Did it help *their* people, the Barovians, let alone ours? Or did it lead only to greater calamity, with naught to show of it but blood and death?"
-* Patrina vows that only she can help Kasimir achieve vengeance against Strahd - and “the betrayer, Rahadin." “When Barov’s armies first laid waste to our forests, we vowed that, one day, his line would pay - and our people would have a home again," she hisses. “I never forgot that vow. Did you?"
-* Patrina warns Kasimir that Strahd is “surely aware" of his meddlings in the Amber Temple, and that it’s not long before he learns that Kasimir has found the hilt of King Barov’s broken *Brightblade*. “If he sees you with this hilt," she warns, “he will destroy you - and this time, not one of our people will survive. Only *I* can protect you; these outsiders will only bring you to ruin."
-* Patrina tells Kasimir that “only I can replicate the binding that once empowered King Barov’s *Brightblade* - and only I can repair and reforge it, so that we may wield the only weapon he has ever feared." 
-* Patrina asks Kasimir, softly, whether he knows where King Barov’s *Brightblade* came from. “It was Uncle Erevan’s *Moonblade*, perverted and reforged," she hisses. “Before Strahd’s pet wizard broke it, it held Erevan’s soul sealed within it. This weapon *belongs* to us; it is *ours* to wield. It is our legacy, our vengeance, our *birthright* - together."
-* Patrina promises that, upon her ascension, she’ll have the power to resurrect every female dusk elf Rahadin slaughtered. “Every mother, wife, sister, and daughter we lost that day," she whispers, “returned to the lives they were always meant to live. Would that not be worth any price?" (This is a lie. A player who succeeds on a DC 17 Wisdom (Insight) check sees Patrina’s lips twist slyly, her eyes glinting with amusement at her suggestion.)
-
-Track the number of successful Charisma (Persuasion) checks the players make, as well as the number of failures. If the players have previously befriended Kasimir, they start with up to two automatic successes. If the players have previously alienated Kasimir, they start with up to one automatic failure.
-
-If the players accumulate three successes before three failures, Kasimir rejects Patrina’s invitation. Read:
+***La Tentazione di Patrina.*** Quando ha finito di condividere i suoi piani, e quando i giocatori hanno avuto l'opportunità di rispondere, Patrina si volta verso Kasimir (se presente), con l'espressione che si addolcisce. Leggete:
 
 <div class="description">
-<p>Kasimir meets Patrina’s eyes. “You speak of a brighter future," he says, his voice tired. “But when I look into your eyes, I see only darkness and blood. It seems my sister died long before I killed you."</p>
-<p>Patrina’s eyes darken. “A pity," she rasps. “But then again, you were only ever another piece on the board."</p>
+<p>La forma ombreggiata di Patrina tremola — poi riappare accanto a Kasimir, con le mani posate gentilmente sulle sue spalle.</p>
+<p>«Kas,» mormora. «Lascia questi stranieri al loro destino, e unisciti a me per combattere per un futuro migliore — per il nostro popolo, per le perdite che abbiamo sofferto, e per vendicare i torti fatti a tutti noi.»</p>
+<p>Kasimir sussulta — poi esita, con lo sguardo che non incontra del tutto il vostro.</p>
 </div>
 
-Otherwise, if the players accumulate three failures before three successes, Kasimir agrees to join Patrina in her efforts to claim power from Strahd - no matter the cost to the players’ lives. (“I’m sorry," he says guiltily, as he moves to stand beside her. “But I owe this to my people.")
+I giocatori possono cercare di dissuadere Kasimir dall'accettare l'offerta di Patrina. Se lo fanno, Patrina avanza uno qualsiasi o tutti i seguenti argomenti, che i giocatori possono tentare di confutare. Ogni volta che i giocatori contestano uno degli argomenti di Patrina o avanzano un argomento affermativo proprio, fate effettuare a uno dei giocatori che discutono una prova di Carisma (Persuasione) con CD 17. Il giocatore effettua il tiro con vantaggio se il suo argomento ha un appello logico o emotivo particolarmente forte.
 
-> [!abstract]+ **Players Shoot First**
-> If combat begins before Kasimir has made his decision, Patrina fights as described below, while Kasimir aids neither side, paralyzed by indecision. At the beginning of each of her turns, Patrina makes one of the arguments described above. If Patrina’s argument goes unrebutted, the players gain an automatic failure. Otherwise, continue tracking the players’ successes and failures until Kasimir makes a decision or Patrina dies.
+Patrina potrebbe avanzare uno o più dei seguenti argomenti (in qualsiasi ordine), passando a un nuovo argomento ogni volta che il suo precedente argomento ha successo o fallisce:
 
-***Patrina Attacks.*** When Kasimir makes his decision, when the players first move to depart the room or attack her, or at an otherwise suitable time, Patrina commences hostilities against the players. Read:
+* Patrina chiede a Kasimir se il suo "capriccio nel suo laboratorio" ha raggiunto i risultati sperati. «Uccidermi ha riportato indietro qualcuno degli umani che erano già morti?» chiede sommessamente. «Ha aiutato il *loro* popolo, i Baroviani, figuriamoci il nostro? O ha portato solo a una calamità maggiore, con nulla da mostrare se non sangue e morte?»
+* Patrina giura che solo lei può aiutare Kasimir a ottenere vendetta contro Strahd — e "il traditore, Rahadin." «Quando gli eserciti di Barov devastarono per la prima volta le nostre foreste, giurammo che, un giorno, la sua stirpe avrebbe pagato — e il nostro popolo avrebbe avuto di nuovo una patria,» sibila. «Non ho mai dimenticato quel giuramento. Tu sì?»
+* Patrina avverte Kasimir che Strahd è "sicuramente consapevole" dei suoi intrighi nel Tempio d'Ambra, e che non passerà molto prima che scopra che Kasimir ha trovato l'elsa della *Lama Lucente* spezzata di Re Barov. «Se ti vede con quest'elsa,» avverte, «ti distruggerà — e questa volta, nessuno del nostro popolo sopravvivrà. Solo *io* posso proteggerti; questi stranieri ti porteranno solo alla rovina.»
+* Patrina dice a Kasimir che «solo io posso replicare il vincolo che un tempo potenziava la *Lama Lucente* di Re Barov — e solo io posso ripararla e riforgiare la spada, così che possiamo brandire l'unica arma che lui abbia mai temuto.»
+* Patrina chiede a Kasimir, sommessamente, se sa da dove venga la *Lama Lucente* di Re Barov. «Era la *Lama Lunare* dello Zio Erevan, pervertita e riforgiata,» sibila. «Prima che il mago al servizio di Strahd la spezzasse, custodiva l'anima di Erevan sigillata al suo interno. Quest'arma *appartiene* a noi; è *nostra* da brandire. È la nostra eredità, la nostra vendetta, il nostro *diritto di nascita* — insieme.»
+* Patrina promette che, alla sua ascensione, avrà il potere di resuscitare ogni elfa del crepuscolo che Rahadin ha massacrato. «Ogni madre, moglie, sorella e figlia che abbiamo perso quel giorno,» sussurra, «restituita alle vite che erano sempre destinate a vivere. Non varrebbe qualsiasi prezzo?» (Questa è una menzogna. Un giocatore che supera una prova di Saggezza (Intuizione) con CD 17 vede le labbra di Patrina arricciarsi astutamente, i suoi occhi che brillano di divertimento alla sua proposta.)
+
+Tenete traccia del numero di prove di Carisma (Persuasione) riuscite dai giocatori, così come dei fallimenti. Se i giocatori hanno precedentemente stretto amicizia con Kasimir, iniziano con un massimo di due successi automatici. Se i giocatori hanno precedentemente alienato Kasimir, iniziano con un massimo di un fallimento automatico.
+
+Se i giocatori accumulano tre successi prima di tre fallimenti, Kasimir rifiuta l'invito di Patrina. Leggete:
 
 <div class="description">
-<p>Patrina waves a hand—and the great tentacles carved along the walls stir, then grind like stone against stone as they twist to cover the exits, blotting out the light from beyond. The light remaining in the room seems to shrink, and the shadows cloaking Patrina's form seem to grow.</p>
-<p>“Now," Patrina purrs delightedly, “it is finally time to finish what I started, all those years ago—and to finally <em>take what is mine!</em>"</p>
+<p>Kasimir incontra gli occhi di Patrina. «Parli di un futuro più luminoso,» dice, con voce stanca. «Ma quando guardo nei tuoi occhi, vedo solo oscurità e sangue. Sembra che mia sorella sia morta molto prima che la uccidessi.»</p>
+<p>Gli occhi di Patrina si oscurano. «Peccato,» raspa. «Ma d'altronde, sei sempre stato solo un altro pezzo sulla scacchiera.»</p>
 </div>
 
-Patrina then attacks.
+Altrimenti, se i giocatori accumulano tre fallimenti prima di tre successi, Kasimir accetta di unirsi a Patrina nei suoi sforzi per reclamare potere da Strahd — a qualsiasi costo per la vita dei giocatori. («Mi dispiace,» dice con senso di colpa, muovendosi per stare al suo fianco. «Ma lo devo al mio popolo.»)
 
-> [!combat]- **Combat - The Lich**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
-> **Expected HP Consumption:** 40% (first phase), 40% (second phase), for a total of 80%
-> 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> [!abstract]+ **I Giocatori Sparano per Primi**
+> Se il combattimento inizia prima che Kasimir abbia preso la sua decisione, Patrina combatte come descritto sotto, mentre Kasimir non aiuta nessuna delle due parti, paralizzato dall'indecisione. All'inizio di ciascuno dei suoi turni, Patrina avanza uno degli argomenti descritti sopra. Se l'argomento di Patrina non viene contestato, i giocatori ottengono un fallimento automatico. Altrimenti, continuate a tracciare i successi e i fallimenti dei giocatori finché Kasimir non prende una decisione o Patrina muore.
+
+***Patrina Attacca.*** Quando Kasimir prende la sua decisione, quando i giocatori si muovono per la prima volta per lasciare la stanza o attaccarla, o in un altro momento opportuno, Patrina apre le ostilità contro i giocatori. Leggete:
+
+<div class="description">
+<p>Patrina agita una mano — e i grandi tentacoli scolpiti lungo le pareti si agitano, poi stridono come pietra contro pietra mentre si contorcono per coprire le uscite, cancellando la luce dall'esterno. La luce rimanente nella stanza sembra restringersi, e le ombre che avvolgono la forma di Patrina sembrano crescere.</p>
+<p>«Ora,» fa le fusa Patrina con delizia, «è finalmente il momento di finire ciò che ho iniziato, tutti quegli anni fa — e di <em>prendere finalmente ciò che è mio!</em>»</p>
+</div>
+
+Patrina poi attacca.
+
+> [!combat]- **Combattimento - La Lich**
+> **Livello di Combattimento**: Impegnativo (prima fase), Impegnativo (seconda fase)
+> **Livello dei Personaggi Previsto**: 8
+> **Alleati:** Ireena Kolyana (GS 2), Ezmerelda d'Avenir (GS 4), Kasimir Velikov (GS 6)
+> **Consumo PF Previsto:** 40% (prima fase), 40% (seconda fase), per un totale dell'80%
 >
-> | Number of Players | Modification |
+> ### **Bilanciamento:**
+> Se avete meno o più di 5 giocatori, modificate l'incontro nei seguenti modi:
+>
+> | Numero di Giocatori | Modifica |
 > |-|-|
-> | 3 | Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
-> | 4 | Reduce Patrina's hit points in her first phase to 250 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round. |
-> | 6 | Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***. |
+> | 3 | Riducete i punti ferita di Patrina nella sua prima fase a 215 e nella sua seconda fase a 198. Riducete la reazione ***tentacolo d'ambra*** di Patrina nel suo primo round a 1/round. Riducete i punti ferita dei **costrutti d'ambra** a 68 e i danni del loro attacco ***schianto*** a 13 (3d4 + 6) danni contundenti. Nella seconda fase di Patrina, riducete la sua reazione ***rimprovero funesto*** a 1/round. |
+> | 4 | Riducete i punti ferita di Patrina nella sua prima fase a 250 e nella sua seconda fase a 230. Riducete la reazione ***tentacolo d'ambra*** di Patrina nel suo primo round a 1/round. Riducete i punti ferita dei **costrutti d'ambra** a 79 e i danni del loro attacco ***schianto*** a 17 (2d10 + 6) danni contundenti. Nella seconda fase di Patrina, riducete la sua reazione ***rimprovero funesto*** a 1/round. |
+> | 6 | Aumentate i punti ferita di Patrina nella sua prima fase a 320 e nella sua seconda fase a 294. Aumentate i punti ferita dei **costrutti d'ambra** a 101 e i danni del loro attacco ***schianto*** a 24 (4d8 + 6) danni contundenti. Nella seconda fase di Patrina, aumentate il suo ***multiattacco*** a cinque attacchi con la sua ***lama d'ombra***. |
 
-<div class="statblock">
-<h2>Patrina, Vengeful Wraith</h2>
-<em>Medium undead, neutral evil</em>
-<hr>
-<strong>Armor Class</strong> 13  
-<br>
-<strong>Hit Points</strong> 285 (38d8 + 48)  
-<br>
-<strong>Speed</strong> 5 ft., fly 60 ft. (hover)  
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>6 (-2)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>21 (+5)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
-<br>
-<strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
-<br>
-<strong>Damage Resistances</strong> acid; cold; fire; bludgeoning, piercing, and slashing from nonmagical weapons  
-<br>
-<strong>Damage Immunities</strong> necrotic, poison  
-<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
-<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18  
-<br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
-<br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
-<hr>
-<p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, Patrina has <span class="highlight">disadvantage</span> on ability checks and attack rolls.</p>
-<p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Patrina makes two attacks, only one of which can be an <strong><em>amber tentacle</em></strong> attack, and can use <strong><em>charm wielder</em></strong> once.</p>
-<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. Amber Vault</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
-<p><strong><em>Corrupting Touch.</em></strong> <em>Melee Spell Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (4d6 + 2) necrotic damage.</p>
-<p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>Sunsword</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
-<p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
-<h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot and make a DC19 saving throw using its spellcasting ability modifier. Reduce the DC by 1 for each level of spell slot spent for the casting and as part of this reaction. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
-<p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
-<p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
-</div>
+I blocchi statistiche di Patrina (prima e seconda fase), i costrutti d'ambra e le informazioni sulle forme cambiate rimangono identici alla versione inglese originale, con le intestazioni degli attributi tradotte (FOR, DES, COS, INT, SAG, CAR) come di consueto.
 
-> [!info]+ **Amber Constructs**
-> An **amber construct** has the statistics of an **amber golem**, but with the following changes:
-> * Reduce its hit points to 90.
-> * Replace its immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons that aren’t adamantine with resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
-> * Remove its **immutable form***, ***magic resistance***, or ***magic weapons*** features.
-> * Remove its ***multiattack*** and ***slow*** actions.
-
-![[Amber_Constructs__Sarcophagi.png]]
- <span class="credit">"Amber Construct" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!info]+ **Changing Forms**
-> When Patrina transforms into her second phase, she notes, with pronounced irritation, that she had hoped “not to assume corporeal form before her preparations were complete." “It seems, however," she adds, her voice dripping with venom, “that you require my *fullest* attention."
-
-<div class="statblock">
-<h2>Patrina, Half-Lich</h2>
-<em>Medium undead, neutral evil</em>
-<hr>
-<strong>Armor Class</strong> 20  
-<br>
-<strong>Hit Points</strong> 262 (35d8 + 105)  
-<br>
-<strong>Speed</strong> 30 ft.  
-<hr>
-<table class="ability-table">
-  <thead>
-    <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>11 (+0)</td>
-      <td>16 (+3)</td>
-      <td>16 (+3)</td>
-      <td>21 (+5)</td>
-      <td>14 (+2)</td>
-      <td>16 (+3)</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<strong>Saving Throws</strong> Dex +10, Con +10, Int +12, Wis +9  
-<br>
-<strong>Skills</strong> Arcana +19, History +12, Insight +9  
-<br>
-<strong>Damage Resistances</strong> cold, lightning  
-<br>
-<strong>Damage Immunities</strong> necrotic, poison  
-<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned  
-<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
-<br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
-<br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
-<hr>
-<p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Patrina makes four attacks with her <strong><em>shadowblade</em></strong>. She can replace up to one of those attacks with her <strong><em>life drain</em></strong>.</p>
-<p><strong><em>Shadowblade.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">12 (2d8 + 3) necrotic damage</span>.</p>
-<p><strong><em>Life Drain.</em></strong> <em>Melee Spell Attack:</em> +12 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">8 (2d4 + 3) necrotic damage</span>. If the target is a creature, its hit point maximum decreases by an amount equal to the damage taken, and Patrina regains hit points equal to the damage dealt.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
-<p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
-<h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
-<p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
-<p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
-</div>
-
-When Patrina dies, read:
+Quando Patrina muore, leggete:
 
 <div class="description">
-<p>The platinum hilt clatters to the ground, its sapphire dull.</p>
-<p>The amber tentacles along the walls groan, the floor rumbling as they slowly return to their original place. Overhead, a burst of lavender light briefly flashes down the golden marble staircase from a source unseen.</p>
+<p>L'elsa di platino tintinna cadendo al suolo, il suo zaffiro opaco.</p>
+<p>I tentacoli d'ambra lungo le pareti gemono, il pavimento che rimbomba mentre lentamente tornano al loro posto originale. In alto, un lampo di luce lavanda guizza brevemente giù per la scalinata di marmo dorato da una fonte invisibile.</p>
 </div>
 
-***Milestone.*** Defeating Patrina completes a story milestone. When the players obtain the cleansed *Sunsword* hilt, award each player 8,000 XP. (This should bring them to 9th level.)
-### Igniting the Sunsword
-Once Patrina’s spirit is defeated, a player who inspects the *Sunsword* by casting the *identify* spell, or by spending a short rest attempting to attune to it or learn its properties, learns the following information:
+***Traguardo.*** Sconfiggere Patrina completa un traguardo della storia. Quando i giocatori ottengono l'elsa purificata della *Lama del Sole*, assegnate a ciascun giocatore 8.000 PE. (Questo dovrebbe portarli al 9° livello.)
+### Accendere la Lama del Sole
+Una volta sconfitto lo spirito di Patrina, un giocatore che esamina la *Lama del Sole* lanciando l'incantesimo *identificare*, o trascorrendo un riposo breve tentando di sintonizzarvisi o di apprenderne le proprietà, apprende le seguenti informazioni:
 
-* The broken hilt is capable of generating a powerful radiant magic, but currently lacks the spark to kindle it.
-* The hilt is built to contain a humanoid soul, and appears to derive its power from that soul’s spirit and will.
-* The hilt’s magic appears to be strongest when it resonates with a spirit of a similar nature—a radiant soul, especially one with great faith or an affinity for the wielder.
-* To infuse a soul into the hilt, the wielder must first attune to it, then either (1) devise and use a ritual to forcefully bind the chosen soul, or (2) allow themselves to be temporarily possessed by the chosen soul.
+* L'elsa spezzata è capace di generare una potente magia radiante, ma attualmente manca della scintilla per accenderla.
+* L'elsa è costruita per contenere un'anima umanoide, e sembra derivare il suo potere dallo spirito e dalla volontà di quell'anima.
+* La magia dell'elsa sembra essere più forte quando risuona con uno spirito di natura simile — un'anima radiante, specialmente una con grande fede o un'affinità col portatore.
+* Per infondere un'anima nell'elsa, il portatore deve prima sintonizzarvisi, poi (1) ideare e usare un rituale per vincolare forzatamente l'anima prescelta, oppure (2) permettere a sé stesso di essere temporaneamente posseduto dall'anima prescelta.
 
-> [!info]+ **Sentient Magic Items**
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls the following information about sentient magic items:
+> [!info]+ **Oggetti Magici Senzienti**
+> Un giocatore che supera una prova di Intelligenza (Arcano) con CD 15 ricorda le seguenti informazioni sugli oggetti magici senzienti:
 >
-> * Sentient magic items are capable of sensing their environments and communicating with others, as described in <span class="citation">Sentient Magic Items (p. 214)</span>.
-> * Sentient items have wills of their own, and may attempt to exert those wills upon their wielders in the event of conflict, as described in <span class="citation">Sentient Magic Items (p. 214)</span>.
+> * Gli oggetti magici senzienti sono capaci di percepire il loro ambiente e comunicare con gli altri, come descritto in <span class="citation">Oggetti Magici Senzienti (p. 214)</span>.
+> * Gli oggetti senzienti hanno volontà proprie, e possono tentare di esercitare quelle volontà sui loro portatori in caso di conflitto, come descritto in <span class="citation">Oggetti Magici Senzienti (p. 214)</span>.
 
-Without a ritual to bind a soul to the *Sunsword*, the players must find and convince a spirit to inhabit it. Once infused with a soul, the *Sunsword* is largely as described in <span class="citation">Sunsword (p. 223)</span>, with the following changes:
+Senza un rituale per vincolare un'anima alla *Lama del Sole*, i giocatori devono trovare e convincere uno spirito ad abitarla. Una volta infusa con un'anima, la *Lama del Sole* è in gran parte come descritta in <span class="citation">Lama del Sole (p. 223)</span>, con le seguenti modifiche:
 
-* It has a **resonance level**, as described in **Resonance Level** below.
-* Its wielder gains a bonus to attack and damage rolls equal to its resonance level. (*This replaces its original +2 bonus.*)
-* It emits bright light in a minimum radius equal to 5 feet times its resonance level, and dim light for an additional number of feet equal to 5 feet times its resonance level. (For example, if the blade has a resonance level of 3, it emits bright light in a 15-foot radius and dim light for an additional 15 feet.) This light is still considered sunlight.
-* It can emit bright light out to a maximum of 10 feet times its resonance level, and dim light for an additional number of feet equal to 10 feet times its resonance level. (For example, if the blade has a resonance level of 3, it can emit bright light out to a maximum of 30 feet, and dim light for an additional 30 feet.)
-* Its wielder can use an action to expand or reduce its radius of bright and dim light by 5 feet each.
-* Depending on the nature of the spirit inhabiting it, it gains one of the following additional effects (your choice). (For example, St. Markovia’s spirit might allow the wielder to use the *shield of faith* effect, while an unsuitable spirit might grant no effect.) Once used, this feature can’t be used again until the wielder completes a long rest.
+* Ha un **livello di risonanza**, come descritto in **Livello di Risonanza** sotto.
+* Il suo portatore ottiene un bonus ai tiri per colpire e ai danni pari al suo livello di risonanza. (*Questo sostituisce il suo bonus originale di +2.*)
+* Emette luce brillante in un raggio minimo pari a 1,5 metri moltiplicato per il suo livello di risonanza, e luce fioca per un numero aggiuntivo di metri pari a 1,5 metri moltiplicato per il suo livello di risonanza. Questa luce è comunque considerata luce solare.
+* Può emettere luce brillante fino a un massimo di 3 metri moltiplicato per il suo livello di risonanza, e luce fioca per un numero aggiuntivo di metri pari a 3 metri moltiplicato per il suo livello di risonanza.
+* Il suo portatore può usare un'azione per espandere o ridurre il suo raggio di luce brillante e fioca di 1,5 metri ciascuno.
+* A seconda della natura dello spirito che la abita, ottiene uno dei seguenti effetti aggiuntivi (a vostra scelta). Una volta usata, questa caratteristica non può essere usata di nuovo finché il portatore non completa un riposo lungo.
 
-| d6 | Effect |
+| d6 | Effetto |
 | :--:| :---|
-| 1 | As an action, the wielder can gain the effects of a cleric’s ***turn undead*** feature. |
-| 2 | As a bonus action, the wielder can touch a creature and restore a number of that creature’s hit points equal to 10 times the *Sunsword*’s resonance level.
-| 3 | As a bonus action, the wielder can cast *shield of faith* without components. When cast in this way, the wielder has advantage on Constitution saving throws made to retain their concentration.
-| 4 | As a bonus action, the wielder can gain the effects of a paladin’s ***divine smite*** the next time they hit with a melee weapon attack this turn. (If no attacks hit, the feature isn’t expended.)
-| 5 | As a bonus action, the wielder can cast *protection from evil and good* without components. When cast in this way, the wielder has advantage on Constitution saving throws made to retain their concentration.
-| 6 | No effect.
+| 1 | Come azione, il portatore può ottenere gli effetti della caratteristica ***scacciare non morti*** di un chierico. |
+| 2 | Come azione bonus, il portatore può toccare una creatura e ripristinare un numero di punti ferita di quella creatura pari a 10 volte il livello di risonanza della *Lama del Sole*. |
+| 3 | Come azione bonus, il portatore può lanciare *scudo della fede* senza componenti. Quando lanciato in questo modo, il portatore ha vantaggio ai tiri salvezza su Costituzione effettuati per mantenere la concentrazione. |
+| 4 | Come azione bonus, il portatore può ottenere gli effetti della caratteristica ***punizione divina*** di un paladino la prossima volta che colpisce con un attacco con arma da mischia in questo turno. (Se nessun attacco colpisce, la caratteristica non viene spesa.) |
+| 5 | Come azione bonus, il portatore può lanciare *protezione dal bene e dal male* senza componenti. Quando lanciato in questo modo, il portatore ha vantaggio ai tiri salvezza su Costituzione effettuati per mantenere la concentrazione. |
+| 6 | Nessun effetto. |
 
-> [!info]+ **Resonance Level**
-> The *Sunsword*’s **resonance level** measures its affinity for the soul that inhabits it. Calculate its resonance level as follows:
+> [!info]+ **Livello di Risonanza**
+> Il **livello di risonanza** della *Lama del Sole* misura la sua affinità per l'anima che la abita. Calcolate il suo livello di risonanza come segue:
 >
-> * If the soul is Good-aligned, increase its resonance level by 1.
-> * If the soul was a priest or paladin of the Morninglord in life, increase its resonance level by 1.
-> * If the soul has a bond of loyalty or friendship to the wielder, increase its resonance level by 1.
-> * If the soul is dedicated to the destruction of Strahd von Zarovich or the freedom of Barovia, increase its resonance level by 1 while Strahd still lives.
-> * If the soul is unwilling or reluctant to inhabit the *Sunsword*, decrease its resonance level by 2.
+> * Se l'anima è di allineamento Buono, aumentate il suo livello di risonanza di 1.
+> * Se l'anima era un prete o paladino del Signore del Mattino in vita, aumentate il suo livello di risonanza di 1.
+> * Se l'anima ha un legame di lealtà o amicizia col portatore, aumentate il suo livello di risonanza di 1.
+> * Se l'anima è dedicata alla distruzione di Strahd von Zarovich o alla libertà di Barovia, aumentate il suo livello di risonanza di 1 finché Strahd è ancora in vita.
+> * Se l'anima è riluttante o restia ad abitare la *Lama del Sole*, diminuite il suo livello di risonanza di 2.
 >
-> The *Sunsword*’s resonance level can’t go above 3 or below 0.
+> Il livello di risonanza della *Lama del Sole* non può superare 3 né scendere sotto 0.
 
-> [!abstract]+ **Choosing a Soul**
-> The players have great freedom to choose a suitable soul to inhabit the *Sunsword*. However, not all spirits are equally available or receptive. Some of those spirits’ reactions (and the players’ ability to contact them) are described below.
+> [!abstract]+ **Scegliere un'Anima**
+> I giocatori hanno grande libertà nello scegliere un'anima adatta ad abitare la *Lama del Sole*. Tuttavia, non tutti gli spiriti sono ugualmente disponibili o ricettivi. Alcune delle reazioni di quegli spiriti (e la capacità dei giocatori di contattarli) sono descritte sotto.
 >
-> * **Exethanter.** Exethanter’s spirit amusedly declines, noting that he would be “wholly unsuitable" for such a task. (*Exethanter, who is Lawful Neutral and bears no personal enmity toward Strahd, has a resonance level of 0.*)
-> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
-> * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
-> * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3.*)
-> * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
+> * **Exethanter.** Lo spirito di Exethanter declina con divertimento, notando che sarebbe "del tutto inadatto" per un simile compito. (*Exethanter, che è Legale Neutrale e non nutre nessun rancore personale verso Strahd, ha un livello di risonanza di 0.*)
+> * **Erasmus van Richten.** Lo spirito di Erasmus non può entrare nel Piano Materiale finché i giocatori non sollevano la maledizione di Rudolph van Richten nella [[Arc T - The Three Fanes]]. Una volta fatto, un giocatore che ha stretto amicizia con Erasmus può convincerlo a possederlo e abitare la *Lama del Sole*. Altrimenti Erasmus declina educatamente, insistendo di essere dedicato a combattere al fianco di e a proteggere suo padre. (*Erasmus, che è Caotico Buono e dedicato alla libertà di Barovia, ha un livello di risonanza di 3.*)
+> * **Santa Markovia.** Santa Markovia non può possedere un giocatore a meno che non venga prima evocata tramite una seduta spiritica, come nella [[Arc K - The Fallen Abbey]]. (Tuttavia, se i giocatori non sono riusciti a redimere l'Abate nella [[Arc Q - A Shining Beacon]], la seduta fallisce, e Markovia non appare.) Una volta evocata, Markovia è onorata dalla richiesta dei giocatori, ma esprime dubbi sulla sua capacità di opporsi a Strahd, data la sua sconfitta per mano sua quasi quattro secoli fa. Se rassicurata, Markovia accetta di abitare la *Lama del Sole* e combattere al loro fianco. (*Markovia ha un livello di risonanza di 3.*)
+> * **Ser Godfrey Gwilym.** Lo spirito di Ser Godfrey appare se chiamato all'interno delle mura di Argynvostholt. È onorato di combattere al fianco dei giocatori, e accetta rapidamente di abitare la *Lama del Sole*. (*Ser Godfrey ha un livello di risonanza di 3.*)
+> * **I Morti Recenti.** I giocatori possono evocare lo spirito di qualsiasi personaggio morto a Barovia dal loro arrivo svolgendo una seduta spiritica, come descritto nella [[Arc K - The Fallen Abbey]]. La seduta deve essere svolta vicino al luogo di morte del personaggio o a un luogo che aveva grande significato per lui in vita. Certe anime possono richiedere ulteriore persuasione, a vostra discrezione. (Gli spiriti di personaggi morti prima dell'arrivo dei giocatori sono già stati reincarnati, e non possono essere evocati tramite una seduta spiritica.)
 
-> [!info]+ **The Shining Sunlight**
-> The first time the players bind or infuse a soul into the *Sunsword*, read:
-> 
+> [!info]+ **La Luce Sfolgorante del Sole**
+> La prima volta che i giocatori vincolano o infondono un'anima nella *Lama del Sole*, leggete:
+>
 > ---
-> 
-> The hilt warms in your hands, then turns hot, until it almost burns to hold—but no blisters or burns appear on your flesh. The shattered stump of its hilt flickers, then glimmers, then sears with light, until—slowly—a blade of pure, untainted *radiance* grows forth from the hilt.
-> 
-> The light is gold: a hot, bright gold that doesn't bear looking at, and scaling past it toward white, almost the color of the Sun in the daylit sky. No metal forms that blade; the light itself feels alive, awake, and aware, *looking* at you.^[Inspired by Diane Duane, *A Wizard Abroad*.]
-> 
-> The hilt trembles in your hands, emitting a low, steady hum that heightens in pitch to a sonorous, gleeful *song*. Then—the light withdraws. The burning heat cools. And silence falls—for a moment.
-> 
-> There is a sudden, resonant *burst* of light and song, as a *tower* of golden light bursts from the blade, filling the space all around you. It seeps through every hole and every crack, forming a pillar of radiance that splits the skies overhead. The dark clouds roil, the very heavens trembling beneath its touch. Your shadows stretch out away from it, as if attempting to flee its burning brilliance in vain.
-> 
-> And then—the pillar of radiance recedes. The burning fades to a faint, comforting warmth. The song falls to a faint hum, and then to silence—until all that remains is a blade of pure sunlight atop the sword's platinum hilt.
-> 
+>
+> L'elsa si scalda nelle vostre mani, poi diventa calda, finché quasi brucia tenerla — ma nessuna bolla o ustione appare sulla vostra carne. Il moncone in frantumi della sua elsa tremola, poi scintilla, poi brucia di luce, finché — lentamente — una lama di pura, incontaminata *radiosità* cresce dall'elsa.
+>
+> La luce è oro: un oro caldo e brillante che non si riesce a guardare, e che sfuma verso il bianco, quasi il colore del Sole nel cielo diurno. Nessun metallo forma quella lama; la luce stessa sembra viva, sveglia e consapevole, che *guarda* verso di voi.^[Ispirato a Diane Duane, *A Wizard Abroad*.]
+>
+> L'elsa trema nelle vostre mani, emettendo un ronzio basso e costante che sale di tono fino a un *canto* sonoro e gioioso. Poi — la luce si ritrae. Il calore bruciante si raffredda. E il silenzio cala — per un momento.
+>
+> C'è un improvviso, risonante *lampo* di luce e canto, mentre una *torre* di luce dorata erutta dalla lama, riempiendo lo spazio tutto intorno a voi. Filtra attraverso ogni buco e ogni crepa, formando un pilastro di radiosità che spacca i cieli sopra di voi. Le nubi oscure ribollono, i cieli stessi che tremano sotto il suo tocco. Le vostre ombre si allungano lontano da essa, come tentando di fuggire la sua bruciante brillantezza invano.
+>
+> E poi — il pilastro di radiosità si ritira. Il bruciore sfuma in un debole, confortante tepore. Il canto cala in un debole ronzio, e poi nel silenzio — finché tutto ciò che rimane è una lama di pura luce solare in cima all'elsa di platino della spada.
+>
 > ---
-> 
-> The pillar of radiance is visible to all creatures in Barovia. Once the *Sunsword* is ignited, Strahd won't leave Castle Ravenloft unless the players are dead.
+>
+> Il pilastro di radiosità è visibile a tutte le creature a Barovia. Una volta che la *Lama del Sole* è accesa, Strahd non lascerà Castel Ravenloft a meno che i giocatori non siano morti.
 
-> [!info]+ **The Monster**
-> When Strahd first learns that the *Sunsword* is ignited, his persona changes from the Tyrant to the Monster. See [[Strahd von Zarovich]] for more information about roleplaying the Monster.
+> [!info]+ **Il Mostro**
+> Quando Strahd viene a sapere per la prima volta che la *Lama del Sole* è accesa, la sua personalità cambia dal Tiranno al Mostro. Vedi [[Strahd von Zarovich]] per maggiori informazioni sull'interpretazione del Mostro.
 
-# S7. Archmage’s Quarters
-## S7a. Stair of Wisdom
-<span class="citation">This scene takes place in Chapter 13, Area X5b.</span>
+# S7. Alloggi dell'Arcimago
+## S7a. Scala della Saggezza
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X5b.</span>
 
-This area is as described in <span class="citation">X5b. Secret Door (p. 184)</span>.
-## S7b. Archmage’s Library
-<span class="citation">This scene takes place in Chapter 13, Area X30.</span>.
+Quest'area è come descritta in <span class="citation">X5b. Porta Segreta (p. 184)</span>.
+## S7b. Biblioteca dell'Arcimago
+<span class="citation">Questa scena si svolge nel Capitolo 13, Area X30.</span>
 
-This area is largely as described in <span class="citation">X30. Preserved Library (p. 189)</span>. However, if the players enter this area after defeating the spirit of Patrina Velikovna, they encounter the spirit of the **archmage** Exethanter (see [[#Exethanter’s Hospitality]] below).
-### Exethanter’s Hospitality
-When the players enter this area after defeating Patrina’s spirit, read the following text, or add it to the end of this area’s description:
+Quest'area è in gran parte come descritta in <span class="citation">X30. Biblioteca Conservata (p. 189)</span>. Tuttavia, se i giocatori entrano in quest'area dopo aver sconfitto lo spirito di Patrina Velikovna, incontrano lo spirito dell'**arcimago** Exethanter (vedi [[#L'Ospitalità di Exethanter]] sotto).
+### L'Ospitalità di Exethanter
+Quando i giocatori entrano in quest'area dopo aver sconfitto lo spirito di Patrina, leggete il seguente testo, o aggiungetelo alla fine della descrizione di quest'area:
 
 <div class="description">
-<p>The ethereal spirit of an elderly man with a long, white beard and a pointed-jet blue, wide-brimmed hat sits in a squashed, comfortable-looking armchair, looking faintly befuddled.</p>
+<p>Lo spirito etereo di un uomo anziano con una lunga barba bianca e un cappello a punta blu scuro a tesa larga siede in una poltrona schiacciata e dall'aspetto confortevole, con un'aria lievemente smarrita.</p>
 </div>
 
-This is the spirit of Exethanter, the former archmage of the Amber Temple. Exethanter has the statistics of a **ghost**, with the following changes:
+Questo è lo spirito di Exethanter, l'ex arcimago del Tempio d'Ambra. Exethanter ha le statistiche di un **fantasma**, con le seguenti modifiche:
 
-* He has the hit points and skills of an **archmage**.
-* He has an **archmage’s** ***magic resistance*** and ***spellcasting*** features, but (due to his undeath and post-binding weakness) can’t cast any spells above 3rd level. In addition, he has prepared *sending* instead of *fly*.
-* He knows the following languages: Common, Elvish, Draconic, Celestial, Abyssal, and Infernal.
+* Ha i punti ferita e le competenze di un **arcimago**.
+* Ha le caratteristiche ***resistenza alla magia*** e ***lancio di incantesimi*** di un **arcimago**, ma (a causa della sua non morte e della debolezza post-vincolo) non può lanciare incantesimi superiori al 3° livello. Inoltre, ha preparato *invio* invece di *volare*.
+* Conosce i seguenti linguaggi: Comune, Elfico, Draconico, Celestiale, Abissale e Infernale.
 
-If the players approach Exethanter’s spirit or otherwise reveal themselves, he greets them with some surprise. He can share the following information if asked:
+Se i giocatori si avvicinano allo spirito di Exethanter o si rivelano altrimenti, egli li saluta con una certa sorpresa. Può condividere le seguenti informazioni se interrogato:
 
-* His name is Exethanter. In life, he was an archmage and leader of the Society of Amber, the secret society of mages that founded and guarded the Amber Temple. (Exethanter can further share all of the information described in **Operations of the Amber Temple** and **Downfall of the Temple** above.)
-* In its final years, the Amber Temple descended into chaos and paranoia. Exethanter attempted to continue his weekly dinners with apprentices and other mages, but even he couldn’t resist using one of the “odd relics he’d picked up over the years"—the enchanted ewer in <span class="citation">X22. Northwest Annex (p. 187)</span>—to cleanse his drinks of poison. (“In retrospect," he sniffs abashedly, “it astounds me how deeply the vestiges’ darkness had penetrated my mind." He massages his ghostly temples, chuckling tiredly. “It’s astounding how much clarity one’s mind can find after one has passed away."
-* He has no knowledge of “Heinrich Stolt," and has never heard of any such individual. 
+* Il suo nome è Exethanter. In vita, era un arcimago e capo della Società dell'Ambra, la società segreta di maghi che fondò e custodì il Tempio d'Ambra. (Exethanter può inoltre condividere tutte le informazioni descritte in **Operazioni del Tempio d'Ambra** e **Caduta del Tempio** sopra.)
+* Nei suoi ultimi anni, il Tempio d'Ambra discese nel caos e nella paranoia. Exethanter tentò di continuare le sue cene settimanali con apprendisti e altri maghi, ma nemmeno lui poté resistere dall'usare una delle "strane reliquie che aveva raccolto nel corso degli anni" — la brocca incantata in <span class="citation">X22. Annesso Nordovest (p. 187)</span> — per purificare le sue bevande dal veleno. («Col senno di poi,» sbuffa con imbarazzo, «mi stupisce quanto profondamente l'oscurità dei vestigia avesse penetrato la mia mente.» Si massaggia le tempie spettrali, ridacchiando stancamente. «È stupefacente quanta lucidità la mente possa trovare dopo che si è trapassati.»)
+* Non ha conoscenza di "Heinrich Stolt", e non ha mai sentito parlare di tale individuo.
 
-> [!abstract]+ **Exethanter’s Theory**
-> If the players ask how the temple became corrupted, Exethanter is glad to share his theory. “Ah, yes," he begins—“tell me, do you know why my predecessors constructed this temple from amber, from its sarcophagi to its golems, and even its very walls?" (A player who succeeds on a DC 15 Intelligence (Arcana) check recalls that amber has a unique magical property: it is a magical “insulator," and cannot be damaged or crossed by any kind of energy, be it magical or divine. On a result of 20 or more, the player further recalls that magical energies can pass through amber only very slowly, on a timescale of years to decades.)
+> [!abstract]+ **La Teoria di Exethanter**
+> Se i giocatori chiedono come il tempio sia diventato corrotto, Exethanter è lieto di condividere la sua teoria. «Ah, sì,» inizia — «ditemi, sapete perché i miei predecessori costruirono questo tempio in ambra, dai suoi sarcofagi ai suoi golem, e persino le sue stesse pareti?» (Un giocatore che supera una prova di Intelligenza (Arcano) con CD 15 ricorda che l'ambra ha una proprietà magica unica: è un "isolante" magico, e non può essere danneggiata o attraversata da nessun tipo di energia, sia essa magica o divina. Con un risultato di 20 o superiore, il giocatore ricorda inoltre che le energie magiche possono passare attraverso l'ambra solo molto lentamente, su una scala temporale di anni o decenni.)
 >
-> Regardless of the player’s response, Exethanter continues: “As the logic went, the amber sarcophagi would keep the vestiges’ magic entrapped within; any shreds of power that escaped during their transportation or sealing, as well as any that might leak out over time, would be concealed from tracking and divination by natural amber shielding. Our golems, too, would be protected from outside interference or corruption, their command matrices buried within their amber shells."
+> Indipendentemente dalla risposta del giocatore, Exethanter continua: «Secondo la logica, i sarcofagi d'ambra avrebbero mantenuto la magia dei vestigia intrappolata al loro interno; qualsiasi brandello di potere sfuggito durante il loro trasporto o sigillatura, così come quelli che potevano fuoriuscire nel tempo, sarebbero stati celati dal tracciamento e dalla divinazione dalla schermatura naturale dell'ambra. Anche i nostri golem sarebbero stati protetti da interferenze o corruzione esterna, le loro matrici di comando sepolte dentro i loro gusci d'ambra.»
 >
-> Exethanter sighs, then asks: “Do you begin to see our mistake?" Regardless of the players’ response, Exethanter continues, wryly: “They—and, I should add, we—failed to account for the leakage from the sarcophagi. With the amber shielding around the walls, the dregs of darkness leaking from the sarcophagi had nowhere to go. Over the decades, so slowly that none of our instruments could observe it, that darkness accumulated invisibly within the temple’s walls until it formed a thick, corrupting miasma." He massages his temples, exhaling. “We were like a frog boiled in a pot, or a fish unable to name the very water it swims in and breathes. We became inured to it—and it choked us, worming its way deeper into our minds. By the time we might have noticed it, it was already far too late."
+> Exethanter sospira, poi chiede: «Cominciate a vedere il nostro errore?» Indipendentemente dalla risposta dei giocatori, Exethanter continua, con ironia: «Loro — e, dovrei aggiungere, noi — non avevamo tenuto conto delle fuoriuscite dai sarcofagi. Con la schermatura d'ambra attorno alle pareti, le fecce d'oscurità che fuoriuscivano dai sarcofagi non avevano dove andare. Nel corso dei decenni, così lentamente che nessuno dei nostri strumenti poteva osservarlo, quell'oscurità si accumulò invisibilmente all'interno delle pareti del tempio finché non formò un miasma denso e corruttore.» Si massaggia le tempie, espirando. «Eravamo come una rana bollita in una pentola, o un pesce incapace di nominare l'acqua stessa in cui nuota e respira. Ne diventammo assuefatti — e ci soffocò, insinuandosi sempre più in profondità nelle nostre menti. Quando avremmo potuto notarlo, era già troppo tardi.»
 
-Exethanter thanks the players for freeing him from Patrina Velikovna’s bindings. (“I presume I have you to thank for my sudden freedom?" he says merrily.) He is willing to share the following information about Patrina if asked, his face darkening at the mention of her name:
+Exethanter ringrazia i giocatori per averlo liberato dai vincoli di Patrina Velikovna. («Presumo di dovere a voi la mia improvvisa libertà?» dice allegramente.) È disposto a condividere le seguenti informazioni su Patrina se interrogato, con il viso che si oscura alla menzione del suo nome:
 
-* Following his death, his spirit lingered in the Amber Temple for over two millenia. “The miasma that filled these amber halls had given birth to dark powers, by whose will our spirits were imprisoned here," he notes solemnly. “Nameless and formless, they dwelled within the temple’s corridors for centuries, their power made manifest through the mists that bound and encircled us." (Although Exethanter sensed these “dark powers" “lurking within the shadows, and beyond the borders of reality," he never caught more than a glimpse of the power that shrouded them, and knows no more about them—or what they want—than this.)
-* One day, nearly four centuries past, a dusk elf named Patrina Velikovna came to the Amber Temple and found his spirit dwelling there. Lonely and entrapped within the demesne the Dark Powers had created, Exethanter fell “perhaps too easily" for her fascination with his knowledge and her tales of the “tragic fate of her people." “Perhaps I should have seen the darkness in her," he murmurs, pushing his half-moon spectacles up his nose, "but so many years spent amidst the temple’s darkened halls had numbed my senses to it."
-* Exethenter took Patrina under his tutelage “under two conditions—that she keep away from the vestiges that dwelled in the sarcophagi, and that she not touch any book I had not permitted her to." He coughs, adjusting his spectacles. "Needless to say, I eventually found she had broken both of these commandments—but by then, she had learned enough and grown enough in power that it was too late. When I confronted her and demanded she depart the Temple, she laughed and bound me within a sealing circle—which, to add insult to injury, was a design of my own making."
-* After binding him, Patrina summoned Exethanter occasionally to compel him to share his knowledge, though he warned her not to proceed down the path to lichdom she sought. “She was not the first student I had failed, nor the first whose capacity for evil I had failed to sense" he says, sadly. “She may have come to me with duplicitous intent—but I felt responsible for her downfall all the same." 
-* One day, Patrina ceased to call upon Exethanter entirely. It was only later, when the vampire Strahd von Zarovich—who Patrina had spoken of and previously called her “student"—found Patrina’s bindings and called upon Exethanter’s spirit once more that Exethanter learned that Patrina had died. “Of course," he says, “the sealing ritual she had stolen from me had a flaw—it was never meant to be made permanent, and was tied to the caster’s life-force. Although I never told Von Zarovich of this, I suspected that, since she did not seem to have passed my leash to him, she must still be alive—somewhere."
-* Strahd used Patrina’s bindings to compel Exethanter to answer his questions on matters of arcana—“binding magic, rituals, leylines, and more." Exethanter sniffs, shaking his head. “Dangerous material. I never quite learned what he needed that knowledge for, but I often observed him recording his notes in a small journal. I would have been most curious to read it."
+* Dopo la sua morte, il suo spirito indugiò nel Tempio d'Ambra per oltre due millenni. «Il miasma che riempiva queste sale d'ambra aveva dato vita a poteri oscuri, per la cui volontà i nostri spiriti erano imprigionati qui,» nota solennemente. «Senza nome e senza forma, dimoravano nei corridoi del tempio per secoli, il loro potere reso manifesto attraverso le nebbie che ci vincolavano e circondavano.» (Sebbene Exethanter percepisse questi "poteri oscuri" «in agguato nell'ombra, e oltre i confini della realtà,» non colse mai più di un barlume del potere che li avvolgeva, e non sa nulla di più su di essi — o su cosa vogliano — di questo.)
+* Un giorno, quasi quattro secoli fa, un'elfa del crepuscolo di nome Patrina Velikovna venne al Tempio d'Ambra e trovò il suo spirito che vi dimorava. Solo e intrappolato nel dominio che i Poteri Oscuri avevano creato, Exethanter cadde «forse troppo facilmente» nella sua fascinazione per la sua conoscenza e i suoi racconti del «tragico destino del suo popolo». «Forse avrei dovuto vedere l'oscurità in lei,» mormora, spingendo gli occhiali a mezzaluna sul naso, «ma così tanti anni trascorsi nelle sale oscurate del tempio avevano intorpidito i miei sensi ad essa.»
+* Exethanter prese Patrina sotto la sua guida «a due condizioni — che si tenesse lontana dai vestigia che dimoravano nei sarcofagi, e che non toccasse alcun libro che non le avessi permesso.» Tossisce, aggiustandosi gli occhiali. «Inutile dirlo, alla fine scoprii che aveva violato entrambi questi comandamenti — ma a quel punto, aveva appreso abbastanza e era cresciuta abbastanza in potere che era troppo tardi. Quando la affrontai e pretesi che lasciasse il Tempio, rise e mi vincolò in un cerchio di sigillatura — che, per aggiungere l'insulto al danno, era di mia stessa concezione.»
+* Dopo averlo vincolato, Patrina evocava Exethanter occasionalmente per costringerlo a condividere la sua conoscenza, sebbene la avvertisse di non procedere lungo il cammino verso la lichdom che cercava. «Non era la prima studentessa che avevo deluso, né la prima la cui capacità per il male non ero riuscito a percepire,» dice tristemente. «Può essere venuta da me con intento ingannevole — ma mi sentivo responsabile della sua caduta comunque.»
+* Un giorno, Patrina cessò del tutto di convocare Exethanter. Fu solo più tardi, quando il vampiro Strahd von Zarovich — di cui Patrina aveva parlato e precedentemente chiamato il suo "studente" — trovò i vincoli di Patrina e convocò nuovamente lo spirito di Exethanter che Exethanter apprese che Patrina era morta. «Naturalmente,» dice, «il rituale di sigillatura che aveva rubato da me aveva un difetto — non era mai stato pensato per essere permanente, ed era legato alla forza vitale del lanciatore. Sebbene non lo abbia mai detto a Von Zarovich, sospettavo che, poiché non sembrava aver passato il mio guinzaglio a lui, dovesse essere ancora viva — da qualche parte.»
+* Strahd usò i vincoli di Patrina per costringere Exethanter a rispondere alle sue domande su questioni di arcano — «magia vincolante, rituali, linee di ley e altro.» Exethanter sbuffa, scuotendo la testa. «Materiale pericoloso. Non ho mai saputo esattamente a cosa gli servisse quella conoscenza, ma lo osservavo spesso annotare le sue note in un piccolo diario. Sarei stato molto curioso di leggerlo.»
 
-If the players ask Exethanter about the *Tome of Strahd* or a ritual capable of manifesting the Ladies of the Fanes, Exethanter perks up, inquiring into the players’ knowledge and purposes. Once his curiosity is satisfied, Exethanter invites the players to discuss the matters further in his quarters. (If necessary, Exethanter notes that the ritual the players seek lies therein.)
+Se i giocatori chiedono a Exethanter del *Tomo di Strahd* o di un rituale capace di manifestare le Signore dei Fani, Exethanter si ravviva, indagando sulla conoscenza e gli scopi dei giocatori. Una volta soddisfatta la sua curiosità, Exethanter invita i giocatori a discutere le questioni ulteriormente nei suoi alloggi. (Se necessario, Exethanter nota che il rituale che i giocatori cercano si trova lì.)
 
-If the players agree to follow Exethanter to his quarters, he walks through the wall leading to <span class="citation">X29. Secret Room (p. 189)</span>, then, if the players don’t swiftly follow him through the secret door, returns to apologize to the players. (“When one is intangible for so long," Exethanter says, clearing his throat as his cheeks flush, “one tends to forget what necessities others of a, ah, more *tangible* persuasion may require.") 
+Se i giocatori accettano di seguire Exethanter nei suoi alloggi, egli attraversa la parete che conduce a <span class="citation">X29. Stanza Segreta (p. 189)</span>, poi, se i giocatori non lo seguono rapidamente attraverso la porta segreta, torna a scusarsi. («Quando si è intangibili per così tanto tempo,» dice Exethanter, schiarendosi la gola mentre le sue guance arrossiscono, «si tende a dimenticare quali necessità altri di una, ehm, persuasione più *tangibile* possano richiedere.»)
 
-Exethanter then guides the players to the secret door that leads to <span class="citation">X29. Secret Room (p. 189)</span>, and the secret door therein that leads to <span class="citation">X27. Lich’s Lair (p. 188)</span>, apologizing for the “proliferation" of secret doors throughout the temple. (“It *was* built as a citadel, after all," he recalls thoughtfully, “designed to withstand any siege—while providing hidden, speedy transportation to its defenders.") 
+Exethanter poi guida i giocatori alla porta segreta che conduce a <span class="citation">X29. Stanza Segreta (p. 189)</span>, e alla porta segreta al suo interno che conduce a <span class="citation">X27. Tana del Lich (p. 188)</span>, scusandosi per la "proliferazione" di porte segrete in tutto il tempio. («*Fu* costruito come una cittadella, dopo tutto,» ricorda pensieroso, «progettato per resistere a qualsiasi assedio — fornendo al contempo trasporto nascosto e rapido ai suoi difensori.»)
 
-As he and the players pass through <span class="citation">X29. Secret Room (p. 189)</span>, Exethanter points out the secret door that leads to <span class="citation">X28. Hidden Phylactery (p. 189)</span>, noting that the Society of Amber once used it to carry out the rituals that bound the vestiges to their amber sarcophagi. (If asked, Exethanter is glad to allow the players to explore it, though he insists that it is “merely an empty room.")
-## S7c. Archmage’s Quarters
-<span class="citation">This scene takes place in Chapter 13, Areas X26 and X27.</span>
+Mentre lui e i giocatori passano attraverso <span class="citation">X29. Stanza Segreta (p. 189)</span>, Exethanter indica la porta segreta che conduce a <span class="citation">X28. Filatterio Nascosto (p. 189)</span>, notando che la Società dell'Ambra la usava un tempo per svolgere i rituali che vincolavano i vestigia ai loro sarcofagi d'ambra. (Se interrogato, Exethanter è lieto di permettere ai giocatori di esplorarla, sebbene insista che è «semplicemente una stanza vuota.»)
+## S7c. Alloggi dell'Arcimago
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X26 e X27.</span>
 
-This area is largely as described in <span class="citation">X26. Secret Alcove (p. 188)</span> and <span class="citation">X27. Lich’s Lair (p. 188)</span>. However, no **lich** dwells here. In addition, a crystal chime lies in the desk’s uppermost drawer. 
+Quest'area è in gran parte come descritta in <span class="citation">X26. Alcova Segreta (p. 188)</span> e <span class="citation">X27. Tana del Lich (p. 188)</span>. Tuttavia, nessun **lich** dimora qui. Inoltre, un campanello di cristallo giace nel cassetto superiore della scrivania.
 
-Players who read Exethanter’s spellbook find that, in addition to the spells described in <span class="citation">X27. Lich’s Lair (p. 188)</span>, it also contains instructions for enacting the *Rite of Conjured Divinity* (see below).
+I giocatori che leggono il libro degli incantesimi di Exethanter scoprono che, oltre agli incantesimi descritti in <span class="citation">X27. Tana del Lich (p. 188)</span>, contiene anche le istruzioni per svolgere il *Rito della Divinità Evocata* (vedi sotto).
 
-If the players arrive here in Exethanter’s company to discuss the *Tome of Strahd* or the Ladies of the Fanes, he responds as follows:
+Se i giocatori arrivano qui in compagnia di Exethanter per discutere del *Tomo di Strahd* o delle Signore dei Fani, egli risponde come segue:
 
-* **Tome of Strahd.** If the players give Exethanter the *Tome of Strahd*, he inspects it for a few moments, using his ghostly *mage hand* to flip through the pages while stroking his beard thoughtfully. “A fascinating cipher," he murmurs. “It’s one I’m not intimately familiar with, but I enjoyed a hobby of cryptography in my youth, and the structure here is similar to some I have read in the past." If the players appear interested, Exethanter suggests that they leave it with him for analysis, noting (without boasting) that he should require “no more than—oh, forty-eight hours to crack it." (Exethanter promises to communicate any findings to the players via his *sending* spell.)
-* **Ladies of the Fanes.** If the player ask for a means to commune with or conjure the diminished essence of a vestige (e.g., the remnants of a deity), he directs the players to his spellbook, which documents the incantation, components, and instructions for carrying out the *Rite of Conjured Divinity* (see below). (The players, he promises, are free to copy the spells therein for their own use if they wish to.)
+* **Tomo di Strahd.** Se i giocatori danno a Exethanter il *Tomo di Strahd*, egli lo esamina per alcuni momenti, usando la sua *mano magica* spettrale per sfogliare le pagine accarezzandosi la barba pensieroso. «Un cifrario affascinante,» mormora. «Non ne ho grande familiarità, ma coltivavo un hobby di crittografia in gioventù, e la struttura qui è simile ad alcuni che ho letto in passato.» Se i giocatori sembrano interessati, Exethanter suggerisce che glielo lascino per l'analisi, notando (senza vantarsi) che dovrebbe richiedere «non più di — oh, quarantotto ore per decifrarlo.» (Exethanter promette di comunicare eventuali scoperte ai giocatori tramite il suo incantesimo *invio*.)
+* **Signore dei Fani.** Se i giocatori chiedono un mezzo per comunicare con o evocare l'essenza diminuita di un vestigio (es. i resti di una divinità), egli indirizza i giocatori al suo libro degli incantesimi, che documenta l'incantazione, le componenti e le istruzioni per svolgere il *Rito della Divinità Evocata* (vedi sotto). (I giocatori, promette, sono liberi di copiare gli incantesimi in esso contenuti per il proprio uso se lo desiderano.)
 
-> [!info]+ **The Rite of Conjured Divinity**
-> The *Rite of Conjured Divinity* is a ritual that the wizards of the Amber Temple once used to conjure the essences of vestiges they intended to seal away. The Rite, which can be performed only by a character with the ***Spellcasting*** feature or the ability to cast rituals, requires three ingredients: powdered amber, a crystal chime, and a relic or symbol of the entity the caster wishes to invoke. 
+> [!info]+ **Il Rito della Divinità Evocata**
+> Il *Rito della Divinità Evocata* è un rituale che i maghi del Tempio d'Ambra usavano un tempo per evocare le essenze dei vestigia che intendevano sigillare. Il Rito, che può essere eseguito solo da un personaggio con la caratteristica ***Lancio di Incantesimi*** o la capacità di lanciare rituali, richiede tre ingredienti: ambra in polvere, un campanello di cristallo e una reliquia o simbolo dell'entità che il lanciatore desidera invocare.
 >
-> To perform the Rite, the caster and four other individuals must first use chalk or similar means to draw a circled pentagram, at least fifteen feet across, at or within a location where the entity’s presence is strongest. Each ritualist must then stand beside a different point of the star, while the caster places the powdered amber at the circle’s center.
+> Per eseguire il Rito, il lanciatore e altre quattro persone devono prima usare gesso o mezzi simili per disegnare un pentagramma circolare, di almeno quattro metri e mezzo di diametro, presso o all'interno di un luogo dove la presenza dell'entità è più forte. Ogni ritualista deve poi stare accanto a un diverso punto della stella, mentre il lanciatore pone l'ambra in polvere al centro del cerchio.
 >
-> The Rite has a lengthy incantation, which takes approximately one minute to complete and requires the caster and other ritualists to repeat the entity’s name three times, sounding the chime each time. The third time the chime is struck, the entity manifests within the pentagram, where it remains for the next 10 minutes.
-## S7d. Ritual Chamber
-<span class="citation">This scene takes place in Chapter 13, Areas X28 and X29.</span>
+> Il Rito ha una lunga incantazione, che richiede circa un minuto per completarsi e richiede al lanciatore e agli altri ritualisti di ripetere il nome dell'entità tre volte, suonando il campanello ogni volta. La terza volta che il campanello viene suonato, l'entità si manifesta all'interno del pentagramma, dove rimane per i successivi 10 minuti.
+## S7d. Camera Rituale
+<span class="citation">Questa scena si svolge nel Capitolo 13, Aree X28 e X29.</span>
 
-This area is largely as described in <span class="citation">X28. Hidden Phylactery (p. 189)</span> and <span class="citation">X29. Secret Room (p. 189)</span>. However, the phylactery belongs not to Exethanter, but the **arcanaloth** Neferon, as discussed in **Neferon's Phylactery** above. This phylactery, which has an AC of 20 and 20 hit points, can’t be damaged or destroyed except by radiant damage dealt by the *Sunsword* or a spell of 5th level or higher.
+Quest'area è in gran parte come descritta in <span class="citation">X28. Filatterio Nascosto (p. 189)</span> e <span class="citation">X29. Stanza Segreta (p. 189)</span>. Tuttavia, il filatterio non appartiene a Exethanter, bensì all'**arcanaloth** Neferon, come discusso in **Il Filatterio di Neferon** sopra. Questo filatterio, che ha una CA di 20 e 20 punti ferita, non può essere danneggiato o distrutto se non da danni radianti inflitti dalla *Lama del Sole* o da un incantesimo di 5° livello o superiore.
 
-> [!abstract]+ **Exethanter’s Inspection**
-> If shown Neferon’s phylactery, Exethanter is surprised to see it, and asks to inspect it. “It appears to be reminiscent of a lich’s phylactery," he observes, “though I do not detect Patrina’s handiwork upon it, nor sense her magic. Its essence is both old, and yet new, as though it was created only recently, but from an old, even ancient soul—one far older than I." (Exethanter apologizes for his inability to share anything further without at least several days of further study.)
-# S8. Departing the Temple
-Each time he observes the players move to depart the Amber Temple, Neferon—flanked by the three **flameskulls** from [[#S2e. West Gallery]]—confronts them as they pass through <span class="citation">X17. Upper West Hall (p. 187)</span>, <span class="citation">X8. Upper East Hall (p. 185)</span>, or <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>. (In the latter case, he confronts them while standing atop one of the black marble staircases leading to <span class="citation">X4. Overlook (p. 183)</span>.
+> [!abstract]+ **L'Ispezione di Exethanter**
+> Se gli viene mostrato il filatterio di Neferon, Exethanter è sorpreso di vederlo, e chiede di esaminarlo. «Sembra essere reminiscente del filatterio di un lich,» osserva, «sebbene non rilevi il lavoro di Patrina su di esso, né percepisca la sua magia. La sua essenza è al contempo antica e nuova, come se fosse stata creata solo di recente, ma da un'anima antica, persino ancestrale — una ben più vecchia di me.» (Exethanter si scusa per la sua incapacità di condividere qualcosa di più senza almeno diversi giorni di ulteriore studio.)
+# S8. Lasciare il Tempio
+Ogni volta che osserva i giocatori muoversi per lasciare il Tempio d'Ambra, Neferon — fiancheggiato dai tre **teschiardente** dalla [[#S2e. Galleria Ovest]] — li affronta mentre passano attraverso <span class="citation">X17. Sala Superiore Ovest (p. 187)</span>, <span class="citation">X8. Sala Superiore Est (p. 185)</span>, o <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>. (In quest'ultimo caso, li affronta mentre si trova in cima a una delle scalinate di marmo nero che conducono a <span class="citation">X4. Soppalco (p. 183)</span>.)
 
-Neferon—as “Heinrich"—asks the players to identify any physical items they have removed from the temple. "After all," he says, "as this temple's caretaker, I am obliged to ensure that no artifacts are improperly removed from its ancient halls."
+Neferon — come "Heinrich" — chiede ai giocatori di identificare eventuali oggetti fisici che hanno rimosso dal tempio. «Dopo tutto,» dice, «come custode di questo tempio, sono obbligato ad assicurarmi che nessun artefatto venga impropriamente rimosso dalle sue antiche sale.»
 
-***Telling the Truth.*** If the players reveal that they have taken any items from the temple, “Heinrich" notes pleasantly that he would be “more than willing to negotiate the terms of acquisition," so long as the players fully disclose the item's nature and value. (“Heinrich"  further insists upon inspecting unfamiliar magic items using his *identify* spell.)
+***Dire la Verità.*** Se i giocatori rivelano di aver preso oggetti dal tempio, "Heinrich" nota piacevolmente che sarebbe «più che disposto a negoziare i termini di acquisizione,» purché i giocatori rivelino completamente la natura e il valore dell'oggetto. ("Heinrich" insiste inoltre nell'esaminare oggetti magici non familiari usando il suo incantesimo *identificare*.)
 
-“Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, the existence of the *Tome of Strahd*, or the location of Soldav.)
+"Heinrich" è disposto a permettere ai giocatori di lasciare il Tempio d'Ambra con un oggetto magico in cambio di un oggetto magico «di pari o maggior valore», o «un segreto di grande potere.» (Per esempio, i giocatori potrebbero rivelare l'esistenza e la vera natura dei Custodi della Piuma, l'esistenza del *Tomo di Strahd*, o la posizione di Soldav.)
 
-However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
+Tuttavia, "Heinrich" non permetterà ai giocatori di partire con la *Lama del Sole* se è a conoscenza delle sue proprietà radianti. «Potete partire in pace,» nota solennemente, «ma temo che questo oggetto sia un tesoro troppo grande perché io me ne separi.»
 
-If the players refuse to disclose an item’s value, or if negotiations break down, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
+Se i giocatori rifiutano di rivelare il valore di un oggetto, o se le negoziazioni falliscono, "Heinrich" scuote la testa tristemente, notando il suo dispiacere che «semplicemente non ci si possa fidare della gente di questi tempi.» Poi usa la sua azione ***teletrasporto*** per teletrasportarsi fuori dalla vista dei giocatori, preferendo riapparire all'interno o vicino alla testa di <span class="citation">X5a. Dio dei Segreti (p. 184)</span>. Egli e i **teschiardente** attaccano quindi come descritto in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, così come nella [[#^heinrichsdiscipline|Disciplina di Heinrich]] e nelle [[#^neferonstactics|Tattiche di Neferon]] sopra.
 
-***Lying to Neferon.*** Players who lie to “Heinrich" can deceive him by succeeding on a DC 22 Charisma (Deception) check, failing automatically if “Heinrich" is already aware (e.g., through the use of his *arcane eye* spell) that the players possess one or more items that they have failed to disclose.
+***Mentire a Neferon.*** I giocatori che mentono a "Heinrich" possono ingannarlo superando una prova di Carisma (Inganno) con CD 22, fallendo automaticamente se "Heinrich" è già a conoscenza (es. attraverso l'uso del suo incantesimo *occhio arcano*) che i giocatori possiedono uno o più oggetti che non hanno rivelato.
 
-If “Heinrich" determines the players are lying to him, he kindly asks whether they are “certain" they do not recall acquiring any items from the temple’s vaults or corridors, noting cordially that the Amber Temple “does not take kindly to thieves, be they willful or merely forgetful." If the players again lie to him, “Heinrich" innocently inquires about any items he is aware of by description, such as "a broken platinum sword hilt." 
+Se "Heinrich" determina che i giocatori gli stanno mentendo, chiede cortesemente se sono "certi" di non ricordare di aver acquisito oggetti dalle cripte o dai corridoi del tempio, notando cordialmente che il Tempio d'Ambra «non è gentile coi ladri, siano essi intenzionali o semplicemente smemorati.» Se i giocatori gli mentono di nuovo, "Heinrich" si informa innocentemente riguardo a eventuali oggetti di cui è a conoscenza per descrizione, come «un'elsa di spada spezzata in platino.»
 
-If the players lie to him a third time, “Heinrich" shakes his head sadly, noting his sorrow that "one simply cannot trust people these days." He then uses his ***teleport*** action to teleport out of the players’ sight, preferring to reappear within or near the head of <span class="citation">X5a. God of Secrets (p. 184)</span>. He and the **flameskulls** then attack as described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, as well as [[#^heinrichsdiscipline|Heinrich's Discipline]] and [[#^neferonstactics|Neferon's Tactics]] above.
+Se i giocatori gli mentono una terza volta, "Heinrich" scuote la testa tristemente, notando il suo dispiacere che «semplicemente non ci si possa fidare della gente di questi tempi.» Poi usa la sua azione ***teletrasporto*** per teletrasportarsi fuori dalla vista dei giocatori, preferendo riapparire all'interno o vicino alla testa di <span class="citation">X5a. Dio dei Segreti (p. 184)</span>. Egli e i **teschiardente** attaccano quindi come descritto in <span class="citation">X5. Tempio dei Segreti Perduti (p. 183)</span>, così come nella [[#^heinrichsdiscipline|Disciplina di Heinrich]] e nelle [[#^neferonstactics|Tattiche di Neferon]] sopra.
 
-> [!abstract]+ **Neferon’s Resistance**
-> Neferon offers no resistance to players who credibly threaten to destroy his phylactery. In exchange for allowing them to depart in peace, however, he asks that the players leave the phylactery somewhere safe where he can subsequently retrieve it. 
+> [!abstract]+ **La Resistenza di Neferon**
+> Neferon non offre resistenza ai giocatori che minacciano credibilmente di distruggere il suo filatterio. In cambio del permesso di partire in pace, tuttavia, chiede che i giocatori lascino il filatterio in un luogo sicuro dove possa successivamente recuperarlo.
 >
-> If the players refuse to do so, Neferon sighs, noting his apparent inability to stop them, and allows them to depart in peace. Unless prevented, however, Neferon subsequently uses his at-will *invisibility* and fly speed to follow the players as they depart the Amber Temple, following them until he finds a suitable opportunity to steal back his phylactery. When doing so, Neferon avoids fighting or confronting the players openly at all costs, preferring instead to use his nonviolent spells to recover his phylactery and (if he’s aware of it) the *Sunsword* before fleeing.
+> Se i giocatori rifiutano di farlo, Neferon sospira, notando la sua apparente incapacità di fermarli, e permette loro di partire in pace. A meno che non gli venga impedito, tuttavia, Neferon usa successivamente la sua *invisibilità* a volontà e la sua velocità di volo per seguire i giocatori mentre lasciano il Tempio d'Ambra, seguendoli finché non trova un'opportunità adeguata per rubare di nuovo il suo filatterio. Nel farlo, Neferon evita di combattere o confrontare apertamente i giocatori a tutti i costi, preferendo invece usare i suoi incantesimi non violenti per recuperare il suo filatterio e (se ne è a conoscenza) la *Lama del Sole* prima di fuggire.
 
-> [!abstract]+ **Patrina’s Heir**
-> If the players inform the flameskulls that Kasimir is Patrina’s brother, Dominik responds with surprise, noting such a thing would be “impossible." If asked why, Dominik gravely informs the players that they or Kasimir must be lying. (“Mistress Velikovna’s will clearly stated she had no living blood relatives," he rasps.)
+> [!abstract]+ **L'Erede di Patrina**
+> Se i giocatori informano i teschiardente che Kasimir è il fratello di Patrina, Dominik risponde con sorpresa, notando che una cosa simile sarebbe «impossibile». Se interrogato sul perché, Dominik informa gravemente i giocatori che loro o Kasimir devono star mentendo. («Il testamento della Padrona Velikovna affermava chiaramente che non aveva parenti di sangue viventi,» raspa.)
 >
-> The players can convince the flameskulls that Kasimir is Patrina’s brother by succeeding on a DC 23 Charisma (Persuasion) check. The players make the check with advantage if they provide some form of proof of their claims, and succeed automatically if their proof is indisputable. 
+> I giocatori possono convincere i teschiardente che Kasimir è il fratello di Patrina superando una prova di Carisma (Persuasione) con CD 23. I giocatori effettuano la prova con vantaggio se forniscono qualche forma di prova delle loro affermazioni, e riescono automaticamente se la loro prova è indiscutibile.
 >
-> If the players convince the flameskulls that Kasimir is Patrina’s heir, they cheerfully betray “Heinrich" and obey Kasimir as their new master. (Due to the enchantment animating them, the flameskulls can’t leave the temple.) However, if the flameskulls subsequently encounter Patrina’s spirit in [[#S6c. Amber Vault]], they turn on the players and serve Patrina’s commands faithfully.
-
+> Se i giocatori convincono i teschiardente che Kasimir è l'erede di Patrina, essi tradiscono allegramente "Heinrich" e obbediscono a Kasimir come loro nuovo padrone. (A causa dell'incantesimo che li anima, i teschiardente non possono lasciare il tempio.) Tuttavia, se i teschiardente incontrano successivamente lo spirito di Patrina nella [[#S6c. Cripta d'Ambra]], si rivoltano contro i giocatori e servono fedelmente i comandi di Patrina.
