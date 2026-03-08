@@ -7,6 +7,15 @@ Questa appendice raccoglie le regole della casa, gli oggetti notevoli della camp
 
 # PARTE I — REGOLE DELLA CASA
 
+## Creazione del Personaggio
+
+**Razze consentite:** solo razze **umanoidi** con **LEP +0** (Livello Effettivo del Personaggio). Niente razze con Modificatore di Livello, niente razze non umanoidi (costrutti, esterni, non morti, ecc.). Sono ammesse tutte le razze umanoidi a LEP +0 presenti nei manuali 3.5, purché compatibili con l'ambientazione — il DM ha diritto di veto su scelte incoerenti con Barovia.
+
+> [!warning] **Nota per i giocatori**
+> C'è un legame particolare con la morte in questa campagna, oltre che un concetto di fretta. Non valutate personaggi bisognosi di infiniti riposi o infinito tempo per funzionare: lo avrete solo da morti.
+
+---
+
 ## Punti Ferita
 
 - **Livello 1:** tutti i PG usano il **massimo del dado vita**
