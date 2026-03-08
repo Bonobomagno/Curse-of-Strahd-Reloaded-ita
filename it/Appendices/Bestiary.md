@@ -845,9 +845,12 @@
 <hr>
 <strong>Immunità ai Danni</strong> veleno<br><strong>Immunità alle Condizioni</strong> avvelenato, affascinato, sfinimento<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> Comune<br><strong>Grado di Sfida</strong> 1 (200 PE)<br><strong>Bonus di Competenza</strong> +2
 <h3>Azioni</h3>
-<p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +2 al tiro per colpire, portata 5 ft., una creatura. Colpito: 9 (2d6 + 2) danni perforanti.</p>
-<p><strong><em>Artigli.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 7 (2d4 + 2) danni taglienti. Se il bersaglio è una creatura diversa da un elfo o un non morto, deve superare un CD 10 Costituzione tiro salvezza o essere paralizzato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turnoi, terminando l'effetto su di sé con un successo.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +2 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 9 (2d6 + 2) danni perforanti.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 7 (2d4 + 2) danni taglienti. Se il bersaglio è una creatura diversa da un elfo o un non morto, deve superare un tiro salvezza su Costituzione con CD 10 o essere paralizzato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su di sé con un successo.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Paralisi:** durata ridotta a **1d4+1 round** (non 1 minuto). In 3.5, con riposi limitati e PF bassi, una paralisi da 10 round è potenzialmente letale per l'intero party. TS Tempra CD 10.
 
 ---
 
@@ -892,12 +895,16 @@
 </table>
 <hr>
 <strong>Resistenze ai Danni</strong> necrotico<br><strong>Immunità ai Danni</strong> veleno<br><strong>Immunità alle Condizioni</strong> avvelenato, affascinato, sfinimento<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> Comune<br><strong>Grado di Sfida</strong> 2 (450 PE)<br><strong>Bonus di Competenza</strong> +2
-<p><strong><em>Stench.</em></strong> Any creature that starts its turno within 5 ft. of the ghast must succeed on a CD 10 Costituzione tiro salvezza or be avvelenato fino all'inizio di il suo turnoo successivo. On a successful tiro salvezza, la creatura is immune to the ghast's Stench per 24 ore.</p>
-<p><strong><em>Turn Defiance.</em></strong> The ghast and any ghouls within 30 ft. of it have advantage on tiro salvezzas against effects that turno non morto.</p>
+<p><strong><em>Fetore.</em></strong> Qualsiasi creatura che inizia il suo turno entro 5 piedi dal ghast deve superare un tiro salvezza su Costituzione con CD 10 o essere avvelenato fino all'inizio del suo turno successivo. Con un tiro salvezza riuscito, la creatura è immune al Fetore di questo ghast per 24 ore.</p>
+<p><strong><em>Sfida allo Scacciare.</em></strong> Il ghast e qualsiasi ghoul entro 30 piedi da esso hanno vantaggio ai tiri salvezza contro effetti che scacciano i non morti.</p>
 <h3>Azioni</h3>
-<p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +3 al tiro per colpire, portata 5 ft., una creatura. Colpito: 12 (2d8 + 3) danni perforanti.</p>
-<p><strong><em>Artigli.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 10 (2d6 + 3) danni taglienti. Se il bersaglio è una creatura diversa da un non morto, deve superare un CD 10 Costituzione tiro salvezza o essere paralizzato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turnoi, terminando l'effetto su di sé con un successo.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +3 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 12 (2d8 + 3) danni perforanti.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 10 (2d6 + 3) danni taglienti. Se il bersaglio è una creatura diversa da un non morto, deve superare un tiro salvezza su Costituzione con CD 10 o essere paralizzato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su di sé con un successo.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Fetore:** causa la condizione *scosso* (−2 ai tiri) invece di *nauseato*. In 3.5 nauseato impedisce qualsiasi azione standard — troppo punitivo con riposi limitati.
+> **Paralisi:** durata ridotta a **1d4+1 round** (non 1 minuto). TS Tempra CD 10.
 
 ---
 
@@ -942,18 +949,23 @@
 </table>
 <hr>
 <strong>Tiri Salvezza</strong> Des +6, Sag +3<br><strong>Abilità</strong> Percezione +3, Furtività +6<br><strong>Resistenze ai Danni</strong> necrotico, bludgeoning, piercing, and slashing from nonmagical weapons<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 13<br><strong>Linguaggi</strong> i linguaggi che conosceva in vita<br><strong>Grado di Sfida</strong> 5 (1,800 PE)<br><strong>Bonus di Competenza</strong> +3
-<p><strong><em>Regeneration.</em></strong> The vampire recupera 10 punti ferita all'inizio del suo turnoo if it ha almeno 1 punto ferita and isn't in luce solare or acqua corrente. If the vampire takes danni radiosi or danni from holy water, this trait doesn't function at the start of the vampire's next turno.</p>
-<p><strong><em>Spider Climb.</em></strong> The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an prova di caratteristica.</p>
-<p><strong><em>Vampire Weaknesses.</em></strong> The vampire has the following flaws:
-Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.
-Harmed by Running Water. The vampire takes 20 danni da acido when it ends its turno in acqua corrente.
-Stake to the Heart. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitato in its resting place.
-Sunlight Hypersensitivity. The vampire takes 20 danni radiosi when it starts its turno in luce solare. While in luce solare, it ha svantaggio a tiro per colpires and prova di caratteristicas.</p>
+<p><strong><em>Rigenerazione.</em></strong> La progenie vampirica recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova in luce solare o acqua corrente. Se la progenie subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> La progenie vampirica può arrampicarsi su superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare prove di caratteristica.</p>
+<p><strong><em>Debolezze del Vampiro.</em></strong> La progenie vampirica ha i seguenti difetti:<br>
+<em>Interdizione.</em> La progenie non può entrare in una residenza senza un invito da parte di uno degli occupanti.<br>
+<em>Danno da Acqua Corrente.</em> La progenie subisce 20 danni da acido quando termina il suo turno in acqua corrente.<br>
+<em>Paletto nel Cuore.</em> La progenie viene distrutta se un'arma perforante di legno viene conficcata nel suo cuore mentre è incapacitata nel suo luogo di riposo.<br>
+<em>Ipersensibilità alla Luce Solare.</em> La progenie subisce 20 danni radiosi quando inizia il suo turno in luce solare. Mentre si trova in luce solare, ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
 <h3>Azioni</h3>
-<p><strong><em>Multiattacco.</em></strong> The vampire makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., one willing creature, or una creatura that is afferrato by the vampire, incapacitato, or trattenuto. Colpito: 6 (1d6 + 3) danni perforanti plus 7 (2d6) danni necrotici. Il bersaglio's punto ferita maximum is reduced by an amount equal to the danni necrotici taken, and the vampire recupera punti ferita equal to that amount. The reduction lasts until il bersaglio finishes a long rest. Il bersaglio dies if this effect reduces its punto ferita maximum to 0.</p>
-<p><strong><em>Artigli.</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., una creatura. Colpito: 8 (2d4 + 3) danni taglienti. Instead of dealing danni, the vampire can grapple il bersaglio (escape CD 13).</p>
+<p><strong><em>Multiattacco.</em></strong> La progenie vampirica effettua due attacchi, di cui solo uno può essere un attacco con Morso.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 5 ft., una creatura consenziente, o una creatura afferrata dalla progenie, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. I punti ferita massimi del bersaglio vengono ridotti di un ammontare pari ai danni necrotici subiti, e la progenie recupera punti ferita pari a tale ammontare. La riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce i suoi punti ferita massimi a 0.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, la progenie può afferrare il bersaglio (CD di fuga 13).</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Rigenerazione:** ridotta a **5 PF/turno** (non 10). L'acqua santa (2d4 radiosi) blocca la rigenerazione per 1 turno — fondamentale perché i PG 3.5 a livello 4 hanno poco accesso a danni radiosi.
+> **Morso — Riduzione PF max:** Poiché con pochi riposi la riduzione dei PF massimi è devastante, permettere che *lesser restoration* o *remove curse* la rimuova (non solo riposo lungo).
+> **Charm (se usato dalla versione Reloaded):** CD ridotta da 13 a **11** (TS Volontà). Un guerriero 3.5 multiclasse ha Volontà +1/+2 — CD 13 è quasi automatico.
 
 ---
 
@@ -997,12 +1009,16 @@ Sunlight Hypersensitivity. The vampire takes 20 danni radiosi when it starts its
   </tbody>
 </table>
 <hr>
-<strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono, bludgeoning, piercing, and slashing from nonmagical weapons<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, privo di sensi<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> understands tutti languages it knew in life ma non può parlare<br><strong>Grado di Sfida</strong> 1 (200 PE)<br><strong>Bonus di Competenza</strong> +2
-<p><strong><em>Incorporeal Movement.</em></strong> The specter can move through other creatures and objects as if they were terreno difficile. It takes 5 (1d10) danni di forza if it ends its turno inside an object.</p>
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in luce solare, the specter ha svantaggio a tiro per colpires, as well as on Saggezza (Perception) checks that rely on sight.</p>
+<strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono; contundenti, perforanti e taglienti da armi non magiche<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, privo di sensi<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> comprende i linguaggi che conosceva in vita ma non può parlare<br><strong>Grado di Sfida</strong> 1 (200 PE)<br><strong>Bonus di Competenza</strong> +2
+<p><strong><em>Movimento Incorporeo.</em></strong> Lo spettro può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni di forza se termina il suo turno all'interno di un oggetto.</p>
+<p><strong><em>Sensibilità alla Luce Solare.</em></strong> Mentre si trova in luce solare, lo spettro ha svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista.</p>
 <h3>Azioni</h3>
-<p><strong><em>Life Drain.</em></strong> Attacco con Incantesimo da Mischia: +4 al tiro per colpire, portata 5 ft., una creatura. Colpito: 10 (3d6) danni necrotici. Il bersaglio deve superare un CD 10 Costituzione tiro salvezza or its punto ferita maximum is reduced by an amount equal to the danni taken. This reduction lasts until la creatura finishes a long rest. Il bersaglio dies if this effect reduces its punto ferita maximum to 0.</p>
+<p><strong><em>Risucchio Vitale.</em></strong> <em>Attacco con Incantesimo da Mischia:</em> +4 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 10 (3d6) danni necrotici. Il bersaglio deve superare un tiro salvezza su Costituzione con CD 10 o i suoi punti ferita massimi vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione persiste finché la creatura non completa un riposo lungo. Il bersaglio muore se questo effetto riduce i suoi punti ferita massimi a 0.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Risucchio Vitale:** la riduzione dei PF massimi è sostituita da **1d4 danni necrotici aggiuntivi** (totale 3d6 + 1d4 necrotici). La riduzione PF max con riposi limitati equivale a una condanna a morte lenta. I danni extra sono recuperabili normalmente.
+> **Incorporeo:** in 3.5, solo armi magiche o argentate colpiscono creature incorporee (50% probabilità con argentate).
 
 ---
 
@@ -1046,13 +1062,18 @@ Sunlight Hypersensitivity. The vampire takes 20 danni radiosi when it starts its
   </tbody>
 </table>
 <hr>
-<strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 12<br><strong>Linguaggi</strong> i linguaggi che conosceva in vita<br><strong>Grado di Sfida</strong> 5 (1,800 PE)<br><strong>Bonus di Competenza</strong> +3
-<p><strong><em>Incorporeal Movement.</em></strong> The wraith can move through other creatures and objects as if they were terreno difficile. It takes 5 (1d10) danni di forza if it ends its turno inside an object.</p>
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in luce solare, the wraith ha svantaggio a tiro per colpires, as well as on Saggezza (Perception) checks that rely on sight.</p>
+<strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono; contundenti, perforanti e taglienti da armi non magiche non argentate<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 12<br><strong>Linguaggi</strong> i linguaggi che conosceva in vita<br><strong>Grado di Sfida</strong> 5 (1.800 PE)<br><strong>Bonus di Competenza</strong> +3
+<p><strong><em>Movimento Incorporeo.</em></strong> La presenza può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni di forza se termina il suo turno all'interno di un oggetto.</p>
+<p><strong><em>Sensibilità alla Luce Solare.</em></strong> Mentre si trova in luce solare, la presenza ha svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista.</p>
 <h3>Azioni</h3>
-<p><strong><em>Life Drain.</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., una creatura. Colpito: 21 (4d8 + 3) danni necrotici. Il bersaglio deve superare un CD 14 Costituzione tiro salvezza or its punto ferita maximum is reduced by an amount equal to the danni taken. This reduction lasts until il bersaglio finishes a long rest. Il bersaglio dies if this effect reduces its punto ferita maximum to 0.</p>
-<p><strong><em>Create Specter.</em></strong> The wraith targets a umanoide entro 10 piedi da it that has been dead for no longer than 1 minute and died violently. Il bersaglio's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.</p>
+<p><strong><em>Risucchio Vitale.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 21 (4d8 + 3) danni necrotici. Il bersaglio deve superare un tiro salvezza su Costituzione con CD 14 o i suoi punti ferita massimi vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce i suoi punti ferita massimi a 0.</p>
+<p><strong><em>Creare Spettro.</em></strong> La presenza sceglie un umanoide entro 10 piedi da sé che sia morto da non più di 1 minuto e sia deceduto in modo violento. Lo spirito del bersaglio si manifesta come spettro nello spazio del suo cadavere o nello spazio non occupato più vicino. Lo spettro è sotto il controllo della presenza. La presenza non può avere più di sette spettri sotto il suo controllo contemporaneamente.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Risucchio Vitale:** la riduzione dei PF massimi è sostituita da **2d6 danni necrotici aggiuntivi** (totale 4d8+3 + 2d6). TS Tempra CD 13 per dimezzare i danni extra. Il drain di Costituzione 3.5 è la meccanica più letale del gioco — ogni punto rimuove PF retroattivamente.
+> **Creare Spettro:** NON funziona sui PG morti. Gli spettri vengono creati solo da PNG uccisi dalla presenza. Perdere un PG E vederlo trasformarsi in nemico è troppo punitivo per un party piccolo.
+> **Incorporeo:** solo armi magiche o argentate colpiscono (50% con argentate in 3.5).
 
 ---
 
@@ -1096,16 +1117,21 @@ Sunlight Hypersensitivity. The vampire takes 20 danni radiosi when it starts its
   </tbody>
 </table>
 <hr>
-<strong>Resistenze ai Danni</strong> acido, fuoco, fulmine, tuono, bludgeoning, piercing, and slashing from nonmagical weapons<br><strong>Immunità ai Danni</strong> freddo, necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 11<br><strong>Linguaggi</strong> qualsiasi linguaggio conoscesse in vita<br><strong>Grado di Sfida</strong> 4 (1,100 PE)<br><strong>Bonus di Competenza</strong> +2
-<p><strong><em>Ethereal Sight.</em></strong> The ghost può vedere 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> The ghost can move through other creatures and objects as if they were terreno difficile. It takes 5 (1d10) danni di forza if it ends its turno inside an object.</p>
+<strong>Resistenze ai Danni</strong> acido, fuoco, fulmine, tuono; contundenti, perforanti e taglienti da armi non magiche<br><strong>Immunità ai Danni</strong> freddo, necrotico, veleno<br><strong>Immunità alle Condizioni</strong> affascinato, sfinimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 11<br><strong>Linguaggi</strong> qualsiasi linguaggio conoscesse in vita<br><strong>Grado di Sfida</strong> 4 (1.100 PE)<br><strong>Bonus di Competenza</strong> +2
+<p><strong><em>Vista Eterea.</em></strong> Il fantasma può vedere a 60 piedi nel Piano Etereo quando si trova nel Piano Materiale, e viceversa.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Il fantasma può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni di forza se termina il suo turno all'interno di un oggetto.</p>
 <h3>Azioni</h3>
-<p><strong><em>Withering Touch.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 17 (4d6 + 3) danni necrotici.</p>
-<p><strong><em>Etherealness.</em></strong> The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.</p>
-<p><strong><em>Horrifying Visage.</em></strong> Each non-non morto creature within 60 ft. of the ghost that può vedere it must succeed on a CD 13 Saggezza tiro salvezza o essere spaventato per 1 minute. If the save fails by 5 or more, il bersaglio also ages 1d4 × 10 years. A spaventato target può ripetere il tiro salvezza alla fine di ciascuno dei suoi turnoi, ending the spaventato condition on itself con un successo. If a target's tiro salvezza is successful or the effect ends for it, il bersaglio is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.</p>
-<p><strong><em>Possession.</em></strong> One umanoide that the ghost può vedere within 5 ft. of it must succeed on a CD 13 Carisma tiro salvezza or be possessed by the ghost; the ghost then disappears, and il bersaglio is incapacitato and loses control of its body. The ghost now controls the body but doesn't deprive il bersaglio of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turno non morto, and it retains its alignment, Intelligenza, Saggezza, Carisma, and immunity to being affascinato and spaventato. It otherwise uses the possessed target's statistics, but doesn't gain access to il bersaglio's knowledge, class features, or proficiencies.
-The possession lasts until the body drops to 0 punti ferita, the ghost ends it come azione bonus, or the ghost is turnoed or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 5 ft. of the body. Il bersaglio is immune to this ghost's Possession per 24 ore after succeeding on the tiro salvezza or after the possession ends.</p>
+<p><strong><em>Tocco Consuntivo.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 17 (4d6 + 3) danni necrotici.</p>
+<p><strong><em>Eterealità.</em></strong> Il fantasma entra nel Piano Etereo dal Piano Materiale, o viceversa. È visibile nel Piano Materiale mentre si trova nel Confine Etereo, e viceversa, ma non può influenzare né essere influenzato da nulla nell'altro piano.</p>
+<p><strong><em>Aspetto Terrificante.</em></strong> Ogni creatura non morta entro 60 piedi dal fantasma che può vederlo deve superare un tiro salvezza su Saggezza con CD 13 o essere spaventata per 1 minuto. Se il tiro fallisce di 5 o più, il bersaglio invecchia anche di 1d4 × 10 anni. Un bersaglio spaventato può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando la condizione spaventato su di sé con un successo. Se il tiro salvezza del bersaglio ha successo o l'effetto termina, il bersaglio è immune all'Aspetto Terrificante di questo fantasma per le successive 24 ore. L'effetto di invecchiamento può essere invertito con un incantesimo *ristorare superiore*, ma solo entro 24 ore dal suo verificarsi.</p>
+<p><strong><em>Possessione (Ricarica 6).</em></strong> Un umanoide che il fantasma può vedere entro 5 piedi da sé deve superare un tiro salvezza su Carisma con CD 13 o essere posseduto dal fantasma; il fantasma scompare e il bersaglio è incapacitato e perde il controllo del proprio corpo. Il fantasma controlla il corpo ma non priva il bersaglio della consapevolezza. Il fantasma non può essere bersaglio di attacchi, incantesimi o altri effetti, ad eccezione di quelli che scacciano i non morti, e mantiene il proprio allineamento, Intelligenza, Saggezza, Carisma e immunità all'essere affascinato e spaventato. Per il resto usa le statistiche del bersaglio posseduto, ma non ha accesso alle conoscenze, capacità di classe o competenze del bersaglio.
+La possessione dura finché il corpo non scende a 0 punti ferita, il fantasma non la termina come azione bonus, o il fantasma non viene scacciato da un effetto come l'incantesimo *dissolvi il bene e il male*. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 5 piedi dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver superato il tiro salvezza o dopo che la possessione termina.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Aspetto Terrificante — Invecchiamento:** effetto puramente narrativo/estetico, non ha impatto meccanico sulle statistiche del PG. In 3.5 l'invecchiamento causa penalità fisiche permanenti — troppo punitivo.
+> **Possessione:** CD ridotta da 13 a **11** (TS Volontà). In 3.5 la possessione equivale a *magic jar* — un effetto di altissimo livello per una creatura GS 4. Con CD 11 un PG con Volontà +2 ha il 50% di resistere.
+> **Incorporeo:** solo armi magiche o argentate. I cantrip a volontà con d6 minimo aiutano i caster a contribuire anche senza slot.
 
 ---
 
@@ -1149,14 +1175,19 @@ The possession lasts until the body drops to 0 punti ferita, the ghost ends it c
   </tbody>
 </table>
 <hr>
-<strong>Abilità</strong> Furtività +4<br><strong>Vulnerabilità ai Danni</strong> radioso<br><strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono, bludgeoning, piercing, and slashing from nonmagical weapons<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> sfinimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> —<br><strong>Grado di Sfida</strong> 1/2 (100 PE)<br><strong>Bonus di Competenza</strong> +2
-<p><strong><em>Amorphous.</em></strong> The shadow can move through a space as narrow as 1 inch wide without squeezing.</p>
-<p><strong><em>Shadow Stealth.</em></strong> While in luce fioca o nell'oscurità, the shadow can take the Hide action come azione bonus. Its stealth bonus is also improved to +6.</p>
-<p><strong><em>Sunlight Weakness.</em></strong> While in luce solare, the shadow ha svantaggio a tiro per colpires, prova di caratteristicas, and tiro salvezzas.</p>
+<strong>Abilità</strong> Furtività +4<br><strong>Vulnerabilità ai Danni</strong> radioso<br><strong>Resistenze ai Danni</strong> acido, freddo, fuoco, fulmine, tuono; contundenti, perforanti e taglienti da armi non magiche<br><strong>Immunità ai Danni</strong> necrotico, veleno<br><strong>Immunità alle Condizioni</strong> sfinimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 10<br><strong>Linguaggi</strong> —<br><strong>Grado di Sfida</strong> 1/2 (100 PE)<br><strong>Bonus di Competenza</strong> +2
+<p><strong><em>Amorfa.</em></strong> L'ombra può muoversi attraverso uno spazio largo appena 2,5 cm senza doversi stringere.</p>
+<p><strong><em>Furtività nell'Ombra.</em></strong> Mentre si trova in luce fioca o nell'oscurità, l'ombra può effettuare l'azione Nascondersi come azione bonus. Il suo bonus di Furtività è inoltre migliorato a +6.</p>
+<p><strong><em>Debolezza alla Luce Solare.</em></strong> Mentre si trova in luce solare, l'ombra ha svantaggio ai tiri per colpire, alle prove di caratteristica e ai tiri salvezza.</p>
 <h3>Azioni</h3>
-<p><strong><em>Strength Drain.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., una creatura. Colpito: 9 (2d6 + 2) danni necrotici, and il bersaglio's Forza score is reduced by 1d4. Il bersaglio dies if this reduces its Forza to 0. Otherwise, the reduction lasts until il bersaglio finishes a short or long rest.
-If a non-evil umanoide dies from this attack, a new shadow rises from the corpse 1d4 hours later.</p>
+<p><strong><em>Risucchio di Forza.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 9 (2d6 + 2) danni necrotici e il punteggio di Forza del bersaglio viene ridotto di 1d4. Il bersaglio muore se questo riduce la sua Forza a 0. Altrimenti, la riduzione dura finché il bersaglio non completa un riposo breve o lungo.
+Se un umanoide non malvagio muore per questo attacco, una nuova ombra sorge dal cadavere dopo 1d4 ore.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Risucchio di Forza:** il drain di Forza è sostituito da **1d4 danni necrotici aggiuntivi** (totale 2d6+2 + 1d4 necrotici) con TS Tempra CD 12 per negare i danni extra. In 3.5, ogni punto di Forza perso riduce tiro per colpire, danni e capacità di carico — un PG con For 10 muore dopo 2-3 colpi, e con riposi limitati non c'è modo di recuperare.
+> **Creazione Ombre:** NON funziona sui PG morti (solo PNG).
+> **Nota:** i cantrip a volontà con danno minimo d6 sono efficaci contro le ombre grazie alla vulnerabilità ai danni radiosi (*sacred flame*, *light* offensivo, ecc.).
 
 ---
 
@@ -1200,15 +1231,19 @@ If a non-evil umanoide dies from this attack, a new shadow rises from the corpse
   </tbody>
 </table>
 <hr>
-<strong>Abilità</strong> Percezione +3, Furtività +4<br><strong>Resistenze ai Danni</strong> necrotico, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered<br><strong>Immunità ai Danni</strong> veleno<br><strong>Immunità alle Condizioni</strong> sfinimento, avvelenato<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 13<br><strong>Linguaggi</strong> i linguaggi che conosceva in vita<br><strong>Grado di Sfida</strong> 3 (700 PE)<br><strong>Bonus di Competenza</strong> +2
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in luce solare, the wight ha svantaggio a tiro per colpires, as well as on Saggezza (Perception) checks that rely on sight.</p>
+<strong>Abilità</strong> Percezione +3, Furtività +4<br><strong>Resistenze ai Danni</strong> necrotico; contundenti, perforanti e taglienti da armi non magiche non argentate<br><strong>Immunità ai Danni</strong> veleno<br><strong>Immunità alle Condizioni</strong> sfinimento, avvelenato<br><strong>Sensi</strong> scurovisione 60 ft., Percezione passiva 13<br><strong>Linguaggi</strong> i linguaggi che conosceva in vita<br><strong>Grado di Sfida</strong> 3 (700 PE)<br><strong>Bonus di Competenza</strong> +2
+<p><strong><em>Sensibilità alla Luce Solare.</em></strong> Mentre si trova in luce solare, il wight ha svantaggio ai tiri per colpire e alle prove di Saggezza (Percezione) basate sulla vista.</p>
 <h3>Azioni</h3>
-<p><strong><em>Multiattacco.</em></strong> The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.</p>
-<p><strong><em>Life Drain.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., una creatura. Colpito: 5 (1d6 + 2) danni necrotici. Il bersaglio deve superare un CD 13 Costituzione tiro salvezza or its punto ferita maximum is reduced by an amount equal to the danni taken. This reduction lasts until il bersaglio finishes a long rest. Il bersaglio dies if this effect reduces its punto ferita maximum to 0.
-A umanoide slain by this attack rises 24 hours later as a zombie under the wight's control, unless the umanoide is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.</p>
-<p><strong><em>Spada Lunga.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 6 (1d8 + 2) danni taglienti, or 7 (1d10 + 2) danni taglienti if used with two hands.</p>
-<p><strong><em>Arco Lungo.</em></strong> Attacco con Arma a Distanza: +4 al tiro per colpire, gittata 150/600 ft., un bersaglio. Colpito: 6 (1d8 + 2) danni perforanti.</p>
+<p><strong><em>Multiattacco.</em></strong> Il wight effettua due attacchi con Spada Lunga o due attacchi con Arco Lungo. Può usare il suo Risucchio Vitale al posto di un attacco con Spada Lunga.</p>
+<p><strong><em>Risucchio Vitale.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., una creatura. <em>Colpito:</em> 5 (1d6 + 2) danni necrotici. Il bersaglio deve superare un tiro salvezza su Costituzione con CD 13 o i suoi punti ferita massimi vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce i suoi punti ferita massimi a 0.
+Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il controllo del wight, a meno che non venga riportato in vita o il suo corpo venga distrutto. Il wight non può avere più di dodici zombi sotto il suo controllo contemporaneamente.</p>
+<p><strong><em>Spada Lunga.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d8 + 2) danni taglienti, o 7 (1d10 + 2) danni taglienti se usata a due mani.</p>
+<p><strong><em>Arco Lungo.</em></strong> <em>Attacco con Arma a Distanza:</em> +4 al tiro per colpire, gittata 150/600 ft., un bersaglio. <em>Colpito:</em> 6 (1d8 + 2) danni perforanti.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Risucchio Vitale:** la riduzione dei PF massimi è sostituita da **1d6 danni necrotici aggiuntivi** (totale 1d6+2 + 1d6 necrotici). Con riposi limitati, la riduzione permanente dei PF max equivale a un drain di livello 3.5 — irrecuperabile senza *restoration*.
+> **Creazione Zombi:** funziona normalmente (i PG uccisi possono diventare zombi — ma il DM dovrebbe dare al party l'opportunità di distruggere il corpo o riportare in vita l'alleato prima delle 24 ore).
 
 ---
 
@@ -3153,14 +3188,18 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
   </tbody>
 </table>
 <hr>
-<strong>Tiri Salvezza</strong> Int +5, Sag +6, Car +7<br><strong>Abilità</strong> Inganno +7, Intuizione +6<br><strong>Resistenze ai Danni</strong> freddo, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered<br><strong>Immunità ai Danni</strong> fuoco, veleno<br><strong>Immunità alle Condizioni</strong> avvelenato<br><strong>Sensi</strong> scurovisione 120 ft., Percezione passiva 12<br><strong>Linguaggi</strong> Infernale, telepatia 120 ft.<br><strong>Grado di Sfida</strong> 9 (5,000 PE)<br><strong>Bonus di Competenza</strong> +4
-<p><strong><em>Devil's Sight.</em></strong> Magical darkness doesn't impede the devil's darkvision.</p>
-<p><strong><em>Magic Resistance.</em></strong> The devil ha vantaggio a tiro salvezzas against spells and other magiche effects.</p>
+<strong>Tiri Salvezza</strong> Int +5, Sag +6, Car +7<br><strong>Abilità</strong> Inganno +7, Intuizione +6<br><strong>Resistenze ai Danni</strong> freddo; contundenti, perforanti e taglienti da armi non magiche non argentate<br><strong>Immunità ai Danni</strong> fuoco, veleno<br><strong>Immunità alle Condizioni</strong> avvelenato<br><strong>Sensi</strong> scurovisione 120 ft., Percezione passiva 12<br><strong>Linguaggi</strong> Infernale, telepatia 120 ft.<br><strong>Grado di Sfida</strong> 9 (5.000 PE)<br><strong>Bonus di Competenza</strong> +4
+<p><strong><em>Vista del Diavolo.</em></strong> L'oscurità magica non impedisce la scurovisione del diavolo.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> Il diavolo ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
 <h3>Azioni</h3>
-<p><strong><em>Multiattacco.</em></strong> The devil makes three attacks: two with its claws and one with its sting.</p>
-<p><strong><em>Artiglio.</em></strong> Attacco con Arma da Mischia: +8 al tiro per colpire, portata 10 ft., un bersaglio. Colpito: 8 (1d8 + 4) danni taglienti.</p>
-<p><strong><em>Sting.</em></strong> Attacco con Arma da Mischia: +8 al tiro per colpire, portata 10 ft., un bersaglio. Colpito: 13 (2d8 + 4) danni perforanti plus 17 (5d6) danni da veleno, and il bersaglio deve superare un CD 14 Costituzione tiro salvezza or become avvelenato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turnoi, terminando l'effetto su di sé con un successo.</p>
+<p><strong><em>Multiattacco.</em></strong> Il diavolo effettua tre attacchi: due con gli Artigli e uno con il Pungiglione.</p>
+<p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 al tiro per colpire, portata 10 ft., un bersaglio. <em>Colpito:</em> 8 (1d8 + 4) danni taglienti.</p>
+<p><strong><em>Pungiglione.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 al tiro per colpire, portata 10 ft., un bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 14 o essere avvelenato per 1 minuto. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto su di sé con un successo.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Pungiglione — Veleno:** i danni da veleno sono ridotti da **5d6 a 3d6** (media da 17 a 10). Un PG 3.5 livello 8 con d6 DV (mago/rogue multiclasse) ha circa 30-35 PF — 13 + 17 = 30 danni in un colpo è un one-shot. Con 3d6 il veleno resta pericoloso (13 + 10 = 23) ma sopravvivibile.
+> **TS Veleno:** in 3.5 il veleno richiede due TS Tempra separati (impatto + 1 minuto dopo). Usare un singolo TS con CD 14 come scritto per semplicità.
 
 ---
 
@@ -3802,3 +3841,9 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia:</em> +10 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 13 (2d6 + 6) danni taglienti.</p>
 <p><strong><em>Soffio d'Ombra (Ricarica 5-6).</em></strong> Il drago esala fuoco d'ombra in un cono di 30 piedi. Ogni creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17, subendo 56 (16d6) danni necrotici con un tiro fallito, o la metà dei danni con un tiro riuscito. Un umanoide ridotto a 0 punti ferita da questi danni muore, e un'ombra si forma dal suo cadavere dopo 1d4 ore.</p>
 </div>
+
+> [!tip] **Variante 3.5**
+> **Soffio d'Ombra:** danni ridotti da **16d6 a 12d6** necrotici (media da 56 a 42). Un party livello 10 con d6 DV medi ha ~50-60 PF — 56 danni medi sono un TPK quasi garantito anche con metà danni. Con 12d6 (42 media) il soffio resta terrificante ma sopravvivibile con un TS riuscito (21 danni).
+> **Creazione Ombre:** NON funziona sui PG ridotti a 0 PF dal soffio. Le ombre si formano solo da PNG uccisi.
+> **Danni radiosi:** se un PG infligge danni radiosi al drago (Lama del Sole, *sacred flame*, ecc.), il drago non può usare il Soffio d'Ombra nel suo turno successivo (il radioso purifica temporaneamente il fuoco d'ombra).
+> **Nota tattica:** questo è un incontro endgame (livello 10). Il party dovrebbe avere la Lama del Sole e la Reliquia Ancestrale potenziata al massimo (32k mo). La Sensibilità alla Luce Solare del drago è la chiave: combattere all'aperto di giorno o con luce solare magica è fondamentale.
