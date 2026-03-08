@@ -665,6 +665,9 @@ Le streghe combattono per autodifesa, o se i giocatori rendono chiaro che non in
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
 </div>
 
+> [!tip] **Modifica 3.5 — Morgantha**
+> Morgantha è CR 3 con *change shape*, invisibilità e piano etereo. **Non modificare le statistiche**, ma avvertire i giocatori che catturarla richiede armi argentate o magia — le armi normali hanno **svantaggio ai danni**. La pietra del cuore è necessaria per il rituale: Morgantha può cedere se le viene fatto capire che distruggerla le costa la pietra *e* la vita.
+
 > [!combat]- **Combattimento - Le Streghe**
 > **Livello di Combattimento**: Impegnativo (prima fase), Impegnativo (seconda fase)
 > **Livello Personaggi Previsto**: 5
@@ -961,6 +964,9 @@ Gli spettri fluttuano nell’aria verso Stella, protendendo le mani per afferrar
 * «Per favore. Per favore. *Per favore*...»
 
 Gli occhi in preda al panico di Victor guizzano verso i giocatori, e Stella si rannicchia su se stessa, la paura evidente sul suo volto. Erasmus e [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (se presente) attaccano gli spettri non appena si avvicinano entro 4,5 metri dallo spirito di Stella, esortando i giocatori a unirsi a loro.
+
+> [!tip] **Modifica 3.5 — Piano Etereo**
+> Gli spiriti famelici arrivano in **2 ondate da 3** (non 3 ondate da 4). L'Oratore della Forca (Leo Dilisnya) rimane invariato — è il climax narrativo dell'arco. **Solo armi magiche o argentate** colpiscono gli spiriti nel Piano Etereo (incluse monete magiche come proiettili, se creative). Il Fascino dell'Eroismo di Massa trovato nel Vecchio Macinaossa è ideale — suggerire ai giocatori di tenerlo in riserva. Se Lady Wachter è presente e partecipa, non ridurre nulla.
 
 > [!combat]- **Combattimento - Gli Spettri**
 > **Livello di Combattimento**: Lieve

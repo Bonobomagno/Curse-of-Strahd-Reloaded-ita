@@ -11,19 +11,46 @@ Questa appendice raccoglie le regole della casa, gli oggetti notevoli della camp
 
 - **Livello 1:** tutti i PG usano il **massimo del dado vita**
 - **Livelli successivi:** media del dado vita +1 (d6→4, d8→5, d10→6, d12→7)
+- **Dado vita minimo d6:** le classi con dado vita d4 (mago, stregone) usano un **d6** al suo posto
+- **Minimo 4 PF per livello:** un d6 garantisce sempre almeno 4 PF per livello (media+1)
+
+## Riposo e Guarigione (Sistema Dadi Vita)
+
+I PG 3.5 utilizzano il sistema di guarigione dei Dadi Vita (ispirato alla 5e) per tutta la campagna:
+
+- **Riposo breve** (1 ora): il PG può spendere **uno o più Dadi Vita** (fino al massimo accumulato). Per ogni dado speso, tira il dado e somma il **modificatore di Costituzione**: recupera quel totale in PF. I Dadi Vita spesi non si rigenerano fino al prossimo riposo lungo.
+- **Riposo lungo** (8 ore): il PG recupera **tutti i PF** e rigenera **metà dei Dadi Vita spesi** (minimo 1).
+- **Dadi Vita totali:** ogni PG possiede un numero di Dadi Vita pari al proprio **livello di classe**. Il tipo di dado corrisponde al dado vita della classe (con il minimo d6 sopra indicato).
+
+> [!info] **Esempio**
+> Un mago di 3° livello ha 3d6 Dadi Vita. Durante un riposo breve, può spendere 1, 2 o 3 di essi, tirando 1d6+mod Cos per ciascuno. Dopo un riposo lungo, recupera tutti i PF e rigenera 1-2 Dadi Vita spesi.
 
 ---
 
 ## Cantrip Scalabili
 
-I cantrip da danno scalano ogni 4 livelli:
+I cantrip da danno sono **a volontà** (nessun limite giornaliero) e scalano ogni 4 livelli. Il danno minimo di un cantrip è **1d6** (se il cantrip base infligge meno di 1d6, usa 1d6 al suo posto).
+
+> [!warning] **Cantrip di cura**
+> I cantrip di cura (come *stabilize* o simili) usati a volontà **stabilizzano** soltanto un alleato a 0 PF — non ripristinano punti ferita. La guarigione effettiva richiede slot incantesimo o pozioni.
 
 | Livello PG | Dadi |
 |---|---|
-| 1-4 | dado base |
+| 1-4 | dado base (min 1d6) |
 | 5-8 | +1 dado |
 | 9-12 | +2 dadi |
 | 13+ | +3 dadi |
+
+---
+
+## Talenti e Classi di Combattimento
+
+Per ridurre la "tassa di talenti" sulle classi marziali e rendere competitivi i combattenti nella fascia di livello 4-9:
+
+- **Schivare e Mobilità non contano come prerequisiti.** Qualunque talento che richieda Schivare e/o Mobilità ignora tali prerequisiti (il personaggio può comunque prenderli se lo desidera).
+- **Prerequisiti di caratteristica ridotti di 2.** I requisiti di caratteristica per i talenti di combattimento si abbassano di 2 punti (Des 15→13, For 13→11, ecc.).
+- **Prerequisiti di BAB ridotti di 2.** I requisiti di Bonus di Attacco Base per i talenti di combattimento si abbassano di 2 (BAB +6→+4, BAB +4→+2, ecc.; minimo BAB +1).
+- **Materiale consentito:** tutto il materiale ufficiale D&D 3.5, soggetto a **veto del DM** su singole opzioni.
 
 ---
 

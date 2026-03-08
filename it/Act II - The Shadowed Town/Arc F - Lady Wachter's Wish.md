@@ -8,6 +8,9 @@ Se Lady Wachter stabilisce che i giocatori sono alleati adatti, chiede loro di u
 
 Se i giocatori accettano l’incarico di Lady Wachter, Ernst fornisce loro una bottiglia di vino avvelenato da usare per intossicare Izek, insieme a informazioni utili per pedinare Izek e assassinarlo. I giocatori possono trovare Izek nella piazza principale di Vallaki e infine seguirlo fino alla riva del Lago Zarovich, dove — se i giocatori lo hanno piazzato con successo — beve il vino avvelenato.
 
+> [!tip] **Modifica 3.5 — Cultisti**
+> Se i giocatori combattono i cultisti di Lady Wachter, limitare il numero attivo a **non più di 4 contemporaneamente** — gli altri rimangono a distanza o fuggono. Lady Wachter stessa non è un bersaglio di combattimento; se attaccata, si ritira e manda guardie.
+
 Se i giocatori consegnano la testa mozzata di Izek a Lady Wachter, lei fa visita al Barone Vallakovich sotto il manto dell’oscurità la notte seguente, accompagnata da un trio di **fanatici del culto.** Alla vista della testa di Izek, il Barone si arrende pacificamente al governo di Lady Wachter. La mattina seguente, il Barone abdica pubblicamente in favore di Lady Wachter nella piazza principale di Vallaki.
 
 > [!abstract]+ **Tè con Fiona**

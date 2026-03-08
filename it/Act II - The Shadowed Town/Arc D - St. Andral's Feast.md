@@ -297,6 +297,9 @@ Le ossa sono state nascoste come descritto in <span class=”citation”>N6e. He
 
 La trappola ad ago avvelenato può essere identificata e disinnescata come descritto nella <span class=”citation”>Dungeon Master’s Guide (p. 123)</span>.
 
+> [!tip] **Modifica 3.5 — Veleno**
+> In 3.5, i veleni richiedono due TS Tempra. Per il sistema ibrido, usare un **unico TS Tempra CD 12** (come la CD Costituzione 5e). Il danno resta invariato.
+
 > [!warning]+ **Quale Ago?**
 > Esistono due trappole ad ago avvelenato ufficiali in *Dungeons & Dragons* 5a Edizione: l’***ago avvelenato*** fornito a pagina 123 della *Guida del Dungeon Master*, e la ***trappola ad ago avvelenato*** fornita a pagina 114 della *Guida Omnicomprensiva di Xanathar*. Questa guida si riferisce alla prima, che si limita ad avvelenare la vittima invece di paralizzarla.
 
@@ -332,6 +335,9 @@ Se i giocatori permettono al meccanismo rumoroso di attivarsi, [[Non-Player Char
 > ***Morale.*** In combattimento, Volenta assaporerebbe con gioia l’opportunità di testare le sue armi personalizzate su soggetti ostili — e, quando spinta abbastanza oltre, di fare a pezzi quei soggetti a mani nude e a morsi.
 >
 > ***Relazioni.*** Volenta è fanaticamente leale a Strahd von Zarovich, e considera le altre spose e i favoriti del suo signore — specialmente Anastrasya, Ludmilla ed Escher — con profondo risentimento, gelosia e sospetto.
+
+> [!tip] **Modifica 3.5 — Progenie Vampiriche**
+> Con PG di livello 4 e risorse limitate, due progenie + Volenta in contemporanea sono potenzialmente letali. Opzione consigliata: **1 sola progenie in prima linea**, la seconda emerge solo se la prima viene distrutta o se i giocatori cercano di fuggire. Volenta ha rigenerazione 10 PF/turno — ricordare che **acqua santa e danni radiosi la bloccano**. Padre Lucian con *spirit guardians* è essenziale; se i giocatori non hanno acqua santa, Padre Lucian può usare la sua come azione bonus.
 
 Volenta usa le due progenie vampiriche come copertura, ponendole tra sé e i giocatori. Poi li saluta come segue, dando loro ogni volta l’opportunità di rispondere:
 

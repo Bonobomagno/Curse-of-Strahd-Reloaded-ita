@@ -248,7 +248,7 @@ Un giocatore che entra nella dispensa scopre che uno degli scaffali contiene un 
 
 Pochi centimetri dietro il posto vuoto sullo scaffale si trova una pentola di rame antico, con il coperchio leggermente sollevato. Da sotto il coperchio fa capolino il tappo di quella che sembra essere una bottiglia di vino.
 
-Un giocatore che apre la pentola vi trova una bottiglia di vino, un pezzo di pizzo delicato ripiegato, una fiala di polvere essiccata brunastra e un mazzolino di girasoli appassiti legato a un piccolo rotolo di pergamena.
+Un giocatore che apre la pentola vi trova una bottiglia di vino, un pezzo di pizzo delicato ripiegato, una fiala di polvere essiccata brunastra, un mazzolino di girasoli appassiti legato a un piccolo rotolo di pergamena e una **pozione di guarigione** (2d4+2 PF) in una fialetta di vetro scuro con un'etichetta sbiadita che recita «Rimedio della Signora».
 
 * L'etichetta del vino mostra che proviene dalla tenuta vinicola Mago dei Vini e riporta il nome del vino: Champagne du le Stomp. (Un giocatore che beve il vino scopre che si è trasformato in aceto, come se fosse magicamente invecchiato di secoli in pochi istanti.)
 * Il pezzo di pizzo reca l'iniziale "K" cucita su un angolo.
@@ -327,7 +327,7 @@ Questa stanza è in gran parte come descritta in <span class="citation">Library 
 <p>Klara</p>
 </div>
 
-Il primo cassetto della scrivania ora contiene una serie di ricevute per candele, pugnali e incenso, anziché la chiave della [[#Stanza dei Bambini]].
+Il primo cassetto della scrivania ora contiene una serie di ricevute per candele, pugnali e incenso, anziché la chiave della [[#Stanza dei Bambini]]. Nel secondo cassetto, avvolta in un panno di velluto, si trova una **pozione di guarigione** (2d4+2 PF), con un'etichetta che recita «Per i nervi — Dr. Herstmann».
 
 Un personaggio che perquisisce la stanza per 1 minuto e supera una prova di Saggezza (Percezione) con CD 15 può vedere la luce tremolante di una candela che emana da sotto la porta segreta.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
@@ -425,6 +425,8 @@ Questa stanza è in gran parte come descritta in <span class="citation">Master S
 </div>
 
 ***Il Letto.*** Un giocatore che si avvicina al letto può vedere che un grande coltello da cucina macchiato di sangue è stato conficcato in uno dei cuscini.
+
+***La Toilette.*** Tra le boccette di profumo polverose sulla toilette, un giocatore che supera una prova di Saggezza (Percezione) con CD 12 nota una fialetta dal liquido rosato ancora intatto: una **pozione di guarigione** (2d4+2 PF).
 
 ***Il Cofanetto di Gioielli.*** Il cofanetto è vuoto di oggetti di valore. Invece, è riempito di grano, con un *frammento d'ambra* che riposa al centro della scatola. (Questo frammento d'ambra è la chiave unica per la porta segreta nella [[#Biblioteca]].)
 
@@ -744,6 +746,8 @@ Quest'area è in gran parte come descritta in <span class="citation">Larder (p. 
 
 Il **grick** in questa alcova—i resti deformati del cadavere scuoiato di Gustav Durst—è arrotolato sul soffitto, e si lascia cadere sulla sua vittima quando entra. Una prova di Saggezza (Percezione) con CD 17 permette a un giocatore di individuare la sua presenza prima di entrare.
 
+Accanto al cadavere di un cultista (riconoscibile dalla veste cerimoniale strappata), un giocatore che perquisisce l'area trova una **Blessed Bandage** *(Integrazione 3.5)* — una benda di lino benedetto. Una volta al giorno, può essere applicata come azione gratuita per curare 2 PF.
+
 Se i giocatori disturbano il grick, leggete:
 
 <div class="description">
@@ -786,6 +790,9 @@ Quest'area è in gran parte come descritta in <span class="citation">Ghoulish En
 </div>
 
 Quando un giocatore entra per la prima volta in uno dei quadretti da 1,5 metri all'ingresso dei corridoi (contrassegnati con T sulla mappa), tre **ghoul** emergono dal terreno negli spazi contrassegnati con S e attaccano.
+
+> [!tip] **Modifica 3.5**
+> Ridurre a **2 ghoul** invece di 3. La CD della paralisi scende da 12 a **CD 10** (Tiro Salvezza Tempra). A livello 2, un PG 3.5 ha Fort +2/+3 — la CD originale garantisce circa il 50% di fallimento, troppo punitivo.
 
 ![[Ghoulish Encounter Map.png]]
 > [!combat]- **Combattimento - Ghoul**
@@ -974,7 +981,12 @@ Un giocatore che si avvicina all’altare vede che le parole “NUTRITELO” son
 
 Il fagotto sopra l’altare ha le dimensioni e la forma di un neonato avvolto in fasce. Se viene aperto, i giocatori scoprono che contiene invece un pugnale arrugginito e seghettato, macchiato di rosso con sangue antico.
 
+Incastonato in una nicchia alla base dell’altare, un giocatore che supera una prova di Saggezza (Percezione) con CD 14 nota un piccolo diamante scuro, freddo al tatto: un **Least Iron Ward Diamond** *(Integrazione 3.5)*. Ha 3 cariche al giorno; come reazione quando si subisce danno, si può spendere 1 carica per ottenere riduzione del danno 3/adamantite fino all’inizio del proprio prossimo turno.
+
 L’ombra scura nella caverna è un **cumulo di carne** contenente lo spirito e i resti di Walter.<sup><a href=”https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/”>1</a></sup> È un cumulo gonfio e rigonfio di ossa, carne e sangue rappreso che sembra respirare mentre la sua massa si alza e si abbassa. Un giocatore che lo osserva conclude che sembra addormentato.
+
+> [!tip] **Modifica 3.5**
+> Ridurre i PF del cumulo di carne del **~20%**. Se possiede rigenerazione, limitarla a **1 sola attivazione** per combattimento oppure rimuoverla del tutto. I party di livello 2 in 3.5 hanno PF molto bassi e rischiano di esaurire le risorse prima di ucciderlo.
 
 Le ombre dei cultisti descritte in <span class=”citation”>”One Must Die!” (p. 220)</span> non appaiono quando un giocatore sale sull’altare. Invece, i giocatori hanno due scelte: sacrificare una creatura vivente sull’altare, o attaccare il cumulo di carne.
 

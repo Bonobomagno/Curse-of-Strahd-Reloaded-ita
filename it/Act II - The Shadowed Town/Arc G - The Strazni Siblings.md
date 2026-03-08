@@ -271,6 +271,13 @@ Se cosciente, Ireena usa un pugnale nascosto nel suo stivale per liberarsi dai l
 > | 6 | Aumentate i punti ferita di Izek a 128 in ciascuna fase. Per la sua prima fase, aumentate l'attacco con ascia da battaglia argentata a 11 (1d12+5) danni e la sua azione bonus vortice tagliente a 6 (1d12) danni. Per la sua seconda fase, aumentate l'attacco con ascia da battaglia argentata a 10 (1d10+5) danni taglienti più 2 (1d4) danni da fuoco, l'attacco pugno ardente a 9 (1d8+5) danni contundenti più 2 (1d4) danni da fuoco, l'azione ondata fiammeggiante a 13 (2d12) danni, e la reazione bruciatura di rappresaglia a 5 (1d10) danni da fuoco. |
 
 
+> [!tip] **Modifica 3.5 — Izek e Guardie**
+> Izek è un boss solido per livello 4. **Non ridurre i suoi PF**, ma:
+> - Di giorno in pubblico, le **guardie rimangono neutrali** e non intervengono contro i giocatori.
+> - Di notte nel suo rifugio, scontro diretto senza guardie.
+> - Se i giocatori si infiltrano nella dimora del Barone, ridurre le **guardie attive a 6** (le altre 6 sono nel perimetro esterno).
+> - Il fuoco di Izek bypassa le resistenze normali ma non le immunità.
+
 ## G4b. Assaltare la dimora
 Se i giocatori causano trambusto alla porta principale o al primo piano della dimora, [[Non-Player Characters#Izek Strazni|Izek]] li sente e esce dalla sua camera da letto, portando con sé la sua ascia da battaglia argentata in caso di battaglia. Combatte alla minima provocazione.
 ## G4c. La gratitudine di Ireena

@@ -163,6 +163,11 @@ Wensencia informa bruscamente i giocatori che "Madre Lysaga" li ha convocati nel
 ## I4b. La Capanna di Baba Lysaga
 <span class="citation"><em>Questa scena si svolge nel Capitolo 10: Area U3.</em></span>
 
+> [!tip] **Modifica 3.5 — Baba Lysaga**
+> Baba Lysaga è **CR 11** ed è deliberatamente fuori portata. **Non modificare le statistiche** — l'asimmetria è intenzionale. Se i giocatori tentano di combatterla, ricordare tramite NPC o indizi ambientali che è fuori dalla loro portata. In caso di TPK imminente, Baba Lysaga può scegliere di **cacciarli** invece di ucciderli — non li considera degni di uno sforzo letale.
+>
+> **Riposo a Krezk:** dopo aver completato questo arco, i giocatori possono godere di **1 riposo lungo completo garantito** senza interruzioni (il villaggio è protetto da acqua benedetta). Ideale per ricaricare slot prima degli archi successivi.
+
 La Capanna di Baba Lysaga è come descritta in <span class="citation">U3. Baba Lysaga's Hut (p. 163)</span>. Tuttavia, il suono di una dolce ninna nanna si ode provenire dalla porta aperta della capanna, attutito dallo strepito dei corvi. Inoltre, se lo **strige maggiore** ha avvertito Baba Lysaga dell'arrivo dei giocatori, esso è appollaiato sulla cima della capanna, osservando silenziosamente i giocatori mentre si avvicinano.
 
 All'arrivo alla base del ceppo su cui la capanna è appollaiata, se Wensencia è presente, annuncia la presenza dei giocatori prima di allontanarsi. (Si noti che, poiché la capanna è costruita sopra un enorme ceppo, i giocatori devono arrampicarsi sulle radici del ceppo per raggiungere l'ingresso e la porta d'entrata della capanna.)

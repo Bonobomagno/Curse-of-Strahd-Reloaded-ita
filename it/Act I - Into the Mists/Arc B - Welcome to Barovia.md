@@ -509,6 +509,9 @@ Se è presente, il volto di Bildrath si fa cupo, e stringe saldamente la balestr
 
 In combattimento, gli zombi concentrano i loro attacchi sulla barricata, tentando di abbatterla con i loro attacchi di ***schianto***. Una volta che gli zombi hanno aperto una breccia nella barricata, tentano di riversarsi attraverso di essa, attaccando qualsiasi difensore che si trovi sulla loro strada.
 
+> [!tip] **Modifica 3.5**
+> Limitare l'assedio a **massimo 2 ondate** per notte. Con PF ridotti in 3.5, ondate ripetute di non morti sono logoranti. Ismark e gli NPC del villaggio devono contribuire attivamente al combattimento, non essere decorativi.
+
 ***La Seconda Ondata.*** All'inizio del terzo round di combattimento dopo l'arrivo della prima ondata, due ulteriori **zombi** emergono dalle tenebre, accompagnati da due **ghoul**. Leggete:
 
 <div class="description">
@@ -1037,7 +1040,9 @@ Una volta ricevuto il suo simbolo sacro, Padre Donavich accetta volentieri di ce
 
 Il cimitero è come descritto in <span class="citation">E6. Cemetery (p. 48)</span>. Di notte, è sorvegliato da due **sciami di pipistrelli** — spie di Strahd — appesi alle grondaie della chiesa e dei mausolei vicini, che osservano i giocatori.
 
-Entrando nel cimitero, Donavich recupera quattro pale da un capanno addossato alla chiesa e le condivide con i giocatori. Quando la fossa è completamente scavata e l’alba è iniziata, Donavich offre preghiere al Signore del Mattino, chiedendo la liberazione di Kolyan nel seguente ritornello:
+Nel capanno addossato alla chiesa, oltre agli attrezzi da giardinaggio, un giocatore che perquisisce gli scaffali trova due **Healer's Kit** *(Integrazione 3.5)* — borse di cuoio con bende, erbe e unguenti, apparentemente preparate da un precedente guaritore del villaggio.
+
+Entrando nel cimitero, Donavich recupera quattro pale dal capanno e le condivide con i giocatori. Quando la fossa è completamente scavata e l’alba è iniziata, Donavich offre preghiere al Signore del Mattino, chiedendo la liberazione di Kolyan nel seguente ritornello:
 
 <div class="description" style="text-align: center;">
 <p>O Signore del Mattino</p>

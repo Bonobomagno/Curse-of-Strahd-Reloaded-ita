@@ -39,6 +39,8 @@ Se [[Non-Player Characters#Ireena Kolyana|Ireena]] è con i giocatori, può aiut
 Gli esploratori stanno cercando la famiglia Lansten: due genitori e tre bambini piccoli — una ragazza e due ragazzi — scomparsi durante l’attacco degli zombi al villaggio e non più visti da allora. Dopo aver chiesto se i giocatori hanno avvistato i ricercati durante il viaggio, gli esploratori li avvertono di non allontanarsi dalla strada, notando che creature morte e oscure si annidano sotto le cime degli alberi. Kereza e Korga si congedano quindi rispettosamente.
 
 Poco dopo che i giocatori riprendono il cammino lungo la Vecchia Strada di Svalich, comincia a cadere una pioggerella leggera, sollevando una nebbia sottile che si insinua nel sottobosco.
+
+Lungo la strada, seminascosto fra le radici di un albero abbattuto, un giocatore con Saggezza (Percezione) passiva 14 o superiore nota un piccolo zaino di cuoio abbandonato, coperto di muschio. Al suo interno si trovano delle **Everlasting Rations** *(Integrazione 3.5)* — una borsa di pelle sigillata che produce cibo e acqua sufficienti per una persona al giorno, su comando. Lo zaino sembra appartenuto a un viaggiatore sfortunato che non ha mai raggiunto la sua destinazione.
 ## C1b. Il Deposito di Van Richten
 Mentre i giocatori proseguono lungo la strada, leggete:
 
@@ -62,7 +64,7 @@ I giocatori possono tentare di attirare gli zombi lontano dalla radura; data la 
 >
 > * ***Undead Fortitude (1/giorno).*** Se il danno riduce lo zombie a 0 punti ferita, lo zombie scende invece a 1 punto ferita. Lo zombie non può usare questa capacità se il danno è radioso o da un colpo critico, se il danno subito è 15 o più, o se aveva solo 1 punto ferita rimanente.
 
-Se i giocatori raggiungono la quercia, possono trovare il deposito di armi di Van Richten dove Doru aveva indicato: in una cavità nascosta fra le radici dell’albero. Il deposito è una piccola cassa di legno non chiusa a chiave contenente 20 quadrelli d’argento per balestra, una balestra leggera, due *healer’s kit*, due fiale di *holy water* e una *potion of healing*.
+Se i giocatori raggiungono la quercia, possono trovare il deposito di armi di Van Richten dove Doru aveva indicato: in una cavità nascosta fra le radici dell’albero. Il deposito è una piccola cassa di legno non chiusa a chiave contenente 20 quadrelli d’argento per balestra, una balestra leggera, due *healer’s kit*, due fiale di *holy water* e una **Healing Belt** *(Integrazione 3.5)* — una cintura di cuoio rinforzato con fibbia d’argento incisa con il simbolo di Ezra. Ha 3 cariche al giorno; come azione, si possono spendere 1/2/3 cariche per curare 2d8/3d8/4d8 PF. *(Sostituisce la potion of healing originale.)*
 # C2. Incrocio del Fiume Ivlis
 <span class=”citation”><em>Questa scena si svolge nel Capitolo 2: Area F.</em></span>
 
@@ -348,6 +350,8 @@ Il viaggio dall’Incrocio del Fiume Ivlis all’Accampamento del Tser Pool è l
 
 ## C4a. Arrivo al Tser Pool
 Quest’area è in gran parte come descritta in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. Tuttavia, nessuno dei Vistani al campo è ubriaco, e solo una — una donna Vistana di nome Eliza — funge da spia per Strahd.
+
+Tra le merci esposte su un tappeto da un mercante Vistano, i giocatori possono notare un **Chronocharm of the Fateweaver** *(Integrazione 3.5)* — un piccolo ciondolo d’osso inciso con il simbolo di una ruota che gira. Una volta al giorno, permette di rilanciare qualsiasi tiro di d20 prima di conoscere il risultato. Il mercante lo offre in cambio di 50 mo o di un favore: consegnare un messaggio sigillato a un Vistano di nome Luvash al campo di Vallaki.
 
 Quando i giocatori entrano nel campo, sono accolti da Stanimir, un vecchio Vistano che li informa che la leader del loro accampamento, Madam Eva, li sta aspettando e indica loro la tenda di Eva. Stanimir, un vecchio gioviale e colorito con una scintilla negli occhi, è in gran parte come descritto in <span class="citation">Mysterious Visitors (p. 19)</span>. Tuttavia, ha preparato l’incantesimo *major image* invece di *vampiric touch*.
 
@@ -953,6 +957,11 @@ I lupi mannari non attaccano immediatamente, preferendo aspettare il momento per
 
 <div class="description"><p>La strada boscosa vi conduce attraverso una piccola radura nel bosco, il perimetro circolare degli alberi disseminato di fitti cespugli, massi coperti di muschio e creste rocciose.</p>
 <p>Poi, senza preavviso, cinque lupi balzano fuori dalla foresta, gli occhi gialli scintillanti mentre i musi si arricciano in ringhi feroci!</p></div>
+
+> [!tip] **Modifica 3.5**
+> Ridurre a **4 lupi** invece di 5 (i 2 extra possono essere descritti come distratti da qualcos'altro). Il consumo HP del 58% è troppo per PG 3.5 di livello 3.
+>
+> **Lupi mannari e licantropia:** in 3.5, un morso da lupo mannaro infligge licantropia con TS Tempra CD 15. Non si guarisce con un riposo — serve *Remove Curse* o *Heal*. Avvisare i giocatori **prima** dello scontro (tramite il Revenant al ponte o Muriel) che il morso è pericoloso. La cache di Van Richten con i dardi argentati è critica — assicurarsi che la trovino prima di questo scontro.
 
 Fate tirare l'iniziativa ai giocatori, ai **wolves**, ai **werewolves** (in forma di lupo) e (se sono con il gruppo) a Ireena, ai due **swarms of ravens** e a Muriel (una **wereraven** in forma di corvo). Qualsiasi personaggio con un punteggio passivo di Wisdom (Perception) inferiore a 14 è sorpreso.
 
