@@ -48,6 +48,11 @@
 <p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 al tiro per colpire, un bersaglio, portata 5 ft. <em>Colpito:</em> 15 (2d10 + 4) danni contundenti e il bersaglio deve superare un tiro salvezza su Forza con CD 16 o essere spinto fino a 10 piedi (a scelta di Varushka). Se il bersaglio entra in contatto con una superficie dura o un oggetto pesante, subisce 1d6 danni contundenti per ogni 5 piedi non percorsi ed è afferrato dall'oggetto (CD di fuga 16).</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 16 Forza (spinta/afferramento):** TS Tempra — un guerriero livello 5+ con Temp +4/+5 resiste ~50%. Adeguato.
+> **+8 al tiro per colpire:** contro CA 20+ dei PG 3.5 colpisce con 12+. Bilanciato.
+> **Nessuna modifica necessaria.**
+
 ### Oggetto Animato Minore
 
 *Appare in: Arc T*
@@ -96,6 +101,11 @@
 <p><strong><em>Multiattacco.</em></strong> L'oggetto effettua due attacchi con <strong><em>schianto</em></strong>.
 <p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, un bersaglio, portata 5 ft. <em>Colpito:</em> 8 (1d10 + 3) danni contundenti e il bersaglio deve superare un tiro salvezza su Forza con CD 14 o cadere prono.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc T (livello 9)**
+> **CA 15:** adeguata per PG livello 9 (BAB +6/+9, colpisce con 6-9+).
+> **CD 14 Forza (prono):** un PG multiclasse livello 9 ha Rifl +4/+6, quindi circa 50% di resistere. OK.
+> **Nessuna modifica necessaria** — creature semplici con PF bassi (10), adatte come ostacolo minore.
 
 ### Gargoyle del Castello
 
@@ -155,6 +165,9 @@
 <p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti. Invece di infliggere danni, il gargoyle può afferrare il bersaglio (CD di fuga 13).</p>
 </div>
+
+> [!tip] **Variante 3.5 — Riferimento generico**
+> Note identiche al Gargoyle standard. Resistenze = RD 10/magia in 3.5.
 
 ### Druido Assaltatore
 
@@ -216,6 +229,11 @@
     <p><strong><em>Dono del Gulthias.</em></strong> In risposta all'essere attaccato da una creatura che può vedere, il druido lancia <em>barkskin</em>, a condizione che abbia uno slot incantesimo di 2° livello disponibile. (L'incantesimo non richiede concentrazione quando lanciato in questo modo.)</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD incantesimi 12:** adeguata per livello 4-5.
+> **Barkskin (reazione senza concentrazione):** potente ma una tantum — accettabile.
+> **Velocita della Vipera (azione bonus per incantesimo):** in 3.5 non esiste lancio rapido di incantesimi. Trattare come Lancio Rapido (metamagia) gratuito 1/turno.
+
 ### Druido Naturalista
 
 *Appare in: Arc J*
@@ -275,6 +293,11 @@
     <p><strong><em>Dono del Gulthias.</em></strong> In risposta all'essere attaccato da una creatura che può vedere, il druido lancia <em>barkskin</em>, a condizione che abbia uno slot incantesimo di 2° livello disponibile. (L'incantesimo non richiede concentrazione quando lanciato in questo modo.)</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc J (livello 5)**
+> **CD incantesimi 12:** un PG livello 5 con Vol +2/+4 resiste ~50%. Adeguato.
+> **Moonbeam (2d10 radiosi/turno, concentrazione):** in 3.5 senza concentrazione, limitare a **3 round di durata** o permettere un TS ogni round.
+> **Barkskin (reazione senza concentrazione):** potente ma una tantum — accettabile.
+
 ### Flagello di Ramoscelli Anziano
 
 *Riferimento generico*
@@ -328,6 +351,10 @@
     <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 5 (1d6 + 2) danni perforanti e il bersaglio è afferrato (CD di fuga 9).</p>
     <p><strong><em>Radice.</em></strong> <em>Attacco con Arma da Mischia:</em> +4 al tiro per colpire, portata 5 ft., una creatura afferrata dal flagello, inabile o trattenuta. <em>Colpito:</em> 4 (1d4 + 2) danni perforanti più 5 (2d4) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e il flagello recupera punti ferita pari a tale ammontare. La riduzione persiste finché il bersaglio non completa un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo di punti ferita a 0.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Radice — riduzione PF max (necrotici):** sostituire con **danni necrotici aggiuntivi semplici** (nessuna riduzione PF max). Con riposi limitati, la riduzione dei PF max e irrecuperabile.
+> **Vulnerabilita fuoco:** identica in 3.5.
 
 ### Gargoyle
 
@@ -388,6 +415,11 @@
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti. Invece di infliggere danni, il gargoyle può afferrare il bersaglio (CD di fuga 13).</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc E (livello 4), Arc P (livello 7)**
+> **Resistenze (perf/tagl non magici non adamantini):** in 3.5 equivale a RD 10/magia. A livello 4 i PG potrebbero non avere armi magiche — prevedere armi argentate/incantate.
+> **CA 15:** a livello 4 con BAB +4 e For +3, colpisce con 8+. OK.
+> **Nessuna modifica meccanica** — la vulnerabilita al tuono offre alternativa tattica per i caster.
+
 ### Piaga di Ratti
 
 *Appare in: Arc R*
@@ -441,6 +473,11 @@
 <p><strong><em>Multiattacco.</em></strong> Lo sciame effettua due attacchi.</p>
 <p><strong><em>Morsi.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 0 ft., ogni creatura nello spazio dello sciame. <em>Colpito:</em> 14 (4d6) danni perforanti, o 7 (2d6) danni perforanti se lo sciame ha metà o meno dei suoi punti ferita.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc R (livello 8)**
+> **CD 13 Forza (afferrato + prono + accecato + trattenuto + soffocamento):** effetto devastante. Ridurre la CD a **11** (TS Riflessi). Un guerriero livello 8 con Rifl +2/+3 ha ~40% di sfuggire.
+> **Resistenza a cont/perf/tagl:** danni ad area (torce, *burning hands*, *fireball*) infliggono **danno pieno**.
+> **Soffocamento:** applicare le regole 3.5 (Cos round x 2 prima di annegare).
 
 ### Triade Radicespinosa
 
@@ -497,6 +534,11 @@
 <hr>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 16 incantesimi:** impegnativa per livello 5-6. Ridurre a **CD 14** se usata prima di livello 7.
+> **Wall of Fire + Wrath of Nature:** incantesimi di alto livello. A livello 5-6, usare con cautela — un party senza protezione dal fuoco puo essere distrutto.
+> **120 PF + CA 16:** tankosa. Prevedere 4-5 round di combattimento.
+
 ### Sciame di Flagelli di Ramoscelli
 
 *Riferimento generico*
@@ -549,6 +591,9 @@
     <h3>Azioni</h3>
     <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +3 al tiro per colpire, portata 5 ft., fino a due bersagli nello spazio dello sciame. <em>Colpito:</em> 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi punti ferita.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Sciame:** danni ad area infliggono danno pieno. Vulnerabilita al fuoco.
 
 ### Lupo Mannaro
 
@@ -607,6 +652,11 @@
 <h3>Azioni Bonus</h3>
 <p><strong><em>Mutaforma.</em></strong> Il lupo mannaro si trasforma in un ibrido lupo-umanoide o in un lupo, oppure torna alla sua vera forma, che è umanoide. Le sue statistiche, a eccezione della CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento indossato o trasportato si fonde con la nuova forma. Ritorna alla sua vera forma se muore.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc C (livello 3), Arc E (livello 4), Arc L (livello 6)**
+> **Rigenerazione 10 PF/turno:** ridurre a **5 PF/turno** per livelli 3-4. A livello 3, un party infligge ~20-30 danni/round — con 5 PF/round la regen resta pericolosa ma gestibile.
+> **CD 13 Licantropia (Costituzione):** TS Tempra. A livello 3, Tempra +3 = 50%. Ridurre a **CD 11** per livelli 3-4, tenere CD 13 per livello 6.
+> **Armi argentate:** fondamentali. Assicurarsi che il party abbia accesso ad argento (3.5: +20 mo per arma) prima dell'incontro.
 
 ### Lupo Mannaro Lottatore
 
@@ -670,6 +720,12 @@
 <p><strong><em>Presa Stritolante.</em></strong> Il lupo mannaro costringe una creatura che ha afferrato a superare un tiro salvezza su Costituzione con CD 14. La creatura subisce 10 (3d6) danni contundenti in caso di fallimento, e la metà in caso di successo. Una creatura che fallisce il tiro salvezza di 5 o più è anche frastornata fino alla fine del suo turno successivo. (La creatura può muoversi o compiere un'azione nel suo turno, non entrambe. Non può inoltre compiere un'azione bonus o una reazione.)
 </div>
 
+> [!tip] **Variante 3.5 — Arc L (livello 6)**
+> **Rigenerazione 10 PF/turno:** ridurre a **5 PF/turno**. Con 142 PF, anche 5/turno e significativo.
+> **CD 14 Licantropia:** TS Tempra — a livello 6 con Tempra +4/+5, circa 50%. Accettabile.
+> **Presa Stritolante — Frastornamento:** in 3.5 "stordito" e molto punitivo (perdi azione + Des alla CA). Sostituire con **scosso** per 1 round (-2 ai tiri) se il TS fallisce di meno di 5.
+> **CA 15 (ibrido):** con BAB +6 e For +3 = +9, colpisce con 6+. Bilanciato.
+
 ### Comandante Wight
 
 *Riferimento generico*
@@ -728,6 +784,11 @@
 <p><strong><em>Arco Lungo.</em></strong> <em>Attacco con Arma a Distanza:</em> +5 al tiro per colpire, gittata 150/600 ft., un bersaglio. <em>Colpito:</em> 11 (2d8 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Risucchio Vitale — riduzione PF max:** sostituire con **2d6 danni necrotici aggiuntivi** (totale 2d6+3 + 2d6). TS Tempra CD 14 per dimezzare.
+> **Resistenza a cont/perf/tagl non magici non argentati:** RD 10/argento in 3.5.
+> **GS effettivo:** 10 senza armi magiche/argentate, 6 con.
+
 ### Zombi
 
 *Appare in: Arc B, Arc P, Arc Q, Arc U*
@@ -773,6 +834,10 @@
   <h3>Azioni</h3>
   <p><strong><em>Schianto.</em></strong> <em>Attacco con Arma da Mischia:</em> +3 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 4 (1d6 + 1) danni contundenti.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc B (livello 3), Arc P-Q (livello 7), Arc U (livello 10)**
+> **Resilienza dei Non Morti:** simile alla RD 3.5. Funziona come scritto.
+> **Nessuna modifica necessaria** — carne da cannone, pericoloso solo in numero.
 
 
 ### Zombi Diffusore di Epidemia
@@ -826,6 +891,10 @@
   <p><strong><em>Miasma Virulento (1/Giorno).</em></strong> Il diffusore di epidemia rilascia gas tossico in una sfera con raggio di 30 piedi centrata su di sé. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 12, subendo 14 (4d6) danni da veleno in caso di fallimento, o la metà in caso di successo. Un Umanoide ridotto a 0 punti ferita da questi danni muore e si rialza come zombi (vedi il suo blocco statistiche nel Manuale dei Mostri) dopo 1 minuto. Lo zombi agisce immediatamente dopo il diffusore di epidemia nell'ordine di iniziativa.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 12 Aura Virale (avvelenato + no cure):** TS Tempra. "No recupero PF" e molto punitivo con riposi limitati. Ridurre la CD a **10**.
+> **Miasma Virulento — creazione zombi:** NON funziona sui PG ridotti a 0 PF. Solo PNG.
+
 
 ---
 
@@ -838,7 +907,7 @@
 *Appare in: Arc A, Arc B, Arc M, Arc P*
 
 
-![[bestiary/ghoul.webp]]
+![[ghoul.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -891,7 +960,7 @@
 *Appare in: Arc A, Arc H*
 
 
-![[bestiary/ghast.webp]]
+![[ghast.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -947,7 +1016,7 @@
 *Riferimento generico*
 
 
-![[bestiary/vampire_spawn.webp]]
+![[vampire_spawn.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1010,7 +1079,7 @@
 *Appare in: Arc H, Arc P, Arc T*
 
 
-![[bestiary/specter.webp]]
+![[specter.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1065,7 +1134,7 @@
 *Appare in: Arc Q*
 
 
-![[bestiary/wraith.webp]]
+![[wraith.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1122,7 +1191,7 @@
 *Appare in: Arc A, Arc H, Arc M, Arc Q, Arc S*
 
 
-![[bestiary/ghost.webp]]
+![[ghost.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1182,7 +1251,7 @@ La possessione dura finché il corpo non scende a 0 punti ferita, il fantasma no
 *Appare in: Arc J, Arc P, Arc Q, Arc R, Arc S, Arc U*
 
 
-![[bestiary/shadow.webp]]
+![[shadow.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1240,7 +1309,7 @@ Se un umanoide non malvagio muore per questo attacco, una nuova ombra sorge dal 
 *Appare in: Arc B, Arc P*
 
 
-![[bestiary/wight.webp]]
+![[wight.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1298,7 +1367,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc P*
 
 
-![[bestiary/skeleton.webp]]
+![[skeleton.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1341,6 +1410,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Arco Corto.</em></strong> Attacco con Arma a Distanza: +4 al tiro per colpire, gittata 80/320 ft., un bersaglio. Colpito: 5 (1d6 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc P (livello 7)**
+> **Nessuna modifica necessaria.** GS 1/4 a livello 7 — carne da cannone.
+> **Nota:** in 3.5 gli scheletri hanno RD 5/contundente anziche vulnerabilita. Usare la versione 5e per semplicita.
+
 ---
 
 ### Mummia
@@ -1348,7 +1421,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/mummy.webp]]
+![[mummy.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1392,6 +1465,11 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Dreadful Glare.</em></strong> The mummy targets one creature it può vedere within 60 ft. of it. If il bersaglio può vedere the mummy, it must succeed on a CD 11 Saggezza tiro salvezza against this magic or become spaventato fino alla fine di the mummy's next turno. If il bersaglio fails the tiro salvezza by 5 or more, it is also paralizzato for the same duration. A target that succeeds on the tiro salvezza is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Pugno Marcescente — Maledizione della Mummia:** la riduzione PF max ogni 24h e devastante con riposi limitati. Sostituire con: il bersaglio non recupera PF naturalmente (solo magia) finche la maledizione non viene rimossa con *rimuovi maledizione*.
+> **Sguardo Terrificante — CD 11 paralisi:** TS Volonta. A livello 5+, Vol +2/+4 = 50-65%. OK.
+> **Resistenze:** RD 5/magia in 3.5.
+
 ---
 
 ### Lupo Crudele
@@ -1399,7 +1477,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc T*
 
 
-![[bestiary/dire_wolf.webp]]
+![[dire_wolf.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1443,6 +1521,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve superare un CD 13 Forza tiro salvezza o cadere prono.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc T (livello 9)**
+> **Nessuna modifica necessaria.** GS 1 a livello 9 — minaccia trascurabile.
+> **CD 13 Forza (prono):** TS Riflessi a livello 9 = autopass. Usare in branco con Tattiche di Branco.
+
 ---
 
 ### Lupo
@@ -1450,7 +1532,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/wolf.webp]]
+![[wolf.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1494,6 +1576,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve superare un CD 11 Forza tiro salvezza o cadere prono.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1/4. Pericoloso solo con Tattiche di Branco in gruppo.
+
 ---
 
 ### Pipistrello
@@ -1501,7 +1586,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc R*
 
 
-![[bestiary/bat.webp]]
+![[bat.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1545,6 +1630,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +0 al tiro per colpire, portata 5 ft., una creatura. Colpito: 1 danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc R (livello 8)**
+> **Nessuna modifica necessaria.** GS 0 — creatura ambientale.
+
 ---
 
 ### Ragno Gigante
@@ -1552,7 +1640,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc M, Arc P*
 
 
-![[bestiary/giant_spider.webp]]
+![[giant_spider.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1598,6 +1686,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Web.</em></strong> Attacco con Arma a Distanza: +5 al tiro per colpire, gittata 30/60 ft., una creatura. Colpito: Il bersaglio is trattenuto by webbing. As an action, the trattenuto target can make a CD 12 Forza check, bursting the webbing con un successo. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to danni da fuoco; immunity to bludgeoning, poison, and danni psichici).</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc M (livello 5), Arc P (livello 7)**
+> **CD 11 Veleno — paralisi se a 0 PF:** in 3.5 la paralisi da veleno e letale. Sostituire la paralisi con **scosso** (-2 ai tiri) per 1 ora se avvelenato. La riduzione a 0 PF causa incoscienza normale.
+> **Ragnatela CD 12 Forza:** TS Riflessi per evitare, poi Forza per liberarsi. A livello 5, Rifl +2/+4 = 50%. Adeguato.
+
 ---
 
 ### Ragno Lupo Gigante
@@ -1605,7 +1697,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/giant_wolf_spider.webp]]
+![[giant_wolf_spider.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1650,6 +1742,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +3 al tiro per colpire, portata 5 ft., una creatura. Colpito: 4 (1d6 + 1) danni perforanti, and il bersaglio deve effettuare un CD 11 Costituzione tiro salvezza, taking 7 (2d6) danni da veleno con un tiro fallito, or la metà dei danni con un tiro riuscito. If the danni da veleno reduces il bersaglio to 0 punti ferita, il bersaglio is stable but avvelenato per 1 ora, even after regaining punti ferita, and is paralizzato while avvelenato in this way.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> Come Ragno Gigante: sostituire paralisi da veleno con **scosso** per 1 ora.
+
 ---
 
 ### Serpente Velenoso Gigante
@@ -1657,7 +1752,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc T*
 
 
-![[bestiary/giant_poisonous_snake.webp]]
+![[giant_poisonous_snake.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1699,6 +1794,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 10 ft., un bersaglio. Colpito: 6 (1d4 + 4) danni perforanti, and il bersaglio deve effettuare un CD 11 Costituzione tiro salvezza, taking 10 (3d6) danni da veleno con un tiro fallito, or la metà dei danni con un tiro riuscito.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc T (livello 9)**
+> **CD 11 Veleno:** TS Tempra a livello 9 = autopass. GS 1/4 — minaccia trascurabile.
+> **Nessuna modifica necessaria.**
+
 ---
 
 ### Iena Gigante
@@ -1706,7 +1805,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/giant_hyena.webp]]
+![[giant_hyena.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1749,6 +1848,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 10 (2d6 + 3) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1 — semplice combattente corpo a corpo.
+
 ---
 
 ### Alce Gigante
@@ -1756,7 +1858,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/giant_elk.webp]]
+![[giant_elk.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1800,6 +1902,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Hooves.</em></strong> Attacco con Arma da Mischia: +6 al tiro per colpire, portata 5 ft., one prono creature. Colpito: 22 (4d8 + 4) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 14 Forza (prono con Carica):** TS Riflessi. Adeguato.
+> **Zoccoli (4d8+4 su prono):** 22 danni medi — potente ma richiede che il bersaglio sia prono. OK.
+
 ---
 
 ### Capra Gigante
@@ -1807,7 +1913,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/giant_goat.webp]]
+![[giant_goat.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1851,6 +1957,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Ram.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 8 (2d4 + 3) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1/2 — semplice.
+
 ---
 
 ### Aquila Gigante
@@ -1858,7 +1967,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/giant_eagle.webp]]
+![[giant_eagle.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1903,6 +2012,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Talons.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 10 (2d6 + 3) danni taglienti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1 — creatura alleata/ambientale.
+
 ---
 
 ### Corvo
@@ -1910,7 +2022,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc A, Arc B, Arc C, Arc J, Arc M, Arc T*
 
 
-![[bestiary/raven.webp]]
+![[raven.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -1953,6 +2065,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Beak.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 1 danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5**
+> **Nessuna modifica necessaria.** GS 0 — creatura ambientale.
+
 ---
 
 ### Sciame di Pipistrelli
@@ -1960,7 +2075,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc P, Arc U*
 
 
-![[bestiary/swarm_of_bats.webp]]
+![[swarm_of_bats.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2005,6 +2120,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Bites.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 0 ft., una creatura in the swarm's space. Colpito: 5 (2d4) danni perforanti, or 2 (1d4) danni perforanti if the swarm has half of its punti ferita or fewer.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc P (livello 7), Arc U (livello 10)**
+> **Resistenza a cont/perf/tagl:** gli sciami in 3.5 sono immuni a danni da arma singola. Danni ad area infliggono **danno pieno**.
+> **Nessuna modifica meccanica** — minaccia minore a questi livelli.
+
 ---
 
 ### Sciame di Corvi
@@ -2012,7 +2131,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc J, Arc Q*
 
 
-![[bestiary/swarm_of_ravens.webp]]
+![[swarm_of_ravens.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2055,6 +2174,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Beaks.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio in the swarm's space. Colpito: 7 (2d6) danni perforanti, or 3 (1d6) danni perforanti if the swarm has half of its punti ferita or fewer.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc J (livello 5), Arc Q (livello 7)**
+> **Resistenza a cont/perf/tagl:** danni ad area infliggono danno pieno.
+> **Nessuna modifica meccanica necessaria.**
+
 ---
 
 ### Sciame di Ratti
@@ -2062,7 +2185,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc P*
 
 
-![[bestiary/swarm_of_rats.webp]]
+![[swarm_of_rats.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2106,6 +2229,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Bites.</em></strong> Attacco con Arma da Mischia: +2 al tiro per colpire, portata 0 ft., un bersaglio in the swarm's space. Colpito: 7 (2d6) danni perforanti, or 3 (1d6) danni perforanti if the swarm has half of its punti ferita or fewer.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc P (livello 7)**
+> **Resistenza a cont/perf/tagl:** danni ad area infliggono danno pieno.
+> **Nessuna modifica meccanica necessaria.**
+
 ---
 
 ### Sciame di Insetti
@@ -2113,7 +2240,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc T*
 
 
-![[bestiary/swarm_of_insects.webp]]
+![[swarm_of_insects.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2156,6 +2283,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Bites.</em></strong> Attacco con Arma da Mischia: +3 al tiro per colpire, portata 0 ft., un bersaglio in the swarm's space. Colpito: 10 (4d4) danni perforanti, or 5 (2d4) danni perforanti if the swarm has half of its punti ferita or fewer.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc T (livello 9)**
+> **Resistenza a cont/perf/tagl:** danni ad area infliggono danno pieno.
+> **Nessuna modifica meccanica necessaria.**
+
 ---
 
 ### Guardia
@@ -2163,7 +2294,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc C, Arc F, Arc J, Arc K, Arc L, Arc Q, Arc R, Arc S*
 
 
-![[bestiary/guard.webp]]
+![[guard.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2205,6 +2336,10 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Lancia.</em></strong> Attacco con Arma da Mischia o a Distanza: +3 al tiro per colpire, portata 5 ft. or range 20/60 ft., un bersaglio. Colpito: 4 (1d6 + 1) danni perforanti or 5 (1d8 + 1) danni perforanti if used with two hands to make a attacco da mischia.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc C-S (livelli 3-8)**
+> **Nessuna modifica necessaria.** GS 1/8 — carne da cannone. CA 16 colpibile con BAB +2/+3 e For +3.
+> **Nota:** a livelli 7+, sostituire con Veterani o Cavalieri per sfide significative.
+
 ---
 
 ### Cavaliere
@@ -2212,7 +2347,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Appare in: Arc B, Arc C, Arc M, Arc O, Arc Q, Arc R*
 
 
-![[bestiary/knight.webp]]
+![[knight.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2260,6 +2395,12 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Parry.</em></strong> The knight adds 2 to its AC against one attacco da mischia that would hit it. To do so, the knight must see l'attaccoer and be wielding a melee weapon.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc B-R (livelli 3-8)**
+> **CA 18 (armatura completa):** a livello 3, BAB +3 + For +3 = +6, colpisce con 12+. Impegnativo ma corretto per GS 3.
+> **Leadership (d4 ai tiri alleati):** funziona come scritto.
+> **Parata (+2 CA):** equivalente a Combattere in Difesa 3.5.
+> **Nessuna modifica necessaria.**
+
 ---
 
 ### Cultista
@@ -2267,7 +2408,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/cultist.webp]]
+![[cultist.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2310,6 +2451,9 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 <p><strong><em>Scimitarra.</em></strong> Attacco con Arma da Mischia: +3 al tiro per colpire, portata 5 ft., una creatura. Colpito: 4 (1d6 + 1) danni taglienti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1/8 — combattente minore.
+
 ---
 
 ### Fanatico del Culto
@@ -2317,7 +2461,7 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 *Riferimento generico*
 
 
-![[bestiary/cult_fanatic.webp]]
+![[cult_fanatic.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2366,6 +2510,11 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Pugnale.</em></strong> Attacco con Arma da Mischia o a Distanza: +4 al tiro per colpire, portata 5 ft. or range 20/60 ft., una creatura. Colpito: 4 (1d4 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD incantesimi 11:** facile per PG livello 4+.
+> **Hold Person (CD 11):** TS Volonta — paralisi se fallito. A livello 4, Vol +1/+3 = 55-65%. Effetto potente ma CD bassa. OK.
+> **Spiritual Weapon:** funziona come arma spirituale 3.5.
+
 ---
 
 ### Bandito
@@ -2373,7 +2522,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Riferimento generico*
 
 
-![[bestiary/bandit.webp]]
+![[bandit.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2416,6 +2565,9 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Balestra Leggera.</em></strong> Attacco con Arma a Distanza: +3 al tiro per colpire, gittata 80 ft./320 ft., un bersaglio. Colpito: 5 (1d8 + 1) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 1/8 — combattente minore.
+
 ---
 
 ### Capitano dei Banditi
@@ -2423,7 +2575,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Riferimento generico*
 
 
-![[bestiary/bandit_captain.webp]]
+![[bandit_captain.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2469,6 +2621,10 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Parry.</em></strong> The captain adds 2 to its AC against one attacco da mischia that would hit it. To do so, the captain must see l'attaccoer and be wielding a melee weapon.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CA 15 + Parata (+2):** CA effettiva 17 con reazione. A livello 4, BAB +4 + For +3 = +7, colpisce 17 con 10+. Sfidante.
+> **Nessuna modifica necessaria.** GS 2 — buon antagonista per livelli 3-4.
+
 ---
 
 ### Esploratore
@@ -2476,7 +2632,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc R*
 
 
-![[bestiary/scout.webp]]
+![[scout.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2521,6 +2677,9 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Arco Lungo.</em></strong> Attacco con Arma a Distanza: +4 al tiro per colpire, gittata 150/600 ft., un bersaglio. Colpito: 6 (1d8 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc R (livello 8)**
+> **Nessuna modifica necessaria.** GS 1/2 a livello 8 — minaccia trascurabile.
+
 ---
 
 ### Berserker
@@ -2528,7 +2687,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc R*
 
 
-![[bestiary/berserker.webp]]
+![[berserker.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2571,6 +2730,10 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Ascia Bipenne.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 9 (1d12 + 3) danni taglienti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc R (livello 8)**
+> **Incauto (vantaggio attacchi, svantaggio difesa):** corrisponde ad Attacco Poderoso 3.5. Funziona tematicamente.
+> **Nessuna modifica necessaria.** GS 2 a livello 8 — pericoloso solo in gruppo.
+
 ---
 
 ### Veterano
@@ -2578,7 +2741,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Riferimento generico*
 
 
-![[bestiary/veteran.webp]]
+![[veteran.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2623,6 +2786,10 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Balestra Pesante.</em></strong> Attacco con Arma a Distanza: +3 al tiro per colpire, gittata 100/400 ft., un bersaglio. Colpito: 6 (1d10 + 1) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CA 17 (armatura a scaglie):** solida. A livello 5, BAB +5 + For +3 = +8, colpisce con 9+.
+> **Nessuna modifica necessaria.** GS 3 — buon combattente generico.
+
 ---
 
 ### Druido
@@ -2630,7 +2797,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc H, Arc J, Arc R*
 
 
-![[bestiary/druid.webp]]
+![[druid.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2677,6 +2844,12 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Bastone Ferrato.</em></strong>  Attacco con Arma da Mischia: +2 to hit (+4 to hit with shillelagh), reach 5 ft., un bersaglio. Colpito: 3 (1d6) danni contundenti, 4 (1d8) danni contundenti if wielded with two hands, or 6 (1d8 + 2) danni contundenti with shillelagh.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc H (livello 5), Arc J (livello 5), Arc R (livello 8)**
+> **CD incantesimi 12:** TS Volonta a livello 5, Vol +2/+4 = 50%. Adeguato.
+> **Thunderwave (2d8 + spinta):** funziona come *onde tonanti* 3.5.
+> **Shillelagh:** equivalente 3.5 esiste. Il bastone diventa arma magica +1 con 1d8.
+> **Nessuna modifica necessaria.**
+
 ---
 
 ### Gladiatore
@@ -2684,7 +2857,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc R*
 
 
-![[bestiary/gladiator.webp]]
+![[gladiator.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2732,6 +2905,11 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Parry.</em></strong> The gladiator adds 3 to its AC against one attacco da mischia that would hit it. To do so, the gladiator must see l'attaccoer and be wielding a melee weapon.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc R (livello 8)**
+> **CD 15 Forza (Colpo di Scudo, prono):** TS Riflessi a livello 8, Rifl +3/+6 = 40-55%. Adeguato per GS 5.
+> **CA 16:** a livello 8 con BAB +8 e For +4 = +12, colpisce con 4+. Potrebbe essere troppo facile — aumentare a **CA 18** se si vuole una sfida.
+> **112 PF:** alto per GS 5, ma a livello 8 il party infligge ~40-60 danni/round. 2-3 round. OK.
+
 ---
 
 ### Spia
@@ -2739,7 +2917,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc J*
 
 
-![[bestiary/spy.webp]]
+![[spy.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2785,6 +2963,11 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Balestra a Mano.</em></strong> Attacco con Arma a Distanza: +4 al tiro per colpire, gittata 30/120 ft., un bersaglio. Colpito: 5 (1d6 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc J (livello 5)**
+> **Attacco Furtivo 2d6:** identico alla meccanica 3.5 del ladro.
+> **Azione Furba:** equivalente all'abilita del ladro 3.5.
+> **Nessuna modifica necessaria.**
+
 ---
 
 ### Nobile
@@ -2792,7 +2975,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc F*
 
 
-![[bestiary/noble.webp]]
+![[noble.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2836,6 +3019,9 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Parry.</em></strong> The noble adds 2 to its AC against one attacco da mischia that would hit it. To do so, the noble must see l'attaccoer and be wielding a melee weapon.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc F (livello 4)**
+> **Nessuna modifica necessaria.** GS 1/8 — non combattente.
+
 ---
 
 ### Popolano
@@ -2843,7 +3029,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Riferimento generico*
 
 
-![[bestiary/commoner.webp]]
+![[commoner.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2885,6 +3071,9 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Club.</em></strong> Attacco con Arma da Mischia: +2 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 2 (1d4) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Nessuna modifica necessaria.** GS 0 — non combattente.
+
 ---
 
 ### Sacerdote
@@ -2892,7 +3081,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc D, Arc K, Arc M, Arc Q, Arc T*
 
 
-![[bestiary/priest.webp]]
+![[priest.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2941,6 +3130,12 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Mazza.</em></strong> Attacco con Arma da Mischia: +2 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 3 (1d6) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc D (livello 4), Arc K-M (livello 5-6), Arc Q (livello 7), Arc T (livello 9)**
+> **CD incantesimi 13:** TS Volonta a livello 4, Vol +1/+3 = 45%. Impegnativo ma non eccessivo.
+> **Spirit Guardians (3d8 radiosi/turno, concentrazione):** in 3.5 senza concentrazione, limitare a **5 round di durata**.
+> **Spiritual Weapon:** arma spirituale 3.5, meccanica simile.
+> **Eminenza Divina (+3d6 radiosi con slot):** come Punire il Male del paladino. Potente ma usa slot — bilanciato.
+
 ---
 
 ### Accolito
@@ -2948,7 +3143,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Riferimento generico*
 
 
-![[bestiary/acolyte.webp]]
+![[acolyte.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -2994,6 +3189,10 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Club.</em></strong> Attacco con Arma da Mischia: +2 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 2 (1d4) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD incantesimi 12:** adeguata.
+> **Nessuna modifica necessaria.** GS 1/4 — supporto minore.
+
 ---
 
 ### Mago
@@ -3001,7 +3200,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc A, Arc B, Arc C, Arc J, Arc K, Arc O, Arc P, Arc Q, Arc R, Arc S, Arc T, Arc U*
 
 
-![[bestiary/mage.webp]]
+![[mage.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3051,6 +3250,14 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 <p><strong><em>Pugnale.</em></strong> Attacco con Arma da Mischia o a Distanza: +5 al tiro per colpire, portata 5 ft. or range 20/60 ft., un bersaglio. Colpito: 4 (1d4 + 2) danni perforanti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc A-U (livelli 2-10)**
+> **CD incantesimi 14:** a livello 2 (Arc A), Vol +0/+2 = solo 30-40% di resistere a *suggestion*. A livello 7+ e adeguata.
+> **Fireball (8d6, 28 media):** a livello 5, PG 3.5 con ~30-40 PF — potenzialmente letale. Ridurre a **6d6** (21 media) per incontri sotto livello 7.
+> **Cone of Cold (8d8, 36 media):** usare solo per livello 9+.
+> **Shield (+5 CA reazione):** in 3.5 *shield* dura 1 min/livello. Limitare alla versione 5e (1 round).
+> **Counterspell:** non esiste come reazione in 3.5. Usare *dispel magic* come azione standard, oppure ignorare.
+> **CA 12 (15 con mage armor):** a livello 5 con BAB +5 e For +3 = +8, colpisce 15 con 7+. OK.
+
 ---
 
 ### Golem di Carne
@@ -3058,7 +3265,7 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 *Appare in: Arc K, Arc Q*
 
 
-![[bestiary/flesh_golem.webp]]
+![[flesh_golem.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3108,6 +3315,12 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 <p><strong><em>Schianto.</em></strong> Attacco con Arma da Mischia: +7 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 13 (2d8 + 4) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc K (livello 5-6), Arc Q (livello 7)**
+> **Immunita cont/perf/tagl non magici non adamantini:** in 3.5 = RD 10/adamantio. A livello 5, il party non ha adamantio. Convertire in **RD 5/magia** — armi magiche +1 (Reliquia Ancestrale) ignorano la RD.
+> **Assorbimento Fulmine:** identico in 3.5. Evitare incantesimi elettrici.
+> **Resistenza alla Magia (vantaggio TS):** in 3.5 = **RM 15** (resistenza agli incantesimi).
+> **CA 9:** bassissima — viene colpito quasi sempre. I 93 PF sono il vero ostacolo.
+
 ---
 
 ### Golem di Ferro
@@ -3115,7 +3328,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Riferimento generico*
 
 
-![[bestiary/iron_golem.webp]]
+![[iron_golem.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3164,6 +3377,12 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 <p><strong><em>Poison Breath.</em></strong> The golem exhales poisonous gas in a 15-foot cone. Ogni creatura nell'area deve effettuare un CD 19 Costituzione tiro salvezza, taking 45 (10d8) danni da veleno con un tiro fallito, or la metà dei danni con un tiro riuscito.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **GS 16:** NON progettato per un combattimento diretto con PG livello 2-10. Usare come ostacolo narrativo inarrestabile.
+> **CA 20 + RD/adamantio + RM + immunita:** praticamente invulnerabile per il party. Solo *ruggine* o magia specifica puo danneggiarlo.
+> **Soffio Velenoso CD 19:** TS Tempra — anche a livello 10 con Tempra +7, serve 12+. 45 danni medi = morte quasi certa.
+> **Consiglio:** se incontrato, il party deve fuggire o trovare una soluzione creativa.
+
 ---
 
 ### Armatura Animata
@@ -3171,7 +3390,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Appare in: Arc A, Arc J*
 
 
-![[bestiary/animated_armor.webp]]
+![[animated_armor.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3216,6 +3435,11 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 <p><strong><em>Schianto.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 5 (1d6 + 2) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc A (livello 2), Arc J (livello 5)**
+> **CA 18:** a livello 2, BAB +2 + For +3 = +5, colpisce con 13+. Molto difficile! Intenzionale per la Casa della Morte.
+> **Suggerimento:** a livello 2, ridurre a **CA 16** se il party e in difficolta. A livello 5, CA 18 e adeguata (BAB +5 + For +3 = +8, colpisce con 10+).
+> **33 PF con CA alta:** a livello 2, il combattimento puo durare 5+ round. Prevedere via di fuga o modo per disattivare.
+
 ---
 
 ### Cumulo Strisciante
@@ -3223,7 +3447,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Riferimento generico*
 
 
-![[bestiary/shambling_mound.webp]]
+![[shambling_mound.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3268,6 +3492,11 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 <p><strong><em>Engulf.</em></strong> The shambling mound engulfs a Medium or smaller creature afferrato by it. The engulfed target is accecato, trattenuto, and unable to breathe, and it must succeed on a CD 14 Costituzione tiro salvezza at the start of each of the mound's turnos or take 13 (2d8 + 4) danni contundenti. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 14 afferramento + Inghiottire:** prova di Lotta contrapposta in 3.5. Bonus lotta del Cumulo: +8.
+> **Assorbimento Fulmine:** identico in 3.5.
+> **136 PF + CA 15:** tanko. A livello 7+, il party ha i danni per abbatterlo in 3-4 round.
+
 ---
 
 ### Diavolo delle Ossa
@@ -3275,7 +3504,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Riferimento generico*
 
 
-![[bestiary/bone_devil.webp]]
+![[bone_devil.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3332,7 +3561,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Appare in: Arc A, Arc H, Arc J, Arc O*
 
 
-![[bestiary/nightmare.webp]]
+![[nightmare.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3377,6 +3606,11 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 <p><strong><em>Ethereal Stride.</em></strong> The nightmare and up to three willing creatures entro 5 piedi da it magichely enter the Ethereal Plane from the Material Plane, or vice versa.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc A (livello 2), Arc H (livello 5), Arc J (livello 5), Arc O (livello 6)**
+> **2d8+4 cont + 2d6 fuoco (20 media):** a livello 2, un PG con ~18 PF muore in un colpo. L'Incubo a livello 2 deve essere apparizione narrativa, non combattimento.
+> **Passo Etereo:** funziona come 3.5. Nessuna modifica.
+> **A livello 5-6:** come cavalcatura della Strega Notturna, 68 PF e CA 13 sono gestibili.
+
 ---
 
 ### Strega Notturna
@@ -3384,7 +3618,7 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 *Appare in: Arc H*
 
 
-![[bestiary/night_hag.webp]]
+![[night_hag.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3437,6 +3671,13 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Nightmare Haunting.</em></strong> While on the Ethereal Plane, the hag magichely touches a sleeping umanoide on the Material Plane. A protection from evil and good spell cast on il bersaglio prevents this contact, as does a magic circle. As long as the contact persists, il bersaglio has dreadful visions. If these visions last for at least 1 hour, il bersaglio gains no benefit from its rest, and its punto ferita maximum is reduced by 5 (1d10). If this effect reduces il bersaglio's punto ferita maximum to 0, il bersaglio dies, and if il bersaglio was evil, its soul is trapped in the hag's soul bag. The reduction to il bersaglio's punto ferita maximum lasts until removed by the greater restoration spell or similar magic.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc H (livello 5)**
+> **CD incantesimi 14:** TS Volonta a livello 5, Vol +2/+4 = 45-55%. Impegnativo.
+> **Incubo Persecutorio — riduzione PF max 1d10/notte:** con riposi limitati, devastante. Sostituire con: il bersaglio non beneficia del riposo (no PF, slot, ecc.) e subisce **1 livello di sfinimento** per notte. Rimovibile con *rimuovi maledizione*.
+> **Resistenze (non argentate):** RD 10/argento+ferro freddo in 3.5. Il party deve avere armi argentate.
+> **CA 17 + Resistenza Magia:** molto difensiva. A livello 5, il party colpisce 17 con 9+ (BAB +5, For +3). 4-5 round per abbatterla.
+> **Plane Shift (solo se stessa):** puo fuggire a volonta. Meccanismo narrativo.
+
 ---
 
 ### Pseudodrago
@@ -3444,7 +3685,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Appare in: Arc M*
 
 
-![[bestiary/pseudodragon.webp]]
+![[pseudodragon.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3490,6 +3731,10 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Sting.</em></strong> Attacco con Arma da Mischia: +4 al tiro per colpire, portata 5 ft., una creatura. Colpito: 4 (1d4 + 2) danni perforanti, and il bersaglio deve superare un CD 11 Costituzione tiro salvezza or become avvelenato per 1 ora. If the tiro salvezza fails by 5 or more, il bersaglio falls privo di sensi for the same duration, or until it takes danni or another creature uses an action to shake it awake.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc M (livello 5)**
+> **CD 11 Veleno:** TS Tempra a livello 5, Tempra +3/+5 = 60-70% di resistere.
+> **Creatura alleata** — non va combattuta. Nessuna modifica necessaria.
+
 ---
 
 ### Borbottio Farneticante
@@ -3497,7 +3742,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Riferimento generico*
 
 
-![[bestiary/gibbering_mouther.webp]]
+![[gibbering_mouther.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3543,6 +3788,11 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Blinding Spittle.</em></strong> The mouther spits a chemical glob at a point it può vedere within 15 feet of it. The glob explodes in a blinding flash of light on impact. Ogni creatura entro 5 feet of the flash must succeed on a CD 13 Destrezza tiro salvezza o essere accecato fino alla fine di the mouther's next turno.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD 10 Borbottio (Saggezza, perdita azioni):** TS Volonta. L'effetto casuale (d8) e tematicamente simile a *confusione* 3.5. Funziona come scritto.
+> **CD 13 Sputo Accecante:** TS Riflessi. Accecamento per 1 round — punitivo ma breve.
+> **CA 9 + 67 PF:** facile da colpire, moderato da abbattere. GS 2 adeguato.
+
 ---
 
 ### Mimic
@@ -3550,7 +3800,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Appare in: Arc C, Arc T*
 
 
-![[bestiary/mimic.webp]]
+![[mimic.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3597,6 +3847,11 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 7 (1d8 + 3) danni perforanti plus 4 (1d8) danni da acido.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc C (livello 3), Arc T (livello 9)**
+> **CD 13 Adesivo (afferrato con svantaggio fuga):** in 3.5 lo svantaggio non esiste — usare **-2 alle prove di fuga**.
+> **58 PF a livello 3:** molti PF. Ridurre a **40 PF** per Arc C (livello 3). A livello 9, 58 PF sono adeguati.
+> **CA 12:** facilmente colpibile anche a livello 3.
+
 ---
 
 ### Tappeto Soffocante
@@ -3604,7 +3859,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Appare in: Arc P*
 
 
-![[bestiary/rug_of_smothering.webp]]
+![[rug_of_smothering.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3649,6 +3904,11 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Smother.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 5 ft., one Medium or smaller creature. Colpito: La creatura is afferrato (escape CD 13). Until this grapple ends, il bersaglio is trattenuto, accecato, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of il bersaglio's turnos, il bersaglio takes 10 (2d6 + 3) danni contundenti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc P (livello 7)**
+> **CD 13 Afferramento + Soffocamento:** in 3.5 usare **prova di lotta contrapposta** (bonus lotta +5) anziche CD fissa.
+> **Trasferimento Danni (meta al PG afferrato):** il party deve colpire sapendo che meta dei danni vanno all'alleato.
+> **Soffocamento:** regole 3.5 — Cos round x 2 di respiro trattenuto. Piu generoso della 5e.
+
 ---
 
 ### Spada Volante
@@ -3656,7 +3916,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Appare in: Arc P, Arc T*
 
 
-![[bestiary/flying_sword.webp]]
+![[flying_sword.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3700,6 +3960,10 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Spada Lunga.</em></strong> Attacco con Arma da Mischia: +3 al tiro per colpire, portata 5 ft., un bersaglio. Colpito: 5 (1d8 + 1) danni taglienti.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Arc P (livello 7), Arc T (livello 9)**
+> **CA 17:** a livello 7, BAB +7 + For +3 = +10, colpisce con 7+. OK.
+> **17 PF:** fragile — 1-2 colpi. Nessuna modifica necessaria.
+
 ---
 
 ### Fuoco Fatuo
@@ -3707,7 +3971,7 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 *Appare in: Arc A, Arc T*
 
 
-![[bestiary/will_o_wisp.webp]]
+![[will_o_wisp.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3753,6 +4017,12 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Shock.</em></strong> Attacco con Incantesimo da Mischia: +4 al tiro per colpire, portata 5 ft., una creatura. Colpito: 9 (2d8) danni da fulmine.</p>
 <p><strong><em>Invisibility.</em></strong> The will-o'-wisp and its light magichely become invisibile until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc A (livello 2), Arc T (livello 9)**
+> **CA 19:** a livello 2, BAB +2 + For +3 = +5, colpisce con 14+. Quasi impossibile! A livello 2 deve essere **ostacolo narrativo**, non combattimento diretto.
+> **Incorporeo + resistenze:** in 3.5, creature incorporee hanno 50% di ignorare qualsiasi danno (tranne forza, magia, fantasma). Ancora piu resistente della 5e.
+> **Consumare Vita (0 PF, CD 10):** TS Tempra. A livello 2, un PG a 0 PF e gia in pericolo mortale. Usare solo come minaccia narrativa.
+> **A livello 9 (Arc T):** CA 19 colpibile con BAB +9 + For +4 = +13, con 6+. 2d8 fulmine e minore. Gestibile.
 
 ---
 
@@ -3810,6 +4080,11 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Multiattacco.</em></strong> Il revenant effettua due attacchi con Pugno.</p>
 <p><strong><em>Pugno.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 11 (2d6 + 4) danni contundenti. Se il bersaglio è una creatura contro cui il revenant ha giurato vendetta, subisce 14 (4d6) danni contundenti aggiuntivi.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Arc C (livello 3), Arc Q (livello 7)**
+> **Sguardo Corrosivo — CD 15 paralisi:** CRITICO. A livello 3, Vol +1/+2 = ~30% di resistere. Ridurre a **CD 12** per Arc C. Mantenere **CD 15** per Arc Q (Vol +3/+5 = 50%).
+> **Rigenerazione 10 PF/turno:** il revenant e un alleato/nemico narrativo. A livello 3 e imbattibile — usare come ostacolo narrativo, non combattimento diretto.
+> **136 PF + regen:** a livello 7, il party puo gestirlo con danni da fuoco/radiosi.
 
 ---
 
@@ -3873,6 +4148,12 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <p><strong><em>Raggio di Fuoco.</em></strong> <em>Attacco con Incantesimo a Distanza:</em> +5 al tiro per colpire, gittata 30 ft., un bersaglio. <em>Colpito:</em> 10 (3d6) danni da fuoco.</p>
 </div>
 
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **CD incantesimi 13:** adeguata per livello 5+.
+> **Fireball (8d6 slot 3):** come per il Mago, ridurre a **6d6** se usato sotto livello 7.
+> **Rigenerazione 1 PF/turno:** trascurabile meccanicamente. Tematica.
+> **Resistenza Magia + immunita fuoco/freddo:** in 3.5 = RM 13. Il caster deve superare il livello.
+
 ---
 
 ### Demone dell'Ombra
@@ -3930,6 +4211,12 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 <h3>Azioni</h3>
 <p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 5 ft., un bersaglio. <em>Colpito:</em> 10 (2d6 + 3) danni psichici, oppure 17 (4d6 + 3) danni psichici se il demone ha vantaggio al tiro per colpire.</p>
 </div>
+
+> [!tip] **Variante 3.5 — Riferimento generico**
+> **Incorporeo:** in 3.5, 50% chance di ignorare danni non magici. Solo armi magiche o forza.
+> **Danni psichici (2d6+3 / 4d6+3 con vantaggio):** i danni psichici in 3.5 non sono comuni ma esistono. Funzionano come scritto.
+> **Vulnerabilita radiosi:** *sacred flame* e simili sono molto efficaci.
+> **Sensibilita alla Luce:** svantaggio in luce intensa = -2 ai tiri in 3.5.
 
 ---
 
