@@ -3,6 +3,8 @@
 
 *Riferimento generico*
 
+![[greater_animated_object.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -57,6 +59,9 @@
 
 *Appare in: Arc T*
 
+
+![[lesser_animated_object.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -110,6 +115,9 @@
 ### Gargoyle del Castello
 
 *Riferimento generico*
+
+
+![[castle_gargoyle.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -172,6 +180,9 @@
 ### Druido Assaltatore
 
 *Riferimento generico*
+
+
+![[assault_druid.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -238,6 +249,9 @@
 
 *Appare in: Arc J*
 
+
+![[nature_druid.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -302,6 +316,9 @@
 
 *Riferimento generico*
 
+
+![[elder_twig_blight.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -359,6 +376,9 @@
 ### Gargoyle
 
 *Appare in: Arc E, Arc P*
+
+
+![[gargoyle_token.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -424,6 +444,9 @@
 
 *Appare in: Arc R*
 
+
+![[rat_plague.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -482,6 +505,9 @@
 ### Triade Radicespinosa
 
 *Riferimento generico*
+
+
+![[thornroot_triad.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -543,6 +569,9 @@
 
 *Riferimento generico*
 
+
+![[swarm_of_twig_blights.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -598,6 +627,9 @@
 ### Lupo Mannaro
 
 *Appare in: Arc C, Arc E, Arc L*
+
+
+![[werewolf.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -661,6 +693,9 @@
 ### Lupo Mannaro Lottatore
 
 *Appare in: Arc L*
+
+
+![[werewolf_brawler.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -730,6 +765,9 @@
 
 *Riferimento generico*
 
+
+![[wight_commander.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -793,6 +831,9 @@
 
 *Appare in: Arc B, Arc P, Arc Q, Arc U*
 
+
+![[zombie.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -843,6 +884,9 @@
 ### Zombi Diffusore di Epidemia
 
 *Riferimento generico*
+
+
+![[zombie_plague_spreader.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -4030,6 +4074,9 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 *Appare in: Arc C, Arc Q*
 
+
+![[revenant.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -4091,6 +4138,9 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ### Teschio Fiammeggiante
 
 *Riferimento generico*
+
+
+![[flameskull.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -4160,6 +4210,9 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 *Riferimento generico*
 
+
+![[shadow_demon.webp]]
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -4223,6 +4276,9 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ### Giovane Drago Rosso d'Ombra
 
 *Riferimento generico*
+
+
+![[young_red_shadow_dragon.webp]]
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
