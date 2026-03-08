@@ -2,7 +2,7 @@
 
 # Death House
 ### Rosavalda "Rose" Durst
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
 
 ***Emotions.*** Rose most often feels apprehensive, curious, defiant, or bold.
@@ -11,14 +11,14 @@
 
 ***Inspirations.*** When playing Rose, channel Eleven (*Stranger Things*), Matilda (*Matilda*), and Lucy Pevensie (*The Chronicles of Narnia*). 
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Rose is Thorn's fiercest protector. To those she trusts, Rose is a lost, fearful, and traumatized young girl.
 
 ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
 
 ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
 ### Thornboldt "Thorn" Durst
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
 
 ***Emotions.*** Thorn most often feels uncomfortable, joyous, anxious, or terrified.
@@ -27,7 +27,7 @@
 
 ***Inspirations.*** When playing Thorn, channel Neville Longbottom (*Harry Potter*) and Piglet (*Winnie the Pooh*).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Thorn is a frightened young boy who clings to his sister. To those he trusts, Thorn is  a quietly observant and insightful child.
 
 ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
@@ -35,7 +35,7 @@
 ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
 # Village of Barovia
 ### Ismark Kolyanovich
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Ismark should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's shadow, and gratitude for his friendliness and aid.
 
 ***Emotions.*** Ismark most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
@@ -44,14 +44,14 @@
 
 ***Inspirations.*** When playing Ismark, channel Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), and Trevor Belmont (*Castlevania*).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Ismark is a courageous, reliable, and compassionate leader. To those he trusts, Ismark is a self-doubting, struggling warrior desperate to keep his loved ones safe. Deep down, Ismark worries that he will never live up to his ancestor's deeds—and fears that he has already irreparably failed.
 
 ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 
 ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
 ### Ireena Kolyana
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
 
 ***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
@@ -60,46 +60,46 @@
 
 ***Inspirations.*** When playing Ireena, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
 
 ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 
 ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
 ### Parriwimple
-**Roleplaying Information**
-***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
+**Informazioni di Interpretazione**
+***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players' exotic weapons and clothes.
 
 ***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
 
-***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
+***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents' memories.
 
 ***Inspirations.*** When playing Parriwimple, channel Lenny Small (Of Mice and Men) and Forrest Gump (Forrest Gump).
 
-**Character Information**
-***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
+**Informazioni sul Personaggio**
+***Persona.*** To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents' deaths by proving useful to others.
 
 ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
 
 ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
 ### Father Donavich
-**Roleplaying Information**
-***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
+**Informazioni di Interpretazione**
+***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru's undead nature.
 
 ***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
 
-***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
+***Motivations.*** Father Donavich wants to free his son from Strahd's clutches—at any cost.
 
 ***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Boromir (The Lord of the Rings).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
 
 ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 
-***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+***Relationships.*** Father Donavich is Doru's father and the priest of the Barovian church.
 ### Doru
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
 
 ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
@@ -108,7 +108,7 @@
 
 ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
 
 ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
@@ -116,8 +116,8 @@
 ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
 # Tser Pool Encampment
 #### Madam Eva
-**Roleplaying Information**
-***Resonance.*** Madam Eva should inspire discomfort with her intimate knowledge of the players’ pasts, gratitude for her dedication to the players’ journey, and reassurance with her confident predictions.
+**Informazioni di Interpretazione**
+***Resonance.*** Madam Eva should inspire discomfort with her intimate knowledge of the players' pasts, gratitude for her dedication to the players' journey, and reassurance with her confident predictions.
 
 ***Emotions.*** Madam Eva's most frequent emotions are amusement, solemnity, concern, and contemplation.
 
@@ -125,7 +125,7 @@
 
 ***Inspirations.*** When playing Madam Eva, channel The Ancient One (Doctor Strange) and the Fates (Hercules).
 
-**Character Information**
+**Informazioni sul Personaggio**
 ***Persona.*** To the world, Madam Eva appears as a wise, yet maddened crone who speaks in prophecies and riddles. To those she trusts, she appears as a kind, yet frustratingly opaque and stubborn old woman.
 
 ***Morale.*** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her Vistani aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
@@ -133,7 +133,7 @@
 ***Relationships.*** Madam Eva alone knows that she is an avatar of the Seeker.
 # Castle Ravenloft
 ## Volenta Popofsky
-**Roleplaying Information**
+**Informazioni di Interpretazione**
 ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
 
 ***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
@@ -142,34 +142,34 @@
 
 ***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
 
-**Character Information**
+**Informazioni sul Personaggio**
 
 ***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
 
 ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 
 ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
-#### First Encounter
+#### Primo Incontro
 
 <div class="statblock">
-<h2>Volenta, First Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Prima Forma</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalata 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -184,52 +184,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
+<strong>Competenze</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Volenta non ha svantaggio ai suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Volenta può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Fuga Agile.</em></strong> Volenta può effettuare l'azione Disimpegno o Nascondersi come azione bonus in ciascuno dei suoi turni.</p>
+<p><strong><em>Sete di Sangue Risvegliata.</em></strong> Quando Volenta scende a 0 punti ferita, le sue statistiche vengono istantaneamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.</p>
 <div class="break"></div>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
-<p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta usa <strong><em>grandine di pugnali</em></strong> due volte, <strong><em>pugnale</em></strong> due volte, oppure <strong><em>grandine di pugnali</em></strong> una volta e <strong><em>intralciapiedi</em></strong> o <strong><em>pietra del tuono</em></strong>.</p>
+<p><strong><em>Grandine di Pugnali.</em></strong> <em>Attacco con Arma a Distanza:</em> +7 al tiro per colpire, gittata 4,5 m, un bersaglio. <em>Colpito:</em> 9 (2d4 + 4) danni perforanti.</p>
+<p><strong><em>Pugnale.</em></strong> <em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d4 + 4) danni perforanti.</p>
+<p><strong><em>Intralciapiedi (1/giorno).</em></strong> Volenta lancia un sacchetto di catrame nero appiccicoso e contorto verso un punto sul terreno entro 9 m. Il sacchetto esplode all'impatto, ricoprendo fino a due creature entro 1,5 m l'una dall'altra con catrame appiccicoso e costringendo ogni bersaglio a superare un tiro salvezza su Forza con CD 14 o essere trattenuto. Un bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto con un successo.</p>
+<p><strong><em>Pietra del Tuono (1/giorno).</em></strong> Volenta lancia un frammento cristallino contro una creatura, un oggetto o una superficie entro 9 m. Il frammento si frantuma all'impatto con un'esplosione di energia concussiva. Ogni creatura entro 3 m dal punto d'impatto deve superare un tiro salvezza su Costituzione con CD 14 o essere scaraventata a terra prona e spinta 3 m lontano da quel punto. Una creatura che fallisce il tiro salvezza è anche assordata fino all'inizio del turno successivo di Volenta.</p>
+<p><strong><em>Bomba Incendiaria dell'Alchimista (1/giorno).</em></strong> Volenta lancia una fiasca di fuoco dell'alchimista concentrato verso un punto entro 9 m. La fiala si frantuma all'impatto e detona in un raggio di 3 m. Ogni creatura in quell'area deve superare un tiro salvezza su Destrezza con CD 14 o subire 2d6 danni da fuoco e prendere fuoco. Una creatura che prende fuoco in questo modo subisce 1d4 danni da fuoco all'inizio di ciascuno dei suoi turni, e può effettuare un tiro salvezza su Destrezza con CD 14 aggiuntivo alla fine di ciascuno dei suoi turni per spegnere le fiamme.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Fumogeno (1/giorno).</em></strong> Quando Volenta viene ridotta a 0 punti ferita, se non è afferrata, trattenuta o incapacitata, può spezzare un bastoncino di legno carbonizzato e nero, rilasciando una nube di fumo denso e opaco che crea un'area pesantemente oscurata in un raggio di 6 m. Può poi muoversi fino alla sua velocità senza provocare attacchi di opportunità. Un vento moderato (almeno 16 km/h) disperde il fumo in 4 round; un vento forte (32 km/h o più) lo disperde in 1 round.
 </div>
 <br>
 <div class="statblock">
-<h2>Volenta, Second Form</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Seconda Forma</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalata 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -244,54 +244,54 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
+<strong>Competenze</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 6 (2.300 PE)<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del turno successivo del vampiro.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Volenta può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Frenesia Sanguinaria.</em></strong> Volenta ha vantaggio ai tiri per colpire da mischia contro qualsiasi creatura che non abbia tutti i suoi punti ferita.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta effettua due attacchi, di cui solo uno può essere un attacco con morso.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Volenta recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Se il bersaglio non è stato morso nelle ultime 24 ore, completando un riposo lungo può tirare uno dei suoi dadi vita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare i punti ferita del bersaglio oltre il suo massimo originale.)</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (CD di fuga 13).</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Nel farlo, può sostituire 3 m di movimento con un salto in alto di 3 m.</p>
+<p><strong><em>Disarticolazione.</em></strong> Volenta si disarticola le giunture, liberandosi automaticamente da qualsiasi restrizione non magica, come manette o una creatura che la tiene afferrata.
+<h3>Reazioni</h3>
+<p>Volenta può effettuare fino a tre reazioni per round, ma solo una per turno. Se Volenta dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Sputo di Sangue.</em></strong> In risposta a danni subiti da un attacco da mischia, Volenta sputa un grumo di sangue negli occhi della creatura attaccante, costringendola a effettuare un tiro salvezza su Destrezza con CD 15. In caso di fallimento, la creatura è accecata fino alla fine del suo turno successivo.</p>
+<p><strong><em>Aggressione.</em></strong> In risposta a danni subiti da un attacco o incantesimo, Volenta si muove fino alla sua velocità verso una creatura ostile che può vedere senza provocare attacchi di opportunità.</p>
+<p><strong><em>Fuga.</em></strong> In risposta alla fuga da una presa, Volenta usa il suo tratto <strong><em>balzo</em></strong>.
 </div>
 
-#### Second Encounter
+#### Secondo Incontro
 
 
 <div class="statblock">
-<h2>Volenta, Alchemical Savant</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Sapiente Alchimista</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalata 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -306,54 +306,54 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3<br>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
+<strong>Competenze</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus di Competenza</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
-<p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage plus 7 (2d6) poison damage.</p>
-<p><strong><em>Thunderstone (2/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta's next turn.</p>
-<p><strong><em>Froststar (3/day).</em></strong> Volenta throws a crystalline shard at a point she can see within 30 feet. The shard explodes on impact, covering the area with thick, icy frost. Each creature within 5 feet of the point of impact must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, a creature takes 2d6 cold damage and is restrained by ice until the start of Volenta's next turn. On a successful save, a creature takes half the damage and isn't restrained. A restrained creature can use its action to make a <span class="highlight">DC 14 Strength check</span> to break free. A 5-foot-square section of ice has AC 10, 15 hit points, vulnerability to bludgeoning and fire damage, and immunity to cold, poison, and psychic damage.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a <span class="highlight">DC 14 Dexterity saving throw</span> or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Nimble Escape.</em></strong> Volenta takes the Disengage or Hide action.</p>
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Final Conflagration.</em></strong> When Volenta is reduced to 0 hit points, she can use her alchemist's firebomb if available, centered on herself. (Any damage taken doesn’t carry over to her second form.)</p>
-<p><strong><em>Acrobatic Escape.</em></strong> When an attack misses Volenta, she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
-<p><strong><em>Caustic Splash (1/day).</em></strong> When Volenta takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of Volenta's next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Volenta non ha svantaggio ai suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Volenta può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta usa <strong><em>grandine di pugnali</em></strong> due volte, oppure <strong><em>grandine di pugnali</em></strong> una volta e <strong><em>pietra del tuono</em></strong> o <strong><em>stella di gelo</em></strong>.</p>
+<p><strong><em>Grandine di Pugnali.</em></strong> <em>Attacco con Arma a Distanza:</em> +7 al tiro per colpire, gittata 4,5 m, un bersaglio. <em>Colpito:</em> 9 (2d4 + 4) danni perforanti più 7 (2d6) danni da veleno.</p>
+<p><strong><em>Pietra del Tuono (2/giorno).</em></strong> Volenta lancia un frammento cristallino contro una creatura, un oggetto o una superficie entro 9 m. Il frammento si frantuma all'impatto con un'esplosione di energia concussiva. Ogni creatura entro 3 m dal punto d'impatto deve superare un <span class="highlight">tiro salvezza su Costituzione con CD 14</span> o essere scaraventata a terra prona e spinta 3 m lontano da quel punto. Una creatura che fallisce il tiro salvezza è anche assordata fino all'inizio del turno successivo di Volenta.</p>
+<p><strong><em>Stella di Gelo (3/giorno).</em></strong> Volenta lancia un frammento cristallino verso un punto che può vedere entro 9 m. Il frammento esplode all'impatto, ricoprendo l'area con spesso gelo ghiacciato. Ogni creatura entro 1,5 m dal punto d'impatto deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 14</span>. Con un tiro salvezza fallito, una creatura subisce 2d6 danni da freddo ed è trattenuta dal ghiaccio fino all'inizio del turno successivo di Volenta. Con un tiro salvezza riuscito, una creatura subisce la metà dei danni e non è trattenuta. Una creatura trattenuta può usare la sua azione per effettuare una <span class="highlight">prova di Forza con CD 14</span> per liberarsi. Una sezione di ghiaccio di 1,5 m per lato ha CA 10, 15 punti ferita, vulnerabilità ai danni contundenti e da fuoco, e immunità ai danni da freddo, da veleno e psichici.</p>
+<p><strong><em>Bomba Incendiaria dell'Alchimista (1/giorno).</em></strong> Volenta lancia una fiasca di fuoco dell'alchimista concentrato verso un punto entro 9 m. La fiala si frantuma all'impatto e detona in un raggio di 3 m. Ogni creatura in quell'area deve superare un <span class="highlight">tiro salvezza su Destrezza con CD 14</span> o subire 2d6 danni da fuoco e prendere fuoco. Una creatura che prende fuoco in questo modo subisce 1d4 danni da fuoco all'inizio di ciascuno dei suoi turni, e può effettuare un tiro salvezza su Destrezza con CD 14 aggiuntivo alla fine di ciascuno dei suoi turni per spegnere le fiamme.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Fuga Agile.</em></strong> Volenta effettua l'azione Disimpegno o Nascondersi.</p>
+<h3>Reazioni</h3>
+<p>Volenta può effettuare fino a tre reazioni per round, ma solo una per turno. Se Volenta dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Conflagrazione Finale.</em></strong> Quando Volenta viene ridotta a 0 punti ferita, può usare la sua bomba incendiaria dell'alchimista se disponibile, centrata su se stessa. (I danni subiti non si trasferiscono alla sua seconda forma.)</p>
+<p><strong><em>Fuga Acrobatica.</em></strong> Quando un attacco manca Volenta, può usare la sua reazione per muoversi fino a metà della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Schizzo Caustico (1/giorno).</em></strong> Quando Volenta subisce danni da una creatura entro 1,5 m da lei, può usare la sua reazione per schizzare quella creatura con sostanze chimiche caustiche. La creatura deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 14</span>. Con un tiro salvezza fallito, la creatura subisce <span class="highlight">14 (4d6) danni da acido</span> ed è accecata fino alla fine del turno successivo di Volenta. Con un tiro salvezza riuscito, la creatura subisce la metà dei danni e non è accecata.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Volenta, Frenzied Spawn</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Volenta, Progenie Frenetica</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)
+<strong>Classe Armatura</strong> 15 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 82 (11d8 + 33)
+<strong>Punti Ferita</strong> 82 (11d8 + 33)
 <br>
-<strong>Speed</strong> 30 ft., climb 30 ft.
+<strong>Velocità</strong> 9 m, scalata 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -368,71 +368,71 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5<br>
-<strong>Skills</strong> Acrobatics +10, Perception +5, Stealth +10<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 (2,300 XP)<br>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5<br>
+<strong>Competenze</strong> Acrobazia +10, Percezione +5, Furtività +10<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 6 (2.300 PE)<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Volenta does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
-<h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
+<p><strong><em>Rigenerazione.</em></strong> Volenta recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se Volenta subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del turno successivo del vampiro.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Volenta può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Volenta subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Volenta non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Frenesia Sanguinaria.</em></strong> Volenta ha vantaggio ai tiri per colpire da mischia contro qualsiasi creatura che non abbia tutti i suoi punti ferita.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Volenta effettua due attacchi, di cui solo uno può essere un attacco con morso. Se entrambi gli attacchi colpiscono, può immediatamente effettuare un attacco aggiuntivo.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Volenta, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Volenta recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Se il bersaglio non è stato morso nelle ultime 24 ore, completando un riposo lungo può tirare uno dei suoi dadi vita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare i punti ferita del bersaglio oltre il suo massimo originale.)</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Volenta può afferrare il bersaglio (CD di fuga 13).</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Balzo.</em></strong> Volenta si muove fino alla sua velocità senza provocare attacchi di opportunità. Nel farlo, può sostituire 3 m di movimento con un salto in alto di 3 m.</p>
+<p><strong><em>Disarticolazione.</em></strong> Volenta si disarticola le giunture, liberandosi automaticamente da qualsiasi restrizione non magica, come manette o una creatura che la tiene afferrata.</p>
+<h3>Reazioni</h3>
+<p>Volenta può effettuare fino a tre reazioni per round, ma solo una per turno. Se Volenta dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Sputo di Sangue.</em></strong> In risposta a danni subiti da un attacco da mischia, Volenta sputa un grumo di sangue negli occhi della creatura attaccante, costringendola a effettuare un tiro salvezza su Destrezza con CD 15. In caso di fallimento, la creatura è accecata fino alla fine del suo turno successivo.</p>
+<p><strong><em>Aggressione.</em></strong> In risposta a danni subiti da un attacco o incantesimo, Volenta si muove fino alla sua velocità verso una creatura ostile che può vedere senza provocare attacchi di opportunità.</p>
+<p><strong><em>Fuga.</em></strong> In risposta alla fuga da una presa, Volenta usa il suo tratto <strong><em>balzo</em></strong>.</p>
 </div>
 
 ## Ludmilla Vilisevic
-**Roleplaying Information**
-***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
+**Informazioni di Interpretazione**
+***Risonanza.*** Ludmilla dovrebbe ispirare irritazione per il suo rifiuto di lasciarsi provocare dai giocatori (e la sua evidente incapacità di provare rabbia), disagio per la sua personalità distaccata e analitica, e rabbia per la sua condiscendenza e i suoi insulti elaborati.
 
-***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
+***Emozioni.*** Ludmilla si sente più spesso incuriosita, infastidita, pensierosa o (lievemente) divertita.
 
-***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+***Motivazioni.*** Ludmilla vuole conquistare i segreti della magia e impressionare Strahd a sufficienza da diventare la sua consigliera arcana, come fu un tempo Khazan.
 
-***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
+***Ispirazioni.*** Quando interpreti Ludmilla, canalizza Severus Piton (*Harry Potter*), Sherlock Holmes (*Sherlock*) e il Dr. Gregory House (*House*).
 
-**Character Information**
-***Persona.*** To the world, Ludmilla is an ambitious, detached, and sociopathic mage, dedicated to attaining knowledge and power at all costs.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Ludmilla è una maga ambiziosa, distaccata e sociopatica, dedita a ottenere conoscenza e potere a qualunque costo.
 
-***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
+***Morale.*** In un combattimento, Ludmilla cercherebbe di attirare il suo avversario in una trappola preparata in anticipo, fuggendo se in svantaggio e incapace di affrontare lo scontro con qualche tipo di vantaggio.
 
-***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+***Relazioni.*** Ludmilla è la seconda sposa vampirica più anziana di Strahd e la matrona della congrega delle **streghe baroviane** a Castello Ravenloft.
 
-#### First Encounter
+#### Primo Incontro
 
 
 <div class="statblock">
-    <h2>Ludmilla, First Form</h2>
-    <em>Medium undead, neutral evil</em>
+    <h2>Ludmilla, Prima Forma</h2>
+    <em>Non morto medio, neutrale malvagio</em>
     <hr>
-    <strong>Armor Class</strong> 16 (natural armor)
+    <strong>Classe Armatura</strong> 16 (armatura naturale)
     <br>
-    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <strong>Punti Ferita</strong> 82 (11d8 + 33)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -447,54 +447,54 @@
         </tbody>
     </table>
     <hr>
-    <strong>Saving Throws</strong> Dex +6, Wis +5, Int +7<br>
-    <strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-    <strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical weapons<br>
-    <strong>Senses</strong> Darkvision 120 ft., passive Perception 13<br>
-    <strong>Languages</strong> Common, Abyssal, Infernal<br>
-    <strong>Challenge Rating</strong> 6<br>
-    <strong>Proficiency Bonus</strong> +3
+    <strong>Tiri Salvezza</strong> Des +6, Sag +5, Int +7<br>
+    <strong>Competenze</strong> Arcano +7, Percezione +3, Furtività +6<br>
+    <strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da armi non magiche<br>
+    <strong>Sensi</strong> scurovisione 36 m, Percezione passiva 13<br>
+    <strong>Linguaggi</strong> Comune, Abissale, Infernale<br>
+    <strong>Grado di Sfida</strong> 6<br>
+    <strong>Bonus di Competenza</strong> +3
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-    <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-    <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-    <p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-    <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
-    <p><strong><em>Command.</em></strong> Ludmilla casts <em>command</em> (DC 15), targeting up to two creatures with the same command. If she is within 10 feet of all targets, she can speak a command of up to three words, rather than one.</p>
-    <p><strong><em>Hypnotic Pattern (2/day).</em></strong> Ludmilla casts <em>hypnotic pattern</em> (DC 15).</p>
-    <p><strong><em>Dimension Door (1/day).</em></strong> Ludmilla casts <em>dimension door.</em></p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-    <p><strong><em>Entangling Slime.</em></strong> If Ludmilla is currently concentrating on a <em>grease</em> spell, she casts <em>web</em> (DC 15) without using concentration, targeting the same 20-foot-square area as the <em>grease</em> spell. The webs vanish when she loses her concentration on <em>grease.</em></p>
-    <h3>Reactions</h3>
-    <p>Ludmilla can take up to three reactions per round, but only one per turn. If she would lose her reactions, she loses one reaction instead.</p>
-    <p><strong><em>Misty Step.</em></strong> In response to taking damage, Ludmilla casts <em>misty step.</em></p>
-    <p><strong><em>Disrupt Spell (3/day).</em></strong> <em>3rd-Level Spell:</em> 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a DC 15 saving throw using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-    <p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
-    <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
+    <p><strong><em>Rigenerazione.</em></strong> Ludmilla recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+    <p><strong><em>Scalata del Ragno.</em></strong> Ludmilla può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+    <p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Ludmilla subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+    <p><strong><em>Lottatore Rapido.</em></strong> Ludmilla non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+    <p><strong><em>Forma di Nebbia.</em></strong> Quando Ludmilla viene ridotta a 0 punti ferita, le sue statistiche vengono istantaneamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Unto.</em></strong> Ludmilla lancia <em>unto</em> (CD 15) in un'area quadrata di 6 m.</p>
+    <p><strong><em>Comando.</em></strong> Ludmilla lancia <em>comando</em> (CD 15), bersagliando fino a due creature con lo stesso comando. Se si trova entro 3 m da tutti i bersagli, può pronunciare un comando di fino a tre parole, anziché una.</p>
+    <p><strong><em>Schema Ipnotico (2/giorno).</em></strong> Ludmilla lancia <em>schema ipnotico</em> (CD 15).</p>
+    <p><strong><em>Porta Dimensionale (1/giorno).</em></strong> Ludmilla lancia <em>porta dimensionale.</em></p>
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Manto di Ombre (1/giorno).</em></strong> Ludmilla evoca un manto di ombre attorno a sé, che dura 8 ore o finché non lo congeda come azione bonus. Mentre il manto permane, ottiene una velocità di volo di 15 m (hovering) e ha resistenza ai danni inflitti da attacchi da mischia. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce lo stesso ammontare e tipo di danni inflitti.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radiosi o danni da acqua santa mentre il manto è presente, il manto si indebolisce, riducendo la sua velocità di volo a 7,5 m e facendola cadere di 6 m. La seconda volta che Ludmilla subisce danni radiosi o danni da acqua santa mentre il manto è presente, il manto svanisce immediatamente.</p>
+    <p><strong><em>Melma Intrappolante.</em></strong> Se Ludmilla sta attualmente concentrandosi su un incantesimo <em>unto</em>, lancia <em>ragnatela</em> (CD 15) senza usare la concentrazione, bersagliando la stessa area quadrata di 6 m dell'incantesimo <em>unto</em>. Le ragnatele svaniscono quando perde la concentrazione su <em>unto.</em></p>
+    <h3>Reazioni</h3>
+    <p>Ludmilla può effettuare fino a tre reazioni per round, ma solo una per turno. Se dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+    <p><strong><em>Passo Brumoso.</em></strong> In risposta a danni subiti, Ludmilla lancia <em>passo brumoso.</em></p>
+    <p><strong><em>Interrompere Incantesimo (3/giorno).</em></strong> <em>Incantesimo di 3° livello:</em> 18 m, componenti S, istantaneo. <em>Effetto:</em> Ludmilla tenta di interrompere una creatura nel processo di lanciare un incantesimo. Se la creatura sta lanciando un incantesimo di 3° livello o inferiore, deve effettuare un tiro salvezza con CD 15 usando la sua caratteristica da incantatore. In caso di fallimento, l'incantesimo della creatura fallisce e non ha effetto.</p>
+    <p><strong><em>Rappresaglia del Mago.</em></strong> In risposta a un attacco magico mancato o al superamento di un tiro salvezza contro un incantesimo, Ludmilla può immediatamente costringere l'incantatore a superare un tiro salvezza su Costituzione con CD 15 o subire 7 (2d6) danni da forza.</p>
+    <p><strong><em>Contingenza (1/giorno).</em></strong> Se Ludmilla dovesse scendere a 0 punti ferita come risultato di danni subiti, un incantesimo di <em>contingenza</em> si attiva, permettendole di ottenere gli effetti di <em>porta dimensionale</em>. (Poiché Ludmilla non lancia l'incantesimo al momento della sua reazione, non può essere contrincantato.)</p>
 </div>
 
-#### Second Encounter
+#### Secondo Incontro
 
 <div class="statblock">
-<h2>Ludmilla Vilisevic, Elementalist</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Ludmilla Vilisevic, Elementalista</h2>
+<em>Non morto medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 30 ft., climb 20 ft.
+<strong>Classe Armatura</strong> 15<br>
+<strong>Punti Ferita</strong> 82 (11d8 + 33)<br>
+<strong>Velocità</strong> 9 m, scalata 6 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -509,55 +509,55 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Infernal<br>
-<strong>Challenge</strong> 8<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Des +6, Int +7, Sag +3<br>
+<strong>Competenze</strong> Arcano +7, Percezione +3, Furtività +6<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> Percezione passiva 13<br>
+<strong>Linguaggi</strong> Abissale, Comune, Draconico, Infernale<br>
+<strong>Grado di Sfida</strong> 8<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ludmilla doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Devil’s Sight.</em></strong> Ludmilla can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
-<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Mistfiend form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ludmilla makes two Shocking Grasp attacks.</p>
-<p><strong><em>Shocking Grasp.</em></strong> <em>Melee Spell Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (2d8) lightning damage. On a hit, the target can't take reactions until the start of its next turn.</p>
-<p><strong><em>Lightning Lance.</em></strong> A bolt of lightning arcs toward a creature of Ludmilla’s choice that she can see within 30 feet. Two bolts then leap from that creature to as many as two other creatures, each of which must be within 10 feet of the first creature. (A creature can be targeted by only one of the bolts.) Each creature must make a <span class="highlight">DC 15 Dexterity saving throw</span>, taking 9 (2d8) lightning damage on a failed save, or half as much damage on a success.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shroud of Shadows (1/day).</em></strong> Ludmilla summons a shroud of shadows around her, which lasts for 8 hours or until she dismisses it as a bonus action. While the shroud remains, she gains a flying speed of 50 feet (hover) and has resistance to damage dealt by melee attacks. If Ludmilla resists damage in this way, the attacker takes the same amount and type of damage dealt.<br>&nbsp;&nbsp;&nbsp;&nbsp; The first time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud weakens, reducing her flying speed to 25 feet and causing her to fall 20 feet. The second time Ludmilla takes radiant damage or damage from holy water while the shroud is present, the shroud immediately vanishes.</p>
-<p><strong><em>Duplicate.</em></strong> Ludmilla creates a perfect, intangible illusion of herself that lasts until the start of her next turn. The illusion appears in an unoccupied space within 30 feet of her. Ludmilla can then magically switch places with the illusion. While the illusion remains, it perfectly mimics Ludmilla's actions, speech, and movement, though it cannot attack. A player can make a <span class="highlight">DC 15 Intelligence (Investigation) check</span> to determine which Ludmilla is illusory. The illusion vanishes if it takes any damage.</p>
-<p><strong><em>Freezing Ray.</em></strong> <em>Ranged Spell Attack:</em> +7 to hit, range 120 ft., three creatures. <em>Hit:</em> 7 (2d6) cold damage per ray.</p>
-<p><strong><em>Darkness (1/day).</em></strong> Ludmilla casts <em>darkness</em> with a radius of 40 feet.</p>
-<h3>Reactions</h3>
-<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions, she loses one reaction instead..</p>
-<p><strong><em>Misty Step.</em></strong> In response to taking damage or casting *darkness*, Ludmilla casts <em>misty step</em>. She can then immediately take the Hide action. If she’s flying, she has advantage on the check made to hide.</p>
-<p><strong><em>Disrupt Spell (3/day).</em></strong> 3rd-level spell, range 60 feet, components S, instantaneous. <em>Effect:</em> Ludmilla attempts to disrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, it must make a <span class="highlight">DC 15 saving throw</span> using its spellcasting ability. On a failure, the creature's spell fails and has no effect.</p>
-<p><strong><em>Mage's Reprisal.</em></strong> In response to being missed by a spell attack or succeeding on a saving throw against a spell, Ludmilla can immediately force the caster to succeed on a DC 15 Constitution saving throw or take 7 (2d6) force damage.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Ludmilla non ha svantaggio ai suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Devil's Sight.</em></strong> Ludmilla può vedere normalmente nell'oscurità, sia magica che non magica, fino a una distanza di 36 m.</p>
+<p><strong><em>Rigenerazione.</em></strong> Ludmilla recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Ludmilla può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Ludmilla subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Ludmilla non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Forma di Nebbia.</em></strong> Quando Ludmilla viene ridotta a 0 punti ferita, le sue statistiche vengono istantaneamente sostituite dalle statistiche della sua forma Demone di Nebbia. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ludmilla effettua due attacchi con Presa Folgorante.</p>
+<p><strong><em>Presa Folgorante.</em></strong> <em>Attacco Magico da Mischia:</em> +7 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (2d8) danni da fulmine. Se colpito, il bersaglio non può effettuare reazioni fino all'inizio del suo turno successivo.</p>
+<p><strong><em>Lancia Fulminea.</em></strong> Un fulmine si inarca verso una creatura a scelta di Ludmilla che può vedere entro 9 m. Due fulmini poi balzano da quella creatura verso fino a due altre creature, ciascuna delle quali deve trovarsi entro 3 m dalla prima creatura. (Una creatura può essere bersagliata da uno solo dei fulmini.) Ogni creatura deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 15</span>, subendo 9 (2d8) danni da fulmine con un tiro salvezza fallito, o la metà dei danni con un successo.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Manto di Ombre (1/giorno).</em></strong> Ludmilla evoca un manto di ombre attorno a sé, che dura 8 ore o finché non lo congeda come azione bonus. Mentre il manto permane, ottiene una velocità di volo di 15 m (hovering) e ha resistenza ai danni inflitti da attacchi da mischia. Se Ludmilla resiste ai danni in questo modo, l'attaccante subisce lo stesso ammontare e tipo di danni inflitti.<br>&nbsp;&nbsp;&nbsp;&nbsp; La prima volta che Ludmilla subisce danni radiosi o danni da acqua santa mentre il manto è presente, il manto si indebolisce, riducendo la sua velocità di volo a 7,5 m e facendola cadere di 6 m. La seconda volta che Ludmilla subisce danni radiosi o danni da acqua santa mentre il manto è presente, il manto svanisce immediatamente.</p>
+<p><strong><em>Duplicazione.</em></strong> Ludmilla crea un'illusione perfetta e intangibile di se stessa che dura fino all'inizio del suo turno successivo. L'illusione appare in uno spazio non occupato entro 9 m da lei. Ludmilla può poi scambiare magicamente posizione con l'illusione. Mentre l'illusione permane, imita perfettamente le azioni, il parlato e i movimenti di Ludmilla, sebbene non possa attaccare. Un giocatore può effettuare una <span class="highlight">prova di Intelligenza (Indagare) con CD 15</span> per determinare quale Ludmilla sia illusoria. L'illusione svanisce se subisce qualsiasi danno.</p>
+<p><strong><em>Raggio Gelido.</em></strong> <em>Attacco Magico a Distanza:</em> +7 al tiro per colpire, gittata 36 m, tre creature. <em>Colpito:</em> 7 (2d6) danni da freddo per raggio.</p>
+<p><strong><em>Oscurità (1/giorno).</em></strong> Ludmilla lancia <em>oscurità</em> con un raggio di 12 m.</p>
+<h3>Reazioni</h3>
+<p>Ludmilla può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ludmilla dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Passo Brumoso.</em></strong> In risposta a danni subiti o dopo aver lanciato *oscurità*, Ludmilla lancia <em>passo brumoso</em>. Può poi effettuare immediatamente l'azione Nascondersi. Se sta volando, ha vantaggio sulla prova effettuata per nascondersi.</p>
+<p><strong><em>Interrompere Incantesimo (3/giorno).</em></strong> Incantesimo di 3° livello, gittata 18 m, componenti S, istantaneo. <em>Effetto:</em> Ludmilla tenta di interrompere una creatura nel processo di lanciare un incantesimo. Se la creatura sta lanciando un incantesimo di 3° livello o inferiore, deve effettuare un <span class="highlight">tiro salvezza con CD 15</span> usando la sua caratteristica da incantatore. In caso di fallimento, l'incantesimo della creatura fallisce e non ha effetto.</p>
+<p><strong><em>Rappresaglia del Mago.</em></strong> In risposta a un attacco magico mancato o al superamento di un tiro salvezza contro un incantesimo, Ludmilla può immediatamente costringere l'incantatore a superare un tiro salvezza su Costituzione con CD 15 o subire 7 (2d6) danni da forza.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Ludmilla Vilisevic, Mistfiend</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Ludmilla Vilisevic, Demone di Nebbia</h2>
+<em>Non morto medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 30 ft., fly 50 ft. (hover)
+<strong>Classe Armatura</strong> 15<br>
+<strong>Punti Ferita</strong> 82 (11d8 + 33)<br>
+<strong>Velocità</strong> 9 m, volo 15 m (hovering)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -572,74 +572,74 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +6, Int +7, Wis +3<br>
-<strong>Skills</strong> Arcana +7, Perception +3, Stealth +6<br>
-<strong>Damage Vulnerabilities</strong> lightning<br>
-<strong>Damage Immunities</strong> bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Condition Immunities</strong> grappled, prone, restrained<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 8 (3,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Des +6, Int +7, Sag +3<br>
+<strong>Competenze</strong> Arcano +7, Percezione +3, Furtività +6<br>
+<strong>Vulnerabilità ai Danni</strong> da fulmine<br>
+<strong>Immunità ai Danni</strong> contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Immunità alle Condizioni</strong> afferrato, prono, trattenuto<br>
+<strong>Sensi</strong> Percezione passiva 13<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 8 (3.900 PE)<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ludmilla doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Cold Sensitivity.</em></strong> When Ludmilla takes cold damage, she freezes into a corporeal form until the start of her next turn. While frozen in this way, she loses the attributes of her Mistform feature, loses her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons, gains vulnerability to bludgeoning and thunder damage, loses her immunity to the grappled, prone, and restrained conditions, and loses her fly speed.</p>
-<p><strong><em>Mistsight.</em></strong> While within fog, Ludmilla has blindsight that extends to the edge of the fog, out to a maximum of 60 feet.
-<p><strong><em>Mistform.</em></strong> Ludmilla can enter and occupy the space of another creature, and can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. She can't fall, and remains hovering in the air even when stunned or otherwise incapacitated. However, while making a melee attack or grappling a target, Ludmilla loses these attributes, as well as her immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons and loses her immunity to the grappled, prone, and restrained conditions.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ludmilla makes two attacks with her claws. She can replace one attack with a mist shards or bite attack.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage plus 2 (1d4) necrotic damage. Instead of dealing the slashing damage, Ludmilla can grapple the target (escape DC 14).</p>
-<p><strong><em>Mist Shards.</em></strong> <em>Ranged Weapon Attack:</em> +6 to hit, range 30 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage plus 3 (1d6) necrotic damage.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Ludmilla, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Ludmilla regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.).</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Dissipate.</em></strong> If Ludmilla is heavily obscured by mist or fog, she takes the Hide action.
-<p><strong><em>Asphyxiate.</em></strong> One creature within 30 feet must make a <span class="highlight">DC 14 Constitution saving throw</span>. On a failure, the target's head is surrounded by a vacuum of air for 1 minute, or while Ludmilla maintains her concentration (as if concentrating on a spell). While surrounded by this vacuum, the target is deafened, can't speak, can't breathe (but can hold its breath), and has a number of levels of exhaustion equal to three minus the number of minutes of air it has left (minimum 0). In addition, a target surrounded by this vacuum must succeed on a DC 14 Constitution saving throw at the end of each of its turns or lose 1 minute of air on a failure.<br>&nbsp;&nbsp;&nbsp;&nbsp;The target loses all levels of exhaustion gained in this way if it falls unconscious or the vacuum disappears. The vacuum disappears if Ludmilla takes the Hide action or if the target is ever behind full cover or more than 30 feet away from her.</p>
-<h3>Reactions</h3>
-<p>Ludmilla can take up to three reactions per round, but only one per turn. If Ludmilla would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Fog Cloud.</em></strong> In response to taking damage, Ludmilla casts <em>fog cloud</em> without concentration.
-<p><strong><em>Poison Mist.</em></strong> In response to taking damage from a creature within 5 feet, Ludmilla forces that creature to succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or take 7 (2d6) poison damage.</p>
-<p><strong><em>Ambush.</em></strong> In response to hearing or seeing a creature move within 30 feet while she's hidden, Ludmilla moves up to her speed toward it and attacks it with her claws.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Ludmilla non ha svantaggio ai suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Ludmilla recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Ludmilla può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Ludmilla subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Ludmilla non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Sensibilità al Freddo.</em></strong> Quando Ludmilla subisce danni da freddo, si congela in una forma corporea fino all'inizio del suo turno successivo. Mentre è congelata in questo modo, perde gli attributi del suo tratto Forma di Nebbia, perde la sua immunità ai danni contundenti, perforanti e taglienti da armi non magiche, ottiene vulnerabilità ai danni contundenti e da tuono, perde la sua immunità alle condizioni di afferrato, prono e trattenuto, e perde la sua velocità di volo.</p>
+<p><strong><em>Vista nella Nebbia.</em></strong> Mentre si trova nella nebbia, Ludmilla ha vista cieca che si estende fino al bordo della nebbia, fino a un massimo di 18 m.
+<p><strong><em>Forma di Nebbia.</em></strong> Ludmilla può entrare e occupare lo spazio di un'altra creatura, e può passare attraverso piccoli fori, aperture strette e persino semplici crepe, sebbene tratti i liquidi come se fossero superfici solide. Non può cadere, e rimane sospesa nell'aria anche quando è stordita o altrimenti incapacitata. Tuttavia, mentre effettua un attacco da mischia o afferra un bersaglio, Ludmilla perde questi attributi, così come la sua immunità ai danni contundenti, perforanti e taglienti da armi non magiche e perde la sua immunità alle condizioni di afferrato, prono e trattenuto.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ludmilla effettua due attacchi con i suoi artigli. Può sostituire un attacco con un attacco con frammenti di nebbia o morso.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti più 2 (1d4) danni necrotici. Invece di infliggere i danni taglienti, Ludmilla può afferrare il bersaglio (CD di fuga 14).</p>
+<p><strong><em>Frammenti di Nebbia.</em></strong> <em>Attacco con Arma a Distanza:</em> +6 al tiro per colpire, gittata 9 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti più 3 (1d6) danni necrotici.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Ludmilla, incapacitata o trattenuta. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Ludmilla recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Se il bersaglio non è stato morso nelle ultime 24 ore, completando un riposo lungo può tirare uno dei suoi dadi vita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare i punti ferita del bersaglio oltre il suo massimo originale.).</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Dissoluzione.</em></strong> Se Ludmilla è pesantemente oscurata da foschia o nebbia, effettua l'azione Nascondersi.
+<p><strong><em>Asfissia.</em></strong> Una creatura entro 9 m deve effettuare un <span class="highlight">tiro salvezza su Costituzione con CD 14</span>. In caso di fallimento, la testa del bersaglio è circondata da un vuoto d'aria per 1 minuto, o mentre Ludmilla mantiene la sua concentrazione (come se si concentrasse su un incantesimo). Mentre è circondato da questo vuoto, il bersaglio è assordato, non può parlare, non può respirare (ma può trattenere il respiro), e ha un numero di livelli di esaurimento pari a tre meno il numero di minuti d'aria rimanenti (minimo 0). Inoltre, un bersaglio circondato da questo vuoto deve superare un tiro salvezza su Costituzione con CD 14 alla fine di ciascuno dei suoi turni o perdere 1 minuto d'aria in caso di fallimento.<br>&nbsp;&nbsp;&nbsp;&nbsp;Il bersaglio perde tutti i livelli di esaurimento ottenuti in questo modo se cade privo di sensi o se il vuoto scompare. Il vuoto scompare se Ludmilla effettua l'azione Nascondersi o se il bersaglio si trova dietro copertura totale o a più di 9 m da lei.</p>
+<h3>Reazioni</h3>
+<p>Ludmilla può effettuare fino a tre reazioni per round, ma solo una per turno. Se Ludmilla dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Nube di Nebbia.</em></strong> In risposta a danni subiti, Ludmilla lancia <em>nube di nebbia</em> senza concentrazione.
+<p><strong><em>Nebbia Velenosa.</em></strong> In risposta a danni subiti da una creatura entro 1,5 m, Ludmilla costringe quella creatura a superare un <span class="highlight">tiro salvezza su Costituzione con CD 14</span> o subire 7 (2d6) danni da veleno.</p>
+<p><strong><em>Imboscata.</em></strong> In risposta al sentire o vedere una creatura muoversi entro 9 m mentre è nascosta, Ludmilla si muove fino alla sua velocità verso di essa e la attacca con i suoi artigli.</p>
 </div>
 
 ## Anastrasya Karelova
-**Roleplaying Information**
-***Resonance.*** Anastrasya should inspire flattery for her compliments and charm, suspicion for her disguised efforts to probe for the players’ secrets, and disgust for her apathy toward the plight of the Barovian people.
+**Informazioni di Interpretazione**
+***Risonanza.*** Anastrasya dovrebbe ispirare lusinga per i suoi complimenti e il suo fascino, sospetto per i suoi sforzi mascherati di sondare i segreti dei giocatori, e disgusto per la sua apatia verso la difficile condizione del popolo baroviano.
 
-***Emotions.*** Anastrasya most often feels calm, amused, satisfied, or intrigued.
+***Emozioni.*** Anastrasya si sente più spesso calma, divertita, soddisfatta o incuriosita.
 
-***Motivations.*** Anastrasya wants to remove Volenta, Ludmilla, and the players as competitors to Strahd’s affections—by setting them against each other, if at all possible.
+***Motivazioni.*** Anastrasya vuole eliminare Volenta, Ludmilla e i giocatori come competitori per gli affetti di Strahd—mettendoli gli uni contro gli altri, se possibile.
 
-***Inspirations.*** When playing Anastrasya, channel Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*), and Irene Adler (*Sherlock Holmes*)
+***Ispirazioni.*** Quando interpreti Anastrasya, canalizza Lara Raith (*I Dossier di Dresda*), Margaery Tyrell (*Game of Thrones*) e Irene Adler (*Sherlock Holmes*)
 
-**Character Information**
-***Persona.*** To the world, Anastrasya is an empathetic, thoughtful, and charming socialite. To those who know her better, Anastrasya is a cunning, merciless chessmaster with a penchant for worming her way out of even the stickiest situations.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Anastrasya è una mondana empatica, premurosa e affascinante. Per coloro che la conoscono meglio, Anastrasya è una scacchista astuta e spietata con un talento per cavarsi d'impaccio anche dalle situazioni più difficili.
 
-***Morale.*** In a fight, Anastrasya would parlay for peace—and stab her enemy in the back as soon as an opportune moment presented itself.
+***Morale.*** In un combattimento, Anastrasya parlamenterebbe per la pace—e pugnalerrebbe il nemico alle spalle non appena si presentasse un momento opportuno.
 
-***Relationships.*** Anastrasya is Strahd’s third-youngest bride and a former Vallakian noble from a now-extinct house.
+***Relazioni.*** Anastrasya è la terza sposa più giovane di Strahd e un'ex nobile vallakiana di una casata ora estinta.
 
 
 <div class="statblock">
-<h2>Anastrasya, Vampire Socialite</h2>
-<em>Medium undead, unaligned</em>
+<h2>Anastrasya, Vampira Mondana</h2>
+<em>Non morto medio, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 30 ft.
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 82 (11d8 + 33)<br>
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -654,52 +654,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
-<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 7 (2,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Des +6, Sag +3, Car +6<br>
+<strong>Competenze</strong> Inganno +6, Percezione +3, Persuasione +6, Furtività +6<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> Percezione passiva 13<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 7 (2.900 PE)<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Anastrasya doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Anastrasya does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<p><strong><em>Skinchange.</em></strong> When Anastrasya is reduced to 0 hit points, her skin sloughs off, revealing a giant, bloated, grotesque bat. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn’t change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks with her flying sword, or two with her claws.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Anastrasya can grapple the target (escape DC 13).</p>
-<p><strong><em>Flying Sword.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 30 ft., one target. <em>Hit:</em> 7 (1d8 + 3) piercing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Charm.</em></strong> One creature within 10 feet must make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failure, the target is magically charmed for 1 minute or until Anastrasya loses her concentration (as if concentrating on a spell). A target that can't see Anastrasya automatically succeeds. While charmed, the target regards Anastrasya as a trusted friend to be heeded and protected; it isn't under Anastrasya's control, but takes her requests and actions in the most favorable way and lets Anastrasya bite it. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Telekinetic Thrust.</em></strong> Anastrasya chooses one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried. The object flies in a straight line up to 30 feet in a direction Anastrasya chooses before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.</p>
-<h3>Reactions</h3>
-<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Night's Retreat.</em></strong> In response to taking damage, Anastrasya can fly up to half her speed without provoking opportunity attacks.</p>
-<p><strong><em>Call Defender (1/round).</em></strong> In response to being targeted by an attack, if Anastrasya has charmed a creature, she commands that creature to use its reaction, if available, to move up to its speed toward her. If the charmed creature ends its movement within 5 feet of Anastrasya, it becomes the target of the attack instead.</p>
-<p><strong><em>Telekinetic Defense.</em></strong> In response to being targeted by an attack or spell, Anastrasya telekinetically summons one object weighing 1 to 50 pounds within 30 feet that isn't being worn or carried, gaining half cover against the triggering attack or spell.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Anastrasya non ha svantaggio ai suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Rigenerazione.</em></strong> Anastrasya recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Anastrasya può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Anastrasya subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Anastrasya non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<p><strong><em>Mutapelle.</em></strong> Quando Anastrasya viene ridotta a 0 punti ferita, la sua pelle si stacca, rivelando un pipistrello gigante, gonfio e grottesco. Le sue statistiche vengono poi istantaneamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla sua nuova forma, ma mantiene tutte le condizioni che aveva nella forma precedente.
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Anastrasya effettua tre attacchi con la sua spada volante, o due con i suoi artigli.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti. Invece di infliggere danni, Anastrasya può afferrare il bersaglio (CD di fuga 13).</p>
+<p><strong><em>Spada Volante.</em></strong> <em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 9 m, un bersaglio. <em>Colpito:</em> 7 (1d8 + 3) danni perforanti.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Ammaliamento.</em></strong> Una creatura entro 3 m deve effettuare un <span class="highlight">tiro salvezza su Saggezza con CD 14</span>. In caso di fallimento, il bersaglio è magicamente affascinato per 1 minuto o finché Anastrasya non perde la sua concentrazione (come se si concentrasse su un incantesimo). Un bersaglio che non può vedere Anastrasya riesce automaticamente. Mentre è affascinato, il bersaglio considera Anastrasya un'amica fidata da ascoltare e proteggere; non è sotto il controllo di Anastrasya, ma interpreta le sue richieste e azioni nel modo più favorevole e le permette di morderlo. Il bersaglio può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni, terminando l'effetto con un successo.</p>
+<p><strong><em>Spinta Telecinetica.</em></strong> Anastrasya sceglie un oggetto del peso da 0,5 a 25 kg entro 9 m che non sia indossato o trasportato. L'oggetto vola in linea retta fino a 9 m in una direzione scelta da Anastrasya prima di cadere al suolo, fermandosi prima se impatta contro una superficie solida. Se l'oggetto dovesse colpire una creatura, quella creatura deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 14</span>. Con un tiro salvezza fallito, l'oggetto colpisce il bersaglio e si ferma. Quando l'oggetto colpisce qualcosa, l'oggetto e ciò che colpisce subiscono ciascuno 3d8 danni contundenti.</p>
+<h3>Reazioni</h3>
+<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Ritirata Notturna.</em></strong> In risposta a danni subiti, Anastrasya può volare fino a metà della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Richiamo del Difensore (1/round).</em></strong> In risposta all'essere bersagliata da un attacco, se Anastrasya ha affascinato una creatura, comanda a quella creatura di usare la sua reazione, se disponibile, per muoversi fino alla sua velocità verso di lei. Se la creatura affascinata termina il suo movimento entro 1,5 m da Anastrasya, diventa il bersaglio dell'attacco al suo posto.</p>
+<p><strong><em>Difesa Telecinetica.</em></strong> In risposta all'essere bersagliata da un attacco o incantesimo, Anastrasya evoca telecineticamente un oggetto del peso da 0,5 a 25 kg entro 9 m che non sia indossato o trasportato, ottenendo mezza copertura contro l'attacco o incantesimo scatenante.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Anastrasya, Vampiric Abomination</h2>
-<em>Medium undead, unaligned</em>
+<h2>Anastrasya, Abominio Vampirico</h2>
+<em>Non morto medio, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 82 (11d8 + 33)<br>
-<strong>Speed</strong> 10 ft., fly 40 ft., climb 20 ft.
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 82 (11d8 + 33)<br>
+<strong>Velocità</strong> 3 m, volo 12 m, scalata 6 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -714,105 +714,105 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +6, Wis +3, Cha +6<br>
-<strong>Skills</strong> Deception +6, Perception +3, Persuasion +6, Stealth +6<br>
-<strong>Damage Resistances</strong> necrotic; bludgeoning, piercing, and slashing from nonmagical attacks<br>
-<strong>Senses</strong> passive Perception 13<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 7 (2,900 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Des +6, Sag +3, Car +6<br>
+<strong>Competenze</strong> Inganno +6, Percezione +3, Persuasione +6, Furtività +6<br>
+<strong>Resistenze ai Danni</strong> necrotici; contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Sensi</strong> Percezione passiva 13<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 7 (2.900 PE)<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<p><strong><em>Regeneration.</em></strong> Anastrasya regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Anastrasya can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Anastrasya takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Fast Grappler.</em></strong> Anastrasya does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Anastrasya makes three attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one willing creature, or a creature that is grappled by Anastrasya, incapacitated, or restrained. <em>Hit:</em> <span class="highlight">6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage</span>. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Anastrasya regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. If the target hasn't been bitten within the last 24 hours, when finishing a long rest it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> <span class="highlight">+6 to hit</span>, reach 5 ft., one target. <em>Hit:</em> <span class="highlight">8 (2d4 + 3) slashing damage</span>. Instead of dealing damage, Anastrasya can grapple the target (escape <span class="highlight">DC 13</span>).</p>
-<p><strong><em>Vomit Blood.</em></strong> Anastrasya spews blood in a <span class="highlight">15-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 14 Dexterity saving throw</span>, taking <span class="highlight">7 (2d6) bludgeoning damage and 3 (1d6) necrotic damage</span> on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Telekinetic Storm.</em></strong> Each creature within a <span class="highlight">5-foot radius</span> of Anastrasya must make a <span class="highlight">DC 14 Constitution saving throw</span>, taking <span class="highlight">4d4 force damage</span> on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Horrific Screech.</em></strong> All creatures that can hear within a <span class="highlight">30-foot radius</span> must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or suffer the following effects: On a failed save, a creature has disadvantage on attack rolls, ability checks, and concentration checks until the start of Anastrasya's next turn. If a creature fails the save by 5 or more, it is also frightened of Anastrasya until the start of her next turn. If a creature fails the save by 10 or more, it is also paralyzed until the end of Anastrasya's next turn.</p>
-<h3>Reactions</h3>
-<p>Anastrasya can take up to three reactions per round, but only one per turn. If Anastrasya would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Wing Attack.</em></strong> When Anastrasya takes damage from a creature within 5 feet of her, she can force the attacker to make a <span class="highlight">DC 14 Strength saving throw</span>. On a failed save, the attacker is pushed back <span class="highlight">10 feet</span>. If they fail the save by 5 or more, they also fall prone.</p>
-<p><strong><em>Vampiric Command.</em></strong> When a creature moves within 10 feet of Anastrasya or damages her while within 10 feet of her, she can use her reaction to force the creature to make a <span class="highlight">DC 14 Wisdom saving throw</span>. On a failed save, Anastrasya can command the creature as if she had cast the <em>command</em> spell, without expending a spell slot or using any components.</p>
+<p><strong><em>Rigenerazione.</em></strong> Anastrasya recupera 10 punti ferita all'inizio del suo turno se ha almeno 1 punto ferita e non si trova alla luce del sole o in acqua corrente. Se subisce danni radiosi o danni da acqua santa, questo tratto non funziona all'inizio del suo turno successivo.</p>
+<p><strong><em>Scalata del Ragno.</em></strong> Anastrasya può scalare superfici difficili, incluso a testa in giù sui soffitti, senza bisogno di effettuare una prova di caratteristica.</p>
+<p><strong><em>Ipersensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Anastrasya subisce 20 danni radiosi all'inizio del suo turno, e ha svantaggio ai tiri per colpire e alle prove di caratteristica.</p>
+<p><strong><em>Lottatore Rapido.</em></strong> Anastrasya non deve spendere movimento extra per spostare una creatura da lei afferrata se la creatura afferrata è della stessa taglia o più piccola.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Anastrasya effettua tre attacchi, di cui solo uno può essere un attacco con morso.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> <span class="highlight">+6 al tiro per colpire</span>, portata 1,5 m, una creatura consenziente, o una creatura che è afferrata da Anastrasya, incapacitata o trattenuta. <em>Colpito:</em> <span class="highlight">6 (1d6 + 3) danni perforanti più 7 (2d6) danni necrotici</span>. Il massimo dei punti ferita del bersaglio è ridotto di un ammontare pari ai danni necrotici subiti, e Anastrasya recupera punti ferita pari a tale ammontare. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0. Se il bersaglio non è stato morso nelle ultime 24 ore, completando un riposo lungo può tirare uno dei suoi dadi vita e aggiungere il suo modificatore di Costituzione. Il massimo dei punti ferita del bersaglio aumenta di un ammontare pari al risultato. (Questo aumento non può portare i punti ferita del bersaglio oltre il suo massimo originale.)</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> <span class="highlight">+6 al tiro per colpire</span>, portata 1,5 m, un bersaglio. <em>Colpito:</em> <span class="highlight">8 (2d4 + 3) danni taglienti</span>. Invece di infliggere danni, Anastrasya può afferrare il bersaglio (CD di fuga <span class="highlight">13</span>).</p>
+<p><strong><em>Vomito di Sangue.</em></strong> Anastrasya vomita sangue in un <span class="highlight">cono di 4,5 m</span>. Ogni creatura in quell'area deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 14</span>, subendo <span class="highlight">7 (2d6) danni contundenti e 3 (1d6) danni necrotici</span> con un tiro salvezza fallito, o la metà dei danni con un tiro riuscito.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Tempesta Telecinetica.</em></strong> Ogni creatura entro un <span class="highlight">raggio di 1,5 m</span> da Anastrasya deve effettuare un <span class="highlight">tiro salvezza su Costituzione con CD 14</span>, subendo <span class="highlight">4d4 danni da forza</span> con un tiro salvezza fallito, o la metà dei danni con un tiro riuscito.</p>
+<p><strong><em>Stridio Orribile.</em></strong> Tutte le creature che possono sentire entro un <span class="highlight">raggio di 9 m</span> devono superare un <span class="highlight">tiro salvezza su Costituzione con CD 14</span> o subire i seguenti effetti: con un tiro salvezza fallito, una creatura ha svantaggio ai tiri per colpire, alle prove di caratteristica e alle prove di concentrazione fino all'inizio del turno successivo di Anastrasya. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata da Anastrasya fino all'inizio del suo turno successivo. Se una creatura fallisce il tiro salvezza di 10 o più, è anche paralizzata fino alla fine del turno successivo di Anastrasya.</p>
+<h3>Reazioni</h3>
+<p>Anastrasya può effettuare fino a tre reazioni per round, ma solo una per turno. Se Anastrasya dovesse perdere le sue reazioni, perde invece una sola reazione.</p>
+<p><strong><em>Attacco d'Ala.</em></strong> Quando Anastrasya subisce danni da una creatura entro 1,5 m da lei, può costringere l'attaccante a effettuare un <span class="highlight">tiro salvezza su Forza con CD 14</span>. Con un tiro salvezza fallito, l'attaccante viene spinto indietro di <span class="highlight">3 m</span>. Se fallisce il tiro salvezza di 5 o più, cade anche prono.</p>
+<p><strong><em>Comando Vampirico.</em></strong> Quando una creatura si muove entro 3 m da Anastrasya o le infligge danni mentre si trova entro 3 m da lei, può usare la sua reazione per costringere la creatura a effettuare un <span class="highlight">tiro salvezza su Saggezza con CD 14</span>. Con un tiro salvezza fallito, Anastrasya può comandare la creatura come se avesse lanciato l'incantesimo <em>comando</em>, senza spendere uno slot incantesimo o usare componenti.</p>
 </div>
 
 ## Escher
-**Roleplaying Information**
-***Resonance.*** Escher should make the players feel amused and flattered with his flamboyantly flirtatious behavior, irritated with his snide or condescending commentary, and, eventually, sympathetic to his unspoken guilt for his role in bringing harm to his friends and neighbors by awakening Strahd.
+**Informazioni di Interpretazione**
+***Risonanza.*** Escher dovrebbe far sentire i giocatori divertiti e lusingati dal suo comportamento vistosamente civettuolo, irritati dai suoi commenti sarcastici o condiscendenti, e, alla fine, in simpatia con il suo senso di colpa inespresso per il ruolo avuto nel portare danno ai suoi amici e vicini risvegliando Strahd.
 
-***Emotions.*** Escher most often feels annoyed, curious, angry, smug, anxious, fearful, playful, mischievous, amused, guilty, bitter, regretful, or ashamed.
+***Emozioni.*** Escher si sente più spesso infastidito, curioso, arrabbiato, compiaciuto, ansioso, timoroso, giocoso, dispettoso, divertito, colpevole, amareggiato, pentito o vergognoso.
 
-***Motivations.*** Escher wants to please Strahd and avoid falling from his favor.
+***Motivazioni.*** Escher vuole compiacere Strahd ed evitare di cadere in disgrazia.
 
-***Inspirations.*** When roleplaying Escher, channel Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
+***Ispirazioni.*** Quando interpreti Escher, canalizza Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*) e Renly Baratheon (*Game of Thrones*).
 
-**Character Information**
-***Persona.*** To the world, Escher is a flamboyant and self-assured member of Strahd's court, with a love for preening, luxuries, and attention. Only Escher knows that he is a guilt-ridden, self-loathing, broken man who longs desperately for Strahd's approval and has long since resigned himself to the cage his choices have trapped him in.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Escher è un membro sgargiante e sicuro di sé della corte di Strahd, con un debole per l'apparenza, i lussi e l'attenzione. Solo Escher sa di essere un uomo spezzato, divorato dal senso di colpa e dal disprezzo di sé, che brama disperatamente l'approvazione di Strahd e si è da tempo rassegnato alla gabbia in cui le sue scelte lo hanno intrappolato.
 
-***Morale.*** In a fight, Escher would seek to entreat or flee his adversary, fighting only if cornered or if grievously offended.
+***Morale.*** In un combattimento, Escher cercherebbe di supplicare o fuggire dal suo avversario, combattendo solo se messo all'angolo o gravemente offeso.
 
-***Relationships.*** Before becoming one of Strahd's consorts, Escher had a crush on Doru, his former best friend. He is now one of Strahd's consorts—though not formally wed to him—and an inferior member of Strahd's court.
+***Relazioni.*** Prima di diventare uno dei consorti di Strahd, Escher aveva una cotta per Doru, il suo ex migliore amico. Ora è uno dei consorti di Strahd—sebbene non formalmente sposato con lui—e un membro inferiore della corte di Strahd.
 ## Sasha Ivliskova
-**Roleplaying Information**
-***Resonance.*** Sasha should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.
+**Informazioni di Interpretazione**
+***Risonanza.*** Sasha dovrebbe far provare ai giocatori simpatia per il suo evidente disagio come una delle spose di Strahd, affetto per i suoi sforzi di mantenere la propria dignità di fronte al disprezzo e alla crudeltà delle altre spose di Strahd, e lieve fastidio per la sua riluttanza scontrosa a permettere ad altri di avvicinarsi a lei.
 
-***Emotions.*** Sasha most often feels melancholy, anxious, despondent, uncomfortable, anguished, reluctant, or fearful. If treated with kindness, she might feel grateful or hopeful.
+***Emozioni.*** Sasha si sente più spesso malinconica, ansiosa, abbattuta, a disagio, angosciata, riluttante o impaurita. Se trattata con gentilezza, potrebbe sentirsi grata o speranzosa.
 
-***Motivations.*** Sasha is motivated by her desire to avoid Strahd's wrath, protect other vulnerable Barovians from falling under Strahd's thrall, and free herself from the vampiric curse of undeath.
+***Motivazioni.*** Sasha è motivata dal desiderio di evitare l'ira di Strahd, proteggere altri Baroviani vulnerabili dal cadere sotto il dominio di Strahd, e liberarsi dalla maledizione vampirica della non-morte.
 
-***Inspirations.*** When roleplaying Sasha, channel Sansa Stark (*Game of Thrones)*), Katniss Everdeen (*The Hunger Games*), and Elsa (*Frozen*).
+***Ispirazioni.*** Quando interpreti Sasha, canalizza Sansa Stark (*Game of Thrones*), Katniss Everdeen (*The Hunger Games*) ed Elsa (*Frozen*).
 
-**Character Information**
-***Persona.*** To the world, Sasha is a quiet, brooding vampire with little interest in others. To those she trusts, Sasha is a sorrowful, guilt-ridden soul desperate to escape her monstrous existence.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Sasha è un vampiro silenzioso e cupo con poco interesse per gli altri. Per coloro di cui si fida, Sasha è un'anima addolorata e divorata dal senso di colpa, disperata di sfuggire alla sua esistenza mostruosa.
 
-***Morale.*** In a fight, Sasha would seek to flee or entreat her adversary, fighting only if cornered by an evil or malevolent opponent.
+***Morale.*** In un combattimento, Sasha cercherebbe di fuggire o supplicare il suo avversario, combattendo solo se messa all'angolo da un nemico malvagio o malevolo.
 
-***Relationships.*** Sasha is Strahd's first bride and a secret friend to Gertruda, Doru's betrothed and Strahd's prisoner.
+***Relazioni.*** Sasha è la prima sposa di Strahd e un'amica segreta di Gertruda, la promessa sposa di Doru e prigioniera di Strahd.
 
 
 ## Rahadin
 
-**Roleplaying Information**
-***Resonance.*** Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
+**Informazioni di Interpretazione**
+***Risonanza.*** Rahadin dovrebbe ispirare rabbia per la sua condiscendenza e inquietudine per la sua calma letale e la devozione incrollabile nell'eseguire la volontà di Strahd.
 
-***Emotions.*** Rahadin most often feels calm, disdainful, satisfied, bored, or irritated. 
+***Emozioni.*** Rahadin si sente più spesso calmo, sprezzante, soddisfatto, annoiato o irritato. 
 
-***Motivations.*** Rahadin wants to serve Strahd’s will as his faithful, ever-loyal servant—no matter the cost to himself or others.
+***Motivazioni.*** Rahadin vuole servire la volontà di Strahd come suo fedele e leale servitore—a qualunque costo per sé stesso o per gli altri.
 
-***Inspirations.*** When playing Rahadin, channel Tywin Lannister (*Game of Thrones*), Severus Snape (*Harry Potter*), and Agent Smith (*The Matrix*).
+***Ispirazioni.*** Quando interpreti Rahadin, canalizza Tywin Lannister (*Game of Thrones*), Severus Piton (*Harry Potter*) e l'Agente Smith (*The Matrix*).
 
-**Character Information**
-***Persona.*** To the world, Rahadin is Strahd’s loyal right-hand man and merciless enforcer. Only Rahadin knows the depths of his dedication to the Von Zarovich family, who he believes saved him from shame and despair.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Rahadin è il braccio destro leale di Strahd e il suo esecutore spietato. Solo Rahadin conosce la profondità della sua dedizione alla famiglia Von Zarovich, che crede lo abbia salvato dalla vergogna e dalla disperazione.
 
-***Morale.*** In a fight, Rahadin would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.
+***Morale.*** In un combattimento, Rahadin estrarrebbe immediatamente le armi e offrirebbe sommessamente al suo avversario l'opportunità di arrendersi—per poi attaccare spietatamente e con ogni vantaggio strategico in caso di rifiuto.
 
-***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikov, who was killed by her brother Kasimir).
+***Relazioni.*** Rahadin è il ciambellano del Castello Ravenloft, il fratello adottivo di Strahd von Zarovich, il cugino dell'elfo del crepuscolo Kasimir Velikov, il figlio del defunto principe degli elfi del crepuscolo Erevan Löwenhart (il proprietario originale della lama che sarebbe poi diventata la *Lama del Sole*), e l'assassino delle donne degli elfi del crepuscolo (ad eccezione della **banshee** Patrina Velikov, uccisa dal fratello Kasimir).
 
-### Pre-Corruption
+### Pre-Corruzione
 
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Ciambellano del Castello</h2>
+<em>Umanoide medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (34d8 + 72)
+<strong>Punti Ferita</strong> 180 (34d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocità</strong> 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -827,57 +827,57 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 14<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri Salvezza</strong> Des +11, Sag +8<br>
+<strong>Competenze</strong> Acrobazia +11, Inganno +9, Intuizione +8, Intimidire +14, Percezione +13, Furtività +16<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 14<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
-- 3/day: phantom steed<br>
-- 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Rahadin non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 3 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> sente nella propria mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
+<p><strong><em>Incantesimi Innati.</em></strong> La caratteristica da incantatore innato di Rahadin è Intelligenza. Può lanciare innatamente i seguenti incantesimi, senza componenti:<br>
+- 3/giorno: destriero fantasma<br>
+- 1/giorno: anti-individuazione</p>
+<p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<p><strong><em>Istinto Omicida.</em></strong> Quando Rahadin scende a 0 punti ferita, ripone la sciabola e sguaina le sue scimitarre gemelle, <em>Spina</em> e <em>Catena</em>. Le sue statistiche vengono immediatamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla nuova forma, e non mantiene alcuna condizione della forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua due attacchi.</p>
+<p><strong><em>Sciabola.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 11 (1d8 + 6) danni taglienti, e Rahadin può spingere il bersaglio fino a 1,5 m. Invece di spingere il bersaglio, Rahadin può costringerlo a superare un tiro salvezza su Forza con CD 15 o essere buttato prono.</p>
+<p><strong><em>Dardo Avvelenato.</em></strong> <em>Attacco con Arma a Distanza:</em> +11 al tiro per colpire, gittata 6/18 m, un bersaglio. <em>Colpito:</em> 14 (1d4 + 6 più 2d4) danni perforanti e da veleno, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 15 o essere avvelenato fino all'inizio del prossimo turno di Rahadin.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Colpo del Vento.</em></strong> Rahadin si muove fino alla sua velocità in linea retta verso uno spazio non occupato che può vedere, anche attraverso gli spazi dei nemici, senza provocare attacchi di opportunità. Ogni creatura entro 1,5 m da uno spazio attraverso cui passa deve effettuare un tiro salvezza su Destrezza con CD 19, subendo 7 (2d6) danni taglienti con un tiro fallito, o la metà dei danni con uno riuscito.</p>
+<p><strong><em>Lame Turbinanti.</em></strong> Ogni creatura entro 3 m da Rahadin deve effettuare un tiro salvezza su Destrezza con CD 19, subendo 7 (2d6) danni taglienti con un tiro fallito, o la metà dei danni con uno riuscito.</p>
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Colpo Punitivo.</em></strong> Quando Rahadin viene colpito da un attacco in mischia o a distanza, può usare la sua reazione per muoversi fino alla sua velocità verso l'attaccante ed effettuare un attacco con la sciabola. Questo movimento non provoca attacchi di opportunità.</p>
+<p><strong><em>Disarmare.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia impugnando un'arma, può usare la sua reazione per costringere quel nemico a effettuare un tiro salvezza su Forza con CD 19, con vantaggio se il nemico tiene l'arma a due mani. In caso di fallimento, il nemico lascia cadere l'oggetto, che viene sbalzato a 3 m di distanza.</p>
+<p><strong><em>Passo Brumoso (1/round).</em></strong> Quando un nemico manca Rahadin con un attacco o gli infligge danni, può usare la sua reazione per lanciare <em>passo brumoso</em>. Può quindi immediatamente effettuare l'azione Nascondersi. Rahadin non ha bisogno di vedere la sua destinazione quando lancia <em>passo brumoso</em> in questo modo.</p>
+<p><strong><em>Urlo Psichico (1/giorno).</em></strong> Quando Rahadin viene ridotto a 0 punti ferita, può usare la sua reazione per far emettere un terribile urlo al suo coro mortale. Ogni creatura entro 18 m da Rahadin deve effettuare un tiro salvezza su Saggezza con CD 17, subendo 11 (2d10) danni psichici con un tiro fallito o la metà con uno riuscito. Se una creatura fallisce il tiro salvezza di 5 o più, è anche stordita fino all'inizio del prossimo turno di Rahadin.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Sterminatore di Consanguinei</h2>
+<em>Umanoide medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft.
+<strong>Velocità</strong> 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -892,52 +892,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +11, Wis +8<br>
-<strong>Skills</strong> Acrobatics +11, Deception +9, Insight +8, Intimidation +14, Perception +13, Stealth +16<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Tiri Salvezza</strong> Des +11, Sag +8<br>
+<strong>Competenze</strong> Acrobazia +11, Inganno +9, Intuizione +8, Intimidire +14, Percezione +13, Furtività +16<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Amulet of Ravenloft (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 3 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> sente nella propria mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
+<p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le sue scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con il suo tratto <strong><em>infestare</em></strong>.
+<p><strong><em>Spina.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19 o sanguinare per il prossimo minuto. (Un bersaglio sanguinante deve superare un tiro salvezza su Costituzione con CD 19 all'inizio di ciascuno dei suoi turni o subire 1d6 danni taglienti aggiuntivi. In caso di successo o dopo aver ricevuto guarigione magica, il bersaglio non sanguina più.)
+<p><strong><em>Catena.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19 o avere la velocità ridotta a 0 fino alla fine del suo prossimo turno. Se il bersaglio fallisce di 5 o più, cade anche prono.
+<p><strong><em>Infestare.</em></strong> Rahadin costringe una creatura che può vedere entro 9 m a superare un tiro salvezza su Saggezza con CD 17 o subire 7 (2d6) danni psichici ed essere spaventata e assordata da anime urlanti fino all'inizio del suo prossimo turno.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Coro Mortale.</em></strong> Ogni creatura entro 3 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> deve superare un tiro salvezza su Saggezza con CD 17, subendo 9 (2d8) danni psichici con un tiro fallito o la metà dei danni con uno riuscito. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del prossimo turno di Rahadin.</p>
+<p><strong><em>Passo Rapido.</em></strong> Rahadin effettua l'azione Scatto o Disimpegno.
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Parata.</em></strong> Rahadin aggiunge +5 alla sua Classe Armatura contro un attacco in mischia o a distanza che lo colpirebbe o al risultato di un tiro salvezza su Destrezza fallito, oppure non subisce danni da <em>dardo incantato</em> in questo turno. Se in questo modo fa mancare un attacco in mischia, può immediatamente usare una reazione aggiuntiva, se disponibile, per usare la sua Risposta contro l'attaccante.</p>
+<p><strong><em>Risposta.</em></strong> Quando un nemico manca Rahadin con un attacco in mischia, può usare la sua reazione per muoversi fino alla sua velocità in uno spazio non occupato entro 1,5 m da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong> contro quel nemico con vantaggio.</p>
+<p><strong><em>Amuleto di Ravenloft (1/giorno, solo Castello Ravenloft).</em></strong> Quando Rahadin viene ridotto a 50 punti ferita o meno, può usare la sua reazione per terminare tutti gli effetti che lo influenzano e usare l'<em>Amuleto di Ravenloft</em> (vedi sotto). Se è stato ridotto a 0 punti ferita, scende invece a 1 punto ferita e subisce una ferita interna come descritto in <span class="citation">Ferite Persistenti (Guida del Dungeon Master, p. 272)</span>. Può quindi muoversi fino alla sua velocità senza provocare attacchi di opportunità.</p>
 </div>
 
-### Post-Corruption
+### Post-Corruzione
 <div class="statblock">
-<h2>Rahadin, Amber-Touched</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, Toccato dall'Ambra</h2>
+<em>Umanoide medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 180 (24d8 + 72)
+<strong>Punti Ferita</strong> 180 (24d8 + 72)
 <br>
-<strong>Speed</strong> 35 ft., fly 35 ft.
+<strong>Velocità</strong> 10,5 m, volo 10,5 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -952,52 +952,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
-<strong>Resistances</strong> bludgeoning, piercing, and slashing damage
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 19<br>
-<strong>Proficiency Bonus</strong> +6<br>
+<strong>Tiri Salvezza</strong> Des +12, Sag +9<br>
+<strong>Competenze</strong> Acrobazia +12, Inganno +10, Intuizione +9, Intimidire +15, Percezione +15, Furtività +18<br>
+<strong>Resistenze</strong> danni contundenti, perforanti e taglienti
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 19<br>
+<strong>Bonus di Competenza</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
-<h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Rahadin is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> Rahadin adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses Rahadin with a melee attack. <strong>Effect:</strong> Rahadin moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 6 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> sente nella propria mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
+<p><strong><em>Maschera della Natura.</em></strong> Rahadin può tentare di nascondersi anche quando è solo leggermente oscurato da fogliame, pioggia battente, neve che cade, nebbia e altri fenomeni naturali.</p>
+<p><strong><em>Corruzione dell'Ambra.</em></strong> Quando Rahadin viene ridotto a 0 punti ferita, dalla sua spina dorsale spunta una lunga coda ossea terminante con un pungiglione; le sue dita si allungano in artigli ossei; le sue ali raddoppiano di dimensione; la sua bocca diventa una fauci zannuta; e la sua carne diventa traslucida e velata di ombra. Le sue statistiche vengono immediatamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono, e non mantiene alcuna condizione della forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua tre attacchi con le sue scimitarre <strong><em>Spina</em></strong> e/o <strong><em>Catena</em></strong>. Può sostituire un attacco con il suo tratto <strong><em>infestare</em></strong>.
+<p><strong><em>Spina.</em></strong> <em>Attacco con Arma da Mischia:</em> +12 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti più 7 (2d6) danni necrotici, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19 o sanguinare per il prossimo minuto. (Un bersaglio sanguinante deve superare un tiro salvezza su Costituzione con CD 19 all'inizio di ciascuno dei suoi turni o subire 1d6 danni taglienti aggiuntivi. In caso di successo o dopo aver ricevuto guarigione magica, il bersaglio non sanguina più.)
+<p><strong><em>Catena.</em></strong> <em>Attacco con Arma da Mischia:</em> +12 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d6 + 6) danni taglienti più 7 (2d6) danni necrotici, e Rahadin può costringere il bersaglio a effettuare un tiro salvezza su Costituzione con CD 19 o avere la velocità ridotta a 0 fino alla fine del suo prossimo turno. Se il bersaglio fallisce di 5 o più, cade anche prono.
+<p><strong><em>Infestare.</em></strong> Rahadin costringe una creatura che può vedere entro 9 m a superare un tiro salvezza su Saggezza con CD 17 o subire 14 (4d6) danni psichici ed essere spaventata e assordata da anime urlanti fino all'inizio del suo prossimo turno.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Coro Mortale.</em></strong> Ogni creatura entro 6 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> deve superare un tiro salvezza su Saggezza con CD 18, subendo 18 (4d8) danni psichici con un tiro fallito o la metà dei danni con uno riuscito. Se una creatura fallisce il tiro salvezza di 5 o più, è anche spaventata fino all'inizio del prossimo turno di Rahadin.</p>
+<p><strong><em>Passo Rapido.</em></strong> Rahadin effettua l'azione Scatto o Disimpegno.</p>
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Rahadin viene colpito da un attacco in mischia o a distanza, fallisce un tiro salvezza su Destrezza, o subisce danni da <em>dardo incantato</em>. <strong>Effetto:</strong> Rahadin aggiunge +6 alla sua Classe Armatura contro quell'attacco o al risultato del suo tiro salvezza, oppure non subisce danni da <em>dardo incantato</em> in questo turno. Se in questo modo fa mancare un attacco in mischia, può immediatamente usare una reazione aggiuntiva, se disponibile, per usare la sua Risposta contro l'attaccante.</p>
+<p><strong><em>Risposta.</em></strong> <strong>Innesco:</strong> Un nemico manca Rahadin con un attacco in mischia. <strong>Effetto:</strong> Rahadin si muove fino alla sua velocità in uno spazio non occupato entro 1,5 m da quel nemico senza provocare attacchi di opportunità. Può quindi immediatamente effettuare un attacco con <strong><em>Spina</em></strong> o <strong><em>Catena</em></strong> contro quel nemico con vantaggio.</p>
 </div>
 
 <div class="statblock">
-<h2>Rahadin, the Corrupted</h2>
-<em>Medium humanoid (elf), lawful evil</em>
+<h2>Rahadin, il Corrotto</h2>
+<em>Umanoide medio (elfo), legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 18 (studded leather)
+<strong>Classe Armatura</strong> 18 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 225 (30d8 + 90)
+<strong>Punti Ferita</strong> 225 (30d8 + 90)
 <br>
-<strong>Speed</strong> 35 ft., fly 60 ft.
+<strong>Velocità</strong> 10,5 m, volo 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1012,89 +1012,89 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +12, Wis +9<br>
-<strong>Skills</strong> Acrobatics +12, Deception +10, Insight +9, Intimidation +15, Perception +15, Stealth +18<br>
-<strong>Resistances</strong> bludgeoning, cold, fire, lightning, piercing, and slashing damage
-<strong>Immunities</strong> poison, charmed, frightened, poisoned
-<strong>Senses</strong> darkvision 60 ft., passive Perception 23<br>
-<strong>Languages</strong> Common, Elvish<br>
-<strong>Challenge</strong> 19<br>
-<strong>Proficiency Bonus</strong> +6<br>
+<strong>Tiri Salvezza</strong> Des +12, Sag +9<br>
+<strong>Competenze</strong> Acrobazia +12, Inganno +10, Intuizione +9, Intimidire +15, Percezione +15, Furtività +18<br>
+<strong>Resistenze</strong> danni contundenti, da freddo, da fuoco, da fulmine, perforanti e taglienti
+<strong>Immunità</strong> da veleno, affascinato, spaventato, avvelenato
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 23<br>
+<strong>Linguaggi</strong> Comune, Elfico<br>
+<strong>Grado di Sfida</strong> 19<br>
+<strong>Bonus di Competenza</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Magic Resistance.</em></strong> Rahadin has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
-<p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
-<p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
-<p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
-<h3>Reactions</h3>
-<p>Rahadin can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of Rahadin. <strong>Effect:</strong> Rahadin attacks that creature with his claws.</p>
-<p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> Rahadin reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> Rahadin can move up to half his speed and make one attack.</p></strong>
+<p><strong><em>Urla dei Morti.</em></strong> Qualsiasi creatura entro 6 m da Rahadin che non sia protetta da un incantesimo <em>vuoto mentale</em> sente nella propria mente le urla delle migliaia di persone che Rahadin ha ucciso.</p>
+<p><strong><em>Ascendenza Fatata.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro l'essere affascinato, e la magia non può farlo addormentare.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> Rahadin ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Vista del Diavolo.</em></strong> L'oscurità magica non impedisce la scurovisione di Rahadin.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Rahadin effettua un attacco con il pungiglione caudale, un attacco con il colpo necrotico e due attacchi con gli artigli.</p>
+<p><strong><em>Pungiglione Caudale.</em></strong> <em>Attacco con Arma da Mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 15 (2d8 + 6) danni perforanti più 4 (1d8) danni da veleno, e il bersaglio deve superare un tiro salvezza su Costituzione con CD 17 o diventare avvelenato fino all'inizio del prossimo turno di Rahadin. Mentre è avvelenato, il bersaglio non può recuperare punti ferita.</p>
+<p><strong><em>Colpo Necrotico.</em></strong> <em>Attacco con Arma da Mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 13 (2d8 + 4) danni contundenti più 9 (2d8) danni necrotici. Se il bersaglio è una creatura, il suo massimo dei punti ferita diminuisce di un ammontare pari ai danni necrotici subiti. La riduzione dura fino al completamento di un riposo lungo.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +12 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Risonanza Stridula.</em></strong> Le urla dei morti di Rahadin emettono uno strido che risuona con tutti i <em>frammenti d'ambra</em> in un raggio di 18 m. Ogni creatura in quell'area che trasporta un <em>frammento d'ambra</em> deve superare un tiro salvezza su Costituzione con CD 18 o essere frastornata fino all'inizio del prossimo turno di Rahadin. Se il tiro salvezza di una creatura fallisce di 10 o più, è invece stordita fino all'inizio del prossimo turno di Rahadin.</p>
+<p><strong><em>Comando Corrotto.</em></strong> Ogni creatura a cui Rahadin ha inflitto danni in questo turno deve superare un tiro salvezza su Carisma con CD 18 o subire gli effetti di un incantesimo <em>corona della follia</em> fino all'inizio del prossimo turno di Rahadin. Mentre una creatura è affascinata in questo modo, Rahadin può farla muovere fino a metà della sua velocità prima di attaccare.</p>
+<p><strong><em>Dito della Morte (1/giorno)</em></strong> Rahadin lancia <em>dito della morte</em>.
+<h3>Reazioni</h3>
+<p>Rahadin può effettuare fino a cinque reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomito.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Rahadin può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Artigli.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno entro 1,5 m da Rahadin. <strong>Effetto:</strong> Rahadin attacca quella creatura con i suoi artigli.</p>
+<p><strong><em>Furia.</em></strong> <strong>Innesco:</strong> Rahadin riduce una creatura a 0 punti ferita con un attacco in mischia. <strong>Effetto:</strong> Rahadin può muoversi fino a metà della sua velocità ed effettuare un attacco.</p></strong>
 </div>
 
 ## Cyrus Belview
-**Roleplaying Information**
-***Resonance.*** Cyrus should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
+**Informazioni di Interpretazione**
+***Risonanza.*** Cyrus dovrebbe ispirare affetto per i suoi sinceri sforzi di rendersi utile nonostante i suoi handicap fisici e la scarsa memoria, divertimento per la sua scontrosità e le sue tirate bizzarramente categoriche (e occasionalmente cospirazioniste), e disagio per la sua incapacità di rispettare i confini dello spazio personale.
 
-***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
+***Emozioni.*** Cyrus si sente più spesso curioso, incuriosito, determinato, agitato, impaziente o scettico.
 
-***Motivations.*** Cyrus wants to help Strahd restore Castle Ravenloft, believing that Strahd will furnish him with the knowledge required to restore his family to their original forms.
+***Motivazioni.*** Cyrus vuole aiutare Strahd a restaurare il Castello Ravenloft, credendo che Strahd gli fornirà le conoscenze necessarie per riportare la sua famiglia alle forme originali.
 
-***Inspirations.*** When playing Cyrus, channel Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*), and Grand Maester Pycelle (*Game of Thrones*).
+***Ispirazioni.*** Quando interpreti Cyrus, canalizza Ebenezer Scrooge (*Canto di Natale*), Nonno Simpson (*I Simpson*) e il Gran Maestro Pycelle (*Game of Thrones*).
 
-**Character Information**
-***Persona.*** To the world, Cyrus is a doddering old butler with an affinity for conspiratorial rants. To those he trusts—and in his moments of lucidity—Cyrus is a sad old man who has long since resigned himself to the belief that his family is forever damned for their ancestors’ sins.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Cyrus è un vecchio maggiordomo barcollante con una predilezione per le tirate cospirazioniste. Per coloro di cui si fida—e nei suoi momenti di lucidità—Cyrus è un vecchio triste che si è da tempo rassegnato alla convinzione che la sua famiglia sia per sempre dannata per i peccati dei loro antenati.
 
-***Morale.*** In a fight, Cyrus would cower in a corner, brandishing any nearby object as an impromptu weapon but immediately surrendering if actually wounded.
+***Morale.*** In un combattimento, Cyrus si rannicchierebbe in un angolo, brandendo qualsiasi oggetto vicino come arma improvvisata ma arrendendosi immediatamente se effettivamente ferito.
 
-***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
+***Relazioni.*** Cyrus è l'ex patriarca della famiglia Belview e il maggiordomo del Castello Ravenloft.
 ## Gertruda
-**Roleplaying Information**
-***Resonance.*** Gertruda should inspire endearment for her idealism and pity for Escher, sympathy for her devotion to Doru and her mother, and flattery for her sincere gratitude to the players for rescuing her.
+**Informazioni di Interpretazione**
+***Risonanza.*** Gertruda dovrebbe ispirare affetto per il suo idealismo e la sua pietà per Escher, simpatia per la sua devozione a Doru e a sua madre, e gratificazione per la sua sincera gratitudine verso i giocatori per averla salvata.
 
-***Emotions.*** Gertruda most often feels curious, thoughtful, excited, or worried.
+***Emozioni.*** Gertruda si sente più spesso curiosa, pensierosa, eccitata o preoccupata.
 
-***Motivations.*** Gertruda wants to confirm Doru’s safety and return home safely to the village of Barovia.
+***Motivazioni.*** Gertruda vuole confermare la sicurezza di Doru e tornare a casa sana e salva al villaggio di Barovia.
 
-***Inspirations.*** When playing Gertruda, channel Belle (*Beauty and the Beast*), Aang (*Avatar: the Last Airbender*), and Steven Universe (*Steven Universe*).
+***Ispirazioni.*** Quando interpreti Gertruda, canalizza Belle (*La Bella e la Bestia*), Aang (*Avatar: La Leggenda di Aang*) e Steven Universe (*Steven Universe*).
 
-**Character Information**
-***Persona.*** To the world, Gertruda is an intelligent and determined young woman with a sunny disposition and a tendency to see the silver lining on every dark cloud—occasionally to her detriment.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Gertruda è una giovane donna intelligente e determinata con un'indole solare e la tendenza a vedere il lato positivo in ogni nuvola scura—occasionalmente a suo svantaggio.
 
-***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
+***Morale.*** Se attaccata, o se Doru fosse minacciato, Gertruda afferrerebbe immediatamente l'arma più vicina e tenterebbe di difendere sé stessa e i suoi cari.
 
-***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
+***Relazioni.*** Gertruda è la figlia di Mary la Pazza, la promessa sposa di Doru e un'amica d'infanzia di Ireena Kolyana.
 
 ## Varushka
 
 <div class="statblock">
-<h2>Varushka, Nightmare Maid</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Varushka, Cameriera dell'Incubo</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (21d8 + 63)
+<strong>Punti Ferita</strong> 157 (21d8 + 63)
 <br>
-<strong>Speed</strong> 0 ft., fly 60 ft. (hover)
+<strong>Velocità</strong> 0 m, volo 18 m (hovering)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1109,52 +1109,52 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +6<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, grappled, exhaustion, paralyzed, petrified, poisoned, restrained<br>
-<strong>Senses</strong> Darkvision 60 ft.<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 8<br>
-<strong>Proficiency Bonus</strong> +4<br>
+<strong>Tiri Salvezza</strong> Sag +6<br>
+<strong>Immunità ai Danni</strong> da veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, afferrato, esaurimento, paralizzato, pietrificato, avvelenato, trattenuto<br>
+<strong>Sensi</strong> scurovisione 18 m<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 8<br>
+<strong>Bonus di Competenza</strong> +4<br>
 <hr>
-<p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
-<p><strong><em>Overwhelming Despair.</em></strong> When Varushka drops to 0 hit points, her sclera darken and a shroud of swirling mist and whispering shadows surrounds her. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Varushka uses <strong><em>warp flesh</em></strong> twice. She can replace one or both with <strong><em>animate minor object.</em></strong></p>
-<p><strong><em>Animate Minor Object.</em></strong> Varushka animates an undamaged Small or Medium object she can see within 30 feet for 1 minute or until the object is destroyed. The object becomes an <strong>animated minor object</strong> (see below). It acts on Varushka’s initiative, but takes its turn immediately after hers</p>
-<p><strong><em>Animate Major Object (1/day).</em></strong> Varushka animates an undamaged Large object she can see within 30 feet for 1 minute or until the object is destroyed. The object becomes an <strong>animated major object</strong> (see below). It acts on Varushka’s initiative, but takes its turn immediately after hers.</p>
-<p><strong><em>Warp Flesh.</em></strong> Varushka forces one creature she can see within 30 feet to make a DC 15 Charisma saving throw. On a failure, the target takes 12 (2d8 + 3) necrotic damage and Varushka can cause its arms or legs to warp grotesquely until the start of her next turn. (A creature with warped arms can’t crawl, makes weapon attacks with disadvantage, and must succeed on a DC 15 Constitution saving throw each time it attempts to cast a spell with somatic components or lose the spell. A creature with warped legs falls prone.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Stonemelt.</em></strong> Varushka turns the floor around her within 5 feet into quicksand (Dungeon Master’s Guide, p. 110) for 1 minute. A 5-foot square area turned into quicksand in this way immediately ceases to be quicksand if no creature is sunk into it.</p>
-<p><strong><em>Papercut.</em></strong> Varushka tears the pages from the books in the Lounge and creates a whirlwind of slicing paper centered on a point she can see within 30 feet. Each creature in a 5-foot-radius, 15-foot-tall cylinder centered on that point must succeed on a DC 15 Dexterity saving throw or take 18 (4d8) slashing damage.</p>
-<p><strong><em>Horrific Visage (1/day).</em></strong> Each non-undead creature within 60 feet of Varushka that can see her must succeed on a DC 15 Wisdom saving throw or be frightened until the start of Varushka’s next turn. If a target’s save fails by 5 or more, the target is also turned while frightened in this way. (A turned creature must take the Dash action and move away from the source of its fear by the safest available route on each of its turns, unless there is nowhere to move.)</p>
-<h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Swap.</em></strong> In response to being targeted by an attack or spell, or by being placed in a spell’s area of effect, Varushka forces a creature she can see within 30 feet other than the attacker or caster to make a DC 15 Charisma saving throw. On a failure, she and the target switch places, and the target suffers the effects of the attack or spell instead.</p>
-<p><strong><em>Adhere.</em></strong> In response to being missed by a melee attack, Varushka forces the creature to make a DC 15 Strength saving throw. On a failure, the weapon or limb used in the attack is adhered to a nearby surface until the start of Varushka’s next turn.</p>
-<p><strong><em>Erupt (1/day).</em></strong> In response to being reduced to 0 hit points, Varushka forces each creature within 30 feet to succeed on a DC 15 Strength saving throw or take 11 (2d10) force damage and be pushed 20 feet away. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved and falls prone.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Varushka può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.
+<p><strong><em>Disperazione Travolgente.</em></strong> Quando Varushka scende a 0 punti ferita, le sue sclere si scuriscono e un sudario di nebbia vorticosa e ombre sussurranti la circonda. Le sue statistiche vengono immediatamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla nuova forma, ma mantiene tutte le condizioni della forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Varushka usa <strong><em>deformare carne</em></strong> due volte. Può sostituire uno o entrambi con <strong><em>animare oggetto minore.</em></strong></p>
+<p><strong><em>Animare Oggetto Minore.</em></strong> Varushka anima un oggetto Piccolo o Medio non danneggiato che può vedere entro 9 m per 1 minuto o fino alla distruzione dell'oggetto. L'oggetto diventa un <strong>oggetto animato minore</strong> (vedi sotto). Agisce nell'iniziativa di Varushka, ma effettua il suo turno immediatamente dopo il suo</p>
+<p><strong><em>Animare Oggetto Maggiore (1/giorno).</em></strong> Varushka anima un oggetto Grande non danneggiato che può vedere entro 9 m per 1 minuto o fino alla distruzione dell'oggetto. L'oggetto diventa un <strong>oggetto animato maggiore</strong> (vedi sotto). Agisce nell'iniziativa di Varushka, ma effettua il suo turno immediatamente dopo il suo.</p>
+<p><strong><em>Deformare Carne.</em></strong> Varushka costringe una creatura che può vedere entro 9 m a effettuare un tiro salvezza su Carisma con CD 15. In caso di fallimento, il bersaglio subisce 12 (2d8 + 3) danni necrotici e Varushka può far deformare grottescamente le sue braccia o gambe fino all'inizio del suo prossimo turno. (Una creatura con braccia deformate non può strisciare, effettua attacchi con armi con svantaggio e deve superare un tiro salvezza su Costituzione con CD 15 ogni volta che tenta di lanciare un incantesimo con componenti somatiche o perde l'incantesimo. Una creatura con gambe deformate cade prona.)</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Pietra Fusa.</em></strong> Varushka trasforma il pavimento attorno a sé entro 1,5 m in sabbie mobili (Guida del Dungeon Master, p. 110) per 1 minuto. Un'area di 1,5 m quadrati trasformata in sabbie mobili in questo modo cessa immediatamente di esserlo se nessuna creatura vi è sprofondata.</p>
+<p><strong><em>Taglio di Carta.</em></strong> Varushka strappa le pagine dai libri nel Salone e crea un turbine di carta tagliente centrato su un punto che può vedere entro 9 m. Ogni creatura in un cilindro con raggio di 1,5 m e altezza di 4,5 m centrato su quel punto deve superare un tiro salvezza su Destrezza con CD 15 o subire 18 (4d8) danni taglienti.</p>
+<p><strong><em>Aspetto Orrifico (1/giorno).</em></strong> Ogni creatura non-morta entro 18 m da Varushka che può vederla deve superare un tiro salvezza su Saggezza con CD 15 o essere spaventata fino all'inizio del prossimo turno di Varushka. Se il tiro salvezza di un bersaglio fallisce di 5 o più, il bersaglio è anche volto in fuga mentre è spaventato in questo modo. (Una creatura volta in fuga deve effettuare l'azione Scatto e allontanarsi dalla fonte della sua paura per la via più sicura disponibile in ciascuno dei suoi turni, a meno che non ci sia un posto dove muoversi.)</p>
+<h3>Reazioni</h3>
+<p>Varushka può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione le impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomita.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Scambio.</em></strong> In risposta all'essere bersaglio di un attacco o incantesimo, o all'essere posta nell'area di effetto di un incantesimo, Varushka costringe una creatura che può vedere entro 9 m diversa dall'attaccante o dal lanciatore a effettuare un tiro salvezza su Carisma con CD 15. In caso di fallimento, lei e il bersaglio si scambiano di posto, e il bersaglio subisce gli effetti dell'attacco o dell'incantesimo al suo posto.</p>
+<p><strong><em>Adesione.</em></strong> In risposta al mancato colpo di un attacco in mischia, Varushka costringe la creatura a effettuare un tiro salvezza su Forza con CD 15. In caso di fallimento, l'arma o l'arto usato nell'attacco aderisce a una superficie vicina fino all'inizio del prossimo turno di Varushka.</p>
+<p><strong><em>Eruzione (1/giorno).</em></strong> In risposta all'essere ridotta a 0 punti ferita, Varushka costringe ogni creatura entro 9 m a superare un tiro salvezza su Forza con CD 15 o subire 11 (2d10) danni da forza ed essere spinta a 6 m di distanza. Se il bersaglio non può percorrere l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non percorsi e cade prono.</p>
 </div>
 
 <div class="statblock">
-<h2>Varushka, Soul of Despair</h2>
-<em>Medium undead, chaotic evil</em>
+<h2>Varushka, Anima della Disperazione</h2>
+<em>Non morto medio, caotico malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (21d8 + 63)
+<strong>Punti Ferita</strong> 157 (21d8 + 63)
 <br>
-<strong>Speed</strong> 0 ft., fly 60 ft. (hover)
+<strong>Velocità</strong> 0 m, volo 18 m (hovering)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1169,68 +1169,68 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Wis +6<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, paralyzed, petrified, poisoned<br>
-<strong>Senses</strong> Darkvision 60 ft.<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus.</strong> +4<br>
+<strong>Tiri Salvezza</strong> Sag +6<br>
+<strong>Immunità ai Danni</strong> da veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, paralizzato, pietrificato, avvelenato<br>
+<strong>Sensi</strong> scurovisione 18 m<br>
+<strong>Linguaggi</strong> Common<br>
+<strong>Grado di Sfida</strong> 10<br>
+<strong>Bonus di Competenza</strong> +4<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Varushka doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Varushka makes two attacks with her <strong><em>life drain</em></strong> and/or <strong><em>mist garrote</em></strong> attacks.</p>
-<p><strong><em>Life Drain.</em></strong>  <em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one creature. <em>Hit:</em> 10 (2d6 + 3) necrotic damage and Varushka forces the target to make a DC 15 Constitution saving throw. On a failure, the target falls prone and its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</p>
-<p><strong><em>Mist Garrotte.</em></strong>  <em>Ranged Weapon Attack:</em> +7 to hit, range 30 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage and the target must succeed on a DC 15 Constitution saving throw or rise vertically 10 feet and remain suspended there until the start of Varushka’s next turn. While suspended, the target’s speed is 0 and it can’t speak or cast a spell that includes a verbal component.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Vampiric Mist.</em></strong> Tendrils of blood-red mist extrude from Varushka, touching each creature within 5 feet of her. A target must succeed on a DC 15 Constitution saving throw or take 9 (2d8) necrotic damage and have disadvantage on the next saving throw it makes before the start of Varushka’s next turn. Varushka regains hit points equal to half the damage taken (rounded up), and the target’s hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.</p>
-<p><strong><em>Dark Whispers.</em></strong> Dissonant, mournful whispers fill the air around Varushka, forcing each creature within 30 feet to succeed on a DC 15 Wisdom saving throw or take 3 (1d6) psychic damage and gain disadvantage on the first attack roll or saving throw it makes before the start of Varushka’s next turn.</p>
-<h3>Reactions</h3>
-<p>Varushka can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Varushka can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Misty Step.</em></strong> In response to taking damage, Varushka teleports up to 30 feet to an unoccupied space. She can then immediately make a <strong><em>life drain</em></strong> attack against a creature within reach.
-<p><strong><em>Calming Whispers.</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
+<p><strong><em>Combattente Ravvicinato.</em></strong> Varushka non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Varushka può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Varushka effettua due attacchi con i suoi attacchi <strong><em>risucchio vitale</em></strong> e/o <strong><em>garrota di nebbia</em></strong>.</p>
+<p><strong><em>Risucchio Vitale.</em></strong>  <em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 10 (2d6 + 3) danni necrotici e Varushka costringe il bersaglio a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio cade prono e il suo massimo dei punti ferita viene ridotto di un ammontare pari ai danni subiti. Questa riduzione dura fino al completamento di un riposo lungo. Il bersaglio muore se questo effetto riduce il suo massimo dei punti ferita a 0.</p>
+<p><strong><em>Garrota di Nebbia.</em></strong>  <em>Attacco con Arma a Distanza:</em> +7 al tiro per colpire, gittata 9 m, una creatura. <em>Colpito:</em> 8 (2d4 + 3) danni taglienti e il bersaglio deve superare un tiro salvezza su Costituzione con CD 15 o sollevarsi verticalmente di 3 m e rimanere sospeso fino all'inizio del prossimo turno di Varushka. Mentre è sospeso, la velocità del bersaglio è 0 e non può parlare o lanciare un incantesimo che includa una componente verbale.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Nebbia Vampirica.</em></strong> Viticci di nebbia rosso sangue si estendono da Varushka, toccando ogni creatura entro 1,5 m da lei. Un bersaglio deve superare un tiro salvezza su Costituzione con CD 15 o subire 9 (2d8) danni necrotici e avere svantaggio al prossimo tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka. Varushka recupera punti ferita pari alla metà dei danni inflitti (arrotondato per eccesso), e il massimo dei punti ferita del bersaglio viene ridotto di un ammontare pari ai danni necrotici subiti. Questa riduzione dura fino al completamento di un riposo lungo. Il bersaglio muore se il suo massimo dei punti ferita viene ridotto a 0.</p>
+<p><strong><em>Sussurri Oscuri.</em></strong> Sussurri dissonanti e lugubri riempiono l'aria attorno a Varushka, costringendo ogni creatura entro 9 m a superare un tiro salvezza su Saggezza con CD 15 o subire 3 (1d6) danni psichici e avere svantaggio al primo tiro per colpire o tiro salvezza che effettua prima dell'inizio del prossimo turno di Varushka.</p>
+<h3>Reazioni</h3>
+<p>Varushka può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione le impedirebbero di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomita.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Varushka può ripetere il tiro salvezza contro un effetto o una condizione che la sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedevano originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Passo Brumoso.</em></strong> In risposta al subire danni, Varushka si teletrasporta fino a 9 m in uno spazio non occupato. Può quindi immediatamente effettuare un attacco <strong><em>risucchio vitale</em></strong> contro una creatura a portata.
+<p><strong><em>Sussurri Calmanti.</em></strong> In risposta a una creatura che può vedere entro 3 m che la prende di mira con un attacco o incantesimo, Varushka costringe quella creatura a superare un tiro salvezza su Saggezza con CD 15. In caso di fallimento, la creatura subisce 5 (2d4) danni psichici e guadagna un livello di esaurimento per il prossimo minuto. Se la creatura non era già esaurita, può ripetere il tiro salvezza alla fine di ciascuno dei suoi turni tranne questo, diminuendo il suo esaurimento di un livello con un successo.
 </div>
 
-# Old Bonegrinder
+# Vecchio Macinaossa
 
-## Morgantha, Dream Peddler
-**Roleplaying Information**
-***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
+## Morgantha, Mercante di Sogni
+**Informazioni di Interpretazione**
+***Risonanza.*** Al momento in cui i giocatori la incontrano, Morgantha dovrebbe ispirare lusinga e comfort con il suo fascino da nonna, gratitudine per la sua disponibilità a condividere complimenti e "campioni gratuiti," affetto per le sue lamentele sulle prove banali della vita di una vecchia, e lieve diffidenza per la sua sicurezza e disinvoltura nel viaggiare sola su una strada pericolosa.
 
-***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
+***Emozioni.*** Morgantha appare più spesso allegra, divertita o pensierosa.
 
- ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
+ ***Motivazioni.*** Morgantha vuole mantenere la sua copertura, far funzionare la sua attività in pace, far sentire gli estranei a proprio agio con lei, e incoraggiare gli altri a provare i suoi pasticcini dei sogni se sembrano inclini a farlo.
 
- ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
+ ***Ispirazioni.*** Nonna Weatherwax (*Mondo Disco*), Minerva McGranitt (*Harry Potter*), Dr. Kureha (*One Piece*)
  
  **Character Information**
- ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
+ ***Persona.*** Per il mondo, Morgantha è una vecchietta allegra con un debole per i pettegolezzi e le lamentele. Solo Morgantha e le sue figlie sanno che è segretamente la matrona dal cuore nero di un congrega di streghe notturne.
 
- ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
+ ***Morale.*** In un combattimento, Morgantha tenterebbe di parlamentare per la pace, poi userebbe la sua abilità ***eterealità*** per fuggire nel Piano Etereo se ciò si rivelasse infruttuoso.
 
- ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+ ***Relazioni.*** Morgantha è la madre delle **streghe notturne** Bella e Offalia, e la venditrice di pasticcini dei sogni per il rifugiato baroviano [[Arc H - The Lost Soul#H3b. Franz's Tent|Franz]].
  
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
-<em>Trio of three medium fiends, neutral evil</em>
+<h2>Il Congrega del Macinaossa</h2>
+<em>Trio di tre immondi medi, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Punti Ferita</strong> 210 (28d8 + 84)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1245,61 +1245,61 @@
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Competenze</strong> Inganno +8, Intuizione +7, Percezione +7, Furtività +7<br>
+<strong>Resistenze ai Danni</strong> da freddo, da fuoco; contundenti, perforanti e taglienti da attacchi non magici che non siano argentati<br>
+<strong>Immunità alle Condizioni</strong> affascinato<br>
+<strong>Sensi</strong> scurovisione 120 m, Percezione passiva 16<br>
+<strong>Linguaggi</strong> Abissale, Comune, Infernale, Primordiale<br>
+<strong>Grado di Sfida</strong> GS 14, o 12 se combattuto con armi argentate<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
-<p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
-<p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
-<p><strong><em>Ray of Enfeeblement (Offalia Only).</em></strong> Offalia casts <em>ray of enfeeblement</em>. A target takes an additional 9 (2d8) necrotic damage on a hit.</p>
-<p><strong><em>Acid Arrow (Offalia Only).</em></strong> Offalia casts <em>Melf's acid arrow</em>.</p>
-<p><strong><em>Ray of Sickness (Morgantha Only).</em></strong> Morgantha casts <em>ray of sickness</em>.</p>
-<p><strong><em>Withering Rot (Morgantha Only).</em></strong> <em>1st-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crown of Madness (Bella Only).</em></strong> Bella casts <em>crown of madness</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. (Bella can use her bonus action to maintain control over the target, rather than her action.)</p>
-<p><strong><em>Phantasmal Force (Bella Only).</em></strong> Bella casts <em>phantasmal force</em>. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Cause Fear (Offalia Only).</em></strong> Offalia casts <em>cause fear</em> at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
-<p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
-<h3>Reactions</h3>
-<p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
-<p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
-<p><strong><em>Witchlight Arc (Morgantha Only).</em></strong> <em>1st-level evocation</em>, 30 feet, components V S M, 1 round. <em>Effect:</em> In response to taking damage from a creature that Morgantha can see within range, Morgantha can use her reaction to send a beam of crackling blue energy toward her attacker, forcing them to succeed on a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, the beam forms an arc of lightning connecting Morgantha to the attacker until the start of its next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount of damage.</p>
-<p><strong><em>Misty Step (Any).</em></strong> In response to taking damage, a hag can use her reaction to cast <em>misty step</em>.</p>
+<p><strong><em>Congrega di Streghe.</em></strong> La congrega include tre streghe: Morgantha, Bella e Offalia. Una strega agisce con la propria iniziativa, mantiene la concentrazione e subisce le condizioni indipendentemente, e ha le proprie azioni, azione bonus, reazione e movimento. Qualsiasi danno subito da una strega viene sottratto dai punti ferita della congrega. (Se più streghe subiscono danni dalla stessa fonte, la congrega perde punti ferita altrettante volte.)</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> La congrega non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> La congrega ha vantaggio ai tiri salvezza contro incantesimi ed effetti magici.</p>
+<p><strong><em>Incantesimi.</em></strong> La caratteristica da incantatore della congrega è Intelligenza (CD dei tiri salvezza degli incantesimi 17, +9 al tiro per colpire con attacchi con incantesimi).
+<p><strong><em>Lancio Complesso.</em></strong> Se una strega lancia un incantesimo nel suo turno usando un'azione bonus, può anche usare la sua azione per lanciare un incantesimo non-trucchetto nello stesso turno.</p>
+<p><strong><em>Seconda Fase.</em></strong> Se la congrega viene ridotta a 0 punti ferita, le sue statistiche vengono immediatamente sostituite da quelle de **I Tre dell'Incubo**. La sua iniziativa rimane la stessa. I danni in eccesso non si trasferiscono alla nuova forma, ma mantiene tutte le condizioni della forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Cecità/Sordità (Solo Bella).</em></strong> Bella lancia <em>cecità/sordità</em>. Un bersaglio subisce 7 (2d6) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo.</p>
+<p><strong><em>Radiosità Putrida (Solo Bella).</em></strong> <em>Necromanzia di 2° livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em>: Una luce fioca e verdastra esplode in una sfera con raggio di 3 m centrata su un punto scelto da Bella entro gittata. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione con CD 17 o subire 2d6 danni radiosi ed essere avvelenata fino alla fine del suo prossimo turno.</p>
+<p><strong><em>Raggio di Indebolimento (Solo Offalia).</em></strong> Offalia lancia <em>raggio di indebolimento</em>. Un bersaglio subisce 9 (2d8) danni necrotici aggiuntivi se colpito.</p>
+<p><strong><em>Freccia Acida (Solo Offalia).</em></strong> Offalia lancia <em>freccia acida di Melf</em>.</p>
+<p><strong><em>Raggio di Malattia (Solo Morgantha).</em></strong> Morgantha lancia <em>raggio di malattia</em>.</p>
+<p><strong><em>Marcescenza (Solo Morgantha).</em></strong> <em>Necromanzia di 1° livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em> Energia necromantica investe una creatura scelta da Morgantha entro gittata, che deve effettuare un tiro salvezza su Costituzione. Il bersaglio subisce 13 (3d8) danni necrotici con un tiro fallito, o la metà dei danni con uno riuscito.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Corona della Follia (Solo Bella).</em></strong> Bella lancia <em>corona della follia</em>. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo. (Bella può usare la sua azione bonus per mantenere il controllo sul bersaglio, anziché la sua azione.)</p>
+<p><strong><em>Forza Fantasmatica (Solo Bella).</em></strong> Bella lancia <em>forza fantasmatica</em>. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo.</p>
+<p><strong><em>Causare Paura (Solo Offalia).</em></strong> Offalia lancia <em>causare paura</em> al 2° livello. Un bersaglio subisce 5 (2d4) danni psichici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo.</p>
+<p><strong><em>Conferire Maledizione (Solo Offalia).</em></strong> Offalia lancia <em>conferire maledizione</em> con gittata fino a 9 m. Un bersaglio subisce 7 (2d6) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo.</p>
+<p><strong><em>Blocca Persona (Solo Morgantha).</em></strong> Morgantha lancia <em>blocca persona</em> al 3° livello. Un bersaglio subisce 5 (2d4) danni necrotici aggiuntivi se fallisce il tiro salvezza, o la metà dei danni con un successo.</p>
+<p><strong><em>Fulmine (Solo Morgantha, Ricarica 5-6).</em></strong> Morgantha lancia <em>fulmine</em>.</p>
+<p><strong><em>Artigli (Qualsiasi).</em></strong> <em>Attacco con Arma da Mischia:</em> +9 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti.
+<h3>Reazioni</h3>
+<p><strong><em>Ombre Spettrali (Solo Bella).</em></strong> <em>Illusione di 1° livello</em>, se stessa, componenti V S, istantaneo. <em>Effetto:</em> In risposta all'essere colpita da un attacco, Bella può usare la sua reazione per evocare brevemente due duplicati illusori nel suo spazio. L'attaccante deve tirare un d6, colpendo Bella con 5 o 6 e colpendo un duplicato altrimenti.</p>
+<p><strong><em>Ilarità Maniacale (Solo Offalia).</em></strong> <em>Ammaliamento di 1° livello</em>, 9 m, componenti V S M, istantaneo. <em>Effetto:</em> In risposta al subire danni da una creatura che Offalia può vedere entro gittata, Offalia può usare la sua reazione per costringere quella creatura a effettuare un tiro salvezza su Saggezza con CD 17. In caso di fallimento, la creatura scoppia in risate convulse, cadendo prona e diventando incapacitata e incapace di alzarsi fino alla fine del prossimo turno della creatura, o fino a quando subisce danni.</p>
+<p><strong><em>Arco Stregato (Solo Morgantha).</em></strong> <em>Evocazione di 1° livello</em>, 9 m, componenti V S M, 1 round. <em>Effetto:</em> In risposta al subire danni da una creatura che Morgantha può vedere entro gittata, Morgantha può usare la sua reazione per inviare un raggio di energia blu crepitante verso il suo attaccante, costringendolo a superare un tiro salvezza su Costituzione con CD 17 o subire 6 (1d12) danni da fulmine. In caso di fallimento, il raggio forma un arco di fulmini che collega Morgantha all'attaccante fino all'inizio del suo prossimo turno. Mentre l'arco dura, Morgantha ha resistenza a tutti i danni, e ogni volta che subisce danni, la creatura collegata subisce lo stesso ammontare di danni.</p>
+<p><strong><em>Passo Brumoso (Qualsiasi).</em></strong> In risposta al subire danni, una strega può usare la sua reazione per lanciare <em>passo brumoso</em>.</p>
 </div>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
-<em>Trio of one medium fiend and two huge fiends, neutral evil</em>
+<h2>I Tre dell'Incubo</h2>
+<em>Trio di un immondo medio e due immondi enormi, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 210 (28d8 + 84)
+<strong>Punti Ferita</strong> 210 (28d8 + 84)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1314,78 +1314,78 @@
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception +8, Insight +7, Perception +7, Stealth +7<br>
-<strong>Damage Resistances</strong> cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered<br>
-<strong>Condition Immunities</strong> charmed<br>
-<strong>Senses</strong> darkvision 120 ft., passive Perception 16<br>
-<strong>Languages</strong> Abyssal, Common, Infernal, Primordial<br>
-<strong>Challenge</strong> CR 15, or 13 when fought with silvered weapons<br>
-<strong>Proficiency Bonus.</strong> +5<br>
+<strong>Competenze</strong> Inganno +8, Intuizione +7, Percezione +7, Furtività +7<br>
+<strong>Resistenze ai Danni</strong> da freddo, da fuoco; contundenti, perforanti e taglienti da attacchi non magici che non siano argentati<br>
+<strong>Immunità alle Condizioni</strong> affascinato<br>
+<strong>Sensi</strong> scurovisione 120 m, Percezione passiva 16<br>
+<strong>Linguaggi</strong> Abissale, Comune, Infernale, Primordiale<br>
+<strong>Grado di Sfida</strong> GS 15, o 13 se combattuto con armi argentate<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.</p>
-<p><strong><em>Nightmare Forms.</em></strong> In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.</p>
-<p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
-<p><strong><em>Charge (Offalia Only).</em></strong> If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.</p>
-<h3>Actions</h3>
-<p><strong><em>Bite (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.</p>
-<p><strong><em>Tail (Bella Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 10 ft., one target not grappled by Bella. <em>Hit:</em> 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Gore (Offalia Only).</em></strong> <em>Melee weapon attack:</em> +10 to hit, reach 5 ft., one target. <em>Hit:</em> 14 (2d8 +5) piercing damage.</p>
-<p><strong><em>Eyebite (Morgantha Only).</em></strong> Morgantha casts or uses <em>eyebite</em> (DC 17). A target that succeeds on the saving throw is dazed instead until the end of its next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
+<p><strong><em>Congrega di Streghe.</em></strong> La congrega include tre streghe: Morgantha, Bella e Offalia. Se la congrega viene ridotta a 0 punti ferita, tutte le streghe muoiono. Fino ad allora, una strega agisce con la propria iniziativa, subisce le condizioni indipendentemente, e ha le proprie azioni, azione bonus, reazione e movimento. Qualsiasi danno subito da una strega viene sottratto dai punti ferita della congrega.</p>
+<p><strong><em>Forme dell'Incubo.</em></strong> In questa fase, Bella assume la forma di un coccodrillo Enorme, Offalia assume la forma di un elefante Enorme, e Morgantha è circondata da un sudario di ombre vorticose.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> La congrega ha vantaggio ai tiri salvezza contro incantesimi ed effetti magici.</p>
+<p><strong><em>Carica (Solo Offalia).</em></strong> Se Offalia si muove per almeno 6 m in linea retta verso un bersaglio e poi lo colpisce con un attacco con le corna nello stesso turno, il bersaglio subisce 11 (2d10) danni perforanti aggiuntivi. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 18 o essere spinto fino a 3 m e buttato prono.</p>
+<h3>Azioni</h3>
+<p><strong><em>Morso (Solo Bella).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 16 (2d10 + 5) danni perforanti e il bersaglio è afferrato (CD di fuga 17). Fino al termine di questa presa, il bersaglio è trattenuto, e Bella non può mordere un altro bersaglio.</p>
+<p><strong><em>Coda (Solo Bella).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 3 m, un bersaglio non afferrato da Bella. <em>Colpito:</em> 14 (2d8 + 5) danni contundenti. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 17 o essere buttato prono.</p>
+<p><strong><em>Incornata (Solo Offalia).</em></strong> <em>Attacco con arma da mischia:</em> +10 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 14 (2d8 +5) danni perforanti.</p>
+<p><strong><em>Malocchio (Solo Morgantha).</em></strong> Morgantha lancia o usa <em>malocchio</em> (CD 17). Un bersaglio che supera il tiro salvezza è invece frastornato fino alla fine del suo prossimo turno. (Una creatura frastornata può muoversi o effettuare un'azione nel suo turno, non entrambe. Non può inoltre effettuare un'azione bonus o una reazione.)</p>
 <br><br>
-<h3>Bonus Actions</h3>
-<p><strong><em>Tail Swipe (Bella Only).</em></strong> Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds on the saving throw takes half as much damage and doesn't fall prone.</p>
-<p><strong><em>Hallucinatory Mist (Bella Only).</em></strong> Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Stomp (Offalia Only).</em></strong> Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure and half as much damage on a success.</p>
-<p><strong><em>Fiend's Trumpet (Offalia Only).</em></strong> Offalia releases a sonorous, low-pitched trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.</p>
-<p><strong><em>Enervating Ring (Morgantha Only).</em></strong> Tendrils of inky darkness reach out from Morgantha, touching each creature within a 10-foot radius. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)</p>
-<p><strong><em>Inflict Nightmares (Morgantha Only).</em></strong> Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet, forcing it to succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.</p>
-<h3>Reactions</h3>
-<p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
-<p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
-<p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
-<p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
-<p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Colpo di Coda (Solo Bella).</em></strong> Bella colpisce con la coda in un cono di 3 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza con CD 18, subendo 9 (2d8) danni contundenti e cadendo prona in caso di fallimento. Una creatura che supera il tiro salvezza subisce la metà dei danni e non cade prona.</p>
+<p><strong><em>Nebbia Allucinogena (Solo Bella).</em></strong> Bella spruzza un cono di 9 m di nebbia perlacea. Ogni creatura nella nebbia deve effettuare un tiro salvezza su Costituzione con CD 17 o essere frastornata fino all'inizio del prossimo turno di Bella. (Una creatura frastornata può muoversi o effettuare un'azione nel suo turno, non entrambe. Non può inoltre effettuare un'azione bonus o una reazione.)</p>
+<p><strong><em>Pestata (Solo Offalia).</em></strong> Offalia pesta il terreno attorno a sé. Ogni creatura in un raggio di 1,5 m deve effettuare un tiro salvezza su Destrezza con CD 18, subendo 11 (2d10) danni contundenti in caso di fallimento e la metà dei danni con un successo.</p>
+<p><strong><em>Tromba dell'Immondo (Solo Offalia).</em></strong> Offalia emette un suono sonoro e grave dalla sua proboscide. Ogni creatura umanoide in un raggio di 18 m deve effettuare un tiro salvezza su Saggezza con CD 17 o sottrarre 1d4 dal prossimo tiro per colpire, prova di caratteristica o tiro salvezza.</p>
+<p><strong><em>Anello Sfibrante (Solo Morgantha).</em></strong> Viticci di oscurità inchiostrata si estendono da Morgantha, toccando ogni creatura in un raggio di 3 m. Ogni bersaglio deve effettuare un tiro salvezza su Costituzione con CD 16 o subire 9 (2d8) danni necrotici ed essere rallentato fino alla fine del suo prossimo turno. (Una creatura rallentata deve spendere 30 cm extra di movimento per ogni 30 cm che percorre usando la sua velocità, i tiri per colpire contro di essa hanno vantaggio, e ha svantaggio ai tiri salvezza su Destrezza.)</p>
+<p><strong><em>Infliggere Incubi (Solo Morgantha).</em></strong> Morgantha evoca una nube di nebbia eterea attorno a una creatura che può vedere entro 9 m, costringendola a superare un tiro salvezza su Saggezza con CD 17 o essere stordita fino a quando subisce danni o un'altra creatura usa la sua azione per svegliarla. La creatura subisce 9 (2d8) danni psichici alla fine del suo turno se è ancora stordita.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Frustata di Coda (Solo Bella).</em></strong> In risposta al subire danni da una creatura entro 3 m, Bella effettua un attacco con la <strong><em>coda</strong></em> contro il suo attaccante.</p>
+<p><strong><em>Zanne (Solo Offalia).</em></strong> In risposta al subire danni da un attacco in mischia, Offalia effettua un attacco con <strong><em>incornata</strong></em> contro il suo attaccante.</p>
+<p><strong><em>Passo d'Ombra (Solo Morgantha).</em></strong> In risposta al subire danni da una creatura che può vedere, Morgantha subisce invece la metà dei danni (arrotondato per difetto) e si teletrasporta fino a 9 m.</p>
+<p><strong><em>Rimprovero della Matrona (Solo Morgantha).</em></strong> In risposta al subire danni da una creatura entro 18 m da lei che può vedere, Morgantha punta il dito e circonda la creatura che l'ha danneggiata con ombre contorcenti, costringendola a superare un tiro salvezza su Destrezza con CD 17 o subire 11 (2d10) danni necrotici.</p>
+<p><strong><em>Assorbire Elementi (Qualsiasi).</em></strong> In risposta al subire danni da acido, da freddo, da fuoco, da fulmine o da tuono, la strega usa la sua reazione per lanciare <em>assorbire elementi</em>.</p>
 </div>
 
 
-# Town of Vallaki
-## Blue Water Inn
+# Città di Vallaki
+## Locanda dell'Acqua Azzurra
 #### Urwin Martikov
-**Roleplaying Information**
-***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Urwin dovrebbe ispirare divertimento con i suoi brutti giochi di parole e battute, gratitudine per i suoi consigli e il suo supporto paterno, e comfort dalla sua compassione e sincerità.
 
-***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+***Emozioni.*** Urwin si sente più spesso divertito, soddisfatto, allegro, pensieroso, preoccupato e speranzoso.
 
-***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+***Motivazioni.*** Urwin vuole crescere bene i suoi figli, servire gli ospiti con ospitalità e abilità, e vedere il popolo di Barovia liberato dalla tirannia di Strahd.
 
-***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+***Ispirazioni.*** Quando interpreti Urwin, canalizza Vander (Arcane), Greg Universe (Steven Universe) e Linda Belcher (Bob's Burgers).
 
 **Character Information**
-***Persona.*** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+***Persona.*** Per il mondo, Urwin è una figura paterna gentile, un uomo di famiglia e un ospite accogliente con un luccichio sempre presente negli occhi. Per coloro di cui si fida, Urwin è un astuto capo delle spie e tattici con una feroce speranza per il futuro di Barovia. Nel profondo, Urwin teme per il futuro dei suoi figli in un regno governato da Strahd.
 
-***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+***Morale.*** In un combattimento, Urwin tenterebbe immediatamente di disinnescare la situazione, e tenterebbe di fuggire se non avesse successo—though not before escorting anyone else out of harm's way.
 
-***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the Keepers of the Feather.
+***Relazioni.*** Urwin è il padre di Brom e Bray Martikov e il marito di Danika Dorakova. È anche il figlio esiliato di Davian Martikov, e l'amato fratello maggiore di Adrian, Elvir e Stefnia Martikov. Oltre a essere co-proprietario della Locanda dell'Acqua Azzurra, Urwin è il capo delle spie dei Custodi della Piuma.
 
 <div class="statblock">
     <h2>Urwin Martikov</h2>
-    <em>Medium humanoid (human, shapechanger), lawful good</em>
+    <em>Umanoide medio (umano, mutaforma), legale buono</em>
     <hr>
-    <strong>Armor Class</strong> 15 (studded leather armor) (16 with <strong><em>Beacon of Protection</strong></em>)
+    <strong>Classe Armatura</strong> 15 (armatura di cuoio borchiato) (16 con <strong><em>Faro di Protezione</strong></em>)
     <br>
-    <strong>Hit Points</strong> 63 (14d8)
+    <strong>Punti Ferita</strong> 63 (14d8)
     <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <strong>Velocità</strong> 9 m (volo 15 m in forma di corvo e ibrida)
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -1400,93 +1400,93 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Competenze</strong> Intuizione +4, Percezione +6<br>
+    <strong>Sensi</strong> Percezione passiva 16<br>
+    <strong>Linguaggi</strong> Comune (non può parlare in forma di corvo)<br>
+    <strong>Grado di Sfida</strong> 2<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Urwin regains 10 hit points at the start of his turn if he hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since his last turn. He dies only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Urwin can mimic simple sounds he has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Urwin makes two weapon attacks, one of which can be with his heavy crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Heavy Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 100/400 ft., one target. <em>Hit:</em> 8 (1d10 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Urwin polymorphs into a raven-humanoid hybrid or into a raven, or back into his human form. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts back to his human form if he dies.</p>
-    <h3>Reactions</h3>
+    <p><strong><em>Rigenerazione.</em></strong> Urwin recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata dal suo ultimo turno. Muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+    <p><strong><em>Imitare.</em></strong> Urwin può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) con CD 10 riuscita.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Urwin effettua due attacchi con armi, uno dei quali può essere con la sua balestra pesante.</p>
+    <p><strong><em>Spada Corta.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+    <p><strong><em>Balestra Pesante.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma a Distanza:</em> +5 al tiro per colpire, gittata 30/120 m, un bersaglio. <em>Colpito:</em> 8 (1d10 + 3) danni perforanti.</p>
+    <p><strong><em>Becco.</em></strong> (Solo Forma di Corvo o Ibrida) <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza su Costituzione con CD 10 o essere maledetto con la licantropia del corvo mannaro.</p>
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Mutaforma.</em></strong> Urwin si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Ritorna alla sua forma umana se muore.</p>
+    <h3>Reazioni</h3>
 </div>
 
 #### Danika Dorakova
-**Roleplaying Information**
-***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Danika dovrebbe ispirare divertimento con il suo umorismo da "spalla" e le battute bonarie con Urwin, gratitudine per la sua ospitalità e le cure materne, e conforto dalla sua natura pratica e concreta e dalla sua feroce dedizione alla famiglia, alla casa e agli ospiti.
 
-***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+***Emozioni.*** Danika si sente più spesso affezionata, soddisfatta, cordiale, determinata, ribelle e affettuosa.
 
-***Motivations.*** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+***Motivazioni.*** Danika vuole proteggere la sua famiglia, gestire un'attività di successo, e assicurarsi che i suoi figli un giorno vedano la luce del sole su Barovia.
 
-***Inspirations.*** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+***Ispirazioni.*** Quando interpreti Danika, canalizza Tenzin (Avatar: La Leggenda di Korra), Bob Belcher (Bob's Burgers) e Garnet (Steven Universe).
 
 **Character Information**
-***Persona.*** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+***Persona.*** Per il mondo, Danika è una donna d'affari pratica e senza fronzoli con un cuore d'oro. Per coloro di cui si fida, Danika è una madre feroce con una profonda dedizione al clan Martikov. Nel profondo, Danika è cupamente pronta a difendere coloro che ama—a qualunque costo necessario.
 
-***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+***Morale.*** In un combattimento, Danika tenterebbe rapidamente di de-escalare, ma combatterebbe fino alla morte per difendere la sua famiglia o i suoi ospiti.
 
-***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the Keepers of the Feather.
+***Relazioni.*** Danika è la madre di Brom e Bray Martikov e la moglie di Urwin Martikov. Oltre a essere co-proprietaria della Locanda dell'Acqua Azzurra, Danika è un membro di alto rango dei Custodi della Piuma.
 ### Dr. Rudolph van Richten
-#### Disguised (as Rictavio)
-**Roleplaying Information**
-***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+#### Sotto Travestimento (come Rictavio)
+**Informazioni di Interpretazione**
+***Risonanza.*** Rictavio dovrebbe ispirare divertimento per il suo abbigliamento sgargiante, la sua stravaganza da direttore di circo, e il suo modo colorito di parlare, che spesso include il riferirsi a sé stesso in terza persona.
 
-***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+***Emozioni.*** Per gli osservatori, Rictavio appare più spesso divertito, deliziato o soddisfatto.
 
-***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+***Motivazioni.*** Rictavio vuole mantenere la sua reputazione di direttore di circo divertente, seppur alquanto stravagante.
 
-***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
-
-**Character Information**
-***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
-
-***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
-
-***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
-#### Undisguised (as Himself)
-**Roleplaying Information**
-***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
-
-***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
-
-***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus's death and his slaughter of the Radanaviches.
-
-***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
+***Ispirazioni.*** Quando interpreti Rictavio, canalizza Varrick (Avatar: La Leggenda di Korra) o un tipico imbonitore da circo.
 
 **Character Information**
-***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
+***Persona.*** Per il mondo, Rictavio appare come un direttore di circo sgargiante, irriverente e occasionalmente narcisista.
 
-***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
+***Morale.*** In un combattimento, Rictavio tenterebbe di parlare velocemente per togliersi dai guai, fuggendo dalla battaglia se le ostilità sembrano inevitabili. (Potrebbe, tuttavia, intervenire per difendere un innocente dal male per mano del soprannaturale—pur facendo del suo meglio per preservare la sua identità segreta.)
 
-***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
+***Relazioni.*** Rictavio è segretamente il Dr. Rudolph van Richten, il famoso cacciatore di vampiri.
+#### Senza Travestimento (come Sé Stesso)
+**Informazioni di Interpretazione**
+***Risonanza.*** Van Richten dovrebbe ispirare gratitudine per la sua conoscenza (condivisa liberamente), comfort per la sua sicurezza ed esperienza, e lieve irritazione per la sua paranoia e la sua franchezza.
+
+***Emozioni.*** Van Richten si sente più spesso sospettoso, diffidente, pensieroso, preoccupato, nostalgico, soddisfatto, curioso, in colpa e vergognoso.
+
+***Motivazioni.*** Van Richten vuole tenere al sicuro Arabelle, evitare il rilevamento di Strahd, assistere i nemici di Strahd, e redimersi per la morte di Erasmus e il suo massacro dei Radanavich.
+
+***Ispirazioni.*** Quando interpreti Van Richten, canalizza Alastor "Malocchio" Moody (*Harry Potter*), Geralt di Rivia (*The Witcher*) e Mike Ehrmantraut (*Breaking Bad*).
+
+**Character Information**
+***Persona.*** Per il mondo, Van Richten è un cacciatore di mostri spietato e temprato dalla battaglia. Per coloro di cui si fida, Van Richten è un mentore compassionevole con standard estremamente elevati, una forte vena paranoica e un temperamento occasionale. Solo Van Richten conosce la profondità del senso di colpa, della vergogna e del disprezzo di sé che prova per la morte di suo figlio e sua moglie, e il suo massacro della carovana Vistani dei Radanavich.
+
+***Morale.*** In un combattimento, Van Richten tenterebbe di superare in astuzia o manovrare il suo nemico, ritirandosi se necessario per assicurarsi il terreno più vantaggioso.
+
+***Relazioni.*** Van Richten è il mentore della cacciatrice di mostri Vistana Ezmerelda d'Avenir, il padre del defunto Erasmus van Richten legato al Piano Etereo (con cui non può né comunicare né percepire), l'ex proprietario della scimmia Piccolo ora posseduta dal giocattolaio vallakiano Gadof Blinsky, l'assassino della famiglia di Arturi Radanavich, e l'ex alleato della ribellione di Doru contro il Castello Ravenloft.
 
 <div class="statblock">
 <h2>Rudolph Van Richten</h2>
-<em>Medium humanoid (human), lawful good</em>
+<em>Umanoide medio (umano), legale buono</em>
 <hr>
-<strong>Armor Class</strong> 13 (leather armor)
+<strong>Classe Armatura</strong> 13 (armatura di cuoio)
 <br>
-<strong>Hit Points</strong> 77 (14d8 + 14)
+<strong>Punti Ferita</strong> 77 (14d8 + 14)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1501,69 +1501,69 @@
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +4, Wis +7<br>
-<strong>Skills</strong> Arcana +10, Insight +7, Medicine +10, Perception +7, Religion +7, Sleight of Hand +5<br>
-<strong>Senses</strong> passive Perception 17<br>
-<strong>Languages</strong> Abyssal, Common, Elvish, Infernal<br>
-<strong>Challenge</strong> 5 (1,800 XP)<br>
-<strong>Proficiency Bonus</strong> +3
+<strong>Tiri Salvezza</strong> Cos +4, Sag +7<br>
+<strong>Competenze</strong> Arcano +10, Intuizione +7, Medicina +10, Percezione +7, Religione +7, Rapidità di Mano +5<br>
+<strong>Sensi</strong> Percezione passiva 17<br>
+<strong>Linguaggi</strong> Abissale, Comune, Elfico, Infernale<br>
+<strong>Grado di Sfida</strong> 5 (1.800 PE)<br>
+<strong>Bonus di Competenza</strong> +3
 <hr>
-<p><strong><em>Special Equipment.</em></strong> Van Richten carries a <em>hat of disguise</em> and <em>ring of mind shielding</em>.</p>
-<p><strong><em>Sneak Attack.</em></strong> Once per turn, Van Richten can deal an extra 17 (5d6) damage to one creature he hits with an attack if he has advantage on the attack roll. He doesn’t need advantage on the attack roll if the target is undead; or if at least one of his allies is within 5 feet of the target, the ally doesn’t have the incapacitated condition, and he doesn’t have disadvantage on the attack roll.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Van Richten makes two attacks with his silvered sword cane or silvered crossbow.</p>
-<p><strong><em>Silvered Sword Cane.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</p>
-<p><strong><em>Silvered Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</p>
-<p><strong><em>Charm Bracelet.</em></strong> Van Richten uses his charm bracelet to cast one of the following spells, using Wisdom as his spellcasting ability (spell save DC 15):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/day each</strong> blindness/deafness, death ward, freedom of movement</p>
-<p><strong><em>Hat of Disguise.</em></strong> Van Richten uses his <em>hat of disguise</em> to cast <em>disguise self</em>.
-<p><strong><em>Lucid Lens.</em></strong> Van Richten uses his <em>lucid lens</em> to cast <em>detect magic</em> or <em>detect evil and good</em> (1/day each).
-<h3>Bonus Actions</h3>
-<p><strong><em>Cunning Action.</em></strong> Van Richten takes the Dash, Disengage, or Hide action.</p>
-<p><strong><em>Master of Tactics (Help).</em></strong> Van Richten uses the Help action to aid an ally’s attack against a creature within 30 feet of him that can see or hear him.</p>
-<p><strong><em>Insightful Fighting.</em></strong> Van Richten makes a Wisdom (Insight) check against a creature he can see that isn’t incapacitated, contested by the target’s Charisma (Deception). On a success, he has advantage to attack that creature and that creature has disadvantage to attack him for 1 minute. This benefit lasts for 1 minute or until he successfully uses this feature against a different target.</p>
-<h3>Reactions</h3>
-<p><strong><em>Charm Bracelet.</em></strong> <em>Trigger:</em> A hostile creature attacks Van Richten or ends its turn. <em>Effect</em>: Van Richten casts a spell using his <em>charm bracelet</em>.</p>
-<p><strong><em>Uncanny Dodge.</em></strong> <em>Trigger:</em> An attacker hits Van Richten with an attack roll. <Em>Effect:</em> Van Richten halves the attack’s damage against him (rounding down).</p>
+<p><strong><em>Equipaggiamento Speciale.</em></strong> Van Richten porta con sé un <em>cappello del travestimento</em> e un <em>anello di schermatura mentale</em>.</p>
+<p><strong><em>Attacco Furtivo.</em></strong> Una volta per turno, Van Richten può infliggere 17 (5d6) danni extra a una creatura che colpisce con un attacco se ha vantaggio al tiro per colpire. Non ha bisogno di vantaggio al tiro per colpire se il bersaglio è un non morto; o se almeno uno dei suoi alleati si trova entro 1,5 m dal bersaglio, l'alleato non è incapacitato, e Van Richten non ha svantaggio al tiro per colpire.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Van Richten effettua due attacchi con il suo bastone-spada argentato o la sua balestra argentata.</p>
+<p><strong><em>Bastone-Spada Argentato.</em></strong> Attacco con Arma da Mischia: +5 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 5 (1d6 + 2) danni perforanti.</p>
+<p><strong><em>Balestra Argentata.</em></strong> Attacco con Arma a Distanza: +5 al tiro per colpire, gittata 24/96 m, un bersaglio. Colpito: 6 (1d8 + 2) danni perforanti.</p>
+<p><strong><em>Braccialetto dei Ciondoli.</em></strong> Van Richten usa il suo braccialetto dei ciondoli per lanciare uno dei seguenti incantesimi, usando Saggezza come caratteristica da incantatore (CD del tiro salvezza 15):<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1/giorno ciascuno</strong> cecità/sordità, interdizione alla morte, libertà di movimento</p>
+<p><strong><em>Cappello del Travestimento.</em></strong> Van Richten usa il suo <em>cappello del travestimento</em> per lanciare <em>camuffare sé stesso</em>.
+<p><strong><em>Lente Lucida.</em></strong> Van Richten usa la sua <em>lente lucida</em> per lanciare <em>individuazione del magico</em> o <em>individuazione del bene e del male</em> (1/giorno ciascuno).
+<h3>Azioni Bonus</h3>
+<p><strong><em>Azione Astuta.</em></strong> Van Richten effettua l'azione Scatto, Disimpegno o Nascondersi.</p>
+<p><strong><em>Maestro di Tattica (Aiuto).</em></strong> Van Richten usa l'azione Aiuto per assistere l'attacco di un alleato contro una creatura entro 9 m da lui che possa vederlo o sentirlo.</p>
+<p><strong><em>Combattimento Perspicace.</em></strong> Van Richten effettua una prova di Saggezza (Intuizione) contro una creatura che può vedere e che non sia incapacitata, contrastata dalla Carisma (Inganno) del bersaglio. In caso di successo, ha vantaggio per attaccare quella creatura e quella creatura ha svantaggio per attaccare lui per 1 minuto. Questo beneficio dura per 1 minuto o fino a quando non usa con successo questo tratto contro un bersaglio diverso.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Braccialetto dei Ciondoli.</em></strong> <em>Innesco:</em> Una creatura ostile attacca Van Richten o termina il suo turno. <em>Effetto</em>: Van Richten lancia un incantesimo usando il suo <em>braccialetto dei ciondoli</em>.</p>
+<p><strong><em>Schivata Prodigiosa.</em></strong> <em>Innesco:</em> Un attaccante colpisce Van Richten con un tiro per colpire. <em>Effetto:</em> Van Richten dimezza i danni dell'attacco subiti (arrotondando per difetto).</p>
 </div>
 
 ### Muriel Vinshaw
-**Roleplaying Information**
-***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Muriel dovrebbe ispirare affetto con il suo atteggiamento entusiasta e intraprendente, divertimento con i suoi commenti sarcastici e il suo umorismo allegro, e lieve irritazione con la sua testardaggine e i suoi occasionali (seppur dispiaciuti) rifiuti di rivelare i segreti dei Custodi della Piuma.
 
-***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
+***Emozioni.*** Muriel si sente più spesso curiosa, eccitata, determinata, trionfante, giuliva, divertita, arrabbiata o triste.
 
-***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
+***Motivazioni.*** Muriel vuole onorare la vita di Elric attraverso la sua resistenza a Strahd e fare la differenza nella vita quotidiana dei baroviani nella sua veste di agente sul campo dei Custodi della Piuma.
 
-***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
+***Ispirazioni.*** Quando si interpreta Muriel, ispirarsi ad Amethyst (*Steven Universe*), Sokka (*Avatar: la Leggenda di Aang*) e Peter Parker (*Spider-Man*).
 
-**Character Information**
-***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Muriel è una giovane donna allegra, anche se talvolta svampita. Per coloro di cui si fida, Muriel è una determinata agente sul campo dei Custodi della Piuma, con un forte senso di giustizia e una feroce vena indipendente. Nel profondo, Muriel sta ancora elaborando il lutto per la morte del suo fidanzato, Elric Martikov, e si chiede se riuscirà mai a riparare ciò che la sua morte ha spezzato dentro di lei.
 
-***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
+***Morale.*** In combattimento, Muriel estrarrebbe volentieri la sua spada corta o la balestra e sfiderebbe l'avversario a colpire per primo, fuggendo solo se la sua rigenerazione fosse bloccata o sopraffatta.
 
-***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+***Relazioni.*** Muriel è un'agente dei Custodi della Piuma sotto Davian Martikov, un contatto e alleata del maestro delle spie dei Custodi Urwin Martikov, e l'ex fidanzata del defunto figlio di Davian, Elric Martikov, che fu imprigionato mentre assisteva la ribellione di Doru contro Castello Ravenloft.
 
 
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
-    <em>Medium humanoid (human, shapechanger), chaotic good</em>
+    <em>Umanoide medio (umana, mutaforma), caotico buono</em>
     <hr>
-    <strong>Armor Class</strong> 14 (leather armor)
+    <strong>Classe Armatura</strong> 14 (armatura di cuoio)
     <br>
-    <strong>Hit Points</strong> 63 (14d8)
+    <strong>Punti Ferita</strong> 63 (14d8)
     <br>
-    <strong>Speed</strong> 30 ft. (fly 50 ft. in raven and hybrid forms)
+    <strong>Velocità</strong> 9 m (volo 15 m in forma di corvo e ibrida)
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -1578,113 +1578,113 @@
         </tbody>
     </table>
     <hr>
-    <strong>Skills</strong> Insight +4, Perception +6<br>
-    <strong>Senses</strong> passive Perception 16<br>
-    <strong>Languages</strong> Common (can't speak in raven form)<br>
-    <strong>Challenge Rating</strong> 2<br>
-    <strong>Proficiency Bonus</strong> +2
+    <strong>Competenze</strong> Intuizione +4, Percezione +6<br>
+    <strong>Sensi</strong> Percezione passiva 16<br>
+    <strong>Linguaggi</strong> Comune (non può parlare in forma di corvo)<br>
+    <strong>Grado di Sfida</strong> 2<br>
+    <strong>Bonus di Competenza</strong> +2
     <hr>
-    <p><strong><em>Regeneration.</em></strong> Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-    <p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p>
-    <p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p>
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p>
-    <p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-    <p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p>
-    <h3>Bonus Actions</h3>
-    <p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.</p>
-    <h3>Reactions</h3>
-    <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
+    <p><strong><em>Rigenerazione.</em></strong> Muriel recupera 10 punti ferita all'inizio del suo turno se non ha subito danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata dal suo ultimo turno. Muore solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+    <p><strong><em>Mimica.</em></strong> Muriel può imitare suoni semplici che ha sentito, come una persona che sussurra, un bambino che piange o un animale che cinguetta. Una creatura che sente i suoni può capire che sono imitazioni con una prova di Saggezza (Intuizione) con CD 10 riuscita.</p>
+    <p><strong><em>Picchiata.</em></strong> Se Muriel vola per almeno 6 m in linea retta verso un bersaglio scendendo di almeno 1,5 m verso il suolo, e poi colpisce quel bersaglio con un attacco di spada corta nello stesso turno, il bersaglio subisce 7 (2d6) danni perforanti extra. Se il bersaglio è una creatura, deve superare un tiro salvezza su Forza con CD 12 o essere buttato prono.</p>
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Muriel effettua due attacchi con arma, uno dei quali può essere con la sua balestra a mano.</p>
+    <p><strong><em>Spada Corta.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti.</p>
+    <p><strong><em>Balestra a Mano.</em></strong> (Solo Forma Umanoide o Ibrida) <em>Attacco con Arma a Distanza:</em> +5 al tiro per colpire, gittata 9/36 m, un bersaglio. <em>Colpito:</em> 5 (1d6 + 3) danni perforanti.</p>
+    <p><strong><em>Becco.</em></strong> (Solo Forma di Corvo o Ibrida) <em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 1 danno perforante in forma di corvo, o 5 (1d4 + 3) danni perforanti in forma ibrida. Se il bersaglio è un umanoide, deve superare un tiro salvezza su Costituzione con CD 10 o essere maledetto con la licantropia del corvo mannaro.</p>
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Mutaforma.</em></strong> Muriel si trasforma in un ibrido corvo-umanoide o in un corvo, o torna alla sua forma umana. Le sue statistiche, a parte la taglia, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
+    <h3>Reazioni</h3>
+    <p><strong><em>Interposizione.</em></strong> Quando una creatura che Muriel può vedere colpisce un altro bersaglio entro 1,5 m da Muriel con un attacco, può usare la sua reazione per subire i danni al suo posto.</p>
 </div>
 
-## St. Andral's Church
+## Chiesa di Sant'Andral
 ### Father Lucian Petrovich
-**Roleplaying Information**
-***Resonance.*** Father Petrovich should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Padre Petrovich dovrebbe ispirare gratitudine per la sua ospitalità, lusinga per la sua disponibilità ad ascoltare ed empatizzare, conforto per il suo calore, serenità e saggezza, e simpatia per la sua ansia riguardo alle ossa mancanti e alla sicurezza della sua congregazione.
 
-***Emotions.*** Father Petrovich’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+***Emozioni.*** Le emozioni più frequenti di Padre Petrovich sono la riflessione, la speranza, la preoccupazione e la compassione.
 
-***Motivations.*** Father Petrovich wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best as he can.
+***Motivazioni.*** Padre Petrovich vuole tenere alto il morale di Vallaki, mantenere la chiesa come luogo di santuario e conforto, e crescere Yeska nel miglior modo possibile.
 
-***Inspirations.*** When playing Father Petrovich, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
+***Ispirazioni.*** Quando si interpreta Padre Petrovich, ispirarsi a Zio Iroh (*Avatar: la Leggenda di Aang*), Michael Carpenter e Padre Forthill (*The Dresden Files*) e Mr. Rogers (*Mr. Rogers' Neighborhood*).
 
-**Character Information**
-***Persona.*** To strangers, Father Petrovich is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Petrovich is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Petrovich harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
+**Informazioni sul Personaggio**
+***Persona.*** Per gli estranei, Padre Petrovich è un sacerdote sereno, umile e compassionevole, sempre felice di condividere una parola di lode o qualche perla di saggezza. Per coloro di cui si fida, Padre Petrovich è un difensore dedicato e risoluto della sua comunità, che tuttavia si preoccupa della sua capacità di proteggere i suoi congregati. Nel profondo, Padre Petrovich nutre un pizzico di dubbio sulla provvidenza e il potere del Signore del Mattino, chiedendosi se il risveglio di Strahd sia una prova della fede dei baroviani o un segno che la terra è abbandonata per sempre.
 
-***Morale.*** In a fight, Father Petrovich would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
+***Morale.*** In combattimento, Padre Petrovich preferirebbe dissuadere i suoi aggressori, arrendendosi pacificamente se necessario per evitare spargimenti di sangue inutili. Tuttavia, se una vita innocente o i membri della sua congregazione fossero minacciati, combatterebbe fino alla morte con una preghiera sulle labbra e pace nel cuore.
 
-***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+***Relazioni.*** Padre Petrovich è un mentore e figura paterna per l'orfano e chierichetto Yeska, il datore di lavoro del custode Milivoj, il fratello della Baronessa Lydia Petrovna, e il lontano discendente di Tasha Petrovna, un'antica chiericа del Signore del Mattino i cui resti sono custoditi nelle catacombe di Castello Ravenloft.
 ### Milivoj
-**Roleplaying Information**
-***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Milivoj dovrebbe ispirare disprezzo con la sua personalità brusca, cinica e testarda, simpatia per la sua frustrazione verso la dipendenza dei genitori dai pasticcini dei sogni, e affetto per la sua dedizione incondizionata nel provvedere ai suoi fratelli, a qualunque costo per sé stesso.
 
-***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
+***Emozioni.*** Le emozioni più frequenti di Milivoj sono fastidio, preoccupazione, frustrazione, noia, amarezza e cinismo, e (quando è con i suoi fratelli) compassione, allegria e gioia.
 
-***Motivations.*** Milivoj wants to provide for himself and his siblings.
+***Motivazioni.*** Milivoj vuole provvedere a sé stesso e ai suoi fratelli.
 
-***Inspirations.*** When playing Milivoj, channel Katniss Everdeen (*The Hunger Games*), Arya Stark (*Game of Thrones*), and Carl Fredericksen (*Up*).
+***Ispirazioni.*** Quando si interpreta Milivoj, ispirarsi a Katniss Everdeen (*Hunger Games*), Arya Stark (*Game of Thrones*) e Carl Fredericksen (*Up*).
 
-**Character Information**
-***Persona.*** To strangers, Milivoj is a quiet, gruff, and hardworking groundskeeper. To those he trusts, Milivoj is a loving and dedicated elder sibling, a frustrated and bitter son, and a desperate and confused young man.
+**Informazioni sul Personaggio**
+***Persona.*** Per gli estranei, Milivoj è un custode silenzioso, burbero e laborioso. Per coloro di cui si fida, Milivoj è un fratello maggiore amorevole e dedicato, un figlio frustrato e amareggiato, e un giovane uomo disperato e confuso.
 
-***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
+***Morale.*** In combattimento, Milivoj brandirebbe la sua pala nel tentativo di far indietreggiare l'aggressore, ma si arrenderrebbe rapidamente se ferito gravemente. (Se difendesse i suoi fratelli, tuttavia, Milivoj combatterebbe ferocemente e volentieri fino alla morte.)
 
-***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
+***Relazioni.*** Milivoj è impiegato da Padre Lucian Petrovich, lavora segretamente per il fabbricante di bare Henrik van der Voort, ed è il maggiore di nove figli di Oleg e Jarzinka, due vallakiani dipendenti dai pasticcini dei sogni.
 
-## Vallakovich Manor
-### Baron Vargas Vallakovich
-**Roleplaying Information**
-***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+## Maniero Vallakovich
+### Barone Vargas Vallakovich
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Vargas dovrebbe ispirare frustrazione con la sua ostinazione, disgusto per la sua arroganza narcisistica, e lieve divertimento per la sua totale e ridicola sicurezza di sé.
 
-***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+***Emozioni.*** Vargas si sente più spesso infastidito, offeso, soddisfatto, indignato, impaziente o compiaciuto.
 
-***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+***Motivazioni.*** Vargas vuole assicurare il suo potere libero dall'influenza di Strahd e guidare Vallaki a sfuggire alle Nebbie costringendo tutti in città a essere felici.
 
-***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+***Ispirazioni.*** Quando si interpreta Vargas, ispirarsi a Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones) e il Governatore Ratcliffe (Pocahontas).
 
-**Character Information**
-***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Vargas è un nobile presuntuoso, narcisista e di sangue blu con un brutto carattere, deliri di salvezza e un amore per le lodi e l'adulazione.
 
-***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+***Morale.*** In combattimento, Vargas ordinerebbe ai suoi cani, Artiglio e Zanna, così come a Izek Strazni e a qualsiasi guardia presente di catturare chiunque si opponga a lui. Se privato dei suoi difensori, Vargas tenterebbe di fuggire, o — se la fuga fosse ostacolata — si prostrerebbe pateticamente ai piedi del suo aggressore, implorando pietà.
 
-***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+***Relazioni.*** Vargas, il borgomastro di Vallaki, è il padre di Victor Vallakovich, il marito della Baronessa Lydia Petrovna, il cognato di Padre Lucian Petrovich, e il figlio del defunto Barone Valentin Vallakovich. È anche il datore di lavoro e "padre" adottivo di Izek Strazni, il suo capitano delle guardie e principale esecutore.
 ### Izek Strazni
-**Roleplaying Information**
-***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Izek dovrebbe ispirare disgusto con la sua crudeltà e indifferenza per la vita umana, e disagio con il suo inquietante interesse per Ireena Kolyana.
 
-***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+***Emozioni.*** Izek si sente più spesso irritato, furioso, impaziente, sadico, ossessionato o annoiato.
 
-***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+***Motivazioni.*** Izek vuole servire il Barone fedelmente — e, molto più importante, trovare e possedere la donna che vede nei suoi sogni.
 
-***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+***Ispirazioni.*** Quando si interpreta Izek, ispirarsi a Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter) e Kratos (God of War).
 
-**Character Information**
-***Persona.*** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Izek è un esecutore crudele e brutale con un amore per il fuoco e il sangue.
 
-***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+***Morale.*** In combattimento, Izek estrarrebbe volentieri la sua ascia da battaglia argentata e combatterebbe fino alla morte.
 
-***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+***Relazioni.*** Izek è il "figlio" adottivo del Barone Vargas Vallakovich, il capitano delle guardie cittadine di Vallaki, un cliente abituale del giocattolaio Gadof Blinsky, e (a insaputa di entrambi) il fratello biologico di Ireena Kolyana.
 
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 1a Forma</h2>
+<em>Umanoide medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1698,52 +1698,51 @@
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Resistances</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Izek doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Second Phase.</em></strong> When Izek is reduced to 0 hit points, his arms and axe are engulfed in flames, the barbs on his fiendish arm grow longer and sharper, and his skin grows red and begins to smoke. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage doesn't carry over to his new form, but he retains any conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d10 + 5) slashing damage and Izek can push the target up to 5 ft. away.</p>
-<p><strong><em>Flame Hurl.</em></strong> <em>Ranged spell attack:</em> +5 to hit, range 60 ft., one target. <em>Hit:</em> 7 (2d6) fire damage.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Slicing Whirl.</em></strong> Izek whirls his battleaxe around him. Each creature within a 5-foot radius must succeed on a DC 16 Dexterity saving throw or take 5 (2d4) slashing damage and fall prone. A creature that succeeds on the saving throw takes half damage and doesn’t fall prone.</p>
-<p><strong><em>Flame Volley.</em></strong> Izek conjures a volley of fiery orbs that rain down on a point within 60 ft. that he can see. Each creature within 10 ft. of that point must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Forceful Retreat.</em></strong> In response to taking damage from a melee attack, Izek makes a shove attack against the attacker. He can then immediately move up to 15 ft. away from the attacker without provoking opportunity attacks.</p>
-<p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Competenze</strong> Atletica +8, Intimidire +5, Percezione +2<br>
+<strong>Resistenze ai Danni</strong> da fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Grado di Sfida</strong> 6 o 5 se avvelenato<br>
+<strong>Bonus di Competenza</strong> +3<br>
+<strong>Bonus di Competenza</strong> +3<br>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Izek non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Seconda Fase.</em></strong> Quando Izek viene ridotto a 0 punti ferita, le sue braccia e la sua ascia vengono avvolte dalle fiamme, le spine sul suo braccio immondo si allungano e affilano, e la sua pelle diventa rossa e comincia a fumare. Le sue statistiche vengono immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso non si trasferiscono alla nuova forma, ma mantiene qualsiasi condizione avesse nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi.</p>
+<p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 11 (1d10 + 5) danni taglienti e Izek può spingere il bersaglio fino a 1,5 m indietro.</p>
+<p><strong><em>Lancio di Fiamme.</em></strong> <em>Attacco incantesimo a distanza:</em> +5 al tiro per colpire, gittata 18 m, un bersaglio. <em>Colpito:</em> 7 (2d6) danni da fuoco.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Vortice Tagliente.</em></strong> Izek fa roteare la sua ascia da battaglia attorno a sé. Ogni creatura entro un raggio di 1,5 m deve superare un tiro salvezza su Destrezza con CD 16 o subire 5 (2d4) danni taglienti e cadere prona. Una creatura che supera il tiro salvezza subisce metà dei danni e non cade prona.</p>
+<p><strong><em>Salva di Fiamme.</em></strong> Izek evoca una salva di sfere infuocate che piovono su un punto entro 18 m che può vedere. Ogni creatura entro 3 m da quel punto deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Izek può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Ritirata Forzata.</em></strong> In risposta al subire danni da un attacco in mischia, Izek effettua un tentativo di spinta contro l'attaccante. Può poi muoversi immediatamente fino a 4,5 m lontano dall'attaccante senza provocare attacchi di opportunità.</p>
+<p><strong><em>Colpo Vendicativo.</em></strong> In risposta al subire danni da un attacco o incantesimo, Izek può muoversi fino a 4,5 m verso l'attaccante senza provocare attacchi di opportunità. Può poi effettuare immediatamente un attacco contro quella creatura con la sua ascia da battaglia.</p>
 </div>
 
 <br>
 
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
-<em>Medium humanoid, neutral evil</em>
+<h2>Izek Strazni, 2a Forma</h2>
+<em>Umanoide medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 14 (studded leather)
+<strong>Classe Armatura</strong> 14 (cuoio borchiato)
 <br>
-<strong>Hit Points</strong> 110 (13d8 + 42)
+<strong>Punti Ferita</strong> 110 (13d8 + 42)
 <br>
-<strong>Speed</strong> 30 ft.
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1757,163 +1756,163 @@
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Str +8, Con +7<br>
-<strong>Skills</strong> Athletics +8, Intimidation +5, Perception +2<br>
-<strong>Damage Immunities</strong> fire<br>
-<strong>Senses</strong> passive Perception 12<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 6 or 5 if poisoned<br>
-<strong>Proficiency Bonus</strong> +3<br>
-<hr>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Izek makes two melee attacks.</p>
-<p><strong><em>Silvered Battleaxe.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 10 (1d8 + 5) slashing damage plus 2 (1d4) fire damage.</p>
-<p><strong><em>Burning Punch.</em></strong> <em>Melee weapon attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 8 (1d4 + 5) bludgeoning damage plus 2 (1d4) fire damage, and Izek can push the target up to 5 ft. away. On a critical hit, the target must also succeed on a DC 16 Constitution saving throw or be dazed until the start of Izek’s next turn. (That creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Flaming Wave.</em></strong> A wave of flames sweeps out from Izek in a line that is 60 feet long and 5 feet wide. Each creature in the line must make a DC 13 Dexterity saving throw or take 11 (2d10) fire damage. The fire ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Flame Burst.</em></strong> Izek slams his battleaxe into the ground, causing a torrent of flames to swirl around him. Each creature within 5 feet must make a DC 13 Dexterity saving throw or take 7 (2d6) fire damage.</p>
-<p><strong><em>Explosive Blast.</em></strong> A bright streak flashes from Izek’s clawed hand to a point he chooses within 90 feet and then blossoms with a low roar into an explosion of flame. Each creature in a 5-foot-radius sphere centered on that point must make a DC 13 Dexterity saving throw. A target takes 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. A target that fails the save is also knocked prone. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.</p>
-<h3>Reactions</h3>
-<p>Izek can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Izek can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Hot Pursuit.</em></strong> In response to taking damage from an attack or spell, Izek propels himself forward with a jet of crackling flames, moving up to 30 feet without provoking opportunity attacks. He can then immediately make a <strong><em>burning punch</em></strong> attack against a creature within range.</p>
-<p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
-<p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
+<strong>Tiri Salvezza</strong> For +8, Cos +7<br>
+<strong>Competenze</strong> Atletica +8, Intimidire +5, Percezione +2<br>
+<strong>Immunità ai Danni</strong> da fuoco<br>
+<strong>Sensi</strong> Percezione passiva 12<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Grado di Sfida</strong> 6 o 5 se avvelenato<br>
+<strong>Bonus di Competenza</strong> +3<br>
+<strong>Bonus di Competenza</strong> +3<br>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Izek effettua due attacchi in mischia.</p>
+<p><strong><em>Ascia da Battaglia Argentata.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 10 (1d8 + 5) danni taglienti più 2 (1d4) danni da fuoco.</p>
+<p><strong><em>Pugno Ardente.</em></strong> <em>Attacco con arma da mischia:</em> +8 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 8 (1d4 + 5) danni contundenti più 2 (1d4) danni da fuoco, e Izek può spingere il bersaglio fino a 1,5 m indietro. Con un colpo critico, il bersaglio deve anche superare un tiro salvezza su Costituzione con CD 16 o essere stordito fino all'inizio del prossimo turno di Izek. (La creatura può muoversi o effettuare un'azione nel suo turno, non entrambi. Non può nemmeno effettuare un'azione bonus o una reazione.)</p>
+<p><strong><em>Onda di Fiamme.</em></strong> Un'ondata di fiamme si propaga da Izek in una linea lunga 18 m e larga 1,5 m. Ogni creatura nella linea deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 11 (2d10) danni da fuoco. Il fuoco incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Esplosione di Fiamme.</em></strong> Izek sbatte la sua ascia da battaglia al suolo, causando un torrente di fiamme che vorticano attorno a lui. Ogni creatura entro 1,5 m deve effettuare un tiro salvezza su Destrezza con CD 13 o subire 7 (2d6) danni da fuoco.</p>
+<p><strong><em>Deflagrazione Esplosiva.</em></strong> Un lampo luminoso sfreccia dalla mano artigliata di Izek verso un punto che sceglie entro 27 m e poi sboccia con un rombo basso in un'esplosione di fiamme. Ogni creatura in una sfera di 1,5 m di raggio centrata su quel punto deve effettuare un tiro salvezza su Destrezza con CD 13. Un bersaglio subisce 7 (2d6) danni da fuoco se fallisce il tiro, o metà dei danni se lo supera. Un bersaglio che fallisce il tiro viene anche buttato prono. Il fuoco si propaga oltre gli angoli. Incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.</p>
+<h3>Reazioni</h3>
+<p>Izek può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Izek può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Inseguimento Ardente.</em></strong> In risposta al subire danni da un attacco o incantesimo, Izek si propelle in avanti con un getto di fiamme crepitanti, muovendosi fino a 9 m senza provocare attacchi di opportunità. Può poi effettuare immediatamente un attacco di <strong><em>pugno ardente</em></strong> contro una creatura a portata.</p>
+<p><strong><em>Scintille di Brace.</em></strong> In risposta al subire danni da un attacco in mischia, Izek fa esplodere l'aria attorno a sé con braci vorticanti. L'attaccante deve superare un tiro salvezza su Costituzione con CD 13 o subire 2 (1d4) danni da fuoco ed essere accecato fino alla fine del suo prossimo turno.</p>
+<p><strong><em>Ustione Ritorsiva (1/round).</em></strong> In risposta al subire danni da un attacco in mischia effettuato con un'arma di metallo, Izek fa diventare l'oggetto incandescente fino all'inizio del suo prossimo turno. Qualsiasi creatura in contatto fisico con l'arma subisce immediatamente 4 (1d8) danni da fuoco e deve superare un tiro salvezza su Costituzione con CD 13 o lasciar cadere l'arma se può. Se non lascia cadere l'oggetto, ha svantaggio ai tiri per colpire e alle prove di caratteristica fino all'inizio del prossimo turno di Izek.</p>
+<p><strong><em>Ustione Ritorsiva (1/round).</em></strong> In risposta al subire danni da un attacco in mischia effettuato con un'arma di metallo, Izek fa diventare l'oggetto incandescente fino all'inizio del suo prossimo turno. Qualsiasi creatura in contatto fisico con l'arma subisce immediatamente 4 (1d8) danni da fuoco e deve superare un tiro salvezza su Costituzione con CD 13 o lasciar cadere l'arma se può. Se non lascia cadere l'oggetto, ha svantaggio ai tiri per colpire e alle prove di caratteristica fino all'inizio del prossimo turno di Izek.</p>
 </div>
 
 ### Victor Vallakovich
-Victor’s spellbook contains the _sending_ and _fear_ spells and does not contain _remove curse._
+Il libro degli incantesimi di Victor contiene gli incantesimi _invio_ e _paura_ e non contiene _rimuovi maledizione._
 
-**Roleplaying Information**
-***Resonance.*** Victor should make the players feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Victor dovrebbe far provare ai giocatori fastidio per il suo sospetto e la sua condiscendenza, simpatia per la sua ansia, frustrazione e disperazione, e affetto per la sua ostinata determinazione a far guarire Stella.
 
-***Emotions.*** Victor most often feels curious, frustrated, suspicious, excited, bored, anxious, desperate, or determined.
+***Emozioni.*** Victor si sente più spesso curioso, frustrato, sospettoso, eccitato, annoiato, ansioso, disperato o determinato.
 
-***Motivations.*** Victor wants to restore Stella’s soul to her body and escape Barovia.
+***Motivazioni.*** Victor vuole restituire l'anima di Stella al suo corpo e fuggire da Barovia.
 
-***Inspirations.*** When playing Victor, channel Jonathan Byers (*Stranger Things*), Prince Zuko (*Avatar: The Last Airbender*), Raven (*Teen Titans*), and Perrin Aybara (*Wheel of Time*).
+***Ispirazioni.*** Quando si interpreta Victor, ispirarsi a Jonathan Byers (*Stranger Things*), il Principe Zuko (*Avatar: la Leggenda di Aang*), Raven (*Teen Titans*) e Perrin Aybara (*La Ruota del Tempo*).
 
-**Character Information**
-***Persona.*** To the world, Victor is a quiet, moody, and isolated young man with an awkward manner and a total lack of social graces. To those he trusts, Victor is a devoted and compassionate friend, with a spark of brilliance and the stubbornness of a mule. Only Victor knows that he secretly fears losing Stella’s friendship—both due to the harm caused by his *teleportation circle* and due to the time she’s spent with Erasmus van Richten in the Ethereal Plane.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Victor è un giovane uomo silenzioso, lunatico e isolato con modi goffi e una totale mancanza di tatto sociale. Per coloro di cui si fida, Victor è un amico devoto e compassionevole, con una scintilla di genialità e la testardaggine di un mulo. Solo Victor sa che teme segretamente di perdere l'amicizia di Stella — sia a causa del danno causato dal suo _cerchio di teletrasporto_ sia per il tempo che lei ha trascorso con Erasmus van Richten nel Piano Etereo.
 
-***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family.
+***Morale.*** In combattimento, Victor tenterebbe di fuggire, ma ricorrerebbe ai suoi incantesimi più pericolosi con abbandono sconsiderato e dilettantesco se messo alle strette o se difendesse i suoi amici o la sua famiglia.
 
-***Relationships.*** Victor is the only child of Baron Vargas Vallakovich and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+***Relazioni.*** Victor è l'unico figlio del Barone Vargas Vallakovich e della Baronessa Lydia Petrovna. È un caro amico di Stella Wachter, e un conoscente amichevole (seppur diffidente) del fantasma di Erasmus van Richten. Victor disprezza e teme Izek Strazni, che uccise il gatto d'infanzia di Victor, Murka, calciandolo attraverso una stanza quando si avventurò sul suo cammino due anni fa. (Da allora Victor ha rianimato lo scheletro di Murka tramite il suo incantesimo _animare i morti_.)
 
-## Blinsky Toys
+## Giocattoli Blinsky
 ### Gadof Blinsky
-**Roleplaying Information**
-***Resonance.*** Blinsky should inspire amusement with his accent, attire, and morbid aesthetic, endearment for his loneliness and sincerity, and sympathy for his terror of Izek.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Blinsky dovrebbe ispirare divertimento con il suo accento, il suo abbigliamento e la sua estetica macabra, affetto per la sua solitudine e sincerità, e simpatia per il suo terrore di Izek.
 
-***Emotions.*** Blinsky most often feels cheerful, frightened, anxious, lonely, joyful, or melancholy.
+***Emozioni.*** Blinsky si sente più spesso allegro, spaventato, ansioso, solo, gioioso o malinconico.
 
-***Motivations.*** Blinsky wants to use his macabre toys to bring joy to Barovia’s children and to succeed Fritz von Weerg as the greatest toymaker of history.
+***Motivazioni.*** Blinsky vuole usare i suoi giocattoli macabri per portare gioia ai bambini di Barovia e succedere a Fritz von Weerg come il più grande giocattolaio della storia.
 
-***Inspirations.*** When playing Blinsky, channel Olaf (*Frozen*), Rubeus Hagrid (*Harry Potter*), and Gepetto (*Pinocchio*).
+***Ispirazioni.*** Quando si interpreta Blinsky, ispirarsi a Olaf (*Frozen*), Rubeus Hagrid (*Harry Potter*) e Geppetto (*Pinocchio*).
 
-**Character Information**
-***Persona.*** To the world, Gadof Blinsky is a cheerful toymaker with a love for the macabre. To those he trusts, Blinsky is a lonely and anxious man, fearful that his work will never be good enough to win his customers’ love.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Gadof Blinsky è un allegro giocattolaio con un amore per il macabro. Per coloro di cui si fida, Blinsky è un uomo solo e ansioso, timoroso che il suo lavoro non sarà mai abbastanza buono da conquistare l'amore dei suoi clienti.
 
-***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
+***Morale.*** In combattimento, Blinsky implorerebbe la pace, inciampando su sé stesso e balbettando pietà mentre cerca un'opportunità per fuggire.
 
-***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by Rictavio, the traveling ringmaster. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals.
-## Vistani Encampment
+***Relazioni.*** Blinsky possiede Piccolo, una scimmia domestica che gli è stata regalata da Rictavio, il direttore di circo itinerante. Blinsky crea anche bambole somiglianti a Ireena Kolyana per Izek Strazni, e riceve un modesto stipendio per creare decorazioni per le feste settimanali del Barone Vallakovich.
+## Accampamento Vistani
 ### Luvash
-**Roleplaying Information**
-***Resonance.*** Luvash should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Luvash dovrebbe far provare ai giocatori simpatia per il suo dolore, affetto per la sua dedizione alla figlia, irritazione per la sua testardaggine, e lieve disagio per il suo temperamento irascibile.
 
-***Emotions.*** Luvash most often feels angered, melancholy, anxious, guilty, desperate, frustrated, joyful, content, amused, or grateful.
+***Emozioni.*** Luvash si sente più spesso adirato, malinconico, ansioso, colpevole, disperato, frustrato, gioioso, appagato, divertito o grato.
 
-***Motivations.*** Luvash wants to ensure that his daughter, Arabelle, is safe and loved, and that the families of the Vistani encampment can thrive and prosper.
+***Motivazioni.*** Luvash vuole assicurarsi che sua figlia, Arabelle, sia al sicuro e amata, e che le famiglie dell'accampamento Vistani possano prosperare e fiorire.
 
-***Inspirations.*** When playing Luvash, channel Boromir (*The Lord of the Rings*), Robert Baratheon (*A Game of Thrones*), Bob Parr (*The Incredibles*), and Wolverine (*X-Men*).
+***Ispirazioni.*** Quando si interpreta Luvash, ispirarsi a Boromir (*Il Signore degli Anelli*), Robert Baratheon (*Le Cronache del Ghiaccio e del Fuoco*), Bob Parr (*Gli Incredibili*) e Wolverine (*X-Men*).
 
-**Character Information**
-***Persona.*** To the world, Luvash is a gruff, stubborn brawler with an impatient spirit and a heart of gold. To those he trusts, Luvash is a fiercely devoted father with a soft and gentle compassion—but near-overwhelmed by anxiety for the safety of his daughter.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Luvash è un attaccabrighe burbero e testardo con uno spirito impaziente e un cuore d'oro. Per coloro di cui si fida, Luvash è un padre ferocemente devoto con una compassione dolce e gentile — ma quasi sopraffatto dall'ansia per la sicurezza di sua figlia.
 
-***Morale.*** In a fight, Luvash would draw his blade to protect his people without a moment’s hesitation, but would swiftly sheathe it if necessary to keep Arabelle safe.
+***Morale.*** In combattimento, Luvash estrarrebbe la sua lama per proteggere la sua gente senza un attimo di esitazione, ma la ringuainerebbe rapidamente se necessario per tenere Arabelle al sicuro.
 
-***Relationships.*** Luvash is the elder brother of Arrigal, one of Strahd’s spies. (Luvash doesn’t know that Arrigal is a spy for Strahd.) Luvash is also the father of Arabelle, whose mother was one of Madam Eva’s descendants, and—along with Arrigal—one of the two leaders of the Vistani camp outside of Vallaki.
+***Relazioni.*** Luvash è il fratello maggiore di Arrigal, una delle spie di Strahd. (Luvash non sa che Arrigal è una spia di Strahd.) Luvash è anche il padre di Arabelle, la cui madre era una discendente di Madama Eva, e — insieme ad Arrigal — uno dei due capi dell'accampamento Vistani fuori da Vallaki.
 ### Arrigal
-**Roleplaying Information**
-***Resonance.*** Arrigal should make the players feel insulted by his slight condescension, unnerved by his intense curiosity and veneer of cheerful courtesy, and—when they learn of it—both disgusted by and sympathetic to his decision to serve Strahd.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Arrigal dovrebbe far sentire ai giocatori di essere insultati dalla sua lieve condiscendenza, inquietati dalla sua intensa curiosità e dalla patina di cortesia allegra, e — quando lo scoprono — sia disgustati che simpatetici verso la sua decisione di servire Strahd.
 
-***Emotions.*** Arrigal most often feels curious, suspicious, frustrated, resentful, relaxed, or amused.
+***Emozioni.*** Arrigal si sente più spesso curioso, sospettoso, frustrato, risentito, rilassato o divertito.
 
-***Motivations.*** Arrigal wants to protect his family and ensure a bright future for Barovia’s Vistani, free of the resentments of the small-minded Barovians—a goal which he intends to accomplish by serving Strahd.
+***Motivazioni.*** Arrigal vuole proteggere la sua famiglia e assicurare un futuro luminoso per i Vistani di Barovia, liberi dai risentimenti dei baroviani ottusi — un obiettivo che intende raggiungere servendo Strahd.
 
-***Inspirations.*** When playing Arrigal, channel Loki (*Thor*), Littlefinger (*A Game of Thrones*), and Hannibal Lecter (*The Silence of the Lambs*).
+***Ispirazioni.*** Quando si interpreta Arrigal, ispirarsi a Loki (*Thor*), Ditocorto (*Le Cronache del Ghiaccio e del Fuoco*) e Hannibal Lecter (*Il Silenzio degli Innocenti*).
 
-**Character Information**
-***Persona.*** To the world, Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills. Only Arrigal knows that he serves Strahd von Zarovich faithfully as one of his spies—and that he would go to great lengths to serve the vampire’s will in exchange for the prosperity of his family and people.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Arrigal è l'esecutore e consigliere di Luvash: un uomo cauto, allegro e curioso che preferisce rimanere distaccato dai problemi altrui. Per coloro di cui si fida, Arrigal è uno zio dedicato, un feroce sostenitore dei Vistani e un duellante con un arsenale di abilità letali. Solo Arrigal sa che serve fedelmente Strahd von Zarovich come una delle sue spie — e che farebbe di tutto per servire la volontà del vampiro in cambio della prosperità della sua famiglia e del suo popolo.
 
-***Morale.*** In a fight, Arrigal would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.
+***Morale.*** In combattimento, Arrigal agirebbe con astuzia spietata, ritirandosi quando necessario prima di colpire dalle ombre, usando inganno, manipolazione o trucchi sporchi per assicurarsi un vantaggio.
 
-***Relationships.*** Arrigal is Luvash’s younger brother and Arabelle’s uncle. He is also a spy for Strahd and makes regular reports to Anastrasya, one of Strahd’s vampiric brides.
+***Relazioni.*** Arrigal è il fratello minore di Luvash e lo zio di Arabelle. È anche una spia di Strahd e fa regolari rapporti ad Anastrasya, una delle spose vampiriche di Strahd.
 ### Kasimir Velikov
 
-**Roleplaying Information**
-***Resonance.*** Kasimir should make the players feel grateful for his competence and genuine interest in assisting them, mildly insulted by his slight condescension, mildly suspicious of his caginess, and sympathetic to his sorrow for the plight of his people.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Kasimir dovrebbe far provare ai giocatori gratitudine per la sua competenza e il suo genuino interesse nell'assisterli, lieve offesa per la sua lieve condiscendenza, lieve sospetto per la sua reticenza, e simpatia per il suo dolore per la sorte del suo popolo.
 
-***Emotions.*** Kasimir most often feels curious, frustrated, suspicious, excited, melancholy, nostalgic, somber, or regretful.
+***Emozioni.*** Kasimir si sente più spesso curioso, frustrato, sospettoso, eccitato, malinconico, nostalgico, cupo o pentito.
 
-***Motivations.*** Kasimir wants to ensure the safety of the dusk elves and resurrect his sister, Patrina, once he’s freed her of Strahd’s dark influence and seen Strahd destroyed.
+***Motivazioni.*** Kasimir vuole garantire la sicurezza degli Elfi del Crepuscolo e resuscitare sua sorella, Patrina, una volta che l'avrà liberata dall'influenza oscura di Strahd e avrà visto Strahd distrutto.
 
-***Inspirations.*** When playing Kasimir, channel Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*), and the Twelfth Doctor (*Doctor Who*).
+***Ispirazioni.*** Quando si interpreta Kasimir, ispirarsi a Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*) e il Dodicesimo Dottore (*Doctor Who*).
 
-**Character Information**
-***Persona.*** To the world, Kasimir is a quiet and withdrawn scholar, with a powerful curiosity and a fierce dedication to his people. To those he trusts, Kasimir is a lost and broken man, guilt-ridden for his role in Patrina’s death and resigned to somber despair for the dusk elves’ future. Only Kasimir knows the lengths to which he is willing to go to resurrect his sister—and the price he is willing to pay.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Kasimir è uno studioso silenzioso e schivo, con una potente curiosità e una feroce dedizione al suo popolo. Per coloro di cui si fida, Kasimir è un uomo perduto e spezzato, tormentato dal senso di colpa per il suo ruolo nella morte di Patrina e rassegnato a una cupa disperazione per il futuro degli Elfi del Crepuscolo. Solo Kasimir conosce fino a che punto è disposto a spingersi per resuscitare sua sorella — e il prezzo che è disposto a pagare.
 
-***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
+***Morale.*** In combattimento, Kasimir tenterebbe di negoziare una pace, ma non esiterebbe a scatenare i suoi incantesimi più potenti — o usare la sua magia per fuggire — se una soluzione diplomatica si rivelasse insostenibile.
 
-***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
+***Relazioni.*** Kasimir è il capo dell'accampamento degli Elfi del Crepuscolo e il fratello minore della defunta Patrina Velikovna, un **banshee** che risiede nelle catacombe di Castello Ravenloft. Kasimir è anche il cugino di Rahadin, il ciambellano di Strahd, e il nipote del defunto principe degli Elfi del Crepuscolo, Erevan Löwenhart. (Kasimir non è un parente di sangue diretto di Erevan, che sposò la zia di Kasimir, Lorelei.)
 ## Wachterhaus
 ### Lady Fiona Wachter
-Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+Lady Wachter ha ancora le statistiche di un **sacerdote**. Tuttavia, ha una lista diversa di incantesimi preparati:
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_
+* Trucchetti (a volontà): _luce, rintocco dei morti, taumaturgia_
+* 1° livello (4 slot): _comando, santuario, anatema_
+* 2° livello (3 slot): _cecità/sordità, zona di verità, blocca persona_
+* 3° livello (2 slot): _animare i morti, guardiani spirituali_
 
-**Roleplaying Information**
-***Resonance.*** Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Lady Wachter dovrebbe ispirare diffidenza per la sua lealtà a Strahd, riluttante rispetto per la sua vena di razionalità pragmatica, affetto per la sua dedizione ai suoi figli, e pietà per la tragedia della sua famiglia.
 
-***Emotions.*** Lady Wachter most often feels concerned, apprehensive, irate, melancholic, satisfied, thoughtful, determined, stern, or (with her children) compassionate and loving.
+***Emozioni.*** Lady Wachter si sente più spesso preoccupata, apprensiva, irata, malinconica, soddisfatta, pensosa, determinata, severa, o (con i suoi figli) compassionevole e amorevole.
 
-***Motivations.*** Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see Baron Vargas Vallakovich removed from power and to reassure Strahd von Zarovich that Vallaki is no danger to his rule.
+***Motivazioni.*** Lady Wachter vuole tenere Vallaki — e specialmente i suoi figli — al sicuro dal pericolo. A tal fine, spera di vedere il Barone Vargas Vallakovich rimosso dal potere e di rassicurare Strahd von Zarovich che Vallaki non è un pericolo per il suo dominio.
 
-***Inspirations.*** When playing Lady Wachter, channel Moiraine Damodred (The Wheel of Time), Olenna Tyrell (Game of Thrones), Minerva McGonagall (Harry Potter), and Lady Jessica (Dune).
+***Ispirazioni.*** Quando si interpreta Lady Wachter, ispirarsi a Moiraine Damodred (La Ruota del Tempo), Olenna Tyrell (Game of Thrones), Minerva McGranitt (Harry Potter) e Lady Jessica (Dune).
 
-**Character Information**
-***Persona.*** To the world, Lady Wachter is a cold, cunning, and cordial noblewoman. To those she trusts, Lady Wachter is a melancholic, wry, yet fiercely determined advocate for what she sees as the good of Vallaki. Only Lady Wachter herself appreciates the depth of love she feels for her children—and her shattered sense of faith and hope.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Lady Wachter è una nobildonna fredda, astuta e cordiale. Per coloro di cui si fida, Lady Wachter è una sostenitrice malinconica, sarcastica, ma ferocemente determinata di ciò che considera il bene di Vallaki. Solo Lady Wachter stessa apprezza la profondità dell'amore che prova per i suoi figli — e il suo senso di fede e speranza in frantumi.
 
-***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
+***Morale.*** In combattimento, Lady Wachter tenterebbe di negoziare o fuggire, cercando qualsiasi mezzo necessario per sedare le ostilità, fino alla resa incondizionata inclusa. Se necessario per salvare la sua vita o quella dei suoi figli, tuttavia, combatterebbe fino alla morte con amara ferocia.
 
-***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
+***Relazioni.*** Lady Wachter è la vedova del defunto Nikolai Wachter I, e la madre di Nikolai Wachter II, Karl Wachter e Stella Wachter. È la datrice di lavoro della **spia** Ernst Larnak, e una critica esplicita del Barone Vargas Vallakovich.
 
-### Gallows Speaker
+### Oratore della Forca
 
 <div class="statblock">
-<h2>Speaker of the Gallows</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Oratore della Forca</h2>
+<em>Non morto medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Punti Ferita</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Velocità</strong> 0 m, volo 12 m (hovering)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1927,53 +1926,52 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
-<p><strong><em>Will-o'-Wisp.</em></strong> <em>Ranged Spell Attack:</em> +8 to hit, range 30 ft., one creature. <em>Hit:</em> 13 (3d8) necrotic damage.</p>
-<p><strong><em>Deathly Visions.</em></strong> The gallows speaker forces a creature that it can see within 30 feet to make a DC 16 Wisdom saving throw, flooding its mind with terrifying images of its own violent death. On a failure, that creature is paralyzed until the start of the gallows speaker’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Lash of Souls.</em></strong> Ethereal chains lash out around the gallows speaker, forcing up to two creatures within 5 feet to succeed on a DC 16 Strength saving throw or take 9 (2d8) necrotic damage and be restrained until the start of the gallows speaker’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t restrained.</p>
-<p><strong><em>Wisplight Flare.</em></strong> The gallows speaker directs one of its wisps to a point within 30 feet, where it flares with golden light. Each creature within 5 feet of that point must succeed on a DC 16 Constitution saving throw or take 14 (4d6) radiant damage and be blinded until the start of the gallows speaker's next turn. A creature that succeeds on the saving throw takes half damage and isn't blinded.</p>
-<h3>Reactions</h3>
-<p>The gallows speaker can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
-<p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5, Car +8<br>
+<strong>Competenze</strong> Percezione +5<br>
+<strong>Immunità ai Danni</strong> necrotici, da veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, stordito<br>
+<strong>Sensi</strong> vista del vero 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Abissale, Comune<br>
+<strong>Grado di Sfida</strong> GS 11<br>
+<strong>Bonus di Competenza</strong> +4<br>
+<strong>Bonus di Competenza</strong> +4<br>
+<p><strong><em>Combattente Ravvicinato.</em></strong> L'oratore della forca non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Sensi Divinatori.</em></strong> L'oratore della forca può vedere fino a 18 m nel Piano Etereo quando si trova nel Piano Materiale e viceversa.</p>
+<p><strong><em>Ira del Traditore.</em></strong> Se l'oratore della forca viene ridotto a 0 punti ferita, i fuochi fatui dorati attorno a lui si spengono, rivelando cinque pugnali con lame ondulate e impugnature laccate di rosso, nero e oro. Tutti gli effetti correnti dell'oratore della forca terminano, e le sue statistiche vengono immediatamente sostituite da quelle del <strong>Vendicatore Ba'al Verzi</strong>. La sua iniziativa rimane la stessa. I danni in eccesso non si trasferiscono alla nuova forma, ma mantiene qualsiasi condizione avesse nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oratore della forca effettua due attacchi.</p>
+<p><strong><em>Tocco Profetico.</em></strong> <em>Attacco Incantesimo in Mischia:</em> +8 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 15 (2d10 + 4) danni psichici, e il bersaglio deve tirare un d4 e sottrarre il numero ottenuto dal prossimo tiro per colpire o tiro salvezza che effettua prima dell'inizio del prossimo turno dell'oratore della forca.</p>
+<p><strong><em>Fuoco Fatuo.</em></strong> <em>Attacco Incantesimo a Distanza:</em> +8 al tiro per colpire, gittata 9 m, una creatura. <em>Colpito:</em> 13 (3d8) danni necrotici.</p>
+<p><strong><em>Visioni Mortali.</em></strong> L'oratore della forca costringe una creatura che può vedere entro 9 m a effettuare un tiro salvezza su Saggezza con CD 16, inondando la sua mente con terrificanti immagini della propria morte violenta. In caso di fallimento, quella creatura è paralizzata fino all'inizio del prossimo turno dell'oratore della forca.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Frusta di Anime.</em></strong> Catene eteree si scagliano attorno all'oratore della forca, costringendo fino a due creature entro 1,5 m a superare un tiro salvezza su Forza con CD 16 o subire 9 (2d8) danni necrotici ed essere trattenute fino all'inizio del prossimo turno dell'oratore della forca. Una creatura che supera il tiro salvezza subisce metà dei danni e non è trattenuta.</p>
+<p><strong><em>Bagliore dei Fuochi Fatui.</em></strong> L'oratore della forca dirige uno dei suoi fuochi fatui verso un punto entro 9 m, dove risplende di luce dorata. Ogni creatura entro 1,5 m da quel punto deve superare un tiro salvezza su Costituzione con CD 16 o subire 14 (4d6) danni radiosi ed essere accecata fino all'inizio del prossimo turno dell'oratore della forca. Una creatura che supera il tiro salvezza subisce metà dei danni e non è accecata.</p>
+<h3>Reazioni</h3>
+<p>L'oratore della forca può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> L'oratore della forca può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Rivelazione della Morte.</em></strong> In risposta al subire danni da una creatura a portata, l'oratore della forca attacca quella creatura con il suo <strong><em>tocco profetico</em></strong> o <strong><em>fuoco fatuo</em></strong>.</p>
+<p><strong><em>Passo Spettrale.</em></strong> In risposta al subire danni, l'oratore della forca si teletrasporta fino a 4,5 m. Può poi immediatamente costringere ogni creatura entro 1,5 m dalla sua nuova posizione a effettuare un tiro salvezza su Saggezza con CD 16. Ogni creatura che fallisce il tiro salvezza è spaventata fino alla fine del prossimo turno di quella creatura.</p>
 </div>
 <br>
 <div class="statblock">
-<h2>Ba’al Verzi Avenger</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Vendicatore Ba'al Verzi</h2>
+<em>Non morto medio, neutrale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 157 (35d8)
+<strong>Punti Ferita</strong> 157 (35d8)
 <br>
-<strong>Speed</strong> 0 ft., fly 40 ft. (hover)
+<strong>Velocità</strong> 0 m, volo 12 m (hovering)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -1987,90 +1985,89 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Dex +7, Wis +5, Cha +8<br>
-<strong>Skills</strong> Perception +5<br>
-<strong>Damage Immunities</strong> necrotic, poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned<br>
-<strong>Senses</strong> truesight 60 ft., passive Perception 15<br>
-<strong>Languages</strong> Abyssal, Common<br>
-<strong>Challenge</strong> CR 11<br>
-<strong>Proficiency Bonus</strong> +4<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
-<p><strong><em>Ba'al Verzi Dagger.</em></strong> <em>Ranged Weapon Attack:</em> +8 to hit, range 30 feet, one creature. <em>Hit:</em> 7 (1d6 + 4) piercing damage and the target must make a DC 16 Wisdom saving throw, taking 14 (4d6) necrotic damage and becoming cursed until the start of the gallows speaker’s next turn on a failure. On a success, the target takes half the necrotic damage and isn't cursed. While cursed in this way, a creature moves at half speed and can't regain hit points, and the gallows speaker has advantage on attack rolls made against it.</p>
-<p><strong><em>Grasp of the Grave.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 18 (4d8) necrotic damage and the target is grappled until the gallows speaker loses its concentration (as if concentrating on a spell) or until the target uses its action to break free (escape DC 16). (Dragging this target doesn't cause the gallows speaker to move more slowly.) The gallows speaker can then immediately move up to half its speed without triggering opportunity attacks. Until this grapple ends, the target is restrained and takes an additional 9 (2d8) necrotic damage at the start of each of its turns, and the gallows speaker can't use <strong><em>grasp of the grave</em></strong> on another target.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Souls.</em></strong> A shroud of moaning spirits surrounds each creature within 5 feet of the gallows speaker. Each creature in that area must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be dazed until the start of the gallows speaker’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)</p>
-<p><strong><em>Wail of the Forsaken (Recharge 5-6).</em></strong> The spirits within the gallows speaker’s cloak let out a maddened, burbling cry. Each creature within 60 feet must make a DC 16 Wisdom saving throw or be frightened until the start of the gallows speaker’s next turn.</p>
-<h3>Reactions</h3>
-<p>The avenger can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The gallows speaker can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Ghastly Foresight.</em></strong> In response to being targeted by an attack or a spell that requires a saving throw, the gallows speaker imposes disadvantage on the attack roll or grants itself advantage on the saving throw. After the roll is made, the gallows speaker can immediately move up to half its speed without provoking opportunity attacks.</p>
-<p><strong><em>Traitor's Noose.</em></strong> In response to being targeted by a melee attack, the gallows speaker manifests a spectral noose that hangs loosely around the attacker's neck, forcing them to make a DC 16 Wisdom saving throw. On a failure, the attacker is filled with a brief and blinding rage toward another creature of the gallows speaker’s choice, and must instead immediately use its reaction, if available, to move up its speed toward that creature and make the same melee attack against that creature instead. The noose then disappears.</p>
-<p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
+<strong>Tiri Salvezza</strong> Des +7, Sag +5, Car +8<br>
+<strong>Competenze</strong> Percezione +5<br>
+<strong>Immunità ai Danni</strong> necrotici, da veleno<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, stordito<br>
+<strong>Sensi</strong> vista del vero 18 m, Percezione passiva 15<br>
+<strong>Linguaggi</strong> Abissale, Comune<br>
+<strong>Grado di Sfida</strong> GS 11<br>
+<strong>Bonus di Competenza</strong> +4<br>
+<strong>Bonus di Competenza</strong> +4<br>
+<p><strong><em>Combattente Ravvicinato.</em></strong> L'oratore della forca non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Sensi Divinatori.</em></strong> L'oratore della forca può vedere fino a 18 m nel Piano Etereo quando si trova nel Piano Materiale e viceversa.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> L'oratore della forca può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno dentro un oggetto.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> L'oratore della forca effettua due attacchi.</p>
+<p><strong><em>Pugnale Ba'al Verzi.</em></strong> <em>Attacco con Arma a Distanza:</em> +8 al tiro per colpire, gittata 9 m, una creatura. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti e il bersaglio deve effettuare un tiro salvezza su Saggezza con CD 16, subendo 14 (4d6) danni necrotici e diventando maledetto fino all'inizio del prossimo turno dell'oratore della forca in caso di fallimento. In caso di successo, il bersaglio subisce metà dei danni necrotici e non è maledetto. Mentre è maledetto in questo modo, una creatura si muove a metà velocità e non può recuperare punti ferita, e l'oratore della forca ha vantaggio ai tiri per colpire effettuati contro di essa.</p>
+<p><strong><em>Presa della Tomba.</em></strong> <em>Attacco con Arma da Mischia:</em> +8 al tiro per colpire, portata 1,5 m, una creatura. <em>Colpito:</em> 18 (4d8) danni necrotici e il bersaglio è afferrato fino a quando l'oratore della forca non perde la concentrazione (come se si concentrasse su un incantesimo) o fino a quando il bersaglio non usa la sua azione per liberarsi (CD di fuga 16). (Trascinare questo bersaglio non rallenta l'oratore della forca.) L'oratore della forca può poi muoversi immediatamente fino a metà della sua velocità senza provocare attacchi di opportunità. Fino a quando questa presa non termina, il bersaglio è trattenuto e subisce 9 (2d8) danni necrotici aggiuntivi all'inizio di ciascuno dei suoi turni, e l'oratore della forca non può usare <strong><em>presa della tomba</em></strong> su un altro bersaglio.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Anime Urlanti.</em></strong> Un sudario di spiriti gementi circonda ogni creatura entro 1,5 m dall'oratore della forca. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 16 o subire 9 (2d8) danni necrotici ed essere stordita fino all'inizio del prossimo turno dell'oratore della forca. (Una creatura stordita può muoversi o effettuare un'azione nel suo turno, non entrambi. Non può nemmeno effettuare un'azione bonus o una reazione.)</p>
+<p><strong><em>Lamento degli Abbandonati (Ricarica 5-6).</em></strong> Gli spiriti nel mantello dell'oratore della forca emettono un grido folle e gorgogliante. Ogni creatura entro 18 m deve effettuare un tiro salvezza su Saggezza con CD 16 o essere spaventata fino all'inizio del prossimo turno dell'oratore della forca.</p>
+<h3>Reazioni</h3>
+<p>Il vendicatore può effettuare fino a tre reazioni per round, ma non più di una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> L'oratore della forca può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Preveggenza Spettrale.</em></strong> In risposta all'essere bersaglio di un attacco o di un incantesimo che richiede un tiro salvezza, l'oratore della forca impone svantaggio al tiro per colpire o si concede vantaggio al tiro salvezza. Dopo il tiro, l'oratore della forca può muoversi immediatamente fino a metà della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Cappio del Traditore.</em></strong> In risposta all'essere bersaglio di un attacco in mischia, l'oratore della forca manifesta un cappio spettrale che pende liberamente attorno al collo dell'attaccante, costringendolo a effettuare un tiro salvezza su Saggezza con CD 16. In caso di fallimento, l'attaccante è riempito di una breve e accecante rabbia verso un'altra creatura a scelta dell'oratore della forca, e deve invece usare immediatamente la sua reazione, se disponibile, per muoversi fino alla sua velocità verso quella creatura ed effettuare lo stesso attacco in mischia contro di essa. Il cappio poi scompare.</p>
+<p><strong><em>Echi Perseguitanti.</em></strong> In risposta al subire danni da una creatura, l'oratore della forca costringe quella creatura a effettuare un tiro salvezza su Saggezza con CD 16. In caso di fallimento, quella creatura subisce 10 (4d4) danni psichici e ha svantaggio al prossimo tiro per colpire o prova di caratteristica che effettua prima dell'inizio del suo prossimo turno.</p>
 </div>
 
-# Village of Krezk
-## Baron Dmitri Krezkov
-**Roleplaying Information.**
-***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+# Villaggio di Krezk
+## Barone Dmitri Krezkov
+**Informazioni per l'Interpretazione.**
+***Risonanza.*** Dmitri dovrebbe ispirare conforto con la sua quieta sicurezza e leadership, simpatia per la sua ansia e il suo dolore dopo la scomparsa del figlio, e lieve fastidio per la sua testardaggine e il suo abituale sospetto verso gli estranei.
 
-***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+***Emozioni.*** Dmitri si sente più spesso preoccupato, malinconico, cupo, determinato, diffidente, testardo o cortese.
 
-***Motivations.*** Dmitri wants to protect his village and keep his family together.
+***Motivazioni.*** Dmitri vuole proteggere il suo villaggio e tenere unita la sua famiglia.
 
-***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+***Ispirazioni.*** Quando si interpreta Dmitri, ispirarsi a Eddard Stark (*Game of Thrones*), Re Théoden (*Il Signore degli Anelli*) e Stoick il Vasto (*Dragon Trainer*).
 
-**Character Information**
-***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Dmitri è un leader cupo ma caloroso. Per coloro di cui si fida, Dmitri è un padre, marito e amico caloroso e amorevole. Solo Dmitri conosce l'entità del suo dolore, della sua ansia e del suo senso di colpa riguardo alla maledizione della sua famiglia e al destino dei suoi figli e di sua moglie.
 
-***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+***Morale.*** In combattimento, Dmitri agirebbe solo per proteggere sé stesso o i suoi cari, iniziando con l'avvertire il suo avversario di arrendersi, poi combattendo ferocemente fino a quando l'avversario non si arrendesse o fosse sconfitto.
 
-***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+***Relazioni.*** Dmitri, un **lupo mannaro** segreto, è il marito della Baronessa Anna Krezkova, il fratello della **lupa mannara** chierica di Madre Notte Zuleika Toranescu, il padre di Kala e Ilya Krezkov, e il borgomastro del villaggio di Krezk.
 
 
-# Abbey of St. Markovia
+# Abbazia di Santa Markovia
 ### Ezmerelda d'Avenir
-**Roleplaying Information**
-***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+**Informazioni per l'Interpretazione**
+***Risonanza.*** Ezmerelda dovrebbe ispirare divertimento per il suo senso dell'umorismo irriverente, gratitudine per la sua fredda competenza, affetto per il suo spirito combattivo di fronte alle avversità, e simpatia per i suoi sentimenti complicati riguardo al Dott. Rudolph van Richten.
 
-***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+***Emozioni.*** Ezmerelda si sente più spesso determinata, pensosa, scettica, orgogliosa, entusiasta, arrabbiata, divertita, diffidente o cauta.
 
-***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+***Motivazioni.*** Ezmerelda vuole salvare gli innocenti dalle creature che vanno a "sbattere!" nella notte, sfuggire all'oscuro retaggio dei suoi genitori, e dimostrarsi una cacciatrice di vampiri capace quanto il Dott. Van Richten.
 
-***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+***Ispirazioni.*** Il Decimo Dottore (*Doctor Who*), Capitan Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy l'Ammazzavampiri*), Malcolm Reynolds (*Firefly*)
 
-**Character Information**
-***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Ezmerelda è una cacciatrice di mostri fredda, disinvolta e professionale. Per coloro di cui si fida, Ezmerelda è un'amica focosa, spiritosa e eternamente leale. Nel profondo, Ezmerelda si chiede se il Dott. Van Richten pensasse che non fosse abbastanza brava — o se i crimini della sua famiglia contro di lui siano sufficienti a macchiare il suo retaggio per sempre.
 
-***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+***Morale.*** In combattimento, Ezmerelda si muoverebbe rapidamente e tatticamente per assicurarsi un vantaggio insormontabile, poi colpirebbe quando il momento fosse giusto.
 
-***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+***Relazioni.*** Ezmerelda è l'ex studentessa del Dott. Rudolph van Richten, e la figlia dei d'Avenir che rapirono e vendettero suo figlio, Erasmus, al vampiro Barone Metus.
 
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
-    <em>Medium humanoid (human), chaotic good</em>
+    <em>Umanoide medio (umana), caotico buono</em>
     <hr>
-    <strong>Armor Class</strong> 17 (+1 studded leather armor)
+    <strong>Classe Armatura</strong> 17 (armatura di cuoio borchiato +1)
     <br>
-    <strong>Hit Points</strong> 82 (11d8 + 33)
+    <strong>Punti Ferita</strong> 82 (11d8 + 33)
     <br>
-    <strong>Speed</strong> 30 ft.
+    <strong>Velocità</strong> 9 m
     <hr>
     <table class="ability-table">
         <thead>
             <tr>
-                <th>STR</th>
-                <th>DEX</th>
-                <th>CON</th>
+                <th>FOR</th>
+                <th>DES</th>
+                <th>COS</th>
                 <th>INT</th>
-                <th>WIS</th>
-                <th>CHA</th>
+                <th>SAG</th>
+                <th>CAR</th>
             </tr>
         </thead>
         <tbody>
@@ -2084,71 +2081,70 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
             </tr>
         </tbody>
     </table>
-    <hr>
-    <strong>Saving Throws</strong> Wis +2<br>
-    <strong>Skills</strong> Acrobatics +6, Arcana +5, Deception +7, Medicine +2, Perception +4, Performance +5, Stealth +6, Survival +4<br>
-    <strong>Senses</strong> passive Perception 14<br>
-    <strong>Languages</strong> Common<br>
-    <strong>Challenge Rating</strong> 4<br>
-    <strong>Proficiency Bonus</strong> +2
-    <hr>
-    <p><strong><em>Special Equipment.</em></strong> In addition to her magic armor and weapons, Ezmerelda has two <em>potions of greater healing</em>, six <em>vials of holy water</em>, three wooden stakes, twelve silvered crossbow bolts, and a <em>runeguard stone</em> (see below).</p>
-    <p><strong><em>Spellcasting.</em></strong> Ezmerelda is a 5th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 10, +2 to hit with spell attacks). Ezmerelda has the following ranger spells prepared:</p>
+    <strong>Tiri Salvezza</strong> Sag +2<br>
+    <strong>Competenze</strong> Acrobazia +6, Arcano +5, Inganno +7, Medicina +2, Percezione +4, Intrattenere +5, Furtività +6, Sopravvivenza +4<br>
+    <strong>Sensi</strong> Percezione passiva 14<br>
+    <strong>Linguaggi</strong> Comune<br>
+    <strong>Grado di Sfida</strong> 4<br>
+    <strong>Bonus di Competenza</strong> +2
+    <strong>Bonus di Competenza</strong> +2
+    <p><strong><em>Equipaggiamento Speciale.</em></strong> Oltre alla sua armatura e armi magiche, Ezmerelda ha due <em>pozioni di guarigione superiore</em>, sei <em>fiale di acqua sacra</em>, tre paletti di legno, dodici quadrelli di balestra argentati e una <em>pietra runica di protezione</em> (vedi sotto).</p>
+    <p><strong><em>Incantesimi.</em></strong> Ezmerelda è un'incantatrice di 5° livello. La sua caratteristica da incantatore è Saggezza (CD del tiro salvezza 10, +2 al tiro per colpire con gli incantesimi). Ezmerelda ha i seguenti incantesimi da ranger preparati:</p>
     <ul>
     <li>1st level (4 slots): longstrider, snare, zephyr strike</li>
     <li>2nd level (2 slots): darkvision, cordon of arrows</li>
-    </ul>
-    <p><strong><em>Runeguard Stone (1/day).</em></strong> Ezmerelda possesses a <em>runeguard stone</em>. While holding the stone, she can cast the <em>magic circle</em> spell with only a verbal component. (The spell retains its usual casting time.)</p>
-    <p><strong><em>Scroll Adept.</em></strong> Ezmerelda can cast spells from spell scrolls as if they were ranger spells.
-    <h3>Actions</h3>
-    <p><strong><em>Multiattack.</em></strong> Ezmerelda makes three melee attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword. She can replace two attacks with an attack made with her hand crossbow.</p>
-    <p><strong><em>Rapier +1.</em></strong><em>Melee Weapon Attack:</em> +7 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d8 + 5) piercing damage.</p>
-    <p><strong><em>Handaxe +1.</em></strong><em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> 6 (1d6 + 3) slashing damage.</p>
-    <p><strong><em>Silvered Shortsword.</em></strong><em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one target. <em>Hit:</em> 7 (1d6 + 4) piercing damage.
-    <p><strong><em>Hand Crossbow.</em></strong><em>Ranged Weapon Attack:</em> +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage. If she has a silvered crossbow bolt remaining, Ezmerelda can choose to use it instead of an ordinary crossbow bolt when firing.</p>
-    <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>longstrider</em>, <em>darkvision</em>, or <em>cordon of arrows</em>.
-    <h3>Bonus Actions</h3>
+    <p><strong><em>Pietra Runica di Protezione (1/giorno).</em></strong> Ezmerelda possiede una <em>pietra runica di protezione</em>. Mentre tiene la pietra, può lanciare l'incantesimo <em>cerchio magico</em> con solo una componente verbale. (L'incantesimo mantiene il suo tempo di lancio abituale.)</p>
+    <p><strong><em>Adepta dei Rotoli.</em></strong> Ezmerelda può lanciare incantesimi da rotoli di incantesimi come se fossero incantesimi da ranger.
+    <h3>Azioni</h3>
+    <p><strong><em>Multiattacco.</em></strong> Ezmerelda effettua tre attacchi in mischia: due con il suo stocco +1 e uno con la sua accetta +1 o la sua spada corta argentata. Può sostituire due attacchi con un attacco effettuato con la sua balestra a mano.</p>
+    <p><strong><em>Stocco +1.</em></strong><em>Attacco con Arma da Mischia:</em> +7 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 9 (1d8 + 5) danni perforanti.</p>
+    <p><strong><em>Accetta +1.</em></strong><em>Attacco con Arma da Mischia:</em> +5 al tiro per colpire, portata 1,5 m o gittata 6/18 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni taglienti.</p>
+    <p><strong><em>Spada Corta Argentata.</em></strong><em>Attacco con Arma da Mischia:</em> +6 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 7 (1d6 + 4) danni perforanti.
+    <p><strong><em>Balestra a Mano.</em></strong><em>Attacco con Arma a Distanza:</em> +5 al tiro per colpire, gittata 9/36 m, un bersaglio. <em>Colpito:</em> 6 (1d6 + 3) danni perforanti. Se le rimane un quadrello di balestra argentato, Ezmerelda può scegliere di usarlo al posto di un quadrello ordinario quando spara.</p>
+    <p><strong><em>Lanciare Incantesimo.</em></strong> Ezmerelda lancia <em>lungopasso</em>, <em>scurovisione</em> o <em>cordone di frecce</em>.
+    <h3>Azioni Bonus</h3>
+    <p><strong><em>Lanciare Incantesimo.</em></strong> Ezmerelda lancia <em>colpo di zefiro</em>.
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
 </div>
 
-## The Abbot
-### Before Redemption
-**Roleplaying Information**
-***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+## L'Abate
+### Prima della Redenzione
+**Informazioni per l'Interpretazione**
+***Risonanza.*** L'Abate dovrebbe ispirare disagio con il suo stoicismo e le sue osservazioni routinarie riguardo ai "mortali", disgusto per la sua mancanza di rispetto per la vita e i valori umani, rabbia per la sua suprema e incrollabile sicurezza di sé, e gratitudine per la sua (alquanto inquietante) cordialità e disponibilità a curare i giocatori dalla licantropia senza costi.
 
-***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+***Emozioni.*** L'Abate si sente più spesso curioso, intrigato, freddo, impassibile o (raramente) infuriato.
 
-***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+***Motivazioni.*** L'Abate vuole sollevare la "maledizione" su Barovia e preservare la "santità" dell'Abbazia di Santa Markovia.
 
-***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
+***Ispirazioni.*** Quando si interpreta l'Abate, ispirarsi a Visione (*Marvel*), Data (*Star Trek*) e Dr. Manhattan (*Watchmen*).
 
-**Character Information**
-***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, l'Abate è un santo uomo e "scienziato" sereno, ma disumanamente impassibile. Solo l'Abate sa di essere Ithuriel: un angelo del Signore del Mattino inviato per onorare la memoria di Santa Markovia.
 
-***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
+***Morale.*** In combattimento, l'Abate rivelerebbe la sua forma divina, poi ordinerebbe ai suoi nemici di deporre le armi e arrendersi. Se non lo facessero, li attaccherebbe senza pietà, cercando di schiacciare ogni resistenza fino a quando non si arrendessero o fuggissero.
 
-***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+***Relazioni.*** L'Abate, un angelo del Signore del Mattino un tempo chiamato Ithuriel, è il padrone dell'Abbazia di Santa Markovia, inclusi i **mostruoidi** Otto, Zygfrek e Clovin Belview. È anche il creatore del **golem di carne** Vasilka e il resuscitatore di Kala Krezkova.
 
 
 <div class="statblock">
-<h2>Ithuriel, the Dawnbringer</h2>
-<em>Medium Celestial, Lawful Evil</em>
+<h2>Ithuriel, il Portatore dell'Alba</h2>
+<em>Celestiale medio, legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (natural armor)
+<strong>Classe Armatura</strong> 17 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
+<strong>Punti Ferita</strong> 255 (30d8 + 120)
 <br>
-<strong>Speed</strong> 30 ft., fly 90 ft.
+<strong>Velocità</strong> 9 m, volo 27 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2162,61 +2158,60 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Wis +10, Cha +10<br>
-<strong>Skills</strong> Insight +10, Perception +10<br>
-<strong>Damage Resistances</strong> radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 21<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Ithuriel's spellcasting ability is Charisma (spell save DC 19). He can innately cast the following spells, requiring only verbal components:<br>
-At will: detect evil and good<br>
-1/day each: commune, raise dead</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Fallen Grace.</em></strong> When Ithuriel is reduced to 0 hit points, his form expands and twists, becoming a massive creature with the head of a lion, the body of a ram, the wings of a bat, and the tail of a crocodile. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes two attacks. He can replace one of those attacks with <strong><em>ray of light</em></strong>.</p>
-<p><strong><em>Mace.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 4 (1d8) radiant damage.</p>
-<p><strong><em>Palm.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage, and Ithuriel can force the target to make a DC 18 Strength saving throw. On a failure, the target is pushed up to 10 feet away or grappled (escape DC 18).</p>
-<p><strong><em>Ray of Light.</em></strong> <em>Ranged Spell Attack:</em> +10 to hit, range 30 feet, one target. <em>Hit:</em> The target takes 9 (2d8) radiant damage and is outlined in radiant light until the end of Ithuriel's next turn. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.</p>
-<p><strong><em>Healing Touch (5/Day).</em></strong> Ithuriel touches another creature. The target magically regains 23 (4d8 + 5) hit points and is freed from any curse, disease, poison, blindness, or deafness.</p>
-<p><strong><em>Change Shape.</em></strong> Ithuriel magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than his own, or back into its true form. He reverts to his true form if he is reduced to 0 hit points. Any equipment he is wearing or carrying is absorbed or borne by the new form (Ithuriel's choice). In a new form, Ithuriel retains his game statistics and ability to speak, but his AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and he gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that he lacks.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Divine Wind.</em></strong> Ithuriel unleashes a powerful gale from his angelic wings in a 10-foot cone. Each creature in that area must make a DC 17 Constitution saving throw or take 14 (4d6) slashing damage and be pushed 10 feet away.</p>
-<p><strong><em>Sacred Radiance (1/day).</em></strong> Ithuriel's form bursts with divine light. Each creature that can see him within 20 feet must succeed on a DC 18 Constitution saving throw or take 14 (4d6) radiant damage. A creature that fails the saving throw by 5 or more is also blinded until the start of Ithuriel's next turn. A creature that fails the saving throw by 10 or more is also charmed by Ithuriel until the start of his next turn. While charmed in this way, the creature must fall prone to grovel before Ithuriel at the start of its turn, then immediately end its turn.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punish.</em></strong> In response to an enemy hitting or missing him with a melee attack, Ithuriel makes a <strong><em>palm</em></strong> attack against it. 
-<p><strong><em>Descend.</em></strong> In response to hitting an enemy with a Palm attack or Punish reaction, if Ithuriel has grappled that enemy and is at least 40 feet in the air, he can then move up to his speed toward the ground without provoking opportunity attacks and force the target to make a DC 17 Strength saving throw. On a failure, the target falls prone, it takes 3 (1d6) bludgeoning damage per 10 feet fallen, and Ithuriel can use up to his remaining movement, if any, to push it in a straight line in any direction while grinding it against the earth, dealing an additional 2 (1d4) bludgeoning damage per 10 feet moved along the ground. (This movement doesn't provoke opportunity attacks.)</p>
-<p><strong><em>Ascend.</em></strong> In response to taking damage, Ithuriel releases any creatures he has grappled, then flies up to one third of his speed without provoking opportunity attacks.</p>
-<p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
+<strong>Tiri Salvezza</strong> Sag +10, Car +10<br>
+<strong>Competenze</strong> Intuizione +10, Percezione +10<br>
+<strong>Resistenze ai Danni</strong> radiosi<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato<br>
+<strong>Sensi</strong> vista del vero 36 m, Percezione passiva 21<br>
+<strong>Linguaggi</strong> tutti, telepatia 36 m<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5<br>
+<strong>Bonus di Competenza</strong> +5<br>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Ithuriel non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Incantesimi Innati.</em></strong> La caratteristica da incantatore di Ithuriel è Carisma (CD del tiro salvezza 19). Può lanciare innamente i seguenti incantesimi, richiedendo solo componenti verbali:<br>
+A volontà: individuazione del bene e del male<br>
+1/giorno ciascuno: comunione, resurrezione dei morti</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> Ithuriel ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
+<p><strong><em>Grazia Caduta.</em></strong> Quando Ithuriel viene ridotto a 0 punti ferita, la sua forma si espande e si contorce, diventando una creatura massiccia con la testa di leone, il corpo di ariete, le ali di pipistrello e la coda di coccodrillo. Le sue statistiche vengono immediatamente sostituite dalle statistiche della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono alla nuova forma, e non mantiene nessuna delle condizioni che aveva nella forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ithuriel effettua due attacchi. Può sostituire uno di quegli attacchi con <strong><em>raggio di luce</em></strong>.</p>
+<p><strong><em>Mazza.</em></strong> Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 7 (1d6 + 4) danni contundenti più 4 (1d8) danni radiosi.</p>
+<p><strong><em>Palmo.</em></strong> Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 7 (1d6 + 4) danni contundenti, e Ithuriel può costringere il bersaglio a effettuare un tiro salvezza su Forza con CD 18. In caso di fallimento, il bersaglio viene spinto fino a 3 m indietro o afferrato (CD di fuga 18).</p>
+<p><strong><em>Raggio di Luce.</em></strong> <em>Attacco Incantesimo a Distanza:</em> +10 al tiro per colpire, gittata 9 m, un bersaglio. <em>Colpito:</em> Il bersaglio subisce 9 (2d8) danni radiosi ed è delineato da luce radiosa fino alla fine del prossimo turno di Ithuriel. Qualsiasi tiro per colpire contro una creatura o oggetto influenzato ha vantaggio se l'attaccante può vederlo, e la creatura o oggetto influenzato non può beneficiare dell'essere invisibile.</p>
+<p><strong><em>Tocco Guaritore (5/Giorno).</em></strong> Ithuriel tocca un'altra creatura. Il bersaglio recupera magicamente 23 (4d8 + 5) punti ferita ed è liberato da qualsiasi maledizione, malattia, veleno, cecità o sordità.</p>
+<p><strong><em>Cambiare Forma.</em></strong> Ithuriel si trasforma magicamente in un umanoide o bestia con un grado di sfida pari o inferiore al suo, o torna alla sua vera forma. Torna alla sua vera forma se viene ridotto a 0 punti ferita. Qualsiasi equipaggiamento che indossa o trasporta viene assorbito o portato dalla nuova forma (a scelta di Ithuriel). In una nuova forma, Ithuriel mantiene le sue statistiche di gioco e la capacità di parlare, ma la sua CA, modalità di movimento, Forza, Destrezza e sensi speciali sono sostituiti da quelli della nuova forma, e ottiene qualsiasi statistica e capacità (eccetto privilegi di classe, azioni leggendarie e azioni di tana) che la nuova forma ha ma che lui non possiede.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Vento Divino.</em></strong> Ithuriel scatena una potente raffica dalle sue ali angeliche in un cono di 3 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 17 o subire 14 (4d6) danni taglienti ed essere spinta 3 m indietro.</p>
+<p><strong><em>Radiosità Sacra (1/giorno).</em></strong> La forma di Ithuriel esplode di luce divina. Ogni creatura che può vederlo entro 6 m deve superare un tiro salvezza su Costituzione con CD 18 o subire 14 (4d6) danni radiosi. Una creatura che fallisce il tiro salvezza di 5 o più è anche accecata fino all'inizio del prossimo turno di Ithuriel. Una creatura che fallisce il tiro salvezza di 10 o più è anche affascinata da Ithuriel fino all'inizio del suo prossimo turno. Mentre è affascinata in questo modo, la creatura deve cadere prona per prostrarsi davanti a Ithuriel all'inizio del suo turno, poi terminare immediatamente il suo turno.</p>
+<h3>Reazioni</h3>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o una condizione gli impedirebbe di effettuare reazioni, perde una reazione invece.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Ithuriel può ripetere il tiro salvezza contro un effetto o una condizione che lo sta influenzando. (Questa reazione non ha effetto se l'effetto o la condizione non richiedeva originariamente il fallimento di un tiro salvezza.)</p>
+<p><strong><em>Punire.</em></strong> In risposta a un nemico che lo colpisce o lo manca con un attacco in mischia, Ithuriel effettua un attacco di <strong><em>palmo</em></strong> contro di esso.
+<p><strong><em>Discesa.</em></strong> In risposta al colpire un nemico con un attacco di Palmo o una reazione Punire, se Ithuriel ha afferrato quel nemico e si trova ad almeno 12 m di altezza, può muoversi fino alla sua velocità verso il suolo senza provocare attacchi di opportunità e costringere il bersaglio a effettuare un tiro salvezza su Forza con CD 17. In caso di fallimento, il bersaglio cade prono, subisce 3 (1d6) danni contundenti per ogni 3 m di caduta, e Ithuriel può usare fino al suo movimento rimanente, se presente, per spingerlo in linea retta in qualsiasi direzione mentre lo trascina contro la terra, infliggendo 2 (1d4) danni contundenti aggiuntivi per ogni 3 m percorsi al suolo. (Questo movimento non provoca attacchi di opportunità.)</p>
+<p><strong><em>Ascesa.</em></strong> In risposta al subire danni, Ithuriel rilascia qualsiasi creatura che ha afferrato, poi vola fino a un terzo della sua velocità senza provocare attacchi di opportunità.</p>
+<p><strong><em>Trasformazione (Costa 2 Reazioni).</em></strong> In risposta al subire una delle seguenti condizioni, Ithuriel assume momentaneamente la forma della bestia corrispondente, terminando la condizione: accecato (pipistrello gigante), afferrato (piovra), paralizzato (serpente velenoso gigante), prono (ragno gigante), trattenuto (topo), o stordito (medusa). Ithuriel torna poi immediatamente alla sua vera forma.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Ithuriel, the Fallen Star</h2>
-<em>Huge Celestial, Lawful Evil</em>
+<h2>Ithuriel, la Stella Caduta</h2>
+<em>Celestiale enorme, legale malvagio</em>
 <hr>
-<strong>Armor Class</strong> 19 (natural armor)
+<strong>Classe Armatura</strong> 19 (armatura naturale)
 <br>
-<strong>Hit Points</strong> 255 (30d8 + 120)
+<strong>Punti Ferita</strong> 255 (30d8 + 120)
 <br>
-<strong>Speed</strong> 30 ft., fly 60 ft.
+<strong>Velocità</strong> 9 m, volo 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2230,122 +2225,121 @@ At will: detect evil and good<br>
     </tr>
   </tbody>
 </table>
-<hr>
-<strong>Saving Throws</strong> Wis +11, Cha +11<br>
-<strong>Skills</strong> Insight +11, Perception +11<br>
-<strong>Damage Resistances</strong> radiant<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened<br>
-<strong>Senses</strong> truesight 120 ft., passive Perception 21<br>
-<strong>Languages</strong> all, telepathy 120 ft.<br>
-<strong>Challenge</strong> 16<br>
-<strong>Proficiency Bonus</strong> +5<br>
-<hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Ithuriel doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Magic Resistance.</em></strong> Ithuriel has advantage on saving throws against spells and other magical effects.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Ithuriel makes one attack with his claws and one with his bite or radiant darts</p>
-<p><strong><em>Bite.</em></strong> Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) radiant damage. If the target is a creature, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, and Ithuriel can't bite another target.</p>
-<p><strong><em>Claw.</em></strong> +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.</p>
-<p><strong><em>Radiant Darts.</em></strong> +10 to hit, reach 5 ft., three separate targets. Hit: 7 (2d4 + 2) radiant damage.</p>
+<strong>Tiri Salvezza</strong> Sag +11, Car +11<br>
+<strong>Competenze</strong> Intuizione +11, Percezione +11<br>
+<strong>Resistenze ai Danni</strong> radiosi<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato<br>
+<strong>Sensi</strong> vista del vero 36 m, Percezione passiva 21<br>
+<strong>Linguaggi</strong> tutti, telepatia 36 m<br>
+<strong>Grado di Sfida</strong> 16<br>
+<strong>Bonus di Competenza</strong> +5<br>
+<strong>Bonus di Competenza</strong> +5<br>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Ithuriel non ha svantaggio ai tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Resistenza alla Magia.</em></strong> Ithuriel ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Ithuriel effettua un attacco con i suoi artigli e uno con il suo morso o dardi radiosi</p>
+<p><strong><em>Morso.</em></strong> Attacco con Arma da Mischia: +11 al tiro per colpire, portata 3 m, un bersaglio. Colpito: 17 (2d10 + 6) danni perforanti più 4 (1d8) danni radiosi. Se il bersaglio è una creatura, è afferrato (CD di fuga 19). Fino a quando questa presa non termina, il bersaglio è trattenuto, e Ithuriel non può mordere un altro bersaglio.</p>
+<p><strong><em>Artiglio.</em></strong> +11 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 13 (2d6 + 6) danni taglienti.</p>
+<p><strong><em>Dardi Radiosi.</em></strong> +10 al tiro per colpire, portata 1,5 m, tre bersagli separati. Colpito: 7 (2d4 + 2) danni radiosi.</p>
 <p></p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Each creature in that area must succeed on a DC 19 Strength saving throw or take 7 (2d6) bludgeoning damage and fall prone.</p>
-<p><strong><em>Eclipse Beam (Recharge 5-6).</em></strong> Ithuriel exhales a burst of brilliant radiance and shadowy mirk in a 30-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 9 (2d8) radiant damage plus 9 (2d8) necrotic damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p>Ithuriel can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Tail.</em></strong> In response to being missed or hit by a melee attack, Ithuriel makes the following attack against the attacker: <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target. Hit: 11 (2d4 + 6) bludgeoning damage and the target must make a DC 19 Strength saving throw. On a failure, Ithuriel can either knock it prone or push it up to 5 feet away (Ithuriel's choice). </p>
-<p><strong><em>Wings (1/round).</em></strong> In response to a creature he can see completing a spell, making an attack, or moving to a space within 60 feet of him, Ithuriel beats his wings, forcing each creature within 5 feet of him to succeed on a DC 19 Strength saving throw or be pushed 5 feet away and knocked prone. Ithuriel can then fly up to his speed toward the original creature without triggering opportunity attacks.</p>
-<p><strong><em>Frightful Presence (1/day).</em></strong> In response to assuming his second form, Ithuriel forces each creature of his choice within 120 feet that is aware of him to make a DC 18 Wisdom saving throw. On a failure, a creature is frightened of Ithuriel until the end of its next turn. A creature that fails the saving throw and has 30 hit points or fewer falls unconscious for 1 minute, until it takes damage, or until someone uses an action to shake or slap it awake.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Erupt Earth.</em></strong> Ithuriel slams his tail against the ground, causing fountains of churned earth and stone to erupt in a 5-foot radius around him. Ogni creatura in that area deve superare un DC 19 Forza tiro salvezza or take 7 (2d6) danni contundenti and cadere prono.</p>
+<p><strong><em>Raggio d'Eclissi (Ricarica 5-6).</em></strong> Ithuriel esala un'esplosione di radiosità brillante e oscurità tenebrosa in un cono di 9 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 18, subendo 9 (2d8) danni radiosi più 9 (2d8) danni necrotici con un tiro fallito, o la metà dei danni con un tiro riuscito.</p>
+<h3>Reazioni</h3>
+<p>Ithuriel può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Ithuriel can repeat the tiro salvezza against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn't originally require it to fail a tiro salvezza.)</p>
+<p><strong><em>Coda.</em></strong> In risposta a essere mancato o colpito da un attacco in mischia, Ithuriel effettua il seguente attacco contro l'attaccante: <em>Attacco con Arma da Mischia:</em> +11 al tiro per colpire, portata 4,5 m, un bersaglio. Colpito: 11 (2d4 + 6) danni contundenti e il bersaglio deve effettuare un tiro salvezza su Forza con CD 19. In caso di fallimento, Ithuriel può farlo cadere prono o spingerlo fino a 1,5 m (a scelta di Ithuriel). </p>
+<p><strong><em>Ali (1/round).</em></strong> In risposta a una creatura che può vedere completare un incantesimo, effettuare un attacco o muoversi in uno spazio entro 18 m da lui, Ithuriel batte le ali, costringendo ogni creatura entro 1,5 m da lui a superare un tiro salvezza su Forza con CD 19 o essere spinta 1,5 m indietro e cadere prono. Ithuriel può poi volare fino alla sua velocità verso la creatura originale senza provocare attacchi di opportunità.</p>
+<p><strong><em>Presenza Spaventosa (1/giorno).</em></strong> In risposta all'assunzione della sua seconda forma, Ithuriel costringe ogni creatura a sua scelta entro 36 m che sia consapevole di lui a effettuare un tiro salvezza su Saggezza con CD 18. In caso di fallimento, una creatura è spaventata da Ithuriel fino alla fine del suo turno successivo. Una creatura che fallisce il tiro salvezza e ha 30 punti ferita o meno cade priva di sensi per 1 minuto, finché non subisce danni, o finché qualcuno non usa un'azione per scuoterla o schiaffeggiarla.</p>
 </div>
 
-### After Redemption
-Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, creature type, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+### Dopo la Redenzione
+Ithuriel usa le statistiche di un **pegaso**, ma con il tratto **tocco curativo** di un **unicorno** e la taglia, il tipo di creatura, i linguaggi e il tratto ***cambiare forma*** di un **deva**. Sostituire l’attacco ***zoccoli*** del pegaso con il seguente: ***Mazza.*** *Attacco con Arma da Mischia:* +6 al tiro per colpire, portata 1,5 m, un bersaglio. *Colpito*: 1d6 + 4 danni contundenti più 4 (1d8) danni radiosi. Inoltre, Ithuriel può lanciare *resurrezione dei morti* una volta al giorno, ma non più di tre volte all’anno.
 
-**Roleplaying Information**
-***Resonance.*** Ithuriel should inspire endearment for his determination to repair the harm he has done, comfort for his deep compassion and care, and gratitude for his earnest efforts to aid the players.
+**Informazioni per l’Interpretazione**
+***Risonanza.*** Ithuriel dovrebbe ispirare affetto per la sua determinazione a riparare il male che ha fatto, conforto per la sua profonda compassione e premura, e gratitudine per i suoi sinceri sforzi di aiutare i giocatori.
 
-***Emotions.*** Ithuriel most often feels thoughtful, sorrowful, cheerful, guilty, ashamed, apprehensive, defiant, bold, or serene.
+***Emozioni.*** Ithuriel si sente più spesso pensieroso, addolorato, allegro, colpevole, vergognoso, apprensivo, risoluto, audace o sereno.
 
-***Motivations.*** Ithuriel wants to repair the harm he has done to Vasilka, the Belviews, the Krezkovs, and the players, and to defend the Abbey and the village of Krezk from those who might wish them harm.
+***Motivazioni.*** Ithuriel vuole riparare il male che ha fatto a Vasilka, ai Belview, ai Krezkov e ai giocatori, e difendere l’Abbazia e il villaggio di Krezk da coloro che potrebbero voler loro del male.
 
-***Inspirations.*** When roleplaying Ithuriel, channel Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*), and Father Forthill (*The Dresden Files*).
+***Ispirazioni.*** Quando si interpreta Ithuriel, ispirarsi a Zuko (*Avatar: La Leggenda di Aang*), Neji Hyuuga (*Naruto*) e Padre Forthill (*I Dossier di Dresden*).
 
-**Character Information**
-***Persona.*** To the world, Ithuriel is a mature, contemplative youth with a strong sense of humility and a deep compassion for others. To those he trusts, Ithuriel is a young angel persevering to reassemble his purpose and identity following his corruption, defeat, and restoration.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Ithuriel è un giovane maturo e contemplativo con un forte senso di umiltà e una profonda compassione per gli altri. Per coloro di cui si fida, Ithuriel è un giovane angelo che si sforza di ricostruire il proprio scopo e la propria identità dopo la corruzione, la sconfitta e il ripristino.
 
-***Morale.*** In a fight, Ithuriel would seek to calm his foe, but would not hesitate to forcefully defend an innocent threatened by enemies of ill intent.
+***Morale.*** In un combattimento, Ithuriel cercherebbe di calmare il suo avversario, ma non esiterebbe a difendere con la forza un innocente minacciato da nemici con cattive intenzioni.
 
 ## Vasilka
-**Roleplaying Information**
-***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
+**Informazioni per l’Interpretazione**
+***Risonanza.*** Vasilka dovrebbe ispirare affetto per la sua dolcezza goffa, la sua ingenuità occasionalmente imbarazzante, la sua innocenza travolgente, il suo insaziabile amore per l’apprendimento e la sua capacità di trovare un lato positivo in ogni situazione; simpatia per la sua ansia e paura di far arrabbiare l’Abate; e lusinga per il suo genuino e rapito fascino verso i giocatori e le loro avventure eroiche.
 
-***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
+***Emozioni.*** Vasilka si sente più spesso curiosa, gioiosa, pensierosa, timida, ansiosa, speranzosa e sognatrice.
 
-***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+***Motivazioni.*** Vasilka vuole rendere felice l’Abate, fare amicizia con il suo “fratello” **golem di carne**, e imparare il più possibile sulle persone e sul mondo.
 
-***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
+***Ispirazioni.*** Quando si interpreta Vasilka, ispirarsi a Newt Scamander (*Animali Fantastici*), Hinata Hyuuga (*Naruto*) e Alice (*Alice nel Paese delle Meraviglie*).
 
-**Character Information**
-***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Vasilka è una fanciulla educata, riservata e di buone maniere. Per coloro di cui si fida, è uno spirito timido, occasionalmente ansioso e disperatamente curioso.
 
-***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
+***Morale.*** Al momento in cui i giocatori la incontrano, Vasilka si rannicchierebbe e implorerebbe pace se attaccata, senza combattere nemmeno per difendere sé stessa.
 
-***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+***Relazioni.*** Vasilka è la creazione dell’Abate e la “sorella minore” del **golem di carne** privo di mente dell’Abbazia.
 
 
 
-# The Wizard of Wines
-When roleplaying the Martikov family, keep the following information in mind:
+# Il Mago dei Vini
+Quando si interpreta la famiglia Martikov, tenere a mente le seguenti informazioni:
 
-* **Adrian** is two years older than Urwin, and is generally quiet and observant, though he isn’t afraid to take charge when necessary. He takes no sides in the feud between Davian and Urwin and believes that Elric died fighting for what he believed in, and that his death should therefore be respected. Adrian should make the players feel flattered and grateful, and most often feels thoughtful, determined, or melancholy.
-* **Elvir** is ten years younger than Urwin and the twin brother of the late Elric Martikov, and is generally sharp, sarcastic, and quick-tempered. He believes that Davian was wrong to scorn Urwin, and that the theft of the third enchanted gem likely wasn’t Urwin’s fault. He shares freely his position that Elric’s death was worthless, and that the whole family would be better off had he never gone to Castle Ravenloft to fight in Doru’s rebellion. Deep down, however, Elvir feels deeply betrayed that Elric would go to fight Strahd without him. Elvir should make the players feel irritated, insulted, sympathetic, and endeared to him, and most often feels frustrated, annoyed, melancholy, angry, determined, or amused.
-* **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
-* **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
-* **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
-* **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
-* **Davian** is the patriarch of the Martikov family and the widower of his late wife, Mirabel Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
+* **Adrian** ha due anni più di Urwin, ed è generalmente silenzioso e osservatore, sebbene non abbia paura di prendere il comando quando necessario. Non prende posizione nella faida tra Davian e Urwin e crede che Elric sia morto combattendo per ciò in cui credeva, e che la sua morte debba quindi essere rispettata. Adrian dovrebbe far sentire i giocatori lusingati e grati, e si sente più spesso pensieroso, determinato o malinconico.
+* **Elvir** ha dieci anni meno di Urwin ed è il fratello gemello del defunto Elric Martikov, ed è generalmente tagliente, sarcastico e irascibile. Crede che Davian avesse torto a disprezzare Urwin, e che il furto della terza gemma incantata probabilmente non fosse colpa di Urwin. Condivide liberamente la sua posizione che la morte di Elric fosse inutile, e che tutta la famiglia starebbe meglio se non fosse mai andato a Castello Ravenloft a combattere nella ribellione di Doru. Nel profondo, tuttavia, Elvir si sente profondamente tradito dal fatto che Elric sia andato a combattere Strahd senza di lui. Elvir dovrebbe far sentire i giocatori irritati, insultati, comprensivi e affezionati a lui, e si sente più spesso frustrato, infastidito, malinconico, arrabbiato, determinato o divertito.
+* **Stefania** ha cinque anni più di Urwin. Non rimprovera Urwin per il furto della terza gemma incantata, ma condivide la posizione di Davian secondo cui Urwin si era molto probabilmente sbagliato su ciò che aveva visto. Crede che la morte di Elric sia stata una tragedia, ma che fosse un membro adulto dei Custodi della Piuma e che la sua scelta meriti quindi rispetto. Stefania dovrebbe far sentire i giocatori confortati e grati, e si sente più spesso allegra o determinata.
+* **Dag**, che è entrato nella famiglia Martikov per matrimonio, non prende posizione sulla faida di Davian con Urwin, sebbene condivida la posizione di Stefania secondo cui la morte di Elric sia stata una tragedia ma la sua scelta meriti rispetto. Si sente più spesso divertito, pensieroso, giocoso o determinato, e dovrebbe far sentire i giocatori grati, divertiti e affezionati a lui.
+* **Claudiu** non si preoccupa della faida di Davian con Urwin, e crede che la morte di Elric sia stato un chiaro segnale che resistere a Strahd è senza speranza e chiunque lo faccia è destinato al fallimento. Si sente più spesso cupo, annoiato, infastidito, frustrato o malinconico, e dovrebbe far sentire i giocatori irritati, insultati e comprensivi verso di lui.
+* **Martin e Viggo** non sanno della faida di Davian con Urwin, che non hanno mai incontrato. Non comprendono appieno la natura della rivolta di Elric contro Castello Ravenloft, ma sanno abbastanza da capire che è morto là. Si sentono più spesso giocosi, annoiati, impauriti, incuriositi o eccitati, e dovrebbero far sentire i giocatori lusingati, divertiti e affezionati a loro.
+* **Davian** è il patriarca della famiglia Martikov e il vedovo della sua defunta moglie, Mirabel Oraonova. Pubblicamente, afferma che Elric fosse uno sciocco, insubordinato e disobbediente per aver rifiutato l’ordine di Davian di stare lontano da Castello Ravenloft. Nel profondo, Davian è distrutto dal fatto che le ultime parole che disse a suo figlio prima della morte di Elric furono: «E non tornare!» Davian si sente più spesso infastidito, irritato, soddisfatto o scontroso, e dovrebbe far sentire i giocatori insultati, grati e comprensivi verso di lui.
 
-# The Werewolf Den
+# La Tana dei Mannari
 ## Bianca Stoyanovich
-**Roleplaying Information**
-***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
+**Informazioni per l’Interpretazione**
+***Risonanza.*** Quando i giocatori la incontrano per la prima volta, Bianca dovrebbe ispirare simpatia per la sua ansia e incertezza e affetto per il suo buon umore di fronte a un dilemma stressante.
 
-***Emotions.*** Bianca most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
+***Emozioni.*** Bianca si sente più spesso malinconica, allegra, divertita, pensierosa, curiosa, disperata o ansiosa.
 
-***Motivations.*** Bianca wants to keep Kiril safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
+***Motivazioni.*** Bianca vuole mantenere Kiril al sicuro, felice e sano di mente, proteggendo al contempo il branco e i baroviani innocenti dalla sua ira, fame e ambizioni.
 
-***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
+***Ispirazioni.*** Quando si interpreta Bianca, ispirarsi a Yennefer di Vengerberg (*The Witcher*), Rogue (*X-Men*) e Principessa Amidala (*Star Wars*).
 
-**Character Information**
-***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring Kiril back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
+**Informazioni sul Personaggio**
+***Persona.*** Per il mondo, Bianca è una donna vivace, seppur sorprendentemente raffinata. Per coloro di cui si fida, Bianca è ansiosa e disperata nel tentativo di riportare Kiril dall’orlo della follia. Nel profondo, Bianca si chiede se rimpianga l’essersi unita a Kiril come **mannara**.
 
-***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
+***Morale.*** In un combattimento, Bianca tenterebbe di negoziare o fuggire, ma combatterebbe ferocemente se messa alle strette.
 
-***Relationships.*** Bianca is Kiril's mate and wife, and the disinherited daughter of a noble family outside of Barovia.
+***Relazioni.*** Bianca è la compagna e moglie di Kiril, e la figlia diseredata di una famiglia nobile al di fuori di Barovia.
 
 ## Kiril Stoyanovich
 
 
 <div class="statblock">
-<h2>Kiril, Werewolf Alpha</h2>
-<em>Large Monstrosity (Shapechanger), Chaotic Evil</em>
+<h2>Kiril, Alfa Mannaro</h2>
+<em>Mostruosità grande (Mutaforma), Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 16 (Natural Armor)
+<strong>Classe Armatura</strong> 16 (Armatura Naturale)
 <br>
-<strong>Hit Points</strong> 256 (27d10 + 108)
+<strong>Punti Ferita</strong> 256 (27d10 + 108)
 <br>
-<strong>Speed</strong> 40
+<strong>Velocità</strong> 40
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2360,53 +2354,53 @@ When roleplaying the Martikov family, keep the following information in mind:
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Perception +8, Stealth +8<br>
-<strong>Senses</strong> passive Perception 14<br>
-<strong>Languages</strong> Common (can’t speak in dire wolf form)<br>
-<strong>Challenge</strong> 18, or 16 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Competenze</strong> Percezione +8, Furtività +8<br>
+<strong>Sensi</strong> Percezione passiva 14<br>
+<strong>Linguaggi</strong> Common (can't speak in dire wolf form)<br>
+<strong>Grado di Sfida</strong> 18, or 16 without his regeneration<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
 <strong>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of its turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Second Phase.</em></strong> When Kiril is reduced to 0 hit points, he digs his claws into his chest, pulls out his own heart, and devours it. He then doubles in height and breadth, gaining a hunched back, bony protrusions along his arms and shoulders, and a grotesque, bloated head with oversized fangs and teeth, as well as a pair of toothy jaws for eyes. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn’t change. Excess damage and conditions don’t carry over to his new form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes three melee attacks, up to one of which can be a Bite.</p>
-<p><strong><em>Claw.</em></strong> <em>Melee Weapon Attack</em>, +9 to hit, range 5 ft., 1 target. <em>Hit:</em> 13 (2d8 + 4) slashing damage, and the target must succeed on a DC 17 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack</em>, +9 to hit, range 5 ft., 1 target. <em>Hit:</em> 11 (2d6 + 4) piercing damage. If the target is a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies. If the target was already cursed with werewolf lycanthropy, it can't regenerate until it completes a long rest.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Alpha's Howl.</em></strong> Any number of targets within 60 feet that can hear Kiril and that Kiril has cursed with werewolf lycanthropy must make a DC 17 Wisdom saving throw, losing one level of lycanthrope corruption on a success (minimum 0). On a failure, a target gains one level of lycanthrope corruption (maximum 2) and must immediately use its reaction, if available, to move up to its speed toward a random creature other than Kiril and make a number of unarmed strikes against it equal to its number of levels of lycanthrope corruption.</p>
-<p>A target with one level of lycanthrope corruption gains wolflike claws and can use its claws to make an unarmed strike, dealing 2d4 slashing damage plus its Strength modifier (minimum 2) on a hit. A target with two levels of lycanthrope corruption also gains a wolflike muzzle and can use its bite to make an unarmed strike, dealing 1d8 piercing damage plus its Strength modifier (minimum 2) on a hit. A Humanoid bitten in this way must succeed on a DC 17 Constitution saving throw or be cursed with werewolf lycanthropy until Kiril dies.</p>
-<p><strong><em>Savage Frenzy.</em></strong> Kiril leaps up to his speed without triggering opportunity attacks. Each creature within 5 feet of him must then make a DC 17 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.
-<p><strong><em>Shapechange.</em></strong> Kiril polymorphs into his human form or into a dire wolf, or back into his true form (a wolf-humanoid hybrid). His statistics, other than his AC, are the same in each form. Any equipment he is wearing or carrying isn't transformed. He reverts to his human form if he dies.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Pounce.</em></strong>  In response to a creature moving within 30 feet, Kiril moves up to his speed toward it without triggering opportunity attacks.</p>
-<p><strong><em>Claw.</em></strong> In response to being missed by an attack made by a creature within 5 feet, Kiril attacks that creature with his claws.</p>
-<p><strong><em>Bite.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
+<p><strong><em>Rigenerazione.</em></strong> Kiril rigenera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata, questo tratto non funziona all'inizio del suo turno successivo
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
+<p><strong><em>Seconda Fase.</em></strong> Quando Kiril è ridotto a 0 punti ferita, affonda gli artigli nel petto, si strappa il cuore e lo divora. Raddoppia quindi in altezza e larghezza, acquisendo una schiena curva, protuberanze ossee lungo le braccia e le spalle, e una testa grottesca e gonfia con zanne e denti sovradimensionati, nonché un paio di fauci dentate al posto degli occhi. Le sue statistiche vengono istantaneamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia. I danni in eccesso e le condizioni non si trasferiscono alla sua nuova forma.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Kiril effettua tre attacchi in mischia, di cui al massimo uno può essere un Morso.</p>
+<p><strong><em>Artiglio.</em></strong> <em>Attacco con Arma da Mischia</em>, +9 al tiro per colpire, portata 1,5 m, 1 bersaglio. <em>Colpito:</em> 13 (2d8 + 4) danni taglienti, e il bersaglio deve superare un tiro salvezza su Forza con CD 17 o cadere prono.</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia</em>, +9 al tiro per colpire, portata 1,5 m, 1 bersaglio. <em>Colpito:</em> 11 (2d6 + 4) danni perforanti. Se il bersaglio è un Umanoide, deve superare un tiro salvezza su Costituzione con CD 17 o essere maledetto con la licantropia del mannaro finché Kiril non muore. Se il bersaglio era già maledetto con la licantropia del mannaro, non può rigenerarsi finché non completa un riposo lungo.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Ululato dell'Alfa.</em></strong> Un numero qualsiasi di bersagli entro 18 m che possono sentire Kiril e che Kiril ha maledetto con la licantropia del mannaro devono effettuare un tiro salvezza su Saggezza con CD 17, perdendo un livello di corruzione licantropica in caso di successo (minimo 0). In caso di fallimento, un bersaglio guadagna un livello di corruzione licantropica (massimo 2) e deve immediatamente usare la sua reazione, se disponibile, per muoversi fino alla sua velocità verso una creatura casuale diversa da Kiril ed effettuare un numero di colpi senz'armi contro di essa pari al suo numero di livelli di corruzione licantropica.</p>
+<p>Un bersaglio con un livello di corruzione licantropica acquisisce artigli lupeschi e può usare i suoi artigli per effettuare un colpo senz'armi, infliggendo 2d4 danni taglienti più il suo modificatore di Forza (minimo 2) in caso di colpo. Un bersaglio con due livelli di corruzione licantropica acquisisce anche un muso lupesco e può usare il suo morso per effettuare un colpo senz'armi, infliggendo 1d8 danni perforanti più il suo modificatore di Forza (minimo 2) in caso di colpo. Un Umanoide morso in questo modo deve superare un tiro salvezza su Costituzione con CD 17 o essere maledetto con la licantropia del mannaro finché Kiril non muore.</p>
+<p><strong><em>Frenesia Selvaggia.</em></strong> Kiril balza fino alla sua velocità senza provocare attacchi di opportunità. Ogni creatura within 5 feet of him must then make a DC 17 Destrezza tiro salvezza, taking 7 (2d6) danni taglienti con un tiro fallito, or la metà dei danni con un tiro riuscito.
+<p><strong><em>Cambiamento di Forma.</em></strong> Kiril si trasforma nella sua forma umana o in un lupo crudele, o torna alla sua vera forma (un ibrido lupo-umanoide). Le sue statistiche, a parte la sua CA, sono le stesse in ogni forma. Qualsiasi equipaggiamento che indossa o trasporta non viene trasformato. Torna alla sua forma umana se muore.</p>
+<h3>Reazioni</h3>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Kiril può ripetere il tiro salvezza contro un effetto o condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Balzo.</em></strong> In risposta a una creatura che si muove entro 9 m, Kiril si muove fino alla sua velocità verso di essa senza provocare attacchi di opportunità.</p>
+<p><strong><em>Artiglio.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura entro 1,5 m, Kiril attacca quella creatura con i suoi artigli.</p>
+<p><strong><em>Morso.</em></strong> In risposta a essere colpito da un attacco effettuato da una creatura entro 1,5 m, Kiril attacca quella creatura con il suo morso.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Kiril, Mutant Lycan</h2>
-<em>Huge Monstrosity, Chaotic Evil</em>
+<h2>Kiril, Licantropo Mutante</h2>
+<em>Mostruosità enorme, Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (Natural Armor)
+<strong>Classe Armatura</strong> 17 (Armatura Naturale)
 <br>
-<strong>Hit Points</strong> 273 (26d12 + 104)
+<strong>Punti Ferita</strong> 273 (26d12 + 104)
 <br>
-<strong>Speed</strong> 30
+<strong>Velocità</strong> 30
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2421,53 +2415,53 @@ When roleplaying the Martikov family, keep the following information in mind:
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Perception +4
-<strong>Senses</strong> passive Perception 14<br>
-<strong>Languages</strong> Common<br>
-<strong>Challenge</strong> 18, or 16 without his regeneration<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Competenze</strong> Percezione +4
+<strong>Sensi</strong> Percezione passiva 14<br>
+<strong>Linguaggi</strong> Comune<br>
+<strong>Grado di Sfida</strong> 18, or 16 without his regeneration<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Kiril regains 20 hit points at the start of his turn. If he takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of his next turn
-<p><strong><em>Keen Hearing and Smell.</em></strong> Kiril has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Weak Grip.</em></strong> If Kiril takes 30 damage or more on a single turn, he must succeed on a DC 20 Strength saving throw at the end of that turn or release any creatures he is grappling.
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Kiril makes one attack with his claws and one attack with his bite. He can replace the bite with a swallow if he already has a target restrained with his bite.</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, range 10 ft., 1 target. <em>Hit:</em> 14 (2d8 + 5) slashing damage, and the target must succeed on a DC 18 Dexterity saving throw or be pushed 5 feet away or grappled (Kiril's choice).</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, range 10 ft., 1 target. Hit: 18 (2d12 + 5) piercing damage. If the target is Large or smaller, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and Kiril can't bite another target.</p>
-<p><strong><em>Swallow.</em></strong> Kiril makes one bite attack against a Medium or smaller creature he has restrained with his bite. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Kiril, and it takes 7 (2d6) acid damage at the start of each of Kiril's turns. If Kiril takes 20 damage or more on a single turn, he must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of him. Kiril must also immediately regurgitate all swallowed creatures if he dies.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Nightmare Howl.</em></strong> Each creature within 60 feet of Kiril that can hear him must succeed on a DC 17 Wisdom saving throw. On a failure, a creature takes 5 (2d4) psychic damage and is frightened until the start of Kiril's next turn. If a target's saving throw is successful, the target can’t be frightened by Kiril's Nightmare Howl for the next 24 hours.</p>
-<p><strong><em>Shadow Beam.</em></strong> A 5-foot-wide, 100-foot-long beam of swirling shadows bursts from Kiril’s maw. Each creature in that area must make a DC 17 Dexterity saving throw, taking 9 (2d8) necrotic damage on a failed save, or half as much damage on a success. A target grappled by Kiril’s bite automatically fails the saving throw.</p>
-<h3>Reactions</h3>
-<p>Kiril can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Kiril can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Leap.</em></strong> In response to a creature moving within 30 feet, Kiril leaps toward it without provoking opportunity attacks. Each creature within a 5-foot radius of him must then immediately make a DC 18 Strength saving throw or fall prone.</p>
-<p><strong><em>Rend.</em></strong> In response to a creature moving within his reach, Kiril attacks it with his claws. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
-<p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach, Kiril forces that creature to make a DC 18 Strength saving throw. On a failure, that creature is knocked prone and either shoved 20 feet away or grappled (Kiril's choice).</p>
+<p><strong><em>Rigenerazione.</em></strong> Kiril rigenera 20 punti ferita all'inizio del suo turno. Se subisce danni necrotici o danni contundenti, perforanti o taglienti da un'arma argentata, questo tratto non funziona all'inizio del suo turno successivo
+<p><strong><em>Udito e Olfatto Acuti.</em></strong> Kiril ha vantaggio sulle prove di Saggezza (Percezione) che si basano sull'udito o sull'olfatto.</p>
+<p><strong><em>Presa Debole.</em></strong> Se Kiril subisce 30 danni o più in un singolo turno, deve superare un tiro salvezza su Forza con CD 20 alla fine di quel turno o rilasciare qualsiasi creatura che sta afferrando.
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Kiril effettua un attacco con i suoi artigli e un attacco con il suo morso. Può sostituire il morso con un ingoiamento se ha già un bersaglio trattenuto con il suo morso.</p>
+<p><strong><em>Artigli.</em></strong> <em>Attacco con Arma da Mischia:</em> +10 al tiro per colpire, portata 3 m, 1 bersaglio. <em>Colpito:</em> 14 (2d8 + 5) danni taglienti, e il bersaglio deve superare un tiro salvezza su Destrezza con CD 18 o essere spinto 1,5 m o afferrato (a scelta di Kiril).</p>
+<p><strong><em>Morso.</em></strong> <em>Attacco con Arma da Mischia:</em> +10 al tiro per colpire, portata 3 m, 1 bersaglio. Colpito: 18 (2d12 + 5) danni perforanti. Se il bersaglio è di taglia Grande o inferiore, è afferrato (CD di fuga 18). Finché questa lotta non termina, il bersaglio è trattenuto e Kiril non può mordere un altro bersaglio.</p>
+<p><strong><em>Ingoiamento.</em></strong> Kiril effettua un attacco con il morso contro una creatura di taglia Media o inferiore che ha trattenuto con il suo morso. Se l'attacco colpisce, il bersaglio subisce i danni del morso, viene ingoiato e la lotta termina. Mentre è ingoiata, la creatura è accecata e trattenuta, ha copertura totale contro attacchi e altri effetti al di fuori di Kiril, e subisce 7 (2d6) danni da acido all'inizio di ogni turno di Kiril. Se Kiril subisce 20 danni o più in un singolo turno, deve superare un tiro salvezza su Costituzione con CD 20 alla fine di quel turno o rigurgitare tutte le creature ingoiate, che cadono prone in uno spazio entro 3 m da lui. Kiril deve anche rigurgitare immediatamente tutte le creature ingoiate se muore.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Ululato da Incubo.</em></strong> Ogni creatura entro 18 m da Kiril che può sentirlo deve superare un tiro salvezza su Saggezza con CD 17. In caso di fallimento, una creatura subisce 5 (2d4) danni psichici ed è spaventata fino all'inizio del turno successivo di Kiril. Se il tiro salvezza del bersaglio ha successo, il bersaglio non può essere spaventato dall'Ululato da Incubo di Kiril per le successive 24 ore.</p>
+<p><strong><em>Raggio d'Ombra.</em></strong> Un raggio largo 1,5 m e lungo 30 m di ombre vorticanti erutta dalle fauci di Kiril. Ogni creatura in quell'area deve effettuare un tiro salvezza su Destrezza con CD 17, subendo 9 (2d8) danni necrotici con un tiro fallito, o la metà dei danni con un tiro riuscito. Un bersaglio afferrato dal morso di Kiril fallisce automaticamente il tiro salvezza.</p>
+<h3>Reazioni</h3>
+<p>Kiril può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Kiril può ripetere il tiro salvezza contro un effetto o condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Balzo.</em></strong> In risposta a una creatura che si muove entro 9 m, Kiril balza verso di essa senza provocare attacchi di opportunità. Ogni creatura entro un raggio di 1,5 m da lui deve quindi immediatamente effettuare un tiro salvezza su Forza con CD 18 o cadere prono.</p>
+<p><strong><em>Squarcio.</em></strong> In risposta a una creatura che si muove entro la sua portata, Kiril la attacca con i suoi artigli. Se l'attacco manca, quella creatura ha vantaggio sul suo prossimo attacco contro Kiril prima dell'inizio del suo turno successivo.</p>
+<p><strong><em>Inchiodamento.</em></strong> In risposta a essere mancato da un attacco effettuato da una creatura entro la sua portata, Kiril costringe quella creatura a effettuare un tiro salvezza su Forza con CD 18. In caso di fallimento, quella creatura cade prono e viene spinta 6 m o afferrata (a scelta di Kiril).</p>
 </div>
 
 # Argynvostholt
-## Zorya
+# Argynvostholt
 
 <div class="statblock">
-<h2>Zorya, Pseudodragon Spirit</h2>
-<em>Tiny Undead, Neutral Good</em>
+<h2>Zorya, Spirito Pseudodrago</h2>
+<em>Non morto minuscolo, Neutrale Buono</em>
 <hr>
-<strong>Armor Class</strong> 13
+<strong>Classe Armatura</strong> 13
 <br>
-<strong>Hit Points</strong> 7 (2d4 + 2)
+<strong>Punti Ferita</strong> 7 (2d4 + 2)
 <br>
-<strong>Speed</strong> 15 ft., fly (hover) 60 ft.
+<strong>Velocità</strong> 4,5 m, fly (hover) 18 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2482,63 +2476,57 @@ When roleplaying the Martikov family, keep the following information in mind:
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Perception +3, Stealth +4<br>
-<strong>Damage Immunities</strong> acid, cold, fire, lightning, thunder, poison; bludgeoning, piercing, and slashing damage from nonmagical attacks<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained<br>
-<strong>Senses</strong> blindsight 10 ft., darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> understands Common and Draconic but can't speak<br>
-<strong>Challenge</strong> 1/4<br>
+<strong>Competenze</strong> Percezione +3, Furtività +4<br>
+<strong>Immunità ai Danni</strong> da acido, da freddo, da fuoco, da fulmine, da tuono, da veleno; danni contundenti, perforanti e taglienti da attacchi non magici<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto<br>
+<strong>Sensi</strong> vista cieca 3 m, scurovisione 18 m, Percezione passiva 13<br>
+<strong>Linguaggi</strong> comprende Comune e Draconico ma non può parlare<br>
+<strong>Grado di Sfida</strong> 1/4<br>
 <hr>
-<p><strong><em>Keen Senses.</em></strong> Zorya has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.</p>
-<p><strong><em>Limited Telepathy.</em></strong> Zorya can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.</p>
-<p><strong><em>Magic Resistance.</em></strong> Zorya has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Incorporeal Movement.</em></strong> Zorya can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.</p>
-<p><strong><em>Ghostfire.</em></strong> Any damage Zorya deals with her <strong><em>breath weapon</em></strong> to incorporeal creatures ignores immunity to cold damage.</p>
-<p><strong><em>Ethereal Escape (1/day)</em></strong>. If Zorya would be reduced to 0 hit points, she is instead reduced to 1 hit point and flees into the Ethereal Plane, returning to the Material Plane after 1 minute.</p>
-<h3>Actions</h3>
-<p><strong><em>Breath Weapon (Recharge 5-6).</em></strong> Zorya exhales an icy blast of silver fire in a 10-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.</p>
-<h3>Reactions</h3>
-<p><strong><em>Misty Step.</em></strong> In response to Zorya or a creature within 5 feet of her being hit or missed by an attack, Zorya casts <em>misty step</em>, bringing along up to one willing creature within 5 feet of her. A creature teleported in this way takes half damage from the triggering attack.</p>
+<p><strong><em>Keen Senses.</em></strong> Zorya ha vantaggio on Saggezza (Perception) checks that rely on sight, hearing, or smell.</p>
+<p><strong><em>Telepatia Limitata.</em></strong> Zorya può comunicare magicamente idee semplici, emozioni e immagini telepaticamente con qualsiasi creatura entro 30 m da lei che possa comprendere un linguaggio.</p>
+<p><strong><em>Magic Resistance.</em></strong> Zorya ha vantaggio on tiro salvezzas against spells and other magical effects.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Zorya può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni da forza se termina il suo turno all'interno di un oggetto.</p>
+<p><strong><em>Ghostfire.</em></strong> Any damage Zorya deals with her <strong><em>breath weapon</em></strong> to incorporeal creatures ignores immunity to danni da freddo.</p>
+<p><strong><em>Fuga Eterea (1/giorno)</em></strong>. Se Zorya verrebbe ridotta a 0 punti ferita, viene invece ridotta a 1 punto ferita e fugge nel Piano Etereo, tornando nel Piano Materiale dopo 1 minuto.</p>
+<h3>Azioni</h3>
+<p><strong><em>Arma a Soffio (Ricarica 5-6).</em></strong> Zorya esala un'esplosione gelida di fuoco argentato in un cono di 3 m. Ogni creatura in quell'area deve effettuare un tiro salvezza su Costituzione con CD 11, subendo 5 (2d4) danni da freddo con un tiro fallito, o la metà dei danni con un tiro riuscito.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Passo Brumoso.</em></strong> In risposta a Zorya o una creatura entro 1,5 m da lei che viene colpita o mancata da un attacco, Zorya lancia <em>passo brumoso</em>, portando con sé fino a una creatura consenziente entro 1,5 m da lei. Una creatura teletrasportata in questo modo subisce la metà dei danni dall'attacco scatenante.</p>
 </div>
 
 ## Brother Marek
-In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
-## Commander Vladimir Horngaard
-**Roleplaying Information**
-***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
+## Fratello Marek
+In morte, Fratello Marek è un guscio freddo e apatico di uomo. La sua un tempo gioviale allegria si è inaridita in un cinismo secco e sarcastico, e considera il destino dell’Ordine come una dannazione per i loro fallimenti. Tuttavia, non è privo di compassione, e augura sinceramente ai giocatori ogni bene—purché abbandonino i loro sciocchi sforzi di agitare gli spiriti di Argynvostholt. Lo spirito di Fratello Marek dovrebbe far sentire i giocatori irritati, insultati e comprensivi, e si sente più spesso malinconico, infastidito, scettico, amaro, rassegnato, perplesso o disapprovante.
+## Comandante Vladimir Horngaard
+**Informazioni per l’Interpretazione**
+***Risonanza.*** Vladimir dovrebbe ispirare disagio e malessere con il suo sospetto e la sua paranoia, rabbia (contenuta) per la sua apatia verso la sorte del popolo baroviano, e pietà per i modi in cui la sua rabbia e il suo dolore lo hanno accecato.
+***Emozioni.*** Vladimir si sente più spesso sospettoso, furioso, irritato, placido, stoico o apatico.
+***Motivazioni.*** Vladimir vuole preservare la prigione di Strahd nelle Nebbie per vendicare la profanazione del corpo di Argynvost e la distruzione dell’Ordine del Drago d’Argento.
+***Ispirazioni.*** Quando si interpreta Vladimir, ispirarsi a Stannis Baratheon (*Il Trono di Spade*), Frank Castle (*The Punisher*) e Rorschach (*Watchmen*).
 
-***Emotions.*** Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
-
-***Motivations.*** Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
-
-***Inspirations.*** When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
-
-**Character Information**
-***Persona.*** To the world, Vladimir is a cruel, apathetic, and self-righteous creature consumed by vengeance and hatred.
-
-***Morale.*** In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
-
-***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
-
+***Persona.*** Per il mondo, Vladimir è una creatura crudele, apatica e moralista consumata dalla vendetta e dall’odio.
+***Morale.*** In un combattimento, Vladimir prenderebbe volentieri le armi contro chiunque lo insultasse, disobbedisse o minacciasse.
+***Relazioni.*** Vladimir è il comandante dell’Ordine del Drago d’Argento, la fonte della non-morte degli altri revenant (attraverso il giuramento che gli prestarono), e il marito di Sir Godfrey Gwilym (la cui relazione con lui Vladimir ha dimenticato).
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Vengeful Revenant</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Revenant Vendicativo</h2>
+<em>Non morto medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
-<strong>Challenge</strong> 15<br>
+<strong>Classe Armatura</strong> 17 (mezza armatura a piastre)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
+<strong>Grado di Sfida</strong> 15<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2553,55 +2541,55 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Competenze</strong> Atletica +10, Storia +6, Intimidire +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotici, psichici<br>
+<strong>Immunità ai Danni</strong> poison<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
+<strong>Linguaggi</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5
 <hr>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would deal damage to a dying creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<p><strong><em>Burning Hatred.</em></strong> When Vladimir is reduced to 0 hit points, black flames erupt along the hilt of his greatsword and the shadows encircling its blade become spiked black wires. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change, excess damage doesn't carry over to his new form, and he retains none of the conditions he had in his previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two attacks with his <strong><em>+2 greatsword</em></strong>. He can replace one of those attacks with one use of his <strong><em>conjure phantoms</em></strong> action.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage, and Vladimir can push the target up to 5 ft. away. Instead of pushing the target, Vladimir can force the target to make a DC 18 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Conjure Phantoms.</em></strong> Vladimir summons a pair of <strong>phantom warriors</strong>, which appear next to a hostile creature that Vladimir can see. Each warrior makes a <strong><em>spectral longsword</em></strong> attack against that creature, then disappears. A creature that takes damage in this way can’t regain hit points until the start of Vladimir’s next turn.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Reaving Sweep.</em></strong> Vladimir sweeps his greatsword in an arc with thunderous force, creating a shockwave that rips through a 15-foot cone in front of him. Each creature in that area must succeed on a DC 18 Constitution saving throw or take 21 (6d6) slashing damage and be pushed back 5 feet. A creature that succeeds on the saving throw takes half damage and isn’t pushed.</p>
-<p><strong><em>Umbral Snare.</em></strong> Black-spiked wires extrude from the earth around Vladimir in a 5-foot radius. Each creature in that area must succeed on a DC 18 Dexterity saving throw or take 14 (4d6) piercing damage and be grappled by the wires (escape DC 19) until the start of Vladimir’s next turn. A creature that succeeds on the saving throw takes half damage and isn’t grappled. A creature that attempts to escape the grapple immediately takes an additional 7 (2d6) piercing damage, whether it succeeds or fails.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Sworn Retribution (1/round).</em></strong> In response to taking damage from a creature he can see, Vladimir marks that creature until the end of his next turn. While that creature is marked, Vladimir doesn’t provoke opportunity attacks when moving directly toward it, he has advantage on the first melee attack he makes against that creature each turn and his weapon attacks against that creature score a critical hit on a roll of 19-20.</p>
-<p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
-<p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir rigenera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radiosi, questo tratto non funziona all'inizio del suo turno successivo. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Immunità allo Scacciare.</em></strong> Vladimir è immune agli effetti che scacciano i non morti.</p>
+<p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir infliggerebbe danni a una creatura morente con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>imposizione</em>. Questa imposizione dura fino a quando non viene dissolta e può danneggiare il suo portatore un numero qualsiasi di volte al giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo turno successivo. Inoltre, l'imposizione non può essere terminata o dissolta se non attraverso gli effetti di un incantesimo <em>ristorare superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per congedarla.</p>
+<p><strong><em>Odio Ardente.</em></strong> Quando Vladimir è ridotto a 0 punti ferita, fiamme nere eruttano lungo l'elsa del suo spadone e le ombre che ne avvolgono la lama diventano fili spinati neri. Le sue statistiche vengono istantaneamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono alla sua nuova forma, e non conserva nessuna delle condizioni che aveva nella sua forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vladimir effettua due attacchi con il suo <strong><em>spadone +2</em></strong>. Può sostituire uno di quegli attacchi con un uso della sua azione <strong><em>evocazione di fantasmi</em></strong>.</p>
+<p><strong><em>Spadone +2.</em></strong> Attacco con Arma da Mischia: +12 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 7) danni taglienti, e Vladimir può spingere il bersaglio fino a 1,5 m. Invece di spingere il bersaglio, Vladimir può costringerlo a effettuare un tiro salvezza su Forza con CD 18 o cadere prono.</p>
+<p><strong><em>Evocazione di Fantasmi.</em></strong> Vladimir evoca una coppia di <strong>guerrieri fantasma</strong>, che appaiono accanto a una creatura ostile che Vladimir può vedere. Ogni guerriero effettua un attacco con <strong><em>spada lunga spettrale</em></strong> contro quella creatura, poi scompare. Una creatura che subisce danni in questo modo non può recuperare punti ferita fino all'inizio del turno successivo di Vladimir.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Falciata Devastante.</em></strong> Vladimir falcia con il suo spadone in un arco con forza tonante, creando un'onda d'urto che squarcia un cono di 4,5 m davanti a lui. Ogni creatura in quell'area deve superare un tiro salvezza su Costituzione con CD 18 o subire 21 (6d6) danni taglienti ed essere spinta indietro di 1,5 m. Una creatura che supera il tiro salvezza subisce la metà dei danni e non viene spinta.</p>
+<p><strong><em>Trappola d'Ombra.</em></strong> Fili spinati neri fuoriescono dalla terra attorno a Vladimir in un raggio di 1,5 m. Ogni creatura in quell'area deve superare un tiro salvezza su Destrezza con CD 18 o subire 14 (4d6) danni perforanti ed essere afferrata dai fili (CD di fuga 19) fino all'inizio del turno successivo di Vladimir. Una creatura che supera il tiro salvezza subisce la metà dei danni e non è afferrata. Una creatura che tenta di fuggire dalla lotta subisce immediatamente 7 (2d6) danni perforanti aggiuntivi, che riesca o meno.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Vladimir può ripetere il tiro salvezza contro un effetto o condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Giuramento di Vendetta (1/round).</em></strong> In risposta a subire danni da una creatura che può vedere, Vladimir marchia quella creatura fino alla fine del suo turno successivo. Mentre quella creatura è marchiata, Vladimir non provoca attacchi di opportunità quando si muove direttamente verso di essa, ha vantaggio sul primo attacco in mischia che effettua contro quella creatura ogni turno e i suoi attacchi con armi contro quella creatura ottengono un colpo critico con un tiro di 19-20.</p>
+<p><strong><em>Comando Spettrale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir evoca un soldato fantasma per proteggerlo, riducendo i danni subiti della metà (arrotondato per eccesso). Questa capacità non può ridurre i danni subiti da Vladimir di più di 10.</p>
+<p><strong><em>Rappresaglia Marziale.</em></strong> In risposta a subire danni da un attacco o incantesimo, Vladimir si muove fino a metà della sua velocità verso l'attaccante o l'incantatore ed effettua un attacco contro di esso con il suo <strong><em>spadone +2</em></strong> se è entro la sua portata.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Knight of Death</h2>
-<em>Medium undead, lawful evil</em>
+<h2>Vladimir Horngaard, Cavaliere della Morte</h2>
+<em>Non morto medio, Legale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 17 (half plate armor)<br>
-<strong>Hit Points</strong> 228 (24d8 + 120)<br>
-<strong>Speed</strong> 30 ft.<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5<br>
+<strong>Classe Armatura</strong> 17 (mezza armatura a piastre)<br>
+<strong>Punti Ferita</strong> 228 (24d8 + 120)<br>
+<strong>Velocità</strong> 9 m<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5<br>
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2616,59 +2604,57 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +10, Con +10, Wis +8, Cha +9<br>
-<strong>Skills</strong> Athletics +10, History +6, Intimidation +9, Perception +8<br>
-<strong>Damage Resistances</strong> necrotic, psychic<br>
-<strong>Damage Immunities</strong> poison<br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned, stunned<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18<br>
-<strong>Languages</strong> Common, Draconic<br>
-<strong>Challenge</strong> 15<br>
-<strong>Proficiency Bonus</strong> +5
+<strong>Tiri Salvezza</strong> For +10, Cos +10, Sag +8, Car +9<br>
+<strong>Competenze</strong> Atletica +10, Storia +6, Intimidire +9, Percezione +8<br>
+<strong>Resistenze ai Danni</strong> necrotici, psichici<br>
+<strong>Immunità ai Danni</strong> poison<br>
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, paralizzato, avvelenato, stordito<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18<br>
+<strong>Linguaggi</strong> Comune, Draconico<br>
+<strong>Grado di Sfida</strong> 15<br>
+<strong>Bonus di Competenza</strong> +5
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Vladimir doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.</p>
-<p><strong><em>Rejuvenation.</em></strong> When Vladimir's body is destroyed, his soul lingers. After 24 hours, the soul inhabits and animates another corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a wish spell can be used to force the soul to go to the afterlife and not return.</p>
-<p><strong><em>Turn Immunity.</em></strong> Vladimir is immune to effects that turn undead.</p>
-<p><strong><em>Oathbind.</em></strong> If Vladimir would kill a creature with his <strong><em>+2 greatsword</em></strong>, he can instead choose to stabilize that creature and subject it to the effects of a <em>geas</em> spell. This geas lasts until dispelled and can damage its bearer any number of times each day. A creature that takes damage in this way is also restrained until the start of its next turn. In addition, the geas can’t be ended or dispelled except through the effects of a <em>greater restoration</em> or <em>wish</em> spell, or if Vladimir uses an action to dismiss it.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vladimir makes two melee attacks. He can replace one of those attacks with a <strong><em>black flames</em></strong> attack.</p>
-<p><strong><em>Greatsword +2.</em></strong> Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 3 (1d6) piercing damage, and the target must make a DC 18 Wisdom saving throw. On a failure, it has disadvantage on the first attack roll or ability check it makes before the end of its next turn.</p>
-<p><strong><em>Black Flames.</em></strong> Ranged Spell Attack: +10 to hit, range 30 ft., one target. Hit: 7 (2d6) fire damage plus 3 (1d6) necrotic damage, and the target ignites in black flames. At the start of its next turn, the target and each creature within 5 feet of it must make a DC 17 Constitution saving throw or take an additional 7 (2d6) fire damage. (The flames can’t be doused by nonmagical means.)</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Gravepyre.</em></strong> Vladimir hurls a magical ball of black flames that explodes at a point he can see within 120 feet of him. Each creature in a 10-foot radius sphere centered on that point must make a DC 17 Dexterity saving throw. The sphere spreads around corners. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage on a failed save, or half as much damage on a successful one. On a failure, a creature also has disadvantage on the next attack it makes before the start of Vladimir’s next turn.</p>
-<p><strong><em>Destructive Wave.</em></strong> Vladimir strikes the ground with his greatsword, creating a burst of destructive energy that ripples outward from him. Each creature within 10 feet of him must succeed on a DC 18 Constitution saving throw or take 10 (3d6) thunder damage plus 10 (3d6) necrotic damage and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn’t knocked prone.</p>
-<h3>Reactions</h3>
-<p>Vladimir can take up to three reactions per round, but only one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Vladimir can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Vengeful Rush.</em></strong> In response to an enemy hitting or missing him with an attack, Vladimir charges toward it, moving up to 15 feet straight toward it without triggering opportunity attacks. If Vladimir ends his movement within 5 feet of that enemy, he can force it to make a DC 18 Strength saving throw. On a failure, the target takes 2d6 bludgeoning damage and Vladimir and the target move up to an additional 10 feet in the same direction without triggering opportunity attacks. If the target can’t move the full distance, it takes an additional 1d6 bludgeoning damage for each 5 feet not moved.</p>
-<p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
-<p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> Vladimir doesn't have disvantaggio su his ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Rigenerazione.</em></strong> Vladimir rigenera 10 punti ferita all'inizio del suo turno. Se subisce danni da fuoco o radiosi, questo tratto non funziona all'inizio del suo turno successivo. Il corpo di Vladimir viene distrutto solo se inizia il suo turno con 0 punti ferita e non si rigenera.</p>
+<p><strong><em>Ringiovanimento.</em></strong> Quando il corpo di Vladimir viene distrutto, la sua anima persiste. Dopo 24 ore, l'anima abita e anima un altro cadavere sullo stesso piano di esistenza e rigenera tutti i suoi punti ferita. Mentre l'anima è senza corpo, un incantesimo desiderio può essere usato per costringere l'anima ad andare nell'aldilà e non tornare.</p>
+<p><strong><em>Immunità allo Scacciare.</em></strong> Vladimir è immune agli effetti che scacciano i non morti.</p>
+<p><strong><em>Vincolo del Giuramento.</em></strong> Se Vladimir ucciderebbe una creatura con il suo <strong><em>spadone +2</em></strong>, può invece scegliere di stabilizzare quella creatura e sottoporla agli effetti di un incantesimo <em>imposizione</em>. Questa imposizione dura fino a quando non viene dissolta e può danneggiare il suo portatore un numero qualsiasi di volte al giorno. Una creatura che subisce danni in questo modo è anche trattenuta fino all'inizio del suo turno successivo. Inoltre, l'imposizione non può essere terminata o dissolta se non attraverso gli effetti di un incantesimo <em>ristorare superiore</em> o <em>desiderio</em>, o se Vladimir usa un'azione per congedarla.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vladimir effettua due attacchi in mischia. Può sostituire uno di quegli attacchi con un attacco <strong><em>fiamme nere</em></strong>.</p>
+<p><strong><em>Spadone +2.</em></strong> Attacco con Arma da Mischia: +12 al tiro per colpire, portata 1,5 m, un bersaglio. Colpito: 14 (2d6 + 7) danni taglienti più 3 (1d6) danni perforanti, e il bersaglio deve effettuare un tiro salvezza su Saggezza con CD 18. In caso di fallimento, ha svantaggio sul primo tiro per colpire o prova di caratteristica che effettua prima della fine del suo turno successivo.</p>
+<p><strong><em>Fiamme Nere.</em></strong> Attacco Magico a Distanza: +10 al tiro per colpire, gittata 9 m, un bersaglio. Colpito: 7 (2d6) danni da fuoco più 3 (1d6) danni necrotici, e il bersaglio prende fuoco con fiamme nere. All'inizio del suo turno successivo, il bersaglio e ogni creatura entro 1,5 m da esso devono effettuare un tiro salvezza su Costituzione con CD 17 o subire 7 (2d6) danni da fuoco aggiuntivi. (Le fiamme non possono essere spente con mezzi non magici.)</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Pira Sepolcrale.</em></strong> Vladimir scaglia una palla magica di fiamme nere che esplode in un punto che può vedere entro 36 m da lui. Ogni creatura in una sfera di 3 m di raggio centrata su quel punto deve effettuare un tiro salvezza su Destrezza con CD 17. La sfera si estende dietro gli angoli. Una creatura subisce 10 (3d6) danni da fuoco più 10 (3d6) danni necrotici con un tiro fallito, o la metà dei danni con un tiro riuscito. In caso di fallimento, una creatura ha anche svantaggio sul prossimo attacco che effettua prima dell'inizio del turno successivo di Vladimir.</p>
+<p><strong><em>Onda Distruttiva.</em></strong> Vladimir colpisce il suolo con il suo spadone, creando un'esplosione di energia distruttiva che si propaga da lui. Ogni creatura entro 3 m da lui deve superare un tiro salvezza su Costituzione con CD 18 o subire 10 (3d6) danni da tuono più 10 (3d6) danni necrotici e cadere prono. Una creatura che supera il tiro salvezza subisce la metà dei danni e non cade prono.</p>
+<h3>Reazioni</h3>
+<p>Vladimir può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione gli impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Vladimir può ripetere il tiro salvezza contro un effetto o condizione che lo sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Carica Vendicativa.</em></strong> In risposta a un nemico che lo colpisce o lo manca con un attacco, Vladimir carica verso di esso, muovendosi fino a 4,5 m in linea retta verso di esso senza provocare attacchi di opportunità. Se Vladimir termina il suo movimento entro 1,5 m da quel nemico, può costringerlo a effettuare un tiro salvezza su Forza con CD 18. In caso di fallimento, il bersaglio subisce 2d6 danni contundenti e Vladimir e il bersaglio si muovono fino a 3 m aggiuntivi nella stessa direzione senza provocare attacchi di opportunità. Se il bersaglio non può muoversi per l'intera distanza, subisce 1d6 danni contundenti aggiuntivi per ogni 1,5 m non percorsi.</p>
+<p><strong><em>Sguardo Vendicativo.</em></strong> In risposta a subire danni da un nemico entro 9 m, Vladimir costringe quella creatura a effettuare un tiro salvezza su Saggezza con CD 17. In caso di fallimento, la creatura è spaventata da Vladimir finché Vladimir non le infligge danni o fino alla fine del turno successivo di Vladimir. Se la creatura fallisce il tiro salvezza di 5 o più, è paralizzata invece.</p>
+<p><strong><em>Colpo della Sentinella.</em></strong> In risposta a una creatura che tenta di muoversi fuori dalla sua portata senza prima effettuare l'azione Disimpegno, Vladimir effettua un attacco contro di essa con il suo <strong><em>spadone +2</em></strong>. In caso di colpo, la creatura non subisce danni dall'attacco, ma cade prono e la sua velocità diventa 0 per il resto del turno.</p>
 </div>
 
-# Amber Temple
-
-## Vilnius
+# Tempio d’Ambra
 
 <div class="statblock">
-<h2>Vilnius, First Prisoner</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Vilnius, Primo Prigioniero</h2>
+<em>Non morto medio, Neutrale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 12  
+<strong>Classe Armatura</strong> 12  
 <br>
-<strong>Hit Points</strong> 105 (14d8 + 42)  
+<strong>Punti Ferita</strong> 105 (14d8 + 42)  
 <br>
-<strong>Speed</strong> 30 ft.  
+<strong>Velocità</strong> 9 m  
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2683,61 +2669,61 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Arcana +8, Stealth +8  
+<strong>Competenze</strong> Arcano +8, Furtività +8  
 <br>
-<strong>Damage Vulnerabilities</strong> radiant  
+<strong>Vulnerabilità ai Danni</strong> radiant  
 <br>
-<strong>Damage Resistances</strong> acid, cold, fire, lightning, thunder  
+<strong>Resistenze ai Danni</strong> da acido, da freddo, da fuoco, da fulmine, da tuono  
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Immunità ai Danni</strong> necrotici, da veleno  
 <br>
-<strong>Condition Immunities</strong> exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<strong>Immunità alle Condizioni</strong> esaurimento, spaventato, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, privo di sensi  
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 12  
 <br>
-<strong>Languages</strong> Common, Abyssal  
+<strong>Linguaggi</strong> Comune, Abissale  
 <br>
-<strong>Challenge</strong> 9 (5,000 XP)  
-<strong>Proficiency Bonus</strong> +4  <br>
+<strong>Grado di Sfida</strong> 9 (5,000 XP)  
+<strong>Bonus di Competenza</strong> +4  <br>
 <hr>
-<p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
-<p><strong><em>Illusionist Prodigy.</em></strong> Vilnius can concentrate on up to five spells at a time, provided all spells are of the illusion school. If he would lose concentration on one, he loses concentration on all of them.</p>
-<p><strong><em>Shadowed Restoration.</em></strong> If killed, Vilnius reforms in 24 hours if Jakarion is still alive, reviving with all his hit points. His new body appears in an unoccupied space within the Lecture Hall.</p>
-<p><strong><em>Find Familiar.</em></strong> Vilnius can cast <em>find familiar</em> as a ritual without components.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Vilnius makes two attacks with his dagger and casts *major image* or *phantasmal force* twice.</p>
-<p><strong><em>Dagger.</em></strong> Melee or Ranged Weapon Attack: <span class="highlight">+8 to hit</span>, reach 5 ft. or range 20/60 ft., one target. <em>Hit:</em> <span class="highlight">6 (1d4 + 4)</span> piercing damage plus <span class="highlight">21 (6d6) necrotic damage</span>, and the target must succeed on a <span class="highlight">DC 16 Constitution saving throw</span> or be <span class="highlight">poisoned</span> until the end of its next turn.</p>
-<p><strong><em>Phantasmal Force.</em></strong> Vilnius casts <em>phantasmal force</em>. A creature that fails its saving throw against the spell can repeat the saving throw at the end of each of its turns.</p>
-<p><strong><em>Major Image.</em></strong> Vilnius casts <em>major image</em>.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Blur.</em></strong> Vilnius casts <em>blur</em>.</p>
-<p><strong><em>Mirror Image.</em></strong> Vilnius casts <em>mirror image</em>. The spell lasts for 1 minute or until Vilnius loses his concentration.</p>
-<h3>Reactions</h3>
-<p><strong><em>Illusionist’s Trick.</em></strong> <em>Trigger:</em> A creature attacks or casts a spell targeting Vilnius, one of his allies, or an illusion resembling them. <em>Response:</em> If the target is an illusion identical to one of Vilnius’s allies, or an ally identical to one of his illusions, the two swap places, as though teleported by a <em>misty step</em> spell.</p>
-<p><strong><em>Horrifying Visage (1/Day).</em></strong> <em>Trigger:</em> Vilnius takes damage from a creature he can see. <em>Effect:</em> Each non-undead creature of Vilnius’s choice within <span class="highlight">30 feet</span> must make a <span class="highlight">DC 16 Wisdom saving throw</span> or be <span class="highlight">frightened</span> for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
+<p><strong><em>Amorfo.</em></strong> Vilnius può muoversi attraverso uno spazio stretto fino a 2,5 cm senza spendere movimento extra.</p>
+<p><strong><em>Prodigio Illusionista.</em></strong> Vilnius può concentrarsi su fino a cinque incantesimi alla volta, purché tutti siano della scuola di illusione. Se perderebbe la concentrazione su uno, la perde su tutti.</p>
+<p><strong><em>Rigenerazione Oscura.</em></strong> Se ucciso, Vilnius si riforma in 24 ore se Jakarion è ancora vivo, tornando con tutti i suoi punti ferita. Il suo nuovo corpo appare in uno spazio non occupato all'interno della Sala delle Lezioni.</p>
+<p><strong><em>Trova Famiglio.</em></strong> Vilnius può lanciare <em>trova famiglio</em> come rituale senza componenti.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Vilnius effettua due attacchi con il suo pugnale e lancia *immagine maggiore* o *forza fantasmatica* due volte.</p>
+<p><strong><em>Pugnale.</em></strong> Attacco con Arma da Mischia o a Distanza: <span class="highlight">+8 al tiro per colpire</span>, portata 1,5 m o gittata 6/18 m, un bersaglio. <em>Colpito:</em> <span class="highlight">6 (1d4 + 4)</span> danni perforanti più <span class="highlight">21 (6d6) danni necrotici</span>, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Costituzione con CD 16</span> o essere <span class="highlight">avvelenato</span> fino alla fine del suo turno successivo.</p>
+<p><strong><em>Forza Fantasmatica.</em></strong> Vilnius lancia <em>forza fantasmatica</em>. Una creatura che fallisce il tiro salvezza contro l'incantesimo può ripetere il tiro salvezza alla fine di ognuno dei suoi turni.</p>
+<p><strong><em>Immagine Maggiore.</em></strong> Vilnius lancia <em>immagine maggiore</em>.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Sfocatura.</em></strong> Vilnius lancia <em>sfocatura</em>.</p>
+<p><strong><em>Immagine Speculare.</em></strong> Vilnius lancia <em>immagine speculare</em>. L'incantesimo dura 1 minuto o finché Vilnius non perde la concentrazione.</p>
+<h3>Reazioni</h3>
+<p><strong><em>Trucco dell'Illusionista.</em></strong> <em>Innesco:</em> Una creatura attacca o lancia un incantesimo mirando a Vilnius, a uno dei suoi alleati, o a un'illusione che li assomiglia. <em>Risposta:</em> Se il bersaglio è un'illusione identica a uno degli alleati di Vilnius, o un alleato identico a una delle sue illusioni, i due si scambiano di posto, come se teletrasportati da un incantesimo <em>passo brumoso</em>.</p>
+<p><strong><em>Aspetto Terrificante (1/Giorno).</em></strong> <em>Innesco:</em> Vilnius subisce danni da una creatura che può vedere. <em>Effetto:</em> Ogni creatura non morta a scelta di Vilnius entro <span class="highlight">9 m</span> deve effettuare un <span class="highlight">tiro salvezza su Saggezza con CD 16</span> o essere <span class="highlight">spaventata</span> per 1 minuto. Una creatura spaventata può ripetere il tiro salvezza alla fine di ognuno dei suoi turni, terminando l'effetto su sé stessa con un successo.</p>
 </div>
 
 ## Patrina
 
 <div class="statblock">
-<h2>Patrina, Vengeful Wraith</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Patrina, Spettro Vendicativo</h2>
+<em>Non morto medio, Neutrale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 13  
+<strong>Classe Armatura</strong> 13  
 <br>
-<strong>Hit Points</strong> 285 (38d8 + 48)  
+<strong>Punti Ferita</strong> 285 (38d8 + 48)  
 <br>
-<strong>Speed</strong> 5 ft., fly 60 ft. (hover)  
+<strong>Velocità</strong> 1,5 m, fly 18 m (hover)  
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2752,62 +2738,62 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +9, Int +11, Wis +8, Cha +9  
+<strong>Tiri Salvezza</strong> Cos +9, Int +11, Sag +8, Car +9  
 <br>
-<strong>Skills</strong> Arcana +17, History +11, Insight +8, Perception +8  
+<strong>Competenze</strong> Arcano +17, Storia +11, Intuizione +8, Percezione +8  
 <br>
-<strong>Damage Resistances</strong> acid; cold; fire; bludgeoning, piercing, and slashing from nonmagical weapons  
+<strong>Resistenze ai Danni</strong> da acido; da freddo; da fuoco; contundenti, perforanti e taglienti da armi non magiche  
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Immunità ai Danni</strong> necrotici, da veleno  
 <br>
-<strong>Condition Immunities</strong> charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious  
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, afferrato, paralizzato, pietrificato, avvelenato, prono, trattenuto, privo di sensi  
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 18  
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 18  
 <br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<strong>Linguaggi</strong> Comune, Elfico, Abissale, Infernale, Draconico, Silvano  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
+<strong>Grado di Sfida</strong> 18 (20,000 XP)  
+<strong>Bonus di Competenza</strong> +6  
 <hr>
-<p><strong><em>Incorporeal Movement.</em></strong> Patrina can move through other creatures and objects as if they were difficult terrain. She takes <span class="highlight">5 (1d10) force damage</span> if she ends her turn inside an object.</p>
-<p><strong><em>Sunlight Sensitivity.</em></strong> While in sunlight, Patrina has <span class="highlight">disadvantage</span> on ability checks and attack rolls.</p>
-<p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Patrina makes two attacks, only one of which can be an <strong><em>amber tentacle</em></strong> attack, and can use <strong><em>charm wielder</em></strong> once.</p>
-<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. Amber Vault</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
-<p><strong><em>Corrupting Touch.</em></strong> <em>Melee Spell Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (4d6 + 2) necrotic damage.</p>
-<p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>Sunsword</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
-<p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
-<h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Counterspell (1/round).</em></strong> <strong>Trigger:</strong> Patrina sees a creature within <span class="highlight">60 feet</span> of her cast a spell. <strong>Effect:</strong> Patrina casts <em>counterspell</em> at 3rd level. A creature whose spell would be countered in this way can use its reaction to spend a spell slot and make a DC19 saving throw using its spellcasting ability modifier. Reduce the DC by 1 for each level of spell slot spent for the casting and as part of this reaction. On a success, Patrina’s <em>counterspell</em> fails and has no effect.</p>
-<p><strong><em>Ghostly Walk.</em></strong> <strong>Trigger:</strong> A creature Patrina can see within <span class="highlight">60 feet</span> of her ends its turn. <strong>Effect:</strong> Patrina moves up to her speed toward or away from that creature without provoking opportunity attacks.</p>
-<p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
+<p><strong><em>Movimento Incorporeo.</em></strong> Patrina può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce <span class="highlight">5 (1d10) danni da forza</span> se termina il suo turno all'interno di un oggetto.</p>
+<p><strong><em>Sensibilità alla Luce Solare.</em></strong> Mentre si trova alla luce del sole, Patrina ha <span class="highlight">svantaggio</span> sulle prove di caratteristica e sui tiri per colpire.</p>
+<p><strong><em>Incarnazione Oscura.</em></strong> Quando Patrina è ridotta a <span class="highlight">0 punti ferita</span>, tutti i sarcofagi d'ambra entro <span class="highlight">18 m</span> da lei estrudono viticci di nebbia oscura, che lei inala. La sua forma eterea diventa quindi solida, formando carne pallida e non morta e occhi d'ambra infossati. Le sue statistiche vengono istantaneamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono e non conserva nessuna delle condizioni che aveva nella sua forma precedente. Può immediatamente usare il suo tratto <strong><em>arma dell'anima</em></strong>.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Patrina effettua due attacchi, di cui solo uno può essere un attacco con <strong><em>tentacolo d'ambra</em></strong>, e può usare <strong><em>affascinare portatore</em></strong> una volta.</p>
+<p><strong><em>Tentacolo d'Ambra.</em></strong> <em>Attacco con Arma da Mischia:</em> +11 al tiro per colpire, portata 4,5 m, un bersaglio entro 4,5 m da una delle pareti in <span class="citation">X42. Cripta d'Ambra</span>. <strong>Colpito:</strong> <span class="highlight">19 (2d12 + 6) danni contundenti</span>, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Forza con CD 19</span> o essere <span class="highlight">afferrato</span> (CD di fuga 19) o <span class="highlight">spinto a 3 m di distanza</span> (a scelta di Patrina). Se il bersaglio fallisce il tiro di <span class="highlight">10 o più</span>, <span class="highlight">cade anche prono</span>.</p>
+<p><strong><em>Tocco Corruttore.</em></strong> <em>Attacco Magico in Mischia:</em> +11 al tiro per colpire, portata 1,5 m, un bersaglio. <em>Colpito:</em> 16 (4d6 + 2) danni necrotici.</p>
+<p><strong><em>Affascinare Portatore.</em></strong> Patrina costringe la creatura in possesso della <em>Lama del Sole</em> a superare un <span class="highlight">tiro salvezza su Carisma con CD 19</span> o essere <span class="highlight">affascinata</span> da lei per <span class="highlight">1 minuto</span>. Mentre è affascinata, la creatura deve cercare di seguire i comandi di Patrina. Se la creatura subisce danni, può ripetere il tiro salvezza, terminando l'effetto in caso di successo. L'effetto termina se la creatura non è più in possesso della <em>Lama del Sole</em>.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Animare Golem (1/Giorno).</em></strong> Patrina evoca frammenti d'ambra da X40, Tesoro Sigillato, e li plasma in due <strong>costrutti d'ambra</strong>. Un costrutto d'ambra agisce nell'iniziativa di Patrina, ma effettua il suo turno immediatamente dopo il suo.</p>
+<p><strong><em>Evocare Sarcofagi.</em></strong> Sarcofagi d'ambra cavi si materializzano attorno a ogni creatura a scelta di Patrina entro <span class="highlight">1,5 m</span> da Patrina o da un punto che può vedere entro <span class="highlight">9 m</span>. Ogni creatura deve superare un <span class="highlight">tiro salvezza su Destrezza con CD 19</span> o restare intrappolata nel suo sarcofago. Ogni sarcofago ha <span class="highlight">CA 15</span>, <span class="highlight">15 punti ferita</span> e immunità ai danni da veleno e psichici.</p>
+<h3>Reazioni</h3>
+<p>Patrina può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Patrina può ripetere il tiro salvezza contro un effetto o condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Controincantesimo (1/round).</em></strong> <strong>Innesco:</strong> Patrina vede una creatura entro <span class="highlight">18 m</span> da lei lanciare un incantesimo. <strong>Effetto:</strong> Patrina lancia <em>controincantesimo</em> al 3° livello. Una creatura il cui incantesimo verrebbe contrastato in questo modo può usare la sua reazione per spendere uno slot incantesimo ed effettuare un tiro salvezza con CD 19 usando il suo modificatore di caratteristica da incantatore. La CD si riduce di 1 per ogni livello dello slot incantesimo speso per il lancio e come parte di questa reazione. In caso di successo, il <em>controincantesimo</em> di Patrina fallisce e non ha effetto.</p>
+<p><strong><em>Passo Spettrale.</em></strong> <strong>Innesco:</strong> Una creatura che Patrina può vedere entro <span class="highlight">18 m</span> da lei termina il suo turno. <strong>Effetto:</strong> Patrina si muove fino alla sua velocità verso o lontano da quella creatura senza provocare attacchi di opportunità.</p>
+<p><strong><em>Tentacolo d'Ambra (2/round).</em></strong> <strong>Innesco:</strong> Patrina subisce danni da una creatura che può vedere entro <span class="highlight">9 m</span>. <strong>Effetto:</strong> Patrina effettua un attacco con <strong><em>tentacolo d'ambra</em></strong> contro quella creatura.</p>
 </div>
 
 
 <div class="statblock">
-<h2>Patrina, Half-Lich</h2>
-<em>Medium undead, neutral evil</em>
+<h2>Patrina, Semi-Lich</h2>
+<em>Non morto medio, Neutrale Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 20  
+<strong>Classe Armatura</strong> 20  
 <br>
-<strong>Hit Points</strong> 262 (35d8 + 105)  
+<strong>Punti Ferita</strong> 262 (35d8 + 105)  
 <br>
-<strong>Speed</strong> 30 ft.  
+<strong>Velocità</strong> 9 m  
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2822,60 +2808,58 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Dex +10, Con +10, Int +12, Wis +9  
+<strong>Tiri Salvezza</strong> Des +10, Cos +10, Int +12, Sag +9  
 <br>
-<strong>Skills</strong> Arcana +19, History +12, Insight +9  
+<strong>Competenze</strong> Arcano +19, Storia +12, Intuizione +9  
 <br>
-<strong>Damage Resistances</strong> cold, lightning  
+<strong>Resistenze ai Danni</strong> da freddo, da fulmine  
 <br>
-<strong>Damage Immunities</strong> necrotic, poison  
+<strong>Immunità ai Danni</strong> necrotici, da veleno  
 <br>
-<strong>Condition Immunities</strong> charmed, exhaustion, frightened, paralyzed, poisoned  
+<strong>Immunità alle Condizioni</strong> affascinato, esaurimento, spaventato, paralizzato, avvelenato  
 <br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 12  
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 12  
 <br>
-<strong>Languages</strong> Common, Elvish, Abyssal, Infernal, Draconic, Sylvan  
+<strong>Linguaggi</strong> Comune, Elfico, Abissale, Infernale, Draconico, Silvano  
 <br>
-<strong>Challenge</strong> 18 (20,000 XP)  
-<strong>Proficiency Bonus</strong> +6  
+<strong>Grado di Sfida</strong> 18 (20,000 XP)  
+<strong>Bonus di Competenza</strong> +6  
 <hr>
-<p><strong><em>Soul Weapon.</em></strong> If Patrina isn’t holding the <em>Sunsword</em> at the start of her turn, it magically appears in her empty hand as her <strong><em>Shadowblade</em></strong>, a blade of pure darkness springing from the hilt.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Patrina makes four attacks with her <strong><em>shadowblade</em></strong>. She can replace up to one of those attacks with her <strong><em>life drain</em></strong>.</p>
-<p><strong><em>Shadowblade.</em></strong> <em>Melee Weapon Attack:</em> +10 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">12 (2d8 + 3) necrotic damage</span>.</p>
-<p><strong><em>Life Drain.</em></strong> <em>Melee Spell Attack:</em> +12 to hit, reach 5 ft., one target. <strong><em>Hit:</em></strong> <span class="highlight">8 (2d4 + 3) necrotic damage</span>. If the target is a creature, its hit point maximum decreases by an amount equal to the damage taken, and Patrina regains hit points equal to the damage dealt.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Crackling Doom.</em></strong> Crackling bolts of lightning arc from Patrina's fingertips in a <span class="highlight">30-foot cone</span>. Each creature in that area must make a <span class="highlight">DC 19 Dexterity saving throw</span>, taking <span class="highlight">14 (4d6) lightning damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it is <span class="highlight">slowed</span> until the start of Patrina’s next turn. (A slowed creature must spend <span class="highlight">1 extra foot of movement for every foot it moves</span> using its speed, attack rolls against it have <span class="highlight">advantage</span>, and it has <span class="highlight">disadvantage</span> on Dexterity saving throws.)</p>
-<p><strong><em>Negative Energy Burst.</em></strong> Negative energy ripples out in a <span class="highlight">5-foot-radius sphere</span> from Patrina or a point she can see within <span class="highlight">90 feet</span>. Each creature in that area must make a <span class="highlight">DC 19 Constitution saving throw</span>, taking <span class="highlight">14 (4d6) necrotic damage</span> on a failure or half as much on a success. If a creature fails its save by <span class="highlight">5 or more</span>, it also <span class="highlight">falls prone</span>.</p>
-<h3>Reactions</h3>
-<p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Patrina can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry (1/Round).</em></strong> <em>Trigger:</em> Patrina is hit by a melee or ranged attack while holding the <em>Sunsword</em>. <em>Effect:</em> Patrina adds <span class="highlight">+6</span> to her Armor Class against that attack, possibly causing it to miss.</p>
-<p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
-<p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
+<p><strong><em>Arma dell'Anima.</em></strong> Se Patrina non impugna la <em>Lama del Sole</em> all'inizio del suo turno, essa appare magicamente nella sua mano libera come la sua <strong><em>Lama d'Ombra</em></strong>, una lama di pura oscurità che scaturisce dall'elsa.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Patrina effettua quattro attacchi con la sua <strong><em>lama d'ombra</em></strong>. Può sostituire fino a uno di quegli attacchi con il suo <strong><em>risucchio vitale</em></strong>.</p>
+<p><strong><em>Lama d'Ombra.</em></strong> <em>Attacco con Arma da Mischia:</em> +10 al tiro per colpire, portata 1,5 m, un bersaglio. <strong><em>Colpito:</em></strong> <span class="highlight">12 (2d8 + 3) danni necrotici</span>.</p>
+<p><strong><em>Risucchio Vitale.</em></strong> <em>Attacco Magico in Mischia:</em> +12 al tiro per colpire, portata 1,5 m, un bersaglio. <strong><em>Colpito:</em></strong> <span class="highlight">8 (2d4 + 3) danni necrotici</span>. Se il bersaglio è una creatura, il suo massimo di punti ferita diminuisce di un ammontare pari ai danni subiti, e Patrina recupera punti ferita pari ai danni inflitti.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Destino Crepitante.</em></strong> Saette crepitanti si dipartono dalle dita di Patrina in un <span class="highlight">cono di 9 m</span>. Ogni creatura in quell'area deve effettuare un <span class="highlight">tiro salvezza su Destrezza con CD 19</span>, subendo <span class="highlight">14 (4d6) danni da fulmine</span> in caso di fallimento o la metà con un tiro riuscito. Se una creatura fallisce il tiro di <span class="highlight">5 o più</span>, è <span class="highlight">rallentata</span> fino all'inizio del prossimo turno di Patrina. (Una creatura rallentata deve spendere <span class="highlight">30 cm di movimento aggiuntivi per ogni 30 cm</span> percorsi usando la sua velocità, i tiri per colpire contro di essa hanno <span class="highlight">vantaggio</span>, e ha <span class="highlight">svantaggio</span> sui tiri salvezza su Destrezza.)</p>
+<p><strong><em>Esplosione di Energia Negativa.</em></strong> Energia negativa si propaga in una <span class="highlight">sfera con raggio di 1,5 m</span> da Patrina o da un punto che può vedere entro <span class="highlight">27 m</span>. Ogni creatura in quell'area deve effettuare un <span class="highlight">tiro salvezza su Costituzione con CD 19</span>, subendo <span class="highlight">14 (4d6) danni necrotici</span> in caso di fallimento o la metà con un tiro riuscito. Se una creatura fallisce il tiro di <span class="highlight">5 o più</span>, <span class="highlight">cade anche prono</span>.</p>
+<h3>Reazioni</h3>
+<p>Patrina può effettuare fino a tre reazioni per round, ma solo una per turno. Se un effetto o condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Patrina può ripetere il tiro salvezza contro un effetto o condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Parata (1/Round).</em></strong> <em>Innesco:</em> Patrina viene colpita da un attacco in mischia o a distanza mentre impugna la <em>Lama del Sole</em>. <em>Effetto:</em> Patrina aggiunge <span class="highlight">+6</span> alla sua Classe Armatura contro quell'attacco, potendo farlo mancare.</p>
+<p><strong><em>Teletrasporto Vile (1/Round).</em></strong> <em>Innesco:</em> Una creatura che Patrina può vedere entro <span class="highlight">9 m</span> termina il suo turno. <em>Effetto:</em> Patrina si teletrasporta fino a <span class="highlight">9 m</span> verso o lontano da quella creatura. Può far subire a ogni creatura entro <span class="highlight">1,5 m</span> dallo spazio di destinazione <span class="highlight">10 (3d6) danni necrotici</span>.</p>
+<p><strong><em>Rimprovero Funesto.</em></strong> <em>Innesco:</em> Patrina viene colpita da un attacco. <em>Effetto:</em> Patrina pronuncia una parola funesta, infliggendo <span class="highlight">10 (3d6) danni necrotici</span> all'attaccante. Si teletrasporta quindi fino a <span class="highlight">9 m</span> in uno spazio non occupato che può vedere, insieme a qualsiasi equipaggiamento che indossa o trasporta.</p>
 </div>
 
 # Berez
 
-## Baba Lysaga
-
 <div class="statblock">
-<h2>Baba Lysaga, Witch Mother</h2>
-<em>Medium humanoid (human, shapechanger), chaotic evil</em>
+<h2>Baba Lysaga, Madre Strega</h2>
+<em>Umanoide medio (umano, mutaforma), Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 135 (18d8 + 54)<br>
-<strong>Speed</strong> 30 ft., fly 30 ft. (while in her flying skull)
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 135 (18d8 + 54)<br>
+<strong>Velocità</strong> 9 m, volo 9 m (mentre cavalca il suo teschio volante)
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2890,54 +2874,54 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +7, Wis +7<br>
-<strong>Skills</strong> Arcana +13, Religion +13<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
-<strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri Salvezza</strong> Cos +7, Sag +7<br>
+<strong>Competenze</strong> Arcano +13, Religione +13<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Linguaggi</strong> Abissale, Comune, Draconico, Nanico, Gigante<br>
+<strong>Grado di Sfida</strong> 10<br>
+<strong>Bonus di Competenza</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
-<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
-<p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
-<p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17 Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
-<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 17, +9 to hit with spell attacks):<br>
-<em>At will</em>: acid splash (3d6 damage), mage hand, detect magic, magic missile (level 2 version), sleep (level 2 version), lightning bolt<br>
-<em>3/day each</em>: Evard’s black tentacles, polymorph<br>
-<em>1/day each</em>: scrying, programmed illusion, mirage arcane</p>
-<p><strong><em>Devouring Flies.</em></strong> Swarming flies fill a <span class="highlight">10-foot-radius</span> sphere centered on a point Baba Lysaga can see within 60 feet. Each creature within the sphere must make a DC 17 Constitution saving throw, taking <span class="highlight">11 (2d10)</span> piercing damage on a failed save or half as much damage on a successful one. Whether a creature succeeds or fails its Constitution saving throw, any spells of 3rd level or lower on that creature end. If a creature is concentrating on a spell that would be dispelled in this way, it can use its reaction to spend a spell slot of 1st level or higher. If it does, the spell doesn’t end.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Swarm.</em></strong> Baba Lysaga magically polymorphs into a <strong>swarm of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
-<h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by a melee attack roll. <strong>Effect:</strong> Baba Lysaga’s bladed hair braids attempt to block the attack, forcing the attacker to reroll the attack. (The attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use her Hair Blades against the attacker. This reaction has no effect if the first attack was a critical hit.</p>
-<p><strong><em>Swarm.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn or Baba Lysaga takes damage from falling. <strong>Effect:</strong> Baba Lysaga uses her Swarm. If she would take damage from her fall, she takes no damage instead.</p>
-<p><strong><em>Hair Blades.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn after attacking Baba Lysaga with a melee attack. <strong>Effect:</strong> Baba Lysaga uses her Hair Blades against that creature.</p>
-<p><strong><em>Insect Shield (1/round).</em></strong> <strong>Trigger:</strong> Baba Lysaga takes damage from a spell shaped in a cone or line, or from a ranged spell attack roll. <strong>Effect:</strong> Baba Lysaga forces the spell’s caster to make a <span class="highlight">DC 17</span> saving throw using their spellcasting ability. On a failure, Baba Lysaga takes no damage from that spell this turn.</p>
-<p><strong><em>Lightning Bolt (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Spellcasting to cast <em>lightning bolt</em>.</p>
+<p><strong><em>Benedizione di Madre Notte.</em></strong> Baba Lysaga è protetta dalla magia di divinazione, come se fosse protetta da un incantesimo di <em>non-individuazione</em>.</p>
+<p><strong><em>Lancio Abile.</em></strong> Baba Lysaga può concentrarsi su un massimo di tre incantesimi alla volta. Se dovesse perdere la concentrazione su uno, la perde su tutti.</p>
+<p><strong><em>Teschio Volante.</em></strong> Mentre cavalca il suo teschio gigante volante, Baba Lysaga ottiene una velocità di volo di 9 m e ha mezza copertura. Il teschio condivide i punteggi di Forza, Destrezza e Costituzione e i tiri salvezza di Baba Lysaga, ed è altrimenti come descritto in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span>.</p>
+<p><strong><em>Inghiottita dalla Palude.</em></strong> Quando Baba Lysaga è ridotta a 0 punti ferita, si tuffa o affonda nella palude di Berez. Riemerge quindi, cavalcando una torre di liane palustri avvolte attorno alla parte inferiore del suo corpo. Le sue statistiche vengono istantaneamente sostituite da quelle della sua seconda forma. Il suo conteggio di iniziativa non cambia, i danni in eccesso non si trasferiscono e non conserva nessuna delle condizioni che aveva nella sua forma precedente.</p>
+<h3>Azioni</h3>
+<p><strong><em>Multiattacco.</em></strong> Baba Lysaga usa Lame di Capelli due volte, o usa Lancio di Incantesimi per lanciare <em>schizzo acido</em> due volte.</p>
+<p><strong><em>Lame di Capelli.</em></strong> Attacco con Arma da Mischia: +9 al tiro per colpire, portata 1,5 m, una creatura. Colpito: <span class="highlight">9 (1d8 + 5)</span> danni taglienti più <span class="highlight">4 (1d8)</span> danni da veleno, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Costituzione con CD 17</span> o essere <span class="highlight">avvelenato</span> per 1 minuto o finché non riceve guarigione magica. Una creatura avvelenata in questo modo deve effettuare un <span class="highlight">tiro salvezza su Costituzione con CD 17</span> alla fine di ciascuno dei suoi turni. Ogni volta che fallisce, diventa <span class="highlight">rallentata</span> se è attualmente avvelenata, o diventa <span class="highlight">paralizzata</span> se è attualmente rallentata. Ogni volta che ha successo, diventa rallentata se è attualmente paralizzata, diventa avvelenata se è attualmente rallentata, o non è più avvelenata se è attualmente avvelenata. Se la creatura ottiene un 20 naturale, non è più avvelenata.</p>
+<p><strong><em>Lancio di Incantesimi.</em></strong> Baba Lysaga lancia uno dei seguenti incantesimi, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza 17, +9 al tiro per colpire con attacchi magici):<br>
+<em>A volontà</em>: schizzo acido (3d6 danni), mano magica, individuazione del magico, dardo incantato (versione di 2° livello), sonno (versione di 2° livello), fulmine<br>
+<em>3/giorno ciascuno</em>: tentacoli neri di Evard, metamorfosi<br>
+<em>1/giorno ciascuno</em>: scrutare, illusione programmata, miraggio arcano</p>
+<p><strong><em>Mosche Divoratrici.</em></strong> Mosche in sciame riempiono una sfera con <span class="highlight">raggio di 3 m</span> centrata su un punto che Baba Lysaga può vedere entro 18 m. Ogni creatura nella sfera deve effettuare un tiro salvezza su Costituzione con CD 17, subendo <span class="highlight">11 (2d10)</span> danni perforanti con un tiro fallito o la metà dei danni con un tiro riuscito. Che una creatura superi o meno il tiro salvezza su Costituzione, qualsiasi incantesimo di 3° livello o inferiore su quella creatura termina. Se una creatura è concentrata su un incantesimo che verrebbe dissolto in questo modo, può usare la sua reazione per spendere uno slot incantesimo di 1° livello o superiore. Se lo fa, l'incantesimo non termina.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Sciame.</em></strong> Baba Lysaga si trasforma magicamente in uno <strong>sciame di insetti</strong> (mosche), vola fino a 9 m, poi riprende la sua vera forma. Qualsiasi cosa indossi o trasporti si trasforma con lei. Mentre è trasformata, gli attacchi con arma da mischia contro di lei hanno <span class="highlight">svantaggio</span>.</p>
+<h3>Reazioni</h3>
+<p>Baba Lysaga può effettuare fino a cinque reazioni per round, ma solo una per turno. Se un effetto o condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga può ripetere il tiro salvezza contro un effetto o condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Baba Lysaga viene colpita da un tiro per colpire in mischia. <strong>Effetto:</strong> Le trecce di capelli affilati di Baba Lysaga tentano di bloccare l'attacco, costringendo l'attaccante a ritirare il tiro per colpire. (L'attaccante deve usare il nuovo tiro.) Se il nuovo tiro è un fallimento critico, Baba Lysaga può immediatamente usare le sue Lame di Capelli contro l'attaccante. Questa reazione non ha effetto se il primo attacco era un colpo critico.</p>
+<p><strong><em>Sciame.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno o Baba Lysaga subisce danni da caduta. <strong>Effetto:</strong> Baba Lysaga usa il suo Sciame. Se dovesse subire danni dalla caduta, non subisce invece alcun danno.</p>
+<p><strong><em>Lame di Capelli.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno dopo aver attaccato Baba Lysaga con un attacco in mischia. <strong>Effetto:</strong> Baba Lysaga usa le sue Lame di Capelli contro quella creatura.</p>
+<p><strong><em>Scudo d'Insetti (1/round).</em></strong> <strong>Innesco:</strong> Baba Lysaga subisce danni da un incantesimo con forma a cono o linea, o da un tiro per colpire con attacco magico a distanza. <strong>Effetto:</strong> Baba Lysaga costringe il lanciatore dell'incantesimo a effettuare un tiro salvezza con <span class="highlight">CD 17</span> usando la sua caratteristica da incantatore. In caso di fallimento, Baba Lysaga non subisce danni da quell'incantesimo in questo turno.</p>
+<p><strong><em>Fulmine (1/round).</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa il suo Lancio di Incantesimi per lanciare <em>fulmine</em>.</p>
 </div>
 
 <div class="statblock">
-<h2>Baba Lysaga, Of the Swamp</h2>
-<em>Large humanoid (human, shapechanger), chaotic evil</em>
+<h2>Baba Lysaga, della Palude</h2>
+<em>Umanoide grande (umano, mutaforma), Caotico Malvagio</em>
 <hr>
-<strong>Armor Class</strong> 15 (natural armor)<br>
-<strong>Hit Points</strong> 135 (18d8 + 54)<br>
-<strong>Speed</strong> 30 ft.
+<strong>Classe Armatura</strong> 15 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 135 (18d8 + 54)<br>
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -2952,52 +2936,52 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Con +7, Wis +7<br>
-<strong>Skills</strong> Arcana +13, Religion +13<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 13<br>
-<strong>Languages</strong> Abyssal, Common, Draconic, Dwarvish, Giant<br>
-<strong>Challenge</strong> 10<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri Salvezza</strong> Cos +7, Sag +7<br>
+<strong>Competenze</strong> Arcano +13, Religione +13<br>
+<strong>Sensi</strong> scurovisione 18 m, Percezione passiva 13<br>
+<strong>Linguaggi</strong> Abissale, Comune, Draconico, Nanico, Gigante<br>
+<strong>Grado di Sfida</strong> 10<br>
+<strong>Bonus di Competenza</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
-<p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
-<h3>Actions</h3>
-<p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit with spell attacks):<br>
-<em>At will</em>: acid splash (3d6 damage), control water<br>
-<em>1/day each</em>: giant insect (centipede), wall of thorns</p>
-<p><strong><em>Grasping Vine.</em></strong> Baba Lysaga casts or attacks with <em>grasping vine</em>, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit). When cast in this way, she must use an action to repeat the attack on her later turns.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in Berez, she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
-<h3>Reactions</h3>
-<p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Baba Lysaga is hit by an attack roll. <strong>Effect:</strong> Baba Lysaga casts and attempts to parry the attack with <em>grasping vine</em>, forcing the attacker to reroll the attack. (She can’t attack with the vine this turn, and the attacker must use the new attack roll.) If the new attack roll is a critical miss, Baba Lysaga can immediately use the grasping vine to attack the attacker. This reaction has no effect if the first attack was a critical hit.</p>
-<p><strong><em>Swampwalk (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Swampwalk.</p>
-<p><strong><em>Grasping Vine.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Grasping Vine against that creature.</p>
+<p><strong><em>Benedizione di Madre Notte.</em></strong> Baba Lysaga è protetta dalla magia di divinazione, come se fosse protetta da un incantesimo di <em>non-individuazione</em>.</p>
+<p><strong><em>Lancio Abile.</em></strong> Baba Lysaga può concentrarsi su un massimo di tre incantesimi alla volta. Se dovesse perdere la concentrazione su uno, la perde su tutti.</p>
+<h3>Azioni</h3>
+<p><strong><em>Lancio di Incantesimi.</em></strong> Baba Lysaga lancia uno dei seguenti incantesimi, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza 18, +10 al tiro per colpire con attacchi magici):<br>
+<em>A volontà</em>: schizzo acido (3d6 danni), controllo dell'acqua<br>
+<em>1/giorno ciascuno</em>: insetto gigante (centopiedi), muro di spine</p>
+<p><strong><em>Rampicante Afferrante.</em></strong> Baba Lysaga lancia o attacca con <em>rampicante afferrante</em>, usando Intelligenza come caratteristica da incantatore (CD del tiro salvezza 18, +10 al tiro per colpire). Quando lanciato in questo modo, deve usare un'azione per ripetere l'attacco nei suoi turni successivi.</p>
+<h3>Azioni Bonus</h3>
+<p><strong><em>Passo Palustre.</em></strong> Se Baba Lysaga si trova a Berez, si immerge nell'acqua o nella terra sotto di lei, poi riemerge da un'area quadrata di 1,5 m di acqua o terra entro 9 m.</p>
+<h3>Reazioni</h3>
+<p>Baba Lysaga può effettuare fino a cinque reazioni per round, ma solo una per turno. Se un effetto o condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga può ripetere il tiro salvezza contro un effetto o condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l'effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Parata.</em></strong> <strong>Innesco:</strong> Baba Lysaga viene colpita da un tiro per colpire. <strong>Effetto:</strong> Baba Lysaga lancia e tenta di parare l'attacco con <em>rampicante afferrante</em>, costringendo l'attaccante a ritirare il tiro per colpire. (Non può attaccare con il rampicante in questo turno, e l'attaccante deve usare il nuovo tiro.) Se il nuovo tiro è un fallimento critico, Baba Lysaga può immediatamente usare il rampicante afferrante per attaccare l'attaccante. Questa reazione non ha effetto se il primo attacco era un colpo critico.</p>
+<p><strong><em>Passo Palustre (1/round).</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa il suo Passo Palustre.</p>
+<p><strong><em>Rampicante Afferrante.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> Baba Lysaga usa il suo Rampicante Afferrante contro quella creatura.</p>
 </div>
 
-> [!info]+ **Grasping Vine**
-> Baba Lysaga’s *grasping vine* spell uses the base statistics provided in the 2024 Player’s Handbook, rather than those provided in the 2014 *Player’s Handbook*.
+> [!info]+ **Rampicante Afferrante**
+> L'incantesimo *rampicante afferrante* di Baba Lysaga usa le statistiche base fornite nel Manuale del Giocatore 2024, anziché quelle fornite nel *Manuale del Giocatore* 2014.
 
 ## Creeping Hut
 
 <div class="statblock">
-<h2>Creeping Hut</h2>
-<em>Gargantuan construct, unaligned</em>
+<h2>Capanna Strisciante</h2>
+<em>Costrutto gargantuesco, senza allineamento</em>
 <hr>
-<strong>Armor Class</strong> 16 (natural armor)<br>
-<strong>Hit Points</strong> 263 (17d20 + 85)<br>
-<strong>Speed</strong> 30 ft.
+<strong>Classe Armatura</strong> 16 (armatura naturale)<br>
+<strong>Punti Ferita</strong> 263 (17d20 + 85)<br>
+<strong>Velocità</strong> 9 m
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
+      <th>FOR</th>
+      <th>DES</th>
+      <th>COS</th>
       <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
+      <th>SAG</th>
+      <th>CAR</th>
     </tr>
   </thead>
   <tbody>
@@ -3012,26 +2996,27 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
   </tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +12<br>
-<strong>Damage Resistances</strong> bludgeoning, cold, piercing<br>
-<strong>Damage Immunities</strong> poison, psychic<br>
-<strong>Condition Immunities</strong> blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone<br>
-<strong>Senses</strong> blindsight 120 ft. (blind beyond this radius), passive Perception 6<br>
-<strong>Languages</strong> —<br>
-<strong>Challenge</strong> 15 (8,400 XP)<br>
-<strong>Proficiency Bonus</strong> +4
+<strong>Tiri Salvezza</strong> For +12<br>
+<strong>Resistenze ai Danni</strong> contundenti, da freddo, perforanti<br>
+<strong>Immunità ai Danni</strong> da veleno, psichici<br>
+<strong>Immunità alle Condizioni</strong> accecato, affascinato, assordato, esaurimento, spaventato, paralizzato, pietrificato, prono<br>
+<strong>Sensi</strong> vista cieca 36 m (cieco oltre questo raggio), Percezione passiva 6<br>
+<strong>Linguaggi</strong> —<br>
+<strong>Grado di Sfida</strong> 15 (8,400 XP)<br>
+<strong>Bonus di Competenza</strong> +4
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> The hut doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Immutable Form.</em></strong> The hut is immune to any spell or effect that would alter its form.</p>
-<p><strong><em>Siege Monster.</em></strong> The hut deals double damage to objects and structures.</p>
-<p><strong><em>Stolen Gem.</em></strong> The hut is animated by a magic gem shaped like a viridian pinecone embedded in the stump beneath its floorboards, held in place by a black root (AC 15, 10 hit points, vulnerability to fire damage, and immunity to poison and psychic damage). A player who removes the hut’s floorboards as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span> exposes the gem, and can remove the gem by destroying the root or succeeding on a DC 15 Strength check. The hut dies if the gem is removed.</p>
-<h3>Actions</h3>
-<p><strong><em>Root.</em></strong> Melee Weapon Attack: +12 to hit, reach 20 ft., one target. Hit: <span class="highlight">24 (3d10 + 8)</span> bludgeoning damage, and the target must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">knocked prone</span> or <span class="highlight">pushed up to 10 feet</span> away. If the save fails by 10 or more, the hut can <span class="highlight">grapple</span> the target instead of pushing it or knocking it prone (escape DC 20).</p>
-<p><strong><em>Throw.</em></strong> A creature grappled by the hut must succeed on a <span class="highlight">DC 20 Strength saving throw</span> or be <span class="highlight">thrown 60 feet</span> away. A creature thrown in this way falls twenty feet and lands <span class="highlight">prone</span>.</p>
-<p><strong><em>Rock.</em></strong> Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: <span class="highlight">21 (3d8 + 8)</span> bludgeoning damage.</p>
-<h3>Reactions</h3>
-<p>The hut can take up to <strong>three reactions per round</strong>, but only one per turn. If an effect or condition would prevent it from taking reactions, it loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> The hut can repeat the saving throw against one effect or condition currently affecting it. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Root.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 20 feet of the hut. <strong>Effect:</strong> The hut attacks that creature with its Root.</p>
-<p><strong><em>Bite.</em></strong> <strong>Trigger:</strong> A creature attempts to retrieve the gem from the hut’s stump. <strong>Effect:</strong> The hut attempts to bite the creature’s arm or body with its floorboards, forcing that creature to succeed on a DC 20 Dexterity saving throw or take 9 (2d8) piercing damage and be grappled (escape DC 20). While grappled in this way, a creature has disadvantage on checks made to retrieve the gem.</p>
+<p><strong><em>Combattente Ravvicinato.</em></strong> La capanna non ha svantaggio sui suoi tiri per colpire a distanza quando si trova entro 1,5 m da una creatura ostile.</p>
+<p><strong><em>Forma Immutabile.</em></strong> La capanna è immune a qualsiasi incantesimo o effetto che ne altererebbe la forma.</p>
+<p><strong><em>Mostro d’Assedio.</em></strong> La capanna infligge danni doppi a oggetti e strutture.</p>
+<p><strong><em>Gemma Rubata.</em></strong> La capanna è animata da una gemma magica a forma di pigna color smeraldo incastonata nel ceppo sotto le sue assi del pavimento, tenuta in posizione da una radice nera (CA 15, 10 punti ferita, vulnerabilità ai danni da fuoco e immunità ai danni da veleno e psichici). Un giocatore che rimuove le assi del pavimento della capanna come descritto in <span class="citation">U3. Capanna di Baba Lysaga (p. 163)</span> espone la gemma, e può rimuovere la gemma distruggendo la radice o superando una prova di Forza con CD 15. La capanna muore se la gemma viene rimossa.</p>
+<h3>Azioni</h3>
+<p><strong><em>Radice.</em></strong> Attacco con Arma da Mischia: +12 al tiro per colpire, portata 6 m, un bersaglio. Colpito: <span class="highlight">24 (3d10 + 8)</span> danni contundenti, e il bersaglio deve superare un <span class="highlight">tiro salvezza su Forza con CD 20</span> o essere <span class="highlight">fatto cadere prono</span> o <span class="highlight">spinto fino a 3 m</span>. Se il tiro fallisce di 10 o più, la capanna può <span class="highlight">afferrare</span> il bersaglio invece di spingerlo o farlo cadere prono (CD di fuga 20).</p>
+<p><strong><em>Lancio.</em></strong> Una creatura afferrata dalla capanna deve superare un <span class="highlight">tiro salvezza su Forza con CD 20</span> o essere <span class="highlight">lanciata a 18 m</span> di distanza. Una creatura lanciata in questo modo cade di sei metri e atterra <span class="highlight">prono</span>.</p>
+<p><strong><em>Roccia.</em></strong> Attacco con Arma a Distanza: +12 al tiro per colpire, gittata 36 m, un bersaglio. Colpito: <span class="highlight">21 (3d8 + 8)</span> danni contundenti.</p>
+<h3>Reazioni</h3>
+<p>La capanna può effettuare fino a <strong>tre reazioni per round</strong>, ma solo una per turno. Se un effetto o condizione le impedirebbe di effettuare reazioni, perde invece una reazione.</p>
+<p><strong><em>Indomabile.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno. <strong>Effetto:</strong> La capanna può ripetere il tiro salvezza contro un effetto o condizione che la sta attualmente influenzando. (Questa reazione non ha effetto se l’effetto o condizione non richiedeva originariamente un tiro salvezza fallito.)</p>
+<p><strong><em>Radice.</em></strong> <strong>Innesco:</strong> Una creatura ostile termina il suo turno entro 6 m dalla capanna. <strong>Effetto:</strong> La capanna attacca quella creatura con la sua Radice.</p>
+<p><strong><em>Morso.</em></strong> <strong>Innesco:</strong> Una creatura tenta di recuperare la gemma dal ceppo della capanna. <strong>Effetto:</strong> La capanna tenta di mordere il braccio o il corpo della creatura con le sue assi del pavimento, costringendo quella creatura a superare un tiro salvezza su Destrezza con CD 20 o subire 9 (2d8) danni perforanti ed essere afferrata (CD di fuga 20). Mentre è afferrata in questo modo, una creatura ha svantaggio sulle prove effettuate per recuperare la gemma.</p>
 </div>
+
