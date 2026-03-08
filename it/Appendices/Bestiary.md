@@ -1,6 +1,8 @@
 
 ### Oggetto Animato Maggiore
 
+*Riferimento generico*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -48,6 +50,8 @@
 
 ### Oggetto Animato Minore
 
+*Appare in: Arc T*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -94,6 +98,8 @@
 </div>
 
 ### Gargoyle del Castello
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -151,6 +157,8 @@
 </div>
 
 ### Druido Assaltatore
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -210,6 +218,8 @@
 
 ### Druido Naturalista
 
+*Appare in: Arc J*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -267,6 +277,8 @@
 
 ### Flagello di Ramoscelli Anziano
 
+*Riferimento generico*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -318,6 +330,8 @@
 </div>
 
 ### Gargoyle
+
+*Appare in: Arc E, Arc P*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -376,6 +390,8 @@
 
 ### Piaga di Ratti
 
+*Appare in: Arc R*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -427,6 +443,8 @@
 </div>
 
 ### Triade Radicespinosa
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -481,6 +499,8 @@
 
 ### Sciame di Flagelli di Ramoscelli
 
+*Riferimento generico*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -531,6 +551,8 @@
 </div>
 
 ### Lupo Mannaro
+
+*Appare in: Arc C, Arc E, Arc L*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -587,6 +609,8 @@
 </div>
 
 ### Lupo Mannaro Lottatore
+
+*Appare in: Arc L*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -648,6 +672,8 @@
 
 ### Comandante Wight
 
+*Riferimento generico*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -704,6 +730,8 @@
 
 ### Zombi
 
+*Appare in: Arc B, Arc P, Arc Q, Arc U*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -748,6 +776,8 @@
 
 
 ### Zombi Diffusore di Epidemia
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -805,6 +835,8 @@
 
 ### Ghoul
 
+*Appare in: Arc A, Arc B, Arc M, Arc P*
+
 
 ![[bestiary/ghoul.webp]]
 
@@ -855,6 +887,8 @@
 ---
 
 ### Ghast
+
+*Appare in: Arc A, Arc H*
 
 
 ![[bestiary/ghast.webp]]
@@ -909,6 +943,8 @@
 ---
 
 ### Progenie Vampirica
+
+*Riferimento generico*
 
 
 ![[bestiary/vampire_spawn.webp]]
@@ -971,6 +1007,8 @@
 
 ### Spettro
 
+*Appare in: Arc H, Arc P, Arc T*
+
 
 ![[bestiary/specter.webp]]
 
@@ -1023,6 +1061,8 @@
 ---
 
 ### Presenza
+
+*Appare in: Arc Q*
 
 
 ![[bestiary/wraith.webp]]
@@ -1078,6 +1118,8 @@
 ---
 
 ### Fantasma
+
+*Appare in: Arc A, Arc H, Arc M, Arc Q, Arc S*
 
 
 ![[bestiary/ghost.webp]]
@@ -1137,6 +1179,8 @@ La possessione dura finché il corpo non scende a 0 punti ferita, il fantasma no
 
 ### Ombra
 
+*Appare in: Arc J, Arc P, Arc Q, Arc R, Arc S, Arc U*
+
 
 ![[bestiary/shadow.webp]]
 
@@ -1192,6 +1236,8 @@ Se un umanoide non malvagio muore per questo attacco, una nuova ombra sorge dal 
 ---
 
 ### Wight
+
+*Appare in: Arc B, Arc P*
 
 
 ![[bestiary/wight.webp]]
@@ -1249,6 +1295,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Scheletro
 
+*Appare in: Arc P*
+
 
 ![[bestiary/skeleton.webp]]
 
@@ -1296,6 +1344,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Mummia
+
+*Riferimento generico*
 
 
 ![[bestiary/mummy.webp]]
@@ -1346,6 +1396,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Lupo Crudele
 
+*Appare in: Arc T*
+
 
 ![[bestiary/dire_wolf.webp]]
 
@@ -1394,6 +1446,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Lupo
+
+*Riferimento generico*
 
 
 ![[bestiary/wolf.webp]]
@@ -1444,6 +1498,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Pipistrello
 
+*Appare in: Arc R*
+
 
 ![[bestiary/bat.webp]]
 
@@ -1492,6 +1548,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Ragno Gigante
+
+*Appare in: Arc M, Arc P*
 
 
 ![[bestiary/giant_spider.webp]]
@@ -1544,6 +1602,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Ragno Lupo Gigante
 
+*Riferimento generico*
+
 
 ![[bestiary/giant_wolf_spider.webp]]
 
@@ -1594,6 +1654,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Serpente Velenoso Gigante
 
+*Appare in: Arc T*
+
 
 ![[bestiary/giant_poisonous_snake.webp]]
 
@@ -1640,6 +1702,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Iena Gigante
+
+*Riferimento generico*
 
 
 ![[bestiary/giant_hyena.webp]]
@@ -1688,6 +1752,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Alce Gigante
+
+*Riferimento generico*
 
 
 ![[bestiary/giant_elk.webp]]
@@ -1738,6 +1804,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Capra Gigante
 
+*Riferimento generico*
+
 
 ![[bestiary/giant_goat.webp]]
 
@@ -1786,6 +1854,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Aquila Gigante
+
+*Riferimento generico*
 
 
 ![[bestiary/giant_eagle.webp]]
@@ -1837,6 +1907,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Corvo
 
+*Appare in: Arc A, Arc B, Arc C, Arc J, Arc M, Arc T*
+
 
 ![[bestiary/raven.webp]]
 
@@ -1884,6 +1956,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Sciame di Pipistrelli
+
+*Appare in: Arc P, Arc U*
 
 
 ![[bestiary/swarm_of_bats.webp]]
@@ -1935,6 +2009,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Sciame di Corvi
 
+*Appare in: Arc J, Arc Q*
+
 
 ![[bestiary/swarm_of_ravens.webp]]
 
@@ -1982,6 +2058,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Sciame di Ratti
+
+*Appare in: Arc P*
 
 
 ![[bestiary/swarm_of_rats.webp]]
@@ -2032,6 +2110,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Sciame di Insetti
 
+*Appare in: Arc T*
+
 
 ![[bestiary/swarm_of_insects.webp]]
 
@@ -2080,6 +2160,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Guardia
 
+*Appare in: Arc C, Arc F, Arc J, Arc K, Arc L, Arc Q, Arc R, Arc S*
+
 
 ![[bestiary/guard.webp]]
 
@@ -2126,6 +2208,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Cavaliere
+
+*Appare in: Arc B, Arc C, Arc M, Arc O, Arc Q, Arc R*
 
 
 ![[bestiary/knight.webp]]
@@ -2180,6 +2264,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 
 ### Cultista
 
+*Riferimento generico*
+
 
 ![[bestiary/cultist.webp]]
 
@@ -2227,6 +2313,8 @@ Un umanoide ucciso da questo attacco si rialza 24 ore dopo come zombi sotto il c
 ---
 
 ### Fanatico del Culto
+
+*Riferimento generico*
 
 
 ![[bestiary/cult_fanatic.webp]]
@@ -2282,6 +2370,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Bandito
 
+*Riferimento generico*
+
 
 ![[bestiary/bandit.webp]]
 
@@ -2329,6 +2419,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Capitano dei Banditi
+
+*Riferimento generico*
 
 
 ![[bestiary/bandit_captain.webp]]
@@ -2381,6 +2473,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Esploratore
 
+*Appare in: Arc R*
+
 
 ![[bestiary/scout.webp]]
 
@@ -2431,6 +2525,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Berserker
 
+*Appare in: Arc R*
+
 
 ![[bestiary/berserker.webp]]
 
@@ -2478,6 +2574,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Veterano
+
+*Riferimento generico*
 
 
 ![[bestiary/veteran.webp]]
@@ -2528,6 +2626,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Druido
+
+*Appare in: Arc H, Arc J, Arc R*
 
 
 ![[bestiary/druid.webp]]
@@ -2580,6 +2680,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Gladiatore
+
+*Appare in: Arc R*
 
 
 ![[bestiary/gladiator.webp]]
@@ -2634,6 +2736,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Spia
 
+*Appare in: Arc J*
+
 
 ![[bestiary/spy.webp]]
 
@@ -2685,6 +2789,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Nobile
 
+*Appare in: Arc F*
+
 
 ![[bestiary/noble.webp]]
 
@@ -2734,6 +2840,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Popolano
 
+*Riferimento generico*
+
 
 ![[bestiary/commoner.webp]]
 
@@ -2780,6 +2888,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Sacerdote
+
+*Appare in: Arc D, Arc K, Arc M, Arc Q, Arc T*
 
 
 ![[bestiary/priest.webp]]
@@ -2835,6 +2945,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Accolito
 
+*Riferimento generico*
+
 
 ![[bestiary/acolyte.webp]]
 
@@ -2885,6 +2997,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 ---
 
 ### Mago
+
+*Appare in: Arc A, Arc B, Arc C, Arc J, Arc K, Arc O, Arc P, Arc Q, Arc R, Arc S, Arc T, Arc U*
 
 
 ![[bestiary/mage.webp]]
@@ -2941,6 +3055,8 @@ Trucchetti (a volontà): light, sacred flame, thaumaturgy
 
 ### Golem di Carne
 
+*Appare in: Arc K, Arc Q*
+
 
 ![[bestiary/flesh_golem.webp]]
 
@@ -2996,6 +3112,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 
 ### Golem di Ferro
 
+*Riferimento generico*
+
 
 ![[bestiary/iron_golem.webp]]
 
@@ -3050,6 +3168,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 
 ### Armatura Animata
 
+*Appare in: Arc A, Arc J*
+
 
 ![[bestiary/animated_armor.webp]]
 
@@ -3100,6 +3220,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 
 ### Cumulo Strisciante
 
+*Riferimento generico*
+
 
 ![[bestiary/shambling_mound.webp]]
 
@@ -3149,6 +3271,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 ---
 
 ### Diavolo delle Ossa
+
+*Riferimento generico*
 
 
 ![[bestiary/bone_devil.webp]]
@@ -3205,6 +3329,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 
 ### Incubo
 
+*Appare in: Arc A, Arc H, Arc J, Arc O*
+
 
 ![[bestiary/nightmare.webp]]
 
@@ -3254,6 +3380,8 @@ The golem's creator, if entro 60 piedi da the berserk golem, can try to calm it 
 ---
 
 ### Strega Notturna
+
+*Appare in: Arc H*
 
 
 ![[bestiary/night_hag.webp]]
@@ -3313,6 +3441,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 ### Pseudodrago
 
+*Appare in: Arc M*
+
 
 ![[bestiary/pseudodragon.webp]]
 
@@ -3364,6 +3494,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 ### Borbottio Farneticante
 
+*Riferimento generico*
+
 
 ![[bestiary/gibbering_mouther.webp]]
 
@@ -3414,6 +3546,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ---
 
 ### Mimic
+
+*Appare in: Arc C, Arc T*
 
 
 ![[bestiary/mimic.webp]]
@@ -3467,6 +3601,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 ### Tappeto Soffocante
 
+*Appare in: Arc P*
+
 
 ![[bestiary/rug_of_smothering.webp]]
 
@@ -3517,6 +3653,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 ### Spada Volante
 
+*Appare in: Arc P, Arc T*
+
 
 ![[bestiary/flying_sword.webp]]
 
@@ -3565,6 +3703,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ---
 
 ### Fuoco Fatuo
+
+*Appare in: Arc A, Arc T*
 
 
 ![[bestiary/will_o_wisp.webp]]
@@ -3617,6 +3757,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ---
 
 ### Revenant
+
+*Appare in: Arc C, Arc Q*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3672,6 +3814,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ---
 
 ### Teschio Fiammeggiante
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
@@ -3733,6 +3877,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 
 ### Demone dell'Ombra
 
+*Riferimento generico*
+
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
@@ -3788,6 +3934,8 @@ Soul Bag: When an evil umanoide dies as a result of a night hag's Nightmare Haun
 ---
 
 ### Giovane Drago Rosso d'Ombra
+
+*Riferimento generico*
 
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
