@@ -34,6 +34,12 @@ h6 { font-size: 1rem; }
 // Internal links: purple and bold
 a.internal {
   font-weight: bold;
+  cursor: pointer;
+}
+
+// Dark-only: hide light-theme images, show dark-theme images
+.image-light {
+  display: none !important;
 }
 
 // ============================================
@@ -74,8 +80,6 @@ table {
     padding-top: 0.75rem;
 
     .explorer-content {
-      background: transparent;
-
       li > a {
         padding: 0.25rem 0.5rem;
         border-radius: 4px;
@@ -324,6 +328,7 @@ footer {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    background-color: var(--light);
 
     > .spacer {
       flex: 1 1 auto;
@@ -335,6 +340,7 @@ footer {
 
     > .explorer {
       flex-basis: 100%;
+      background-color: var(--light);
     }
   }
 

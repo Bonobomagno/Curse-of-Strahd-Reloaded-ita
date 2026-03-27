@@ -5,3 +5,5 @@ public/
 .claude/
 _bmad-output/
 _bmad/
+
+*.pdf

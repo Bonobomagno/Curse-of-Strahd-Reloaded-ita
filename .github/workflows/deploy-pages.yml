@@ -41,26 +41,65 @@ jobs:
         run: npx quartz create -X new -l shortest
         working-directory: /tmp/quartz
 
-      - name: Apply custom config files
+      - name: Apply shared theme
         run: |
-          cp .github/quartz/quartz.config.ts /tmp/quartz/quartz.config.ts
-          cp .github/quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
           cp .github/quartz/custom.scss /tmp/quartz/quartz/styles/custom.scss
 
-      - name: Copy content
+      - name: Create final site directory
+        run: mkdir -p /tmp/final-site
+
+      # --- Italian Build (site root) ---
+      - name: Configure Italian build
+        run: |
+          cp .github/quartz/quartz.config.it.ts /tmp/quartz/quartz.config.ts
+          cp .github/quartz/quartz.layout.it.ts /tmp/quartz/quartz.layout.ts
+
+      - name: Copy Italian content
         run: |
           rm -rf /tmp/quartz/content
-          cp -r . /tmp/quartz/content
-          rm -rf /tmp/quartz/content/.git /tmp/quartz/content/.github
+          cp -r it /tmp/quartz/content
 
-      - name: Build Quartz
+      - name: Build Italian site
         run: npx quartz build -o /tmp/quartz/_site -v
         working-directory: /tmp/quartz
 
+      - name: Move Italian output to site root
+        run: |
+          cp -r /tmp/quartz/_site/* /tmp/final-site/
+          rm -rf /tmp/quartz/_site
+
+      # --- Clean Quartz cache between builds ---
+      - name: Clean Quartz cache
+        run: |
+          rm -rf /tmp/quartz/.quartz-cache
+
+      # --- English Build (site.com/en/) ---
+      - name: Configure English build
+        run: |
+          cp .github/quartz/quartz.config.en.ts /tmp/quartz/quartz.config.ts
+          cp .github/quartz/quartz.layout.en.ts /tmp/quartz/quartz.layout.ts
+
+      - name: Copy English content
+        run: |
+          rm -rf /tmp/quartz/content
+          mkdir -p /tmp/quartz/content
+          cp -r "Act I - Into the Mists" "Act II - The Shadowed Town" "Act III - The Broken Land" "Act IV - Secrets of the Ancient" "Chapter 1 - Beginning the Campaign" "Chapter 2 - The Land of Barovia" "Chapter 3 - Running the Game" Appendices Introduction images index.md /tmp/quartz/content/
+
+      - name: Build English site
+        run: npx quartz build -o /tmp/quartz/_site -v
+        working-directory: /tmp/quartz
+
+      - name: Move English output to /en/ subpath
+        run: |
+          mkdir -p /tmp/final-site/en
+          cp -r /tmp/quartz/_site/* /tmp/final-site/en/
+          rm -rf /tmp/quartz/_site
+
+      # --- Deploy ---
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: /tmp/quartz/_site
+          path: /tmp/final-site
 
   deploy:
     environment:
